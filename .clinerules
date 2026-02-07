@@ -43,3 +43,23 @@ FINAL CHECK BEFORE RESPONDING:
 - Did I give runnable commands?
 - Can a non-coder follow this?
 If any answer is NO → rewrite the response.
+
+MVP CONSTRAINTS (MANDATORY):
+- MVP includes ONLY:
+  - Vocabulary SRS (words, phrases, phrasal verbs)
+  - Mini quizzes (10 questions max)
+- NO reading passages
+- NO full grammar lessons
+- NO pronunciation/audio
+- NO exams longer than 10 questions
+- NO advanced analytics (radar, heatmap)
+
+LEARNING RULES:
+- Use 4 answer states: Again / Struggled / Good / Easy
+- Limit new cards per day to MAX 15
+- Always support active recall before reveal
+- Review-only mode must exist (no new cards)
+
+SRS RULE:
+- Do NOT use fixed Leitner days
+- Use SM-2 style intervals (simple implementation is OK)
