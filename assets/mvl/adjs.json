@@ -5,19 +5,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "zengin",
+      "varlıklı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "rich",
+      "affluent",
+      "prosperous"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Many wealthy individuals invest heavily in real estate.",
+      "translation": "Birçok zengin birey gayrimenkule büyük yatırımlar yapar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Many {{cloze}} individuals invest heavily in real estate.",
       "answer": "wealthy"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160813",
@@ -30,19 +34,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "fakir",
+      "yoksul",
+      "kötü (kalite)"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "impoverished",
+      "needy",
+      "destitute"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The soil in this region is too poor to support agriculture.",
+      "translation": "Bu bölgedeki toprak tarımı desteklemek için çok yetersizdir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The soil in this region is too {{cloze}} to support agriculture.",
       "answer": "poor"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160873",
@@ -55,19 +64,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kesin",
+      "mutlak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "complete",
+      "total",
+      "utter"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He has absolute confidence in his team's ability to win.",
+      "translation": "Takımının kazanma yeteneğine kesin güveni var."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He has {{cloze}} confidence in his team's ability to win.",
       "answer": "absolute"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160893",
@@ -80,19 +93,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kabul edilebilir",
+      "makul"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "satisfactory",
+      "suitable",
+      "admissible"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We need to find an acceptable solution for both parties.",
+      "translation": "Her iki taraf için de kabul edilebilir bir çözüm bulmalıyız."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We need to find an {{cloze}} solution for both parties.",
       "answer": "acceptable"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160904",
@@ -105,19 +122,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "doğru",
+      "kesin",
+      "hatasız"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "precise",
+      "correct",
+      "exact"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Scientific instruments must be accurate to ensure valid results.",
+      "translation": "Bilimsel aletler, geçerli sonuçlar sağlamak için kesin olmalıdır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Scientific instruments must be {{cloze}} to ensure valid results.",
       "answer": "accurate"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160915",
@@ -130,19 +152,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ek",
+      "ilave"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "extra",
+      "added",
+      "supplementary"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The library requires additional funding to stay open.",
+      "translation": "Kütüphane açık kalmak için ek finansmana ihtiyaç duyuyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The library requires {{cloze}} funding to stay open.",
       "answer": "additional"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160927",
@@ -155,19 +181,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yeterli",
+      "uygun"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "sufficient",
+      "enough",
+      "satisfactory"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The refugees lack adequate food and shelter.",
+      "translation": "Mülteciler yeterli yiyecek ve barınaktan yoksundur."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The refugees lack {{cloze}} food and shelter.",
       "answer": "adequate"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160936",
@@ -180,19 +210,21 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yetişkin"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "mature",
+      "grown-up"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This movie is suitable for an adult audience.",
+      "translation": "Bu film yetişkin izleyiciler için uygundur."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This movie is suitable for an {{cloze}} audience.",
       "answer": "adult"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160945",
@@ -205,19 +237,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "gelişmiş",
+      "ileri"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "developed",
+      "sophisticated",
+      "progressed"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The country has an advanced healthcare system.",
+      "translation": "Ülkenin gelişmiş bir sağlık sistemi var."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The country has an {{cloze}} healthcare system.",
       "answer": "advanced"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160954",
@@ -230,19 +266,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "agresif",
+      "saldırgan"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "hostile",
+      "belligerent",
+      "assertive"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He displayed aggressive behavior towards the referee.",
+      "translation": "Hakeme karşı saldırgan davranışlar sergiledi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He displayed {{cloze}} behavior towards the referee.",
       "answer": "aggressive"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160962",
@@ -255,19 +295,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "antik",
+      "eski"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "old",
+      "antique",
+      "archaic"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Archaeologists discovered ancient ruins near the river.",
+      "translation": "Arkeologlar nehrin yakınında antik kalıntılar keşfettiler."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Archaeologists discovered {{cloze}} ruins near the river.",
       "answer": "ancient"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160971",
@@ -280,19 +324,20 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yıllık"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "yearly"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The company's annual report showed a significant profit.",
+      "translation": "Şirketin yıllık raporu önemli bir kâr gösterdi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The company's {{cloze}} report showed a significant profit.",
       "answer": "annual"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160980",
@@ -305,19 +350,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "endişeli",
+      "kaygılı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "worried",
+      "uneasy",
+      "nervous"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "She felt anxious about the exam results.",
+      "translation": "Sınav sonuçları hakkında endişeli hissetti."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "She felt {{cloze}} about the exam results.",
       "answer": "anxious"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.160992",
@@ -330,19 +379,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "aşikar",
+      "belirgin",
+      "görünür"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "obvious",
+      "clear",
+      "evident"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It became apparent that she was not coming.",
+      "translation": "Gelmeyeceği aşikar hale geldi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It became {{cloze}} that she was not coming.",
       "answer": "apparent"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161004",
@@ -355,19 +409,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "uygun",
+      "yerinde"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "suitable",
+      "fitting",
+      "proper"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Jeans are not appropriate attire for a formal wedding.",
+      "translation": "Kot pantolon resmi bir düğün için uygun kıyafet değildir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Jeans are not {{cloze}} attire for a formal wedding.",
       "answer": "appropriate"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161012",
@@ -380,19 +438,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "çekici",
+      "cazip"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "appealing",
+      "charming",
+      "lovely"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The company offers an attractive salary package.",
+      "translation": "Şirket cazip bir maaş paketi sunuyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The company offers an {{cloze}} salary package.",
       "answer": "attractive"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161021",
@@ -405,19 +467,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "mevcut",
+      "müsait",
+      "erişilebilir"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "accessible",
+      "obtainable",
+      "vacant"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Tickets are still available for tonight's concert.",
+      "translation": "Bu akşamki konser için biletler hala mevcut."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Tickets are still {{cloze}} for tonight's concert.",
       "answer": "available"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161033",
@@ -430,19 +497,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ortalama"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "mean",
+      "standard",
+      "normal"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The average temperature in July is 30 degrees.",
+      "translation": "Temmuz ayındaki ortalama sıcaklık 30 derecedir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The {{cloze}} temperature in July is 30 degrees.",
       "answer": "average"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161043",
@@ -455,19 +525,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "farkında",
+      "haberdar"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "conscious",
+      "informed",
+      "mindful"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He was not aware of the potential dangers.",
+      "translation": "Olası tehlikelerin farkında değildi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He was not {{cloze}} of the potential dangers.",
       "answer": "aware"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161051",
@@ -480,19 +554,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kötü"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "terrible",
+      "poor",
+      "awful"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Bad weather forced us to cancel the trip.",
+      "translation": "Kötü hava bizi geziyi iptal etmeye zorladı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
-      "answer": "bad"
+      "template": "{{cloze}} weather forced us to cancel the trip.",
+      "answer": "Bad"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161060",
@@ -505,19 +582,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "temel",
+      "basit"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "fundamental",
+      "elementary",
+      "essential"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Food and shelter are basic human needs.",
+      "translation": "Yiyecek ve barınak temel insan ihtiyaçlarıdır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Food and shelter are {{cloze}} human needs.",
       "answer": "basic"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161069",
@@ -530,19 +611,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "güzel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "lovely",
+      "pretty",
+      "stunning"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "She wore a beautiful dress to the party.",
+      "translation": "Partiye güzel bir elbise giydi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "She wore a {{cloze}} dress to the party.",
       "answer": "beautiful"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161077",
@@ -555,19 +639,21 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "en iyi"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "finest",
+      "supreme"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He is the best student in the class.",
+      "translation": "O, sınıftaki en iyi öğrencidir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He is the {{cloze}} student in the class.",
       "answer": "best"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161093",
@@ -580,19 +666,21 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "daha iyi"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "superior",
+      "improved"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I feel better after taking the medicine.",
+      "translation": "İlacı aldıktan sonra kendimi daha iyi hissediyorum."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I feel {{cloze}} after taking the medicine.",
       "answer": "better"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161102",
@@ -605,19 +693,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kısa",
+      "öz"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "short",
+      "concise",
+      "fleeting"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We had a brief meeting to discuss the schedule.",
+      "translation": "Programı tartışmak için kısa bir toplantı yaptık."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We had a {{cloze}} meeting to discuss the schedule.",
       "answer": "brief"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161111",
@@ -630,19 +722,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "parlak",
+      "zeki"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "shiny",
+      "luminous",
+      "smart"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The stars were bright in the clear night sky.",
+      "translation": "Yıldızlar açık gece gökyüzünde parlaktı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The stars were {{cloze}} in the clear night sky.",
       "answer": "bright"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161120",
@@ -655,19 +751,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "muhteşem",
+      "parlak (zeka)"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "excellent",
+      "superb",
+      "intelligent"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "She had a brilliant idea for the project.",
+      "translation": "Proje için muhteşem bir fikri vardı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "She had a {{cloze}} idea for the project.",
       "answer": "brilliant"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161130",
@@ -680,19 +780,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "meşgul",
+      "yoğun"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "occupied",
+      "engaged",
+      "hectic"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I will be busy with work all week.",
+      "translation": "Tüm hafta işle meşgul olacağım."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I will be {{cloze}} with work all week.",
       "answer": "busy"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161139",
@@ -705,19 +809,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yetenekli",
+      "kabiliyetli"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "able",
+      "competent",
+      "skilled"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "She is a very capable manager.",
+      "translation": "O çok yetenekli bir yönetici."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "She is a very {{cloze}} manager.",
       "answer": "capable"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161148",
@@ -730,19 +838,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "merkezi",
+      "temel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "middle",
+      "key",
+      "essential"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The hotel is in a central location.",
+      "translation": "Otel merkezi bir konumdadır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The hotel is in a {{cloze}} location.",
       "answer": "central"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161156",
@@ -755,19 +867,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kesin",
+      "belirli"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "sure",
+      "definite",
+      "particular"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I am certain that he will come.",
+      "translation": "Geleceğinden eminim (kesinim)."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I am {{cloze}} that he will come.",
       "answer": "certain"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161177",
@@ -780,19 +896,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ucuz",
+      "kalitesiz"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "inexpensive",
+      "low-priced",
+      "economical"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I bought a cheap watch at the market.",
+      "translation": "Pazardan ucuz bir saat aldım."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I bought a {{cloze}} watch at the market.",
       "answer": "cheap"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161185",
@@ -805,19 +925,21 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kimyasal"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "synthetic",
+      "compound"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "They conducted a chemical analysis of the soil.",
+      "translation": "Toprağın kimyasal analizini yaptılar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "They conducted a {{cloze}} analysis of the soil.",
       "answer": "chemical"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161201",
@@ -830,19 +952,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "açık",
+      "net",
+      "berrak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "obvious",
+      "transparent",
+      "plain"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The instructions were clear and easy to understand.",
+      "translation": "Talimatlar açık ve anlaşılması kolaydı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The instructions were {{cloze}} and easy to understand.",
       "answer": "clear"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161211",
@@ -855,19 +982,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yakın",
+      "kapalı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "near",
+      "intimate",
+      "nearby"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "They are close friends.",
+      "translation": "Onlar yakın arkadaşlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "They are {{cloze}} friends.",
       "answer": "close"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161219",
@@ -880,19 +1011,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "soğuk"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "chilly",
+      "freezing",
+      "cool"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It is very cold outside today.",
+      "translation": "Bugün dışarısı çok soğuk."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It is very {{cloze}} outside today.",
       "answer": "cold"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161231",
@@ -905,19 +1039,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "rahat",
+      "konforlu"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "comfy",
+      "cosy",
+      "relaxed"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "These shoes are very comfortable.",
+      "translation": "Bu ayakkabılar çok rahat."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "These shoes are very {{cloze}}.",
       "answer": "comfortable"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161240",
@@ -930,19 +1068,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yaygın",
+      "ortak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "widespread",
+      "usual",
+      "shared"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Colds are common in winter.",
+      "translation": "Soğuk algınlığı kışın yaygındır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Colds are {{cloze}} in winter.",
       "answer": "common"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161248",
@@ -955,19 +1097,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "rekabetçi",
+      "hırslı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "aggressive",
+      "ambitious"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The job market is very competitive.",
+      "translation": "İş piyasası çok rekabetçi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The job market is very {{cloze}}.",
       "answer": "competitive"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161259",
@@ -980,19 +1125,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "karmaşık",
+      "kompleks"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "complicated",
+      "intricate",
+      "convoluted"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The human brain is a complex organ.",
+      "translation": "İnsan beyni karmaşık bir organdır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The human brain is a {{cloze}} organ.",
       "answer": "complex"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161268",
@@ -1005,19 +1154,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "karışık",
+      "zor"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "complex",
+      "difficult",
+      "involved"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The situation is more complicated than it seems.",
+      "translation": "Durum göründüğünden daha karışık."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The situation is more {{cloze}} than it seems.",
       "answer": "complicated"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161277",
@@ -1030,19 +1183,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kapsamlı",
+      "ayrıntılı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "thorough",
+      "extensive",
+      "complete"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We need a comprehensive plan to solve the problem.",
+      "translation": "Sorunu çözmek için kapsamlı bir plana ihtiyacımız var."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We need a {{cloze}} plan to solve the problem.",
       "answer": "comprehensive"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161287",
@@ -1055,19 +1212,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "endişeli",
+      "ilgili"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "worried",
+      "anxious",
+      "involved"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I am concerned about your health.",
+      "translation": "Sağlığın konusunda endişeliyim."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I am {{cloze}} about your health.",
       "answer": "concerned"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161300",
@@ -1080,19 +1241,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kendinden emin",
+      "güvenen"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "assured",
+      "certain",
+      "positive"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "She feels confident that she will pass the exam.",
+      "translation": "Sınavı geçeceğinden emin hissediyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "She feels {{cloze}} that she will pass the exam.",
       "answer": "confident"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161309",
@@ -1105,19 +1270,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "önemli",
+      "dikkate değer"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "substantial",
+      "significant",
+      "large"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The project required a considerable amount of time.",
+      "translation": "Proje önemli miktarda zaman gerektirdi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The project required a {{cloze}} amount of time.",
       "answer": "considerable"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161318",
@@ -1130,19 +1299,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tutarlı",
+      "istikrarlı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "steady",
+      "constant",
+      "uniform"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He is consistent in his work.",
+      "translation": "İşinde tutarlıdır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He is {{cloze}} in his work.",
       "answer": "consistent"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161327",
@@ -1155,19 +1328,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "sürekli",
+      "sabit"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "continuous",
+      "incessant",
+      "persistent"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The machine makes a constant noise.",
+      "translation": "Makine sürekli bir gürültü yapıyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The machine makes a {{cloze}} noise.",
       "answer": "constant"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161336",
@@ -1180,19 +1357,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "çağdaş",
+      "modern",
+      "akran"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "modern",
+      "current",
+      "present-day"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I enjoy reading contemporary fiction.",
+      "translation": "Çağdaş kurgu okumaktan zevk alırım."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I enjoy reading {{cloze}} fiction.",
       "answer": "contemporary"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161350",
@@ -1205,19 +1387,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "uygun",
+      "elverişli",
+      "pratik"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "practical",
+      "useful",
+      "suitable"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It is convenient to have a shop nearby.",
+      "translation": "Yakında bir dükkan olması elverişlidir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It is {{cloze}} to have a shop nearby.",
       "answer": "convenient"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161362",
@@ -1230,19 +1417,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "geleneksel",
+      "alışılagelmiş"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "traditional",
+      "standard",
+      "normal"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "She prefers conventional medicine.",
+      "translation": "Geleneksel tıbbı tercih ediyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "She prefers {{cloze}} medicine.",
       "answer": "conventional"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161372",
@@ -1255,19 +1446,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yaratıcı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "imaginative",
+      "innovative",
+      "artistic"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He is a very creative artist.",
+      "translation": "O çok yaratıcı bir sanatçı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He is a very {{cloze}} artist.",
       "answer": "creative"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161380",
@@ -1280,19 +1474,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "suçlu",
+      "cezai"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "illegal",
+      "unlawful",
+      "illicit"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He has a criminal record.",
+      "translation": "Onun bir sabıka kaydı var."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He has a {{cloze}} record.",
       "answer": "criminal"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161389",
@@ -1305,19 +1503,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kritik",
+      "önemli",
+      "eleştirel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "crucial",
+      "vital",
+      "serious"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The patient is in critical condition.",
+      "translation": "Haranın durumu kritik."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The patient is in {{cloze}} condition.",
       "answer": "critical"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161401",
@@ -1330,19 +1533,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "çok önemli",
+      "kritik"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "pivotal",
+      "critical",
+      "essential"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Salt is crucial for cooking.",
+      "translation": "Tuz yemek pişirmek için çok önemlidir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Salt is {{cloze}} for cooking.",
       "answer": "crucial"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161411",
@@ -1355,19 +1562,21 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kültürel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "societal",
+      "ethnic"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "They organized a cultural festival.",
+      "translation": "Kültürel bir festival düzenlediler."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "They organized a {{cloze}} festival.",
       "answer": "cultural"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161420",
@@ -1380,19 +1589,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "şu anki",
+      "mevcut",
+      "güncel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "present",
+      "existing",
+      "ongoing"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The current situation is difficult.",
+      "translation": "Mevcut durum zor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The {{cloze}} situation is difficult.",
       "answer": "current"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161429",
@@ -1405,19 +1619,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "günlük"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "everyday",
+      "diurnal",
+      "day-to-day"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I read the daily newspaper.",
+      "translation": "Günlük gazeteyi okurum."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I read the {{cloze}} newspaper.",
       "answer": "daily"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161438",
@@ -1430,19 +1647,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tehlikeli"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "risky",
+      "unsafe",
+      "hazardous"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It is dangerous to swim here.",
+      "translation": "Burada yüzmek tehlikelidir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It is {{cloze}} to swim here.",
       "answer": "dangerous"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161447",
@@ -1455,19 +1675,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ölü",
+      "cansız"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "deceased",
+      "lifeless",
+      "defunct"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The flowers are dead.",
+      "translation": "Çiçekler ölü (solmuş)."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The flowers are {{cloze}}.",
       "answer": "dead"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161456",
@@ -1480,19 +1704,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "terbiyeli",
+      "edepli",
+      "yeterli"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "respectable",
+      "adequate",
+      "proper"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He earns a decent salary.",
+      "translation": "İyi (yeterli) bir maaş alıyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He earns a {{cloze}} salary.",
       "answer": "decent"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161465",
@@ -1505,19 +1734,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kesin",
+      "belirli"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "certain",
+      "clear",
+      "fixed"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Can you give me a definite answer?",
+      "translation": "Bana kesin bir cevap verebilir misin?"
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Can you give me a {{cloze}} answer?",
       "answer": "definite"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161477",
@@ -1530,19 +1763,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "bağımlı",
+      "muhtaç"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "reliant",
+      "addicted",
+      "conditional"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The project is dependent on funding.",
+      "translation": "Proje finansmana bağımlı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The project is {{cloze}} on funding.",
       "answer": "dependent"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161486",
@@ -1555,19 +1792,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "çaresiz",
+      "umutsuz"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "hopeless",
+      "frantic",
+      "reckless"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He was desperate for money.",
+      "translation": "Para için çaresizdi (paraya çok ihtiyacı vardı)."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He was {{cloze}} for money.",
       "answer": "desperate"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161498",
@@ -1580,19 +1821,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kararlı",
+      "azimli"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "resolute",
+      "firm",
+      "persistent"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "She is determined to succeed.",
+      "translation": "Başarılı olmaya kararlıdır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "She is {{cloze}} to succeed.",
       "answer": "determined"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161507",
@@ -1605,19 +1850,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "farklı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "un-alike",
+      "dissimilar",
+      "distinct"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "They have very different personalities.",
+      "translation": "Çok farklı kişilikleri var."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "They have very {{cloze}} personalities.",
       "answer": "different"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161522",
@@ -1630,19 +1878,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "zor",
+      "güç"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "hard",
+      "tough",
+      "challenging"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The exam was very difficult.",
+      "translation": "Sınav çok zordu."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The exam was very {{cloze}}.",
       "answer": "difficult"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161532",
@@ -1655,19 +1907,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "doğrudan",
+      "direkt"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "straight",
+      "immediate",
+      "frank"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He gave a direct answer to the question.",
+      "translation": "Soruya doğrudan bir cevap verdi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He gave a {{cloze}} answer to the question.",
       "answer": "direct"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161541",
@@ -1680,19 +1936,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "engelli",
+      "sakat"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "handicapped",
+      "incapacitated"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The building has facilities for disabled people.",
+      "translation": "Binada engelli insanlar için tesisler var."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The building has facilities for {{cloze}} people.",
       "answer": "disabled"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161549",
@@ -1705,19 +1964,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "uzak",
+      "mesafeli"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "far",
+      "remote",
+      "aloof"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He wants to travel to distant lands.",
+      "translation": "Uzak diyarlara seyahat etmek istiyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He wants to travel to {{cloze}} lands.",
       "answer": "distant"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161557",
@@ -1730,19 +1993,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "belirgin",
+      "farklı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "clear",
+      "obvious",
+      "separate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "There is a distinct smell of gas.",
+      "translation": "Belirgin bir gaz kokusu var."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "There is a {{cloze}} smell of gas.",
       "answer": "distinct"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161566",
@@ -1755,19 +2022,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yerli",
+      "evcil"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "internal",
+      "home",
+      "household"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Domestic flights are cheaper.",
+      "translation": "İç hat uçuşları daha ucuzdur."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
-      "answer": "domestic"
+      "template": "Domestic {{cloze}} are cheaper.",
+      "answer": "flights"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161574",
@@ -1780,19 +2051,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "sıkıcı",
+      "donuk"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "boring",
+      "tedious",
+      "drab"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The movie was very dull.",
+      "translation": "Film çok sıkıcıydı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The movie was very {{cloze}}.",
       "answer": "dull"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161583",
@@ -1805,19 +2080,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "erken"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "premature",
+      "soon",
+      "advance"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He arrived early for the meeting.",
+      "translation": "Toplantıya erken geldi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He arrived {{cloze}} for the meeting.",
       "answer": "early"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161595",
@@ -1830,19 +2108,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "doğu",
+      "doğudaki"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "oriental",
+      "east"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The eastern part of the country is very beautiful.",
+      "translation": "Ülkenin doğu kısmı çok güzeldir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The {{cloze}} part of the country is very beautiful.",
       "answer": "eastern"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161607",
@@ -1855,19 +2136,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kolay",
+      "basit"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "simple",
+      "uncomplicated",
+      "effortless"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This question is very easy.",
+      "translation": "Bu soru çok kolay."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This question is very {{cloze}}.",
       "answer": "easy"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161617",
@@ -1880,19 +2165,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ekonomik",
+      "iktisadi"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "financial",
+      "monetary",
+      "fiscal"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The country is facing an economic crisis.",
+      "translation": "Ülke ekonomik bir krizle karşı karşıya."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The country is facing an {{cloze}} crisis.",
       "answer": "economic"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161626",
@@ -1905,19 +2194,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "etkili",
+      "tesirli"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "productive",
+      "efficient",
+      "powerful"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This is a very effective method.",
+      "translation": "Bu çok etkili bir yöntemdir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This is a very {{cloze}} method.",
       "answer": "effective"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161634",
@@ -1930,19 +2223,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "verimli",
+      "becerikli"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "effective",
+      "productive",
+      "competent"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He is an efficient worker.",
+      "translation": "O verimli (iş bilen) bir işçi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He is an {{cloze}} worker.",
       "answer": "efficient"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161643",
@@ -1955,19 +2252,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "duygusal"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "sentimental",
+      "touching",
+      "moving"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It was a very emotional moment.",
+      "translation": "Çok duygusal bir andı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It was a very {{cloze}} moment.",
       "answer": "emotional"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161652",
@@ -1980,19 +2280,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "muazzam",
+      "kocaman",
+      "çok büyük"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "huge",
+      "gigantic",
+      "massive"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The elephant is an enormous animal.",
+      "translation": "Fil muazzam (kocaman) bir hayvandır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The elephant is an {{cloze}} animal.",
       "answer": "enormous"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161660",
@@ -2005,19 +2310,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "hevesli",
+      "çoşkulu"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "eager",
+      "keen",
+      "excited"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He is very enthusiastic about the project.",
+      "translation": "Proje konusunda çok hevesli."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He is very {{cloze}} about the project.",
       "answer": "enthusiastic"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161672",
@@ -2030,19 +2339,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tüm",
+      "bütün"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "whole",
+      "complete",
+      "total"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I spent the entire day cleaning.",
+      "translation": "Tüm günü temizlik yaparak geçirdim."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I spent the {{cloze}} day cleaning.",
       "answer": "entire"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161687",
@@ -2055,19 +2368,21 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "çevresel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "ecological",
+      "green"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Pollution causes environmental damage.",
+      "translation": "Kirlilik çevresel hasara neden olur."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Pollution causes {{cloze}} damage.",
       "answer": "environmental"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161699",
@@ -2080,19 +2395,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "gerekli",
+      "zaruri",
+      "temel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "crucial",
+      "necessary",
+      "vital"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Water is essential for life.",
+      "translation": "Su yaşam için gereklidir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Water is {{cloze}} for life.",
       "answer": "essential"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161709",
@@ -2105,19 +2425,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tam",
+      "kesin"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "precise",
+      "accurate",
+      "correct"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I need the exact measurements.",
+      "translation": "Tam ölçülere ihtiyacım var."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I need the {{cloze}} measurements.",
       "answer": "exact"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161719",
@@ -2130,19 +2454,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "mevcut",
+      "var olan"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "current",
+      "presnt",
+      "ongoing"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Under the existing rules, this is not allowed.",
+      "translation": "Mevcut kurallar altında buna izin verilmez."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Under the {{cloze}} rules, this is not allowed.",
       "answer": "existing"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161729",
@@ -2155,19 +2483,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "pahalı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "costly",
+      "pricey",
+      "dear"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This car is very expensive.",
+      "translation": "Bu araba çok pahalı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This car is very {{cloze}}.",
       "answer": "expensive"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161741",
@@ -2180,19 +2511,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "deneysel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "exploratory",
+      "trial",
+      "test"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This is an experimental drug.",
+      "translation": "Bu deneysel bir ilaçtır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This is an {{cloze}} drug.",
       "answer": "experimental"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161750",
@@ -2205,19 +2539,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kapsamlı",
+      "geniş"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "comprehensive",
+      "wide",
+      "broad"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The house has an extensive garden.",
+      "translation": "Evin geniş bir bahçesi var."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The house has an {{cloze}} garden.",
       "answer": "extensive"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161759",
@@ -2230,19 +2568,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "aşırı",
+      "uç"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "intense",
+      "severe",
+      "utmost"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He is in extreme pain.",
+      "translation": "Aşırı (çok şiddetli) ağrı çekiyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He is in {{cloze}} pain.",
       "answer": "extreme"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161768",
@@ -2255,19 +2597,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yanlış",
+      "sahte"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "incorrect",
+      "untrue",
+      "fake"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The statement is false.",
+      "translation": "İfade yanlıştır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The statement is {{cloze}}.",
       "answer": "false"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161777",
@@ -2280,19 +2626,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tanıdık",
+      "aşina"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "known",
+      "acquainted",
+      "recognizable"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "His face looks familiar.",
+      "translation": "Yüzü tanıdık görünüyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "His face looks {{cloze}}.",
       "answer": "familiar"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161785",
@@ -2305,19 +2655,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ünlü",
+      "meşhur"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "well-known",
+      "celebrated",
+      "renowned"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He is a famous actor.",
+      "translation": "O ünlü bir aktör."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He is a {{cloze}} actor.",
       "answer": "famous"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161800",
@@ -2330,19 +2684,21 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "uzak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "distant",
+      "remote"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Is the station far from here?",
+      "translation": "İstasyon buradan uzak mı?"
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Is the station {{cloze}} from here?",
       "answer": "far"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161811",
@@ -2355,19 +2711,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "hızlı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "quick",
+      "rapid",
+      "swift"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He is a very fast runner.",
+      "translation": "O çok hızlı bir koşucu."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He is a very {{cloze}} runner.",
       "answer": "fast"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161820",
@@ -2380,19 +2739,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "az",
+      "birkaç"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "scarcely any",
+      "handful of"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Few people know about this.",
+      "translation": "Bunu az kişi biliyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
-      "answer": "few"
+      "template": "{{cloze}} people know about this.",
+      "answer": "Few"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161828",
@@ -2405,19 +2767,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "mali",
+      "finansal"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "monetary",
+      "economic",
+      "fiscal"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "They gave us financial support.",
+      "translation": "Bize mali destek verdiler."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "They gave us {{cloze}} support.",
       "answer": "financial"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161841",
@@ -2430,19 +2796,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "birinci",
+      "ilk"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "initial",
+      "primary",
+      "leading"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This is my first visit to London.",
+      "translation": "Bu Londra'ya ilk ziyaretim."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This is my {{cloze}} visit to London.",
       "answer": "first"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161850",
@@ -2455,19 +2825,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "aşağıdaki",
+      "sonraki"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "next",
+      "subsequent",
+      "succeeding"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Answer the following questions.",
+      "translation": "Aşağıdaki soruları cevaplayın."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Answer the {{cloze}} questions.",
       "answer": "following"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161893",
@@ -2480,19 +2854,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yabancı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "overseas",
+      "alien",
+      "exotic"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He speaks two foreign languages.",
+      "translation": "İki yabancı dil konuşuyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He speaks two {{cloze}} languages.",
       "answer": "foreign"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161908",
@@ -2505,19 +2882,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "eski",
+      "önceki"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "previous",
+      "prior",
+      "ex"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The former president attended the event.",
+      "translation": "Eski başkan etkinliğe katıldı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The {{cloze}} president attended the event.",
       "answer": "former"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161918",
@@ -2530,19 +2911,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "özgür",
+      "ücretsiz",
+      "boş"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "liberated",
+      "unpaid",
+      "available"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Are you free this evening?",
+      "translation": "Bu akşam boş musun?"
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Are you {{cloze}} this evening?",
       "answer": "free"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161927",
@@ -2555,19 +2941,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "sık",
+      "sürekli"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "common",
+      "recurrent",
+      "regular"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He is a frequent visitor to the museum.",
+      "translation": "O, müzenin sık bir ziyaretçisidir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He is a {{cloze}} visitor to the museum.",
       "answer": "frequent"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161939",
@@ -2580,19 +2970,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "dolu",
+      "tam"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "filled",
+      "complete",
+      "packed"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The glass is full of water.",
+      "translation": "Bardak su ile dolu."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The glass is {{cloze}} of water.",
       "answer": "full"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161947",
@@ -2605,19 +2999,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "temel",
+      "esas"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "basic",
+      "essential",
+      "foundational"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Freedom of speech is a fundamental right.",
+      "translation": "İfade özgürlüğü temel bir haktır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Freedom of speech is a {{cloze}} right.",
       "answer": "fundamental"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161956",
@@ -2630,19 +3028,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "genel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "common",
+      "broad",
+      "universal"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This is a general overview of the situation.",
+      "translation": "Bu, durumun genel bir özetidir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This is a {{cloze}} overview of the situation.",
       "answer": "general"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161965",
@@ -2655,19 +3056,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "cömert"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "liberal",
+      "bountiful",
+      "charitable"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He is a very generous man.",
+      "translation": "O çok cömert bir adam."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He is a very {{cloze}} man.",
       "answer": "generous"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161974",
@@ -2680,19 +3084,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "gerçek",
+      "hakiki",
+      "samimi"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "authentic",
+      "real",
+      "sincere"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Is this genuine leather?",
+      "translation": "Bu gerçek deri mi?"
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Is this {{cloze}} leather?",
       "answer": "genuine"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161982",
@@ -2705,19 +3114,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "küresel",
+      "dünya çapında"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "worldwide",
+      "international",
+      "universal"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Climate change is a global problem.",
+      "translation": "İklim değişikliği küresel bir sorundur."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Climate change is a {{cloze}} problem.",
       "answer": "global"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.161991",
@@ -2730,19 +3143,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "iyi",
+      "güzel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "fine",
+      "excellent",
+      "great"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He is a good friend.",
+      "translation": "O iyi bir arkadaştır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He is a {{cloze}} friend.",
       "answer": "good"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162000",
@@ -2755,19 +3172,21 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "minnettar"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "thankful",
+      "appreciative"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I am grateful for your help.",
+      "translation": "Yardımın için minnettarım."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I am {{cloze}} for your help.",
       "answer": "grateful"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162008",
@@ -2780,19 +3199,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "harika",
+      "büyük",
+      "muhteşem"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "excellent",
+      "fantastic",
+      "large"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We had a great time.",
+      "translation": "Harika zaman geçirdik."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We had a {{cloze}} time.",
       "answer": "great"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162022",
@@ -2805,19 +3229,22 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yarım",
+      "buçuk"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "partial",
+      "semi"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I ate half of the cake.",
+      "translation": "Pastanın yarısını yedim."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I ate {{cloze}} of the cake.",
       "answer": "half"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162034",
@@ -2830,19 +3257,24 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "sert",
+      "zor",
+      "katı"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "difficult",
+      "solid",
+      "tough"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This question is very hard.",
+      "translation": "Bu soru çok zor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This question is very {{cloze}}.",
       "answer": "hard"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162043",
@@ -2855,19 +3287,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "sağlıklı",
+      "zinde"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "well",
+      "fit",
+      "wholesome"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Eating fruit is healthy.",
+      "translation": "Meyve yemek sağlıklıdır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Eating fruit is {{cloze}}.",
       "answer": "healthy"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162051",
@@ -2880,19 +3316,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ağır",
+      "yoğun"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "weighty",
+      "massive",
+      "profound"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This box is too heavy to lift.",
+      "translation": "Bu kutu kaldırılamayacak kadar ağır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This box is too {{cloze}} to lift.",
       "answer": "heavy"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162062",
@@ -2905,19 +3345,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yüksek",
+      "uzun"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "tall",
+      "elevated",
+      "lofty"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The mountain is very high.",
+      "translation": "Dağ çok yüksek."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The mountain is very {{cloze}}.",
       "answer": "high"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162099",
@@ -2930,19 +3374,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tarihi",
+      "tarihsel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "historic",
+      "traditional",
+      "ancient"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We visited historical sites.",
+      "translation": "Tarihi yerleri ziyaret ettik."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We visited {{cloze}} sites.",
       "answer": "historical"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162109",
@@ -2955,19 +3403,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kocaman",
+      "dev"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "enormous",
+      "giant",
+      "massive"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "They live in a huge house.",
+      "translation": "Kocaman bir evde yaşıyorlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "They live in a {{cloze}} house.",
       "answer": "huge"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162117",
@@ -2980,19 +3432,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "hasta",
+      "kötü"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "sick",
+      "unwell",
+      "bad"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He looks ill.",
+      "translation": "Hasta görünüyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He looks {{cloze}}.",
       "answer": "ill"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162125",
@@ -3005,19 +3461,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yasadışı",
+      "illegal"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "unlawful",
+      "illicit",
+      "criminal"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It is illegal to drive without a license.",
+      "translation": "Ehliyetsiz araba kullanmak yasadışıdır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It is {{cloze}} to drive without a license.",
       "answer": "illegal"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162136",
@@ -3030,19 +3490,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "önemli",
+      "mühim"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "significant",
+      "crucial",
+      "vital"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This is an important decision.",
+      "translation": "Bu önemli bir karardır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This is an {{cloze}} decision.",
       "answer": "important"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162145",
@@ -3055,19 +3519,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "imkansız",
+      "olamaz"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "unachievable",
+      "unattainable",
+      "hopeless"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Nothing is impossible.",
+      "translation": "Hiçbir şey imkansız değildir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Nothing is {{cloze}}.",
       "answer": "impossible"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162157",
@@ -3080,19 +3548,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "etkileyici",
+      "muazzam"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "remarkable",
+      "striking",
+      "awesome"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "She gave an impressive speech.",
+      "translation": "Etkileyici bir konuşma yaptı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "She gave an {{cloze}} speech.",
       "answer": "impressive"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162166",
@@ -3105,19 +3577,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "bağımsız",
+      "hür"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "autonomous",
+      "free",
+      "separate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "She is an independent woman.",
+      "translation": "O bağımsız bir kadındır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "She is an {{cloze}} woman.",
       "answer": "independent"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162177",
@@ -3130,19 +3606,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "bireysel",
+      "kişisel"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "personal",
+      "single",
+      "separate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We offer individual attention to each student.",
+      "translation": "Her öğrenciye bireysel ilgi gösteriyoruz."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We offer {{cloze}} attention to each student.",
       "answer": "individual"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162186",
@@ -3155,19 +3635,21 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kaçınılmaz"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "unavoidable",
+      "inescapable"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Death is inevitable.",
+      "translation": "Ölüm kaçınılmazdır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Death is {{cloze}}.",
       "answer": "inevitable"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162194",
@@ -3180,19 +3662,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ilk",
+      "başlangıç"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "beginning",
+      "primary",
+      "first"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "My initial reaction was surprise.",
+      "translation": "İlk tepkim şaşkınlıktı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "My {{cloze}} reaction was surprise.",
       "answer": "initial"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162205",
@@ -3205,19 +3691,23 @@
     "pos": "adj",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "masum",
+      "suçsuz"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "guiltless",
+      "blameless",
+      "pure"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He claimed to be innocent.",
+      "translation": "Masum olduğunu iddia etti."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He claimed to be {{cloze}}.",
       "answer": "innocent"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:46.162215",
