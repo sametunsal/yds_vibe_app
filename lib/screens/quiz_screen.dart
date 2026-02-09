@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../models/card.dart' as model;
 import '../data/card_loader.dart';
+import '../services/streak_service.dart';
 
 enum QuizType { synonym, cloze }
 
@@ -94,7 +95,10 @@ class _QuizScreenState extends State<QuizScreen> {
     return card.synonyms.isNotEmpty;
   }
 
-  QuizQuestion _generateSynonymQuestion(model.VocabularyCard card, List<model.VocabularyCard> allCards) {
+  QuizQuestion _generateSynonymQuestion(
+    model.VocabularyCard card,
+    List<model.VocabularyCard> allCards,
+  ) {
     final correct = card.synonyms.first;
     final correctLower = correct.toLowerCase();
 
@@ -117,7 +121,9 @@ class _QuizScreenState extends State<QuizScreen> {
     // If not enough wrong options, add some generic ones
     final generics = ['select', 'choose', 'pick', 'decide'];
     for (final g in generics) {
-      if (wrongOptions.length < 3 && !wrongOptions.contains(g) && g.toLowerCase() != correctLower) {
+      if (wrongOptions.length < 3 &&
+          !wrongOptions.contains(g) &&
+          g.toLowerCase() != correctLower) {
         wrongOptions.add(g);
       }
     }
@@ -156,7 +162,9 @@ class _QuizScreenState extends State<QuizScreen> {
     // If not enough wrong options, add some generic ones
     final generics = ['put', 'get', 'make', 'take'];
     for (final g in generics) {
-      if (wrongOptions.length < 3 && !wrongOptions.contains(g) && g.toLowerCase() != correctLower) {
+      if (wrongOptions.length < 3 &&
+          !wrongOptions.contains(g) &&
+          g.toLowerCase() != correctLower) {
         wrongOptions.add(g);
       }
     }
@@ -193,6 +201,8 @@ class _QuizScreenState extends State<QuizScreen> {
         _showResult = false;
       });
     } else {
+      // Quiz completed - save activity for streak
+      StreakService.saveStudyActivity();
       setState(() {
         _isFinished = true;
       });
@@ -206,17 +216,13 @@ class _QuizScreenState extends State<QuizScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Quiz'),
-      ),
+      appBar: AppBar(title: const Text('Quiz')),
       body: _isLoading ? _buildLoadingState() : _buildBody(),
     );
   }
 
   Widget _buildLoadingState() {
-    return const Center(
-      child: CircularProgressIndicator(),
-    );
+    return const Center(child: CircularProgressIndicator());
   }
 
   Widget _buildBody() {
@@ -243,7 +249,9 @@ class _QuizScreenState extends State<QuizScreen> {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              Text('Question ${_currentQuestionIndex + 1}/${_questions.length}'),
+              Text(
+                'Question ${_currentQuestionIndex + 1}/${_questions.length}',
+              ),
               Text('Score: $_score'),
             ],
           ),
@@ -324,10 +332,7 @@ class _QuizScreenState extends State<QuizScreen> {
                   foregroundColor: Colors.black,
                   elevation: isSelected ? 4 : 1,
                 ),
-                child: Text(
-                  option,
-                  style: const TextStyle(fontSize: 16),
-                ),
+                child: Text(option, style: const TextStyle(fontSize: 16)),
               ),
             );
           }),
@@ -370,10 +375,7 @@ class _QuizScreenState extends State<QuizScreen> {
           const SizedBox(height: 16),
           const Text(
             'Quiz Complete!',
-            style: TextStyle(
-              fontSize: 24,
-              fontWeight: FontWeight.bold,
-            ),
+            style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
           const SizedBox(height: 8),
           Text(
@@ -397,10 +399,7 @@ class _QuizScreenState extends State<QuizScreen> {
               backgroundColor: Colors.deepPurple,
               foregroundColor: Colors.white,
             ),
-            child: const Text(
-              'Try Again',
-              style: TextStyle(fontSize: 18),
-            ),
+            child: const Text('Try Again', style: TextStyle(fontSize: 18)),
           ),
         ],
       ),
@@ -412,18 +411,11 @@ class _QuizScreenState extends State<QuizScreen> {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Icon(
-            Icons.error_outline,
-            size: 80,
-            color: Colors.grey,
-          ),
+          Icon(Icons.error_outline, size: 80, color: Colors.grey),
           SizedBox(height: 16),
           Text(
             'No cards available',
-            style: TextStyle(
-              fontSize: 24,
-              fontWeight: FontWeight.bold,
-            ),
+            style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
           SizedBox(height: 8),
           Text(
