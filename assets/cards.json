@@ -1,2267 +1,1619 @@
 [
   {
-    "id": "v_01",
-    "lemma": "abandon",
-    "pos": "verb",
+    "id": "df00fca5-33ec-48dd-b812-e730fb952a23",
+    "lemma": "affection",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "terk etmek, vazgeçmek"
+      "sevgi, şefkat"
     ],
     "synonyms": [
-      "leave",
-      "give up",
-      "desert"
+      "fondness",
+      "tenderness",
+      "warmth"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The government decided to abandon the project due to lack of funds.",
-      "translation": "Hükümet, fon eksikliği nedeniyle projeden vazgeçmeye karar verdi."
+      "text": "Children who receive plenty of affection and support from their parents tend to have higher self-esteem.",
+      "translation": "Ebeveynlerinden bolca sevgi ve destek gören çocukların özsaygıları daha yüksek olma eğilimindedir."
     },
     "cloze": {
-      "template": "The government decided to {{cloze}} the project due to lack of funds.",
-      "answer": "abandon"
+      "template": "Children who receive plenty of {{cloze}} and support from their parents tend to have higher self-esteem.",
+      "answer": "affection"
     },
-    "difficulty": 1
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609536",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "v_02",
-    "lemma": "accumulate",
-    "pos": "verb",
+    "id": "ed5a6f13-23bb-41b1-8dae-623b8cbad5c1",
+    "lemma": "ability",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "birikmek, toplamak"
+      "yetenek, kabiliyet"
     ],
     "synonyms": [
-      "gather",
-      "collect",
-      "amass"
+      "capacity",
+      "capability",
+      "competence"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Dust tends to accumulate in corners where air circulation is poor.",
-      "translation": "Toz, hava sirkülasyonunun zayıf olduğu köşelerde birikme eğilimindedir."
+      "text": "The scholarship is awarded to students who demonstrate exceptional academic ability and leadership skills.",
+      "translation": "Burs, üstün akademik yetenek ve liderlik becerileri gösteren öğrencilere verilir."
     },
     "cloze": {
-      "template": "Dust tends to {{cloze}} in corners where air circulation is poor.",
-      "answer": "accumulate"
+      "template": "The scholarship is awarded to students who demonstrate exceptional academic {{cloze}} and leadership skills.",
+      "answer": "ability"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609620",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "v_03",
-    "lemma": "acknowledge",
+    "id": "627d03cb-a35d-4ec1-a7d2-aa23f4e9d76a",
+    "lemma": "access",
     "pos": "verb",
+    "multiWord": false,
     "meanings": [
-      "kabul etmek, tanımak"
+      "erişim, giriş"
     ],
     "synonyms": [
-      "admit",
-      "accept",
-      "recognize"
+      "entry",
+      "admission",
+      "admittance"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The company refused to acknowledge responsibility for the accident.",
-      "translation": "Şirket, kaza için sorumluluk kabul etmeyi reddetti."
+      "text": "Access to the confidential files is restricted to authorized personnel only to ensure data security.",
+      "translation": "Veri güvenliğini sağlamak amacıyla gizli dosyalara erişim yalnızca yetkili personelle sınırlandırılmıştır."
     },
     "cloze": {
-      "template": "The company refused to {{cloze}} responsibility for the accident.",
-      "answer": "acknowledge"
+      "template": "{{cloze}} to the confidential files is restricted to authorized personnel only to ensure data security.",
+      "answer": "Access"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609639",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "v_04",
-    "lemma": "adapt",
-    "pos": "verb",
+    "id": "bf7b0cff-48db-4ff4-912f-2fb2184876e4",
+    "lemma": "account",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "uyum sağlamak"
+      "hesap, anlatım, rapor"
     ],
     "synonyms": [
-      "adjust",
-      "accommodate"
+      "report",
+      "description",
+      "statement"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Animals must adapt to changing environmental conditions to survive.",
-      "translation": "Hayvanlar hayatta kalmak için değişen çevre koşullarına uyum sağlamalıdır."
+      "text": "The witness provided a detailed account of the events leading up to the accident.",
+      "translation": "Tanık, kazaya yol açan olayların ayrıntılı bir anlatımını sundu."
     },
     "cloze": {
-      "template": "Animals must {{cloze}} to changing environmental conditions to survive.",
-      "answer": "adapt"
+      "template": "The witness provided a detailed {{cloze}} of the events leading up to the accident.",
+      "answer": "account"
     },
-    "difficulty": 1
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609652",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "v_05",
-    "lemma": "advocate",
-    "pos": "verb",
+    "id": "47aa7f4c-d52a-4953-abbd-89b0dfd71fe8",
+    "lemma": "achievement",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "savunmak, desteklemek"
+      "lbaşarı, kazanım"
     ],
     "synonyms": [
-      "support",
-      "recommend",
-      "champion"
+      "accomplishment",
+      "attainment",
+      "feat"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Many experts advocate a more balanced diet for better health.",
-      "translation": "Birkçok uzman daha iyi bir sağlık için daha dengeli bir diyeti savunmaktadır."
+      "text": "Graduating with honors was a significant achievement for her after years of hard work.",
+      "translation": "Yıllarca süren sıkı çalışmanın ardından onur derecesiyle mezun olmak onun için önemli bir başarıydı."
     },
     "cloze": {
-      "template": "Many experts {{cloze}} a more balanced diet for better health.",
-      "answer": "advocate"
+      "template": "Graduating with honors was a significant {{cloze}} for her after years of hard work.",
+      "answer": "achievement"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609681",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "v_06",
-    "lemma": "allocate",
-    "pos": "verb",
+    "id": "94defadb-62dd-44a7-ad78-0a2f6ac7970a",
+    "lemma": "addition",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "ayırmak, tahsis etmek"
+      "ekleme, ilave"
     ],
     "synonyms": [
-      "assign",
-      "allot",
-      "distribute"
+      "inclusion",
+      "supplement",
+      "extension"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The committee decided to allocate more funds for education.",
-      "translation": "Komite, eğitim için daha fazla fon ayırmaya karar verdi."
+      "text": "The addition of modern technology to the classroom has significantly improved student engagement.",
+      "translation": "Sınıfa modern teknolojinin eklenmesi, öğrenci katılımını önemli ölçüde artırdı."
     },
     "cloze": {
-      "template": "The committee decided to {{cloze}} more funds for education.",
-      "answer": "allocate"
+      "template": "The {{cloze}} of modern technology to the classroom has significantly improved student engagement.",
+      "answer": "addition"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609702",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "v_07",
-    "lemma": "alter",
-    "pos": "verb",
+    "id": "81261bd3-1dc4-46e4-ab2f-9cddf9da0344",
+    "lemma": "admission",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "değiştirmek"
+      "kabul, giriş, itiraf"
     ],
     "synonyms": [
-      "change",
-      "modify",
-      "amend"
+      "entry",
+      "access",
+      "confession"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Climate change can significantly alter the habitats of many species.",
-      "translation": "İklim değişikliği birçok türün yaşam alanlarını önemli ölçüde değiştirebilir."
+      "text": "Admission to the university is highly competitive, requiring excellent grades and extracurricular activities.",
+      "translation": "Üniversiteye kabul son derece rekabetçidir; mükemmel notlar ve ders dışı aktiviteler gerektirir."
     },
     "cloze": {
-      "template": "Climate change can significantly {{cloze}} the habitats of many species.",
-      "answer": "alter"
+      "template": "{{cloze}} to the university is highly competitive, requiring excellent grades and extracurricular activities.",
+      "answer": "Admission"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609713",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "v_08",
-    "lemma": "assess",
-    "pos": "verb",
-    "meanings": [
-      "değerlendirmek"
-    ],
-    "synonyms": [
-      "evaluate",
-      "estimate",
-      "appraise"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "We need to assess the impact of the new policy on the economy.",
-      "translation": "Yeni politikanın ekonomi üzerindeki etkisini değerlendirmemiz gerekiyor."
-    },
-    "cloze": {
-      "template": "We need to {{cloze}} the impact of the new policy on the economy.",
-      "answer": "assess"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_09",
-    "lemma": "augment",
-    "pos": "verb",
-    "meanings": [
-      "artırmak, çoğaltmak"
-    ],
-    "synonyms": [
-      "increase",
-      "enhance",
-      "boost"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "He took a second job to augment his income.",
-      "translation": "Gelirini artırmak için ikinci bir işe girdi."
-    },
-    "cloze": {
-      "template": "He took a second job to {{cloze}} his income.",
-      "answer": "augment"
-    },
-    "difficulty": 4
-  },
-  {
-    "id": "v_10",
-    "lemma": "clarify",
-    "pos": "verb",
-    "meanings": [
-      "açıklığa kavuşturmak"
-    ],
-    "synonyms": [
-      "explain",
-      "elucidate"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The spokesperson issued a statement to clarify the misunderstanding.",
-      "translation": "Sözcü, yanlış anlaşılmayı açıklığa kavuşturmak için bir bildiri yayınladı."
-    },
-    "cloze": {
-      "template": "The spokesperson issued a statement to {{cloze}} the misunderstanding.",
-      "answer": "clarify"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_11",
-    "lemma": "coincide",
-    "pos": "verb",
-    "meanings": [
-      "denk gelmek, aynı zamanda olmak"
-    ],
-    "synonyms": [
-      "occur simultaneously",
-      "concur"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "My vacation plans coincide with the company's annual shutdown.",
-      "translation": "Tatil planlarım şirketin yıllık kapanışına denk geliyor."
-    },
-    "cloze": {
-      "template": "My vacation plans {{cloze}} with the company's annual shutdown.",
-      "answer": "coincide"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_12",
-    "lemma": "collapse",
-    "pos": "verb",
-    "meanings": [
-      "çökmek"
-    ],
-    "synonyms": [
-      "fall down",
-      "crumble",
-      "cave in"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The roof began to collapse under the weight of the heavy snow.",
-      "translation": "Çatı, ağır karın ağırlığı altında çökmeye başladı."
-    },
-    "cloze": {
-      "template": "The roof began to {{cloze}} under the weight of the heavy snow.",
-      "answer": "collapse"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_13",
-    "lemma": "compensate",
-    "pos": "verb",
-    "meanings": [
-      "telafi etmek"
-    ],
-    "synonyms": [
-      "make up for",
-      "reimburse"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "Farmers were compensated for the loss of their crops.",
-      "translation": "Çiftçilere mahsul kayıpları için tazminat ödendi."
-    },
-    "cloze": {
-      "template": "Farmers were {{cloze}} for the loss of their crops.",
-      "answer": "compensated"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_14",
-    "lemma": "compile",
-    "pos": "verb",
-    "meanings": [
-      "derlemek, bir araya getirmek"
-    ],
-    "synonyms": [
-      "gather",
-      "assemble",
-      "accumulate"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "Researchers compile data from various sources to analyze trends.",
-      "translation": "Araştırmacılar trendleri analiz etmek için çeşitli kaynaklardan veri derler."
-    },
-    "cloze": {
-      "template": "Researchers {{cloze}} data from various sources to analyze trends.",
-      "answer": "compile"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_15",
-    "lemma": "comply",
-    "pos": "verb",
-    "meanings": [
-      "uymak, itaat etmek"
-    ],
-    "synonyms": [
-      "obey",
-      "adhere to",
-      "abide by"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "All employees must comply with the safety regulations.",
-      "translation": "Tüm çalışanlar güvenlik düzenlemelerine uymalıdır."
-    },
-    "cloze": {
-      "template": "All employees must {{cloze}} with the safety regulations.",
-      "answer": "comply"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_16",
-    "lemma": "conclude",
-    "pos": "verb",
-    "meanings": [
-      "sonuçlandırmak, sonucuna varmak"
-    ],
-    "synonyms": [
-      "finish",
-      "deduce",
-      "infer"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The jury concluded that the defendant was innocent.",
-      "translation": "Jüri, sanığın masum olduğu sonucuna vardı."
-    },
-    "cloze": {
-      "template": "The jury {{cloze}} that the defendant was innocent.",
-      "answer": "concluded"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_17",
-    "lemma": "conduct",
-    "pos": "verb",
-    "meanings": [
-      "yürütmek, yönetmek"
-    ],
-    "synonyms": [
-      "carry out",
-      "manage",
-      "lead"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The university decided to conduct a survey among students.",
-      "translation": "Üniversite öğrenciler arasında bir anket yürütmeye karar verdi."
-    },
-    "cloze": {
-      "template": "The university decided to {{cloze}} a survey among students.",
-      "answer": "conduct"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_18",
-    "lemma": "confine",
-    "pos": "verb",
-    "meanings": [
-      "sınırlamak, hapsetmek"
-    ],
-    "synonyms": [
-      "limit",
-      "restrict",
-      "enclose"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "Please confine your remarks to the topic under discussion.",
-      "translation": "Lütfen yorumlarınızı tartışılan konuyla sınırlandırın."
-    },
-    "cloze": {
-      "template": "Please {{cloze}} your remarks to the topic under discussion.",
-      "answer": "confine"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_19",
-    "lemma": "confirm",
-    "pos": "verb",
-    "meanings": [
-      "doğrulamak, onaylamak"
-    ],
-    "synonyms": [
-      "verify",
-      "corroborate",
-      "validate"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "Please call to confirm your reservation before arriving.",
-      "translation": "Lütfen gelmeden önce rezervasyonunuzu doğrulamak için arayın."
-    },
-    "cloze": {
-      "template": "Please call to {{cloze}} your reservation before arriving.",
-      "answer": "confirm"
-    },
-    "difficulty": 1
-  },
-  {
-    "id": "v_20",
-    "lemma": "conform",
-    "pos": "verb",
-    "meanings": [
-      "uymak (kurala/standarda)"
-    ],
-    "synonyms": [
-      "comply",
-      "follow"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The new building must conform to modern safety standards.",
-      "translation": "Yeni bina modern güvenlik standartlarına uymalıdır."
-    },
-    "cloze": {
-      "template": "The new building must {{cloze}} to modern safety standards.",
-      "answer": "conform"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_21",
-    "lemma": "consent",
-    "pos": "verb",
-    "meanings": [
-      "razı olmak, izin vermek"
-    ],
-    "synonyms": [
-      "agree",
-      "permit",
-      "approve"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The patient did not consent to the experimental treatment.",
-      "translation": "Hasta deneysel tedaviye rıza göstermedi."
-    },
-    "cloze": {
-      "template": "The patient did not {{cloze}} to the experimental treatment.",
-      "answer": "consent"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_22",
-    "lemma": "constitute",
-    "pos": "verb",
-    "meanings": [
-      "oluşturmak, teşkil etmek"
-    ],
-    "synonyms": [
-      "form",
-      "compose",
-      "make up"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "Women constitute the majority of the workforce in this sector.",
-      "translation": "Kadınlar bu sektördeki işgücünün çoğunluğunu oluşturmaktadır."
-    },
-    "cloze": {
-      "template": "Women {{cloze}} the majority of the workforce in this sector.",
-      "answer": "constitute"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_23",
-    "lemma": "constrain",
-    "pos": "verb",
-    "meanings": [
-      "kısıtlamak, zorlamak"
-    ],
-    "synonyms": [
-      "restrict",
-      "limit",
-      "confine"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "Budget cuts constrain our ability to hire new staff.",
-      "translation": "Bütçe kesintileri yeni personel işe alma yeteneğimizi kısıtlıyor."
-    },
-    "cloze": {
-      "template": "Budget cuts {{cloze}} our ability to hire new staff.",
-      "answer": "constrain"
-    },
-    "difficulty": 4
-  },
-  {
-    "id": "v_24",
-    "lemma": "consult",
-    "pos": "verb",
-    "meanings": [
-      "danışmak, başvurmak"
-    ],
-    "synonyms": [
-      "ask",
-      "seek advice from"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "You should consult a doctor if symptoms persist.",
-      "translation": "Semptomlar devam ederse bir doktora danışmalısınız."
-    },
-    "cloze": {
-      "template": "You should {{cloze}} a doctor if symptoms persist.",
-      "answer": "consult"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_25",
-    "lemma": "contradict",
-    "pos": "verb",
-    "meanings": [
-      "çelişmek, aksini iddia etmek"
-    ],
-    "synonyms": [
-      "dispute",
-      "counter",
-      "oppose"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The evidence appears to contradict the witness's testimony.",
-      "translation": "Kanıtlar tanığın ifadesiyle çelişiyor gibi görünüyor."
-    },
-    "cloze": {
-      "template": "The evidence appears to {{cloze}} the witness's testimony.",
-      "answer": "contradict"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_26",
-    "lemma": "convene",
-    "pos": "verb",
-    "meanings": [
-      "toplanmak, bir araya gelmek"
-    ],
-    "synonyms": [
-      "assemble",
-      "gather",
-      "meet"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The board will convene next week to discuss the merger.",
-      "translation": "Kurul, birleşmeyi görüşmek üzere gelecek hafta toplanacak."
-    },
-    "cloze": {
-      "template": "The board will {{cloze}} next week to discuss the merger.",
-      "answer": "convene"
-    },
-    "difficulty": 4
-  },
-  {
-    "id": "v_27",
-    "lemma": "convert",
-    "pos": "verb",
-    "meanings": [
-      "dönüştürmek"
-    ],
-    "synonyms": [
-      "transform",
-      "change",
-      "alter"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "Photosynthesis is the process by which plants convert sunlight into energy.",
-      "translation": "Fotosentez, bitkilerin güneş ışığını enerjiye dönüştürdüğü süreçtir."
-    },
-    "cloze": {
-      "template": "Photosynthesis is the process by which plants {{cloze}} sunlight into energy.",
-      "answer": "convert"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_28",
-    "lemma": "convince",
-    "pos": "verb",
-    "meanings": [
-      "ikna etmek"
-    ],
-    "synonyms": [
-      "persuade",
-      "assure",
-      "satisfy"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "He tried to convince the jury of his innocence.",
-      "translation": "Jüriyi masumiyetine ikna etmeye çalıştı."
-    },
-    "cloze": {
-      "template": "He tried to {{cloze}} the jury of his innocence.",
-      "answer": "convince"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_29",
-    "lemma": "deduce",
-    "pos": "verb",
-    "meanings": [
-      "sonuç çıkarmak"
-    ],
-    "synonyms": [
-      "infer",
-      "conclude",
-      "derive"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "From the footprints, detectives could deduce the suspect's height.",
-      "translation": "Dedektifler ayak izlerinden şüphelinin boyunu çıkarabildiler."
-    },
-    "cloze": {
-      "template": "From the footprints, detectives could {{cloze}} the suspect's height.",
-      "answer": "deduce"
-    },
-    "difficulty": 4
-  },
-  {
-    "id": "v_30",
-    "lemma": "demonstrate",
-    "pos": "verb",
-    "meanings": [
-      "göstermek, kanıtlamak"
-    ],
-    "synonyms": [
-      "show",
-      "prove",
-      "display"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The study aims to demonstrate the effectiveness of the new drug.",
-      "translation": "Çalışma, yeni ilacın etkinliğini göstermeyi amaçlamaktadır."
-    },
-    "cloze": {
-      "template": "The study aims to {{cloze}} the effectiveness of the new drug.",
-      "answer": "demonstrate"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_31",
-    "lemma": "deny",
-    "pos": "verb",
-    "meanings": [
-      "inkar etmek, reddetmek"
-    ],
-    "synonyms": [
-      "refuse",
-      "reject",
-      "refute"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The strict regime may deny citizens their basic rights.",
-      "translation": "Sıkı rejim, vatandaşların temel haklarını reddedebilir."
-    },
-    "cloze": {
-      "template": "The strict regime may {{cloze}} citizens their basic rights.",
-      "answer": "deny"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_32",
-    "lemma": "deplete",
-    "pos": "verb",
-    "meanings": [
-      "tüketmek, azaltmak"
-    ],
-    "synonyms": [
-      "exhaust",
-      "use up",
-      "drain"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "Overfishing has begun to deplete the ocean's resources.",
-      "translation": "Aşırı avlanma okyanus kaynaklarını tüketmeye başladı."
-    },
-    "cloze": {
-      "template": "Overfishing has begun to {{cloze}} the ocean's resources.",
-      "answer": "deplete"
-    },
-    "difficulty": 4
-  },
-  {
-    "id": "v_33",
-    "lemma": "derive",
-    "pos": "verb",
-    "meanings": [
-      "türetmek, elde etmek"
-    ],
-    "synonyms": [
-      "obtain",
-      "get",
-      "acquire"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "Many English words derive from Latin origins.",
-      "translation": "Birçok İngilizce kelime Latin kökenlerinden türemiştir."
-    },
-    "cloze": {
-      "template": "Many English words {{cloze}} from Latin origins.",
-      "answer": "derive"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_34",
-    "lemma": "detect",
-    "pos": "verb",
-    "meanings": [
-      "tespit etmek, algılamak"
-    ],
-    "synonyms": [
-      "notice",
-      "discover",
-      "identify"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "Early screening helps doctors detect cancer at a treatable stage.",
-      "translation": "Erken tarama, doktorların kanseri tedavi edilebilir bir aşamada tespit etmesine yardımcı olur."
-    },
-    "cloze": {
-      "template": "Early screening helps doctors {{cloze}} cancer at a treatable stage.",
-      "answer": "detect"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_35",
-    "lemma": "deteriorate",
-    "pos": "verb",
-    "meanings": [
-      "kötüleşmek, bozulmak"
-    ],
-    "synonyms": [
-      "worsen",
-      "decline",
-      "decay"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The patient's condition began to deteriorate rapidly overnight.",
-      "translation": "Hastanın durumu gece boyunca hızla kötüleşmeye başladı."
-    },
-    "cloze": {
-      "template": "The patient's condition began to {{cloze}} rapidly overnight.",
-      "answer": "deteriorate"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_36",
-    "lemma": "deviate",
-    "pos": "verb",
-    "meanings": [
-      "sapmak, ayrılmak"
-    ],
-    "synonyms": [
-      "stray",
-      "diverge",
-      "depart"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "We must not deviate from the agreed plan.",
-      "translation": "Kararlaştırılan plandan sapmamalıyız."
-    },
-    "cloze": {
-      "template": "We must not {{cloze}} from the agreed plan.",
-      "answer": "deviate"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_37",
-    "lemma": "diminish",
-    "pos": "verb",
-    "meanings": [
-      "azalmak, eksiltmek"
-    ],
-    "synonyms": [
-      "decrease",
-      "reduce",
-      "lessen"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "The world's oil reserves will diminish over time.",
-      "translation": "Dünyanın petrol rezervleri zamanla azalacaktır."
-    },
-    "cloze": {
-      "template": "The world's oil reserves will {{cloze}} over time.",
-      "answer": "diminish"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_38",
-    "lemma": "discriminate",
-    "pos": "verb",
-    "meanings": [
-      "ayrımcılık yapmak, ayırt etmek"
-    ],
-    "synonyms": [
-      "differentiate",
-      "distinguish"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "It is illegal to discriminate against employees based on their gender.",
-      "translation": "Çalışanlara cinsiyetlerine göre ayrımcılık yapmak yasa dışıdır."
-    },
-    "cloze": {
-      "template": "It is illegal to {{cloze}} against employees based on their gender.",
-      "answer": "discriminate"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "v_39",
-    "lemma": "distribute",
-    "pos": "verb",
-    "meanings": [
-      "dağıtmak"
-    ],
-    "synonyms": [
-      "hand out",
-      "spread"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "Aid agencies distribute food and water to disaster victims.",
-      "translation": "Yardım kuruluşları afetzedelere yiyecek ve su dağıtıyor."
-    },
-    "cloze": {
-      "template": "Aid agencies {{cloze}} food and water to disaster victims.",
-      "answer": "distribute"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "v_40",
-    "lemma": "emerge",
-    "pos": "verb",
-    "meanings": [
-      "ortaya çıkmak"
-    ],
-    "synonyms": [
-      "appear",
-      "arise",
-      "surface"
-    ],
-    "multi_word": false,
-    "example": {
-      "text": "New evidence may emerge during the investigation.",
-      "translation": "Soruşturma sırasında yeni kanıtlar ortaya çıkabilir."
-    },
-    "cloze": {
-      "template": "New evidence may {{cloze}} during the investigation.",
-      "answer": "emerge"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "adj_01",
-    "lemma": "abstract",
+    "id": "f0448897-2df9-42e5-8b6e-f29addf2d018",
+    "lemma": "adult",
     "pos": "adjective",
+    "multiWord": false,
     "meanings": [
-      "soyut"
+      "yetişkin, ergin"
     ],
     "synonyms": [
-      "theoretical",
-      "conceptual",
-      "intangible"
+      "grown-up",
+      "mature",
+      "developed"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Mathematics deals with abstract concepts like infinity.",
-      "translation": "Matematik, sonsuzluk gibi soyut kavramlarla ilgilenir."
+      "text": "The program is designed to help adult learners acquire new vocational skills for career advancement.",
+      "translation": "Program, yetişkin öğrencilerin kariyer gelişimi için yeni mesleki beceriler kazanmalarına yardımcı olmak üzere tasarlanmıştır."
     },
     "cloze": {
-      "template": "Mathematics deals with {{cloze}} concepts like infinity.",
-      "answer": "abstract"
+      "template": "The program is designed to help {{cloze}} learners acquire new vocational skills for career advancement.",
+      "answer": "adult"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609729",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_02",
-    "lemma": "abundant",
-    "pos": "adjective",
+    "id": "d48160ce-13b1-4103-9c14-4f24c5a2df16",
+    "lemma": "advance",
+    "pos": "verb",
+    "multiWord": false,
     "meanings": [
-      "bol, bereketli"
+      "ilerleme, gelişme"
     ],
     "synonyms": [
-      "plentiful",
-      "copious",
-      "ample"
+      "progress",
+      "development",
+      "improvement"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The country has abundant natural resources.",
-      "translation": "Ülke bol doğal kaynaklara sahiptir."
+      "text": "Significant advances in medical research have led to the eradication of several deadly diseases.",
+      "translation": "Tıbbi araştırmalardaki önemli ilerlemeler, birçok ölümcül hastalığın kökünün kazınmasına yol açmıştır."
     },
     "cloze": {
-      "template": "The country has {{cloze}} natural resources.",
-      "answer": "abundant"
+      "template": "Significant {{cloze}}s in medical research have led to the eradication of several deadly diseases.",
+      "answer": "advance"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609746",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_03",
-    "lemma": "accurate",
-    "pos": "adjective",
+    "id": "d84cce9f-cd5b-4973-b707-9ac5a778dcc1",
+    "lemma": "advantage",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "doğru, kesin"
+      "avantaj, üstünlük"
     ],
     "synonyms": [
-      "precise",
-      "exact",
-      "correct"
+      "benefit",
+      "asset",
+      "edge"
     ],
-    "multi_word": false,
     "example": {
-      "text": "It is crucial to obtain accurate measurements for the experiment.",
-      "translation": "Deney için kesin ölçümler elde etmek çok önemlidir."
+      "text": "Speaking multiple languages offers a distinct competitive advantage in the international job market.",
+      "translation": "Birden fazla dil bilmek, uluslararası iş piyasasında belirgin bir rekabet avantajı sunar."
     },
     "cloze": {
-      "template": "It is crucial to obtain {{cloze}} measurements for the experiment.",
-      "answer": "accurate"
+      "template": "Speaking multiple languages offers a distinct competitive {{cloze}} in the international job market.",
+      "answer": "advantage"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609757",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_04",
-    "lemma": "adequate",
-    "pos": "adjective",
+    "id": "b4ea4520-00df-435e-b87f-949b2f750eb0",
+    "lemma": "advertising",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "yeterli"
+      "reklamcılık, ilan"
     ],
     "synonyms": [
-      "sufficient",
-      "enough"
+      "marketing",
+      "promotion",
+      "publicity"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The refugees lacked adequate food and shelter.",
-      "translation": "Mülteciler yeterli yiyecek ve barınaktan yoksundu."
+      "text": "The company launched an aggressive advertising campaign to promote its eco-friendly products.",
+      "translation": "Şirket, çevre dostu ürünlerini tanıtmak için agresif bir reklam kampanyası başlattı."
     },
     "cloze": {
-      "template": "The refugees lacked {{cloze}} food and shelter.",
-      "answer": "adequate"
+      "template": "The company launched an aggressive {{cloze}} campaign to promote its eco-friendly products.",
+      "answer": "advertising"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609772",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_05",
-    "lemma": "adverse",
-    "pos": "adjective",
+    "id": "8799ccaa-4124-4cd5-a4f5-069c764d244f",
+    "lemma": "advice",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "olumsuz, ters"
+      "tavsiye, öğüt"
     ],
     "synonyms": [
-      "unfavorable",
-      "harmful",
-      "detrimental"
+      "guidance",
+      "recommendation",
+      "counsel"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Pollution has adverse effects on human health.",
-      "translation": "Kirliliğin insan sağlığı üzerinde olumsuz etkileri vardır."
+      "text": "He sought legal advice from an expert to ensure compliance with the new regulations.",
+      "translation": "Yeni düzenlemelere uyumu sağlamak için bir uzmandan hukuki tavsiye aldı."
     },
     "cloze": {
-      "template": "Pollution has {{cloze}} effects on human health.",
-      "answer": "adverse"
+      "template": "He sought legal {{cloze}} from an expert to ensure compliance with the new regulations.",
+      "answer": "advice"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609784",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_06",
-    "lemma": "ambiguous",
-    "pos": "adjective",
+    "id": "3fdcd06d-d1bd-4e3f-b685-4e9140d93ad4",
+    "lemma": "affair",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "belirsiz, muğlak"
+      "mesele, ilişki, olay"
     ],
     "synonyms": [
-      "vague",
-      "unclear",
-      "equivocal"
+      "matter",
+      "issue",
+      "concern"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The instructions were ambiguous, leading to confusion among staff.",
-      "translation": "Talimatlar muğlaktı, personeli kafa karışıklığına sürükledi."
+      "text": "The government is currently dealing with a complex foreign affair involving trade disputes.",
+      "translation": "Hükümet şu anda ticari anlaşmazlıkları içeren karmaşık bir dış meseleyle ilgileniyor."
     },
     "cloze": {
-      "template": "The instructions were {{cloze}}, leading to confusion among staff.",
-      "answer": "ambiguous"
+      "template": "The government is currently dealing with a complex foreign {{cloze}} involving trade disputes.",
+      "answer": "affair"
     },
-    "difficulty": 4
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609793",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_07",
-    "lemma": "arbitrary",
-    "pos": "adjective",
+    "id": "d47ac691-fd38-46ef-9978-d76a7bc09ffa",
+    "lemma": "age",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "keyfi, rastgele"
+      "yaş, çağ, devir"
     ],
     "synonyms": [
-      "random",
-      "capricious",
-      "subjective"
+      "era",
+      "epoch",
+      "period"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The decision to fire him seemed completely arbitrary.",
-      "translation": "Onu işten çıkarma kararı tamamen keyfi görünüyordu."
+      "text": "We are living in the digital age, where information is instantly accessible from anywhere.",
+      "translation": "Bilginin her yerden anında erişilebilir olduğu dijital çağda yaşıyoruz."
     },
     "cloze": {
-      "template": "The decision to fire him seemed completely {{cloze}}.",
-      "answer": "arbitrary"
+      "template": "We are living in the digital {{cloze}}, where information is instantly accessible from anywhere.",
+      "answer": "age"
     },
-    "difficulty": 4
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609803",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_08",
-    "lemma": "beneficial",
-    "pos": "adjective",
+    "id": "48737e89-99b8-460d-87e7-356a5ce58274",
+    "lemma": "agency",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "yararlı, faydalı"
+      "ajans, kurum, aracı"
     ],
     "synonyms": [
-      "advantageous",
-      "useful",
-      "helpful"
+      "organization",
+      "bureau",
+      "institution"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Regular exercise is beneficial for both physical and mental health.",
-      "translation": "Düzenli egzersiz hem fiziksel hem de zihinsel sağlık için yararlıdır."
+      "text": "The environmental protection agency enforced stricter regulations to reduce industrial pollution.",
+      "translation": "Çevre koruma ajansı, endüstriyel kirliliği azaltmak için daha sıkı düzenlemeler uyguladı."
     },
     "cloze": {
-      "template": "Regular exercise is {{cloze}} for both physical and mental health.",
-      "answer": "beneficial"
+      "template": "The environmental protection {{cloze}} enforced stricter regulations to reduce industrial pollution.",
+      "answer": "agency"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609816",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_09",
-    "lemma": "coherent",
-    "pos": "adjective",
+    "id": "eda53068-9f18-4d6c-aac8-be86823175eb",
+    "lemma": "agent",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "tutarlı, mantıklı"
+      "temsilci, ajan, etken"
     ],
     "synonyms": [
-      "logical",
-      "consistent",
-      "rational"
+      "representative",
+      "delegate",
+      "factor"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The witness provided a coherent account of the incident.",
-      "translation": "Tanık, olayın tutarlı bir açıklamasını yaptı."
+      "text": "The real estate agent negotiated a favorable price for the property on behalf of the buyer.",
+      "translation": "Emlakçı, alıcı adına mülk için uygun bir fiyat pazarlığı yaptı."
     },
     "cloze": {
-      "template": "The witness provided a {{cloze}} account of the incident.",
-      "answer": "coherent"
+      "template": "The real estate {{cloze}} negotiated a favorable price for the property on behalf of the buyer.",
+      "answer": "agent"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609829",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_10",
-    "lemma": "compatible",
-    "pos": "adjective",
+    "id": "2e8342c3-baff-4304-9e9b-04fb560442cf",
+    "lemma": "aim",
+    "pos": "verb",
+    "multiWord": false,
     "meanings": [
-      "uyumlu"
+      "amaç, hedef"
     ],
     "synonyms": [
-      "consistent",
-      "harmonious",
-      "suitable"
+      "goal",
+      "objective",
+      "target"
     ],
-    "multi_word": false,
     "example": {
-      "text": "This software is not compatible with older operating systems.",
-      "translation": "Bu yazılım eski işletim sistemleriyle uyumlu değildir."
+      "text": "The primary aim of the study is to investigate the long-term effects of climate change.",
+      "translation": "Çalışmanın temel amacı, iklim değişikliğinin uzun vadeli etkilerini araştırmaktır."
     },
     "cloze": {
-      "template": "This software is not {{cloze}} with older operating systems.",
-      "answer": "compatible"
+      "template": "The primary {{cloze}} of the study is to investigate the long-term effects of climate change.",
+      "answer": "aim"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609839",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_11",
-    "lemma": "comprehensive",
-    "pos": "adjective",
+    "id": "118b39e9-b087-48aa-b8b1-c8f5c0ef4cd9",
+    "lemma": "allowance",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "kapsamlı"
+      "ödenek, harçlık, izin"
     ],
     "synonyms": [
-      "extensive",
-      "complete",
-      "thorough"
+      "grant",
+      "allocation",
+      "stipend"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The guidebook offers a comprehensive overview of the city's history.",
-      "translation": "Rehber kitap, şehir tarihinin kapsamlı bir özetini sunar."
+      "text": "Employees who travel for work receive a daily allowance to cover accommodation and meals.",
+      "translation": "İş için seyahat eden çalışanlar, konaklama ve yemek masraflarını karşılamak için günlük bir ödenek alırlar."
     },
     "cloze": {
-      "template": "The guidebook offers a {{cloze}} overview of the city's history.",
-      "answer": "comprehensive"
+      "template": "Employees who travel for work receive a daily {{cloze}} to cover accommodation and meals.",
+      "answer": "allowance"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609849",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_12",
-    "lemma": "concise",
-    "pos": "adjective",
+    "id": "2a2ada71-1576-4089-b9d8-3f0f7d10d141",
+    "lemma": "ambition",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "kısa ve öz"
+      "hırs, gaye, tutku"
     ],
     "synonyms": [
-      "brief",
-      "succinct",
-      "to the point"
+      "aspiration",
+      "desire",
+      "drive"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Please write a concise summary of the report.",
-      "translation": "Lütfen raporun kısa ve öz bir özetini yazın."
+      "text": "Her ambition to become a neurosurgeon drove her to study tirelessly for years.",
+      "translation": "Beyin cerrahı olma hırsı, onu yıllarca yorulmadan çalışmaya itti."
     },
     "cloze": {
-      "template": "Please write a {{cloze}} summary of the report.",
-      "answer": "concise"
+      "template": "Her {{cloze}} to become a neurosurgeon drove her to study tirelessly for years.",
+      "answer": "ambition"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609875",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_13",
-    "lemma": "consistent",
-    "pos": "adjective",
+    "id": "90b2896d-19b6-4c09-9339-d0c21075b59f",
+    "lemma": "amount",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "tutarlı, istikrarlı"
+      "miktar, tutar"
     ],
     "synonyms": [
-      "steady",
-      "constant",
-      "uniform"
+      "quantity",
+      "volume",
+      "sum"
     ],
-    "multi_word": false,
     "example": {
-      "text": "He is the team's most consistent player, scoring in every game.",
-      "translation": "O, takımın en istikrarlı oyuncusudur, her maçta skor üretir."
+      "text": "A significant amount of funding was allocated to the infrastructure project.",
+      "translation": "Altyapı projesine önemli miktarda fon tahsis edildi."
     },
     "cloze": {
-      "template": "He is the team's most {{cloze}} player, scoring in every game.",
-      "answer": "consistent"
+      "template": "A significant {{cloze}} of funding was allocated to the infrastructure project.",
+      "answer": "amount"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609885",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_14",
-    "lemma": "contemporary",
-    "pos": "adjective",
+    "id": "77f85c59-bab0-45f3-96bf-a72e974bcb44",
+    "lemma": "animal",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "çağdaş, modern"
+      "hayvan"
     ],
     "synonyms": [
-      "modern",
-      "current"
+      "creature",
+      "beast",
+      "organism"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Contemporary art often reflects correct social issues.",
-      "translation": "Çağdaş sanat genellikle güncel sosyal sorunları yansıtır."
+      "text": "The conservationists are working to protect the habitat of endangered animal species.",
+      "translation": "Doğa korumacılar, nesli tükenmekte olan hayvan türlerinin yaşam alanlarını korumak için çalışıyorlar."
     },
     "cloze": {
-      "template": "{{cloze}} art often reflects correct social issues.",
-      "answer": "Contemporary"
+      "template": "The conservationists are working to protect the habitat of endangered {{cloze}} species.",
+      "answer": "animal"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609895",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_15",
-    "lemma": "controversial",
-    "pos": "adjective",
+    "id": "6f350421-08a8-483c-8fcc-e5842d3f03e4",
+    "lemma": "apology",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "tartışmalı"
+      "özür, af dileme"
     ],
     "synonyms": [
-      "debatable",
-      "disputed",
-      "contentious"
+      "regret",
+      "excuse",
+      "plea"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The government's new tax plan is highly controversial.",
-      "translation": "Hükümetin yeni vergi planı oldukça tartışmalıdır."
+      "text": "The CEO issued a public apology for the inconvenience caused by the service outage.",
+      "translation": "CEO, hizmet kesintisinin neden olduğu rahatsızlık için kamuoyundan özür diledi."
     },
     "cloze": {
-      "template": "The government's new tax plan is highly {{cloze}}.",
-      "answer": "controversial"
+      "template": "The CEO issued a public {{cloze}} for the inconvenience caused by the service outage.",
+      "answer": "apology"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609904",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_16",
-    "lemma": "crucial",
-    "pos": "adjective",
+    "id": "7cdfba81-d38e-476a-86da-0a6bd7bb3458",
+    "lemma": "appearance",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "çok önemli, kritik"
+      "görünüş, ortaya çıkma"
     ],
     "synonyms": [
-      "vital",
-      "critical",
-      "essential"
+      "look",
+      "aspect",
+      "emergence"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Water is crucial for the survival of all living organisms.",
-      "translation": "Su, tüm canlı organizmaların hayatta kalması için kritiktir."
+      "text": "Despite her calm appearance, she was extremely nervous about the presentation.",
+      "translation": "Sakin görünüşüne rağmen sunum konusunda son derece gergindi."
     },
     "cloze": {
-      "template": "Water is {{cloze}} for the survival of all living organisms.",
-      "answer": "crucial"
+      "template": "Despite her calm {{cloze}}, she was extremely nervous about the presentation.",
+      "answer": "appearance"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609915",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_17",
-    "lemma": "cumulative",
-    "pos": "adjective",
+    "id": "23be464d-6e3e-482d-9297-7c7fb8def0fb",
+    "lemma": "application",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "kümülatif, birikimli"
+      "başvuru, uygulama"
     ],
     "synonyms": [
-      "increasing",
-      "accumulating"
+      "request",
+      "claim",
+      "implementation"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The cumulative effect of smoking can be fatal.",
-      "translation": "Sigaranın birikimli etkisi ölümcül olabilir."
+      "text": "The strict application of safety rules has significantly reduced workplace accidents.",
+      "translation": "Güvenlik kurallarının sıkı bir şekilde uygulanması, iş yeri kazalarını önemli ölçüde azalttı."
     },
     "cloze": {
-      "template": "The {{cloze}} effect of smoking can be fatal.",
-      "answer": "cumulative"
+      "template": "The strict {{cloze}} of safety rules has significantly reduced workplace accidents.",
+      "answer": "application"
     },
-    "difficulty": 4
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609924",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_18",
-    "lemma": "deficient",
-    "pos": "adjective",
+    "id": "a4c74a66-1f14-4f6d-9593-c5ad8c2757ef",
+    "lemma": "appointment",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "yetersiz, eksik"
+      "randevu, atama"
     ],
     "synonyms": [
-      "lacking",
-      "insufficient",
-      "inadequate"
+      "meeting",
+      "engagement",
+      "nomination"
     ],
-    "multi_word": false,
     "example": {
-      "text": "A diet deficient in vitamins can cause health problems.",
-      "translation": "Vitamin açısından yetersiz bir diyet sağlık sorunlarına yol açabilir."
+      "text": "She has a scheduled appointment with the dentist tomorrow morning.",
+      "translation": "Yarın sabah dişçiyle planlanmış bir randevusu var."
     },
     "cloze": {
-      "template": "A diet {{cloze}} in vitamins can cause health problems.",
-      "answer": "deficient"
+      "template": "She has a scheduled {{cloze}} with the dentist tomorrow morning.",
+      "answer": "appointment"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609937",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_19",
-    "lemma": "distinct",
-    "pos": "adjective",
+    "id": "ed2b6517-0bf5-4917-b2c7-005786c2479f",
+    "lemma": "approach",
+    "pos": "verb",
+    "multiWord": false,
     "meanings": [
-      "belirgin, farklı"
+      "yaklaşım, metod"
     ],
     "synonyms": [
-      "obvious",
-      "clear",
-      "separate"
+      "method",
+      "investigation",
+      "attitude"
     ],
-    "multi_word": false,
     "example": {
-      "text": "There is a distinct difference between the two theories.",
-      "translation": "İki teori arasında belirgin bir fark vardır."
+      "text": "We need to adopt a holistic approach to solve the environmental crisis effectively.",
+      "translation": "Çevre krizini etkili bir şekilde çözmek için bütüncül bir yaklaşım benimsemeliyiz."
     },
     "cloze": {
-      "template": "There is a {{cloze}} difference between the two theories.",
-      "answer": "distinct"
+      "template": "We need to adopt a holistic {{cloze}} to solve the environmental crisis effectively.",
+      "answer": "approach"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609952",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_20",
-    "lemma": "diverse",
-    "pos": "adjective",
+    "id": "e46c94d9-5ad9-496b-b564-eb2b40a9ba48",
+    "lemma": "approval",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "çeşitli, farklı"
+      "onay, rıza"
     ],
     "synonyms": [
-      "various",
-      "varied",
-      "different"
+      "acceptance",
+      "agreement",
+      "endorsement"
     ],
-    "multi_word": false,
     "example": {
-      "text": "New York is a culturally diverse city.",
-      "translation": "New York kültürel olarak çeşitli bir şehirdir."
+      "text": "The construction project cannot proceed without the final approval of the city council.",
+      "translation": "İnşaat projesi, şehir meclisinin nihai onayı olmadan ilerleyemez."
     },
     "cloze": {
-      "template": "New York is a culturally {{cloze}} city.",
-      "answer": "diverse"
+      "template": "The construction project cannot proceed without the final {{cloze}} of the city council.",
+      "answer": "approval"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609965",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_21",
-    "lemma": "drastic",
-    "pos": "adjective",
+    "id": "7c04455a-f5ea-4a7b-a674-370e98372ad3",
+    "lemma": "area",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "köklü, şiddetli"
+      "alan, bölge, saha"
     ],
     "synonyms": [
-      "radical",
-      "extreme",
-      "severe"
+      "region",
+      "zone",
+      "sector"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Drastic measures are needed to combat climate change.",
-      "translation": "İklim değişikliğiyle mücadele etmek için köklü tedbirlere ihtiyaç vardır."
+      "text": "The government declared the flooded region a disaster area eligible for emergency aid.",
+      "translation": "Hükümet, sel basan bölgeyi acil yardıma uygun bir afet alanı ilan etti."
     },
     "cloze": {
-      "template": "{{cloze}} measures are needed to combat climate change.",
-      "answer": "Drastic"
+      "template": "The government declared the flooded region a disaster {{cloze}} eligible for emergency aid.",
+      "answer": "area"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609975",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_22",
-    "lemma": "elaborate",
-    "pos": "adjective",
+    "id": "cb3c5816-6b3b-44ee-8d93-a5e835fbceec",
+    "lemma": "arrangement",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "ayrıntılı, özenli"
+      "düzenleme, anlaşma"
     ],
     "synonyms": [
-      "detailed",
-      "complex",
-      "intricate"
+      "organization",
+      "agreement",
+      "setup"
     ],
-    "multi_word": false,
     "example": {
-      "text": "She prepared an elaborate dinner for the guests.",
-      "translation": "Misafirler için ayrıntılı bir akşam yemeği hazırladı."
+      "text": "The two companies came to a mutual arrangement regarding the distribution of profits.",
+      "translation": "İki şirket, karların dağıtımı konusunda karşılıklı bir anlaşmaya vardı."
     },
     "cloze": {
-      "template": "She prepared an {{cloze}} dinner for the guests.",
-      "answer": "elaborate"
+      "template": "The two companies came to a mutual {{cloze}} regarding the distribution of profits.",
+      "answer": "arrangement"
     },
-    "difficulty": 4
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609987",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_23",
-    "lemma": "empirical",
-    "pos": "adjective",
+    "id": "f44deef4-0e7e-448f-b8e4-1472db20248b",
+    "lemma": "arrival",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "deneysel, gözleme dayalı"
+      "varış, geliş"
     ],
     "synonyms": [
-      "observational",
-      "experimental"
+      "coming",
+      "advent",
+      "entrance"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Scientific theories must be based on empirical evidence.",
-      "translation": "Bilimsel teoriler deneysel kanıtlara dayanmalıdır."
+      "text": "The sudden arrival of the refugees created a humanitarian crisis at the border.",
+      "translation": "Mültecilerin ani gelişi, sınırda bir insani kriz yarattı."
     },
     "cloze": {
-      "template": "Scientific theories must be based on {{cloze}} evidence.",
-      "answer": "empirical"
+      "template": "The sudden {{cloze}} of the refugees created a humanitarian crisis at the border.",
+      "answer": "arrival"
     },
-    "difficulty": 4
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.609997",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_24",
-    "lemma": "entitled",
-    "pos": "adjective",
+    "id": "4fd9d23b-2528-4049-baba-8c93600040d6",
+    "lemma": "art",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "hak sahibi, yetkili"
+      "sanat, beceri"
     ],
     "synonyms": [
-      "authorized",
-      "eligible"
+      "skill",
+      "craft",
+      "talent"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Employees are entitled to 20 days of paid vacation per year.",
-      "translation": "Çalışanlar yılda 20 gün ücretli izin hakkına sahiptir."
+      "text": "The museum exhibits a vast collection of modern art from the 20th century.",
+      "translation": "Müze, 20. yüzyıldan kalma geniş bir modern sanat koleksiyonu sergiliyor."
     },
     "cloze": {
-      "template": "Employees are {{cloze}} to 20 days of paid vacation per year.",
-      "answer": "entitled"
+      "template": "The museum exhibits a vast collection of modern {{cloze}} from the 20th century.",
+      "answer": "art"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610007",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_25",
-    "lemma": "essential",
-    "pos": "adjective",
+    "id": "ba0ec8c6-8554-44e1-a82e-1c2b4e85e985",
+    "lemma": "article",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "temel, gerekli"
+      "makale, madde, eşya"
     ],
     "synonyms": [
-      "necessary",
-      "vital",
-      "fundamental"
+      "paper",
+      "report",
+      "item"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Teamwork is essential for the success of this project.",
-      "translation": "Bu projenin başarısı için takım çalışması esastır."
+      "text": "The academic article discusses the impact of artificial intelligence on future employment.",
+      "translation": "Akademik makale, yapay zekanın gelecekteki istihdam üzerindeki etkisini tartışıyor."
     },
     "cloze": {
-      "template": "Teamwork is {{cloze}} for the success of this project.",
-      "answer": "essential"
+      "template": "The academic {{cloze}} discusses the impact of artificial intelligence on future employment.",
+      "answer": "article"
     },
-    "difficulty": 1
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610018",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_26",
-    "lemma": "explicit",
-    "pos": "adjective",
+    "id": "fbfe594d-f2c7-4cbb-81aa-f244e2d772b6",
+    "lemma": "aspect",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "açık, net"
+      "yön, açısından, görünüş"
     ],
     "synonyms": [
-      "clear",
-      "direct",
-      "unambiguous"
+      "feature",
+      "facet",
+      "side"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The contract gave explicit instructions on how to proceed.",
-      "translation": "Sözleşme, nasıl ilerleneceği konusunda açık talimatlar verdi."
+      "text": "Climate change affects almost every aspect of our lives, from the economy to health.",
+      "translation": "İklim değişikliği, ekonomiden sağlığa kadar hayatımızın neredeyse her yönünü etkiler."
     },
     "cloze": {
-      "template": "The contract gave {{cloze}} instructions on how to proceed.",
-      "answer": "explicit"
+      "template": "Climate change affects almost every {{cloze}} of our lives, from the economy to health.",
+      "answer": "aspect"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610031",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_27",
-    "lemma": "extensive",
-    "pos": "adjective",
+    "id": "b51bae14-f1d2-4903-9ae5-bc7bf50ae15b",
+    "lemma": "assessment",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "kapsamlı, geniş"
+      "değerlendirme, kıymet takdiri"
     ],
     "synonyms": [
-      "widespread",
-      "broad",
-      "vast"
+      "evaluation",
+      "appraisal",
+      "analysis"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The fire caused extensive damage to the building.",
-      "translation": "Yangın binada kapsamlı hasara neden oldu."
+      "text": "The teacher conducted a thorough assessment of the students' reading comprehension skills.",
+      "translation": "Öğretmen, öğrencilerin okuduğunu anlama becerileri üzerine kapsamlı bir değerlendirme yaptı."
     },
     "cloze": {
-      "template": "The fire caused {{cloze}} damage to the building.",
-      "answer": "extensive"
+      "template": "The teacher conducted a thorough {{cloze}} of the students' reading comprehension skills.",
+      "answer": "assessment"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610041",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_28",
-    "lemma": "flexible",
-    "pos": "adjective",
+    "id": "d1e9a194-f10c-4a4a-a492-ca7009d4553e",
+    "lemma": "assistance",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "esnek"
+      "yardım, destek"
     ],
     "synonyms": [
-      "adaptable",
-      "pliable"
+      "help",
+      "aid",
+      "support"
     ],
-    "multi_word": false,
     "example": {
-      "text": "We need a flexible schedule to accommodate everyone's needs.",
-      "translation": "Herkesin ihtiyaçlarını karşılamak için esnek bir programa ihtiyacımız var."
+      "text": "The organization provides financial assistance to families affected by natural disasters.",
+      "translation": "Örgüt, doğal afetlerden etkilenen ailelere maddi yardım sağlamaktadır."
     },
     "cloze": {
-      "template": "We need a {{cloze}} schedule to accommodate everyone's needs.",
-      "answer": "flexible"
+      "template": "The organization provides financial {{cloze}} to families affected by natural disasters.",
+      "answer": "assistance"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610058",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_29",
-    "lemma": "fragile",
-    "pos": "adjective",
+    "id": "5db10cfb-cb4e-4033-afff-bdede9f41df7",
+    "lemma": "association",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "kırılgan, hassas"
+      "dernek, birlik, ilişki"
     ],
     "synonyms": [
-      "delicate",
-      "frail",
-      "brittle"
+      "organization",
+      "society",
+      "connection"
     ],
-    "multi_word": false,
     "example": {
-      "text": "The economy remains fragile despite recent improvements.",
-      "translation": "Son iyileşmelere rağmen ekonomi kırılganlığını koruyor."
+      "text": "The medical association published new guidelines for the treatment of hypertension.",
+      "translation": "Tıp derneği, hipertansiyon tedavisi için yeni kılavuzlar yayınladı."
     },
     "cloze": {
-      "template": "The economy remains {{cloze}} despite recent improvements.",
-      "answer": "fragile"
+      "template": "The medical {{cloze}} published new guidelines for the treatment of hypertension.",
+      "answer": "association"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610067",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "adj_30",
-    "lemma": "fundamental",
-    "pos": "adjective",
+    "id": "07c07892-48b1-49a9-b774-d9872a755a65",
+    "lemma": "assumption",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "temel, esas"
+      "varsayım, farz etme"
     ],
     "synonyms": [
-      "basic",
-      "primary",
-      "core"
+      "supposition",
+      "presumption",
+      "hypothesis"
     ],
-    "multi_word": false,
     "example": {
-      "text": "Freedom of speech is a fundamental human right.",
-      "translation": "İfade özgürlüğü temel bir insan hakkıdır."
+      "text": "His argument was based on the false assumption that the economy would continue to grow indefinitely.",
+      "translation": "Argümanı, ekonominin sonsuza kadar büyümeye devam edeceği şeklindeki yanlış varsayıma dayanıyordu."
     },
     "cloze": {
-      "template": "Freedom of speech is a {{cloze}} human right.",
-      "answer": "fundamental"
+      "template": "His argument was based on the false {{cloze}} that the economy would continue to grow indefinitely.",
+      "answer": "assumption"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610093",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_01",
-    "lemma": "account for",
-    "pos": "phrasal_verb",
+    "id": "9044236e-f6ff-4dc6-8e25-7167c7c13142",
+    "lemma": "attempt",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "oluşturmak, açıklamak"
+      "girişim, teşebbüs, deneme"
     ],
     "synonyms": [
-      "explain",
-      "constitute"
+      "effort",
+      "trial",
+      "endeavor"
     ],
-    "multi_word": true,
     "example": {
-      "text": "Oil exports account for 80% of the country's revenue.",
-      "translation": "Petrol ihracatı, ülke gelirinin %80'ini oluşturmaktadır."
+      "text": "The climbers made a brave attempt to reach the summit despite the worsening weather.",
+      "translation": "Dağcılar, kötüleşen hava koşullarına rağmen zirveye ulaşmak için cesur bir girişimde bulundular."
     },
     "cloze": {
-      "template": "Oil exports account {{cloze}} 80% of the country's revenue.",
-      "answer": "for"
+      "template": "The climbers made a brave {{cloze}} to reach the summit despite the worsening weather.",
+      "answer": "attempt"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610102",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_02",
-    "lemma": "break down",
-    "pos": "phrasal_verb",
+    "id": "b9a04351-2768-4c3f-bcaa-0e851eaac5d6",
+    "lemma": "attention",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "bozulmak, parçalanmak"
+      "dikkat, ilgi"
     ],
     "synonyms": [
-      "stop working",
-      "collapse",
-      "fail"
+      "concentration",
+      "focus",
+      "notice"
     ],
-    "multi_word": true,
     "example": {
-      "text": "Negotiations between the two countries began to break down.",
-      "translation": "İki ülke arasındaki müzakereler bozulmaya başladı."
+      "text": "The issue of climate change requires the immediate attention of world leaders.",
+      "translation": "İklim değişikliği sorunu, dünya liderlerinin acil dikkatini gerektirmektedir."
     },
     "cloze": {
-      "template": "Negotiations between the two countries began to break {{cloze}}.",
-      "answer": "down"
+      "template": "The issue of climate change requires the immediate {{cloze}} of world leaders.",
+      "answer": "attention"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610115",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_03",
-    "lemma": "break out",
-    "pos": "phrasal_verb",
+    "id": "3b831713-4279-459f-b953-a7851165742f",
+    "lemma": "audience",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "patlak vermek (savaş/yangın)"
+      "izleyici, dinleyici, seyirci"
     ],
     "synonyms": [
-      "erupt",
-      "start suddenly"
+      "spectators",
+      "listeners",
+      "viewers"
     ],
-    "multi_word": true,
     "example": {
-      "text": "War could break out if diplomatic efforts fail.",
-      "translation": "Diplomatik çabalar başarısız olursa savaş patlak verebilir."
+      "text": "The speaker captivated the audience with his inspiring story about overcoming adversity.",
+      "translation": "Konuşmacı, zorlukların üstesinden gelme konusundaki ilham verici hikayesiyle izleyicileri büyüledi."
     },
     "cloze": {
-      "template": "War could break {{cloze}} if diplomatic efforts fail.",
-      "answer": "out"
+      "template": "The speaker captivated the {{cloze}} with his inspiring story about overcoming adversity.",
+      "answer": "audience"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610125",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_04",
-    "lemma": "bring about",
-    "pos": "phrasal_verb",
+    "id": "1076b45b-a197-4ab8-b861-b1f373aec711",
+    "lemma": "awareness",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "neden olmak, yol açmak"
+      "farkındalık, bilinç"
     ],
     "synonyms": [
-      "cause",
-      "lead to",
-      "generate"
+      "consciousness",
+      "realization",
+      "perception"
     ],
-    "multi_word": true,
     "example": {
-      "text": "The new policies aim to bring about positive social change.",
-      "translation": "Yeni politikalar olumlu sosyal değişim getirmeyi amaçlıyor."
+      "text": "The campaign aims to raise public awareness about the dangers of smoking.",
+      "translation": "Kampanya, sigaranın tehlikeleri konusunda kamuoyunun farkındalığını artırmayı amaçlamaktadır."
     },
     "cloze": {
-      "template": "The new policies aim to bring {{cloze}} positive social change.",
-      "answer": "about"
+      "template": "The campaign aims to raise public {{cloze}} about the dangers of smoking.",
+      "answer": "awareness"
     },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610135",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_05",
-    "lemma": "call for",
-    "pos": "phrasal_verb",
+    "id": "546fa890-70b5-433a-8601-d0e77afc8600",
+    "lemma": "balance",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "gerektirmek, talep etmek"
+      "denge, bakiye"
     ],
     "synonyms": [
-      "require",
-      "demand",
-      "necessitate"
+      "equilibrium",
+      "stability",
+      "parity"
     ],
-    "multi_word": true,
     "example": {
-      "text": "This situation calls for immediate action.",
-      "translation": "Bu durum acil eylem gerektirir."
+      "text": "It is important to maintain a healthy balance between work and personal life.",
+      "translation": "İş ve özel hayat arasında sağlıklı bir denge kurmak önemlidir."
     },
     "cloze": {
-      "template": "This situation calls {{cloze}} immediate action.",
-      "answer": "for"
+      "template": "It is important to maintain a healthy {{cloze}} between work and personal life.",
+      "answer": "balance"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610145",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_06",
-    "lemma": "call off",
-    "pos": "phrasal_verb",
+    "id": "0c297c3d-9039-4ee1-b4c4-1b0e2818c160",
+    "lemma": "behaviour",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "iptal etmek"
+      "davranış, tutum"
     ],
     "synonyms": [
-      "cancel",
-      "abandon",
-      "drop"
+      "conduct",
+      "actions",
+      "demeanor"
     ],
-    "multi_word": true,
     "example": {
-      "text": "They had to call off the meeting due to the storm.",
-      "translation": "Fırtına nedeniyle toplantıyı iptal etmek zorunda kaldılar."
+      "text": "The study analyzes the social behaviour of primates in their natural habitat.",
+      "translation": "Çalışma, primatların doğal ortamlarındaki sosyal davranışlarını analiz ediyor."
     },
     "cloze": {
-      "template": "They had to call {{cloze}} the meeting due to the storm.",
-      "answer": "off"
+      "template": "The study analyzes the social {{cloze}} of primates in their natural habitat.",
+      "answer": "behaviour"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610155",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_07",
-    "lemma": "carry out",
-    "pos": "phrasal_verb",
+    "id": "e50cf8e1-a377-4296-a615-862240e80137",
+    "lemma": "belief",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "uygulamak, yerine getirmek"
+      "inanç, itikat"
     ],
     "synonyms": [
-      "perform",
-      "execute",
-      "conduct"
-    ],
-    "multi_word": true,
-    "example": {
-      "text": "Scientists carry out experiments to test their theories.",
-      "translation": "Bilim insanları teorilerini test etmek için deneyler yaparlar."
-    },
-    "cloze": {
-      "template": "Scientists carry {{cloze}} experiments to test their theories.",
-      "answer": "out"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "pv_08",
-    "lemma": "catch up",
-    "pos": "phrasal_verb",
-    "meanings": [
-      "yetişmek, yakalamak"
-    ],
-    "synonyms": [
-      "reach",
-      "keep up with"
-    ],
-    "multi_word": true,
-    "example": {
-      "text": "He needs to study hard to catch up with his classmates.",
-      "translation": "Sınıf arkadaşlarına yetişmek için çok çalışması gerekiyor."
-    },
-    "cloze": {
-      "template": "He needs to study hard to catch {{cloze}} with his classmates.",
-      "answer": "up"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "pv_09",
-    "lemma": "come across",
-    "pos": "phrasal_verb",
-    "meanings": [
-      "karşılaşmak (tesadüfen)"
-    ],
-    "synonyms": [
-      "encounter",
-      "run into",
-      "find by chance"
-    ],
-    "multi_word": true,
-    "example": {
-      "text": "I came across some old photos while cleaning the attic.",
-      "translation": "Tavan arasını temizlerken bazı eski fotoğraflara rastladım."
-    },
-    "cloze": {
-      "template": "I came {{cloze}} some old photos while cleaning the attic.",
-      "answer": "across"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "pv_10",
-    "lemma": "come up with",
-    "pos": "phrasal_verb",
-    "meanings": [
-      "bulmak, üretmek (fikir)"
-    ],
-    "synonyms": [
-      "invent",
-      "create",
-      "think of"
-    ],
-    "multi_word": true,
-    "example": {
-      "text": "Engineers need to come up with a solution to the problem.",
-      "translation": "Mühendislerin soruna bir çözüm bulması gerekiyor."
-    },
-    "cloze": {
-      "template": "Engineers need to come {{cloze}} a solution to the problem.",
-      "answer": "up with"
-    },
-    "difficulty": 3
-  },
-  {
-    "id": "pv_11",
-    "lemma": "cope with",
-    "pos": "phrasal_verb",
-    "meanings": [
-      "başa çıkmak, üstesinden gelmek"
-    ],
-    "synonyms": [
-      "deal with",
-      "manage",
-      "handle"
-    ],
-    "multi_word": true,
-    "example": {
-      "text": "It is difficult to cope with stress without support.",
-      "translation": "Destek olmadan stresle başa çıkmak zordur."
-    },
-    "cloze": {
-      "template": "It is difficult to cope {{cloze}} stress without support.",
-      "answer": "with"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "pv_12",
-    "lemma": "count on",
-    "pos": "phrasal_verb",
-    "meanings": [
-      "güvenmek, bel bağlamak"
-    ],
-    "synonyms": [
-      "rely on",
-      "depend on",
+      "faith",
+      "conviction",
       "trust"
     ],
-    "multi_word": true,
     "example": {
-      "text": "You can count on me to support you during this difficult time.",
-      "translation": "Bu zor zamanda seni destekleyeceğime güvenebilirsin."
+      "text": "It is a common belief that education is the key to reducing poverty.",
+      "translation": "Eğitimin yoksulluğu azaltmanın anahtarı olduğu yaygın bir inançtır."
     },
     "cloze": {
-      "template": "You can count {{cloze}} me to support you during this difficult time.",
-      "answer": "on"
+      "template": "It is a common {{cloze}} that education is the key to reducing poverty.",
+      "answer": "belief"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610164",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_13",
-    "lemma": "cut down on",
-    "pos": "phrasal_verb",
+    "id": "42a8db13-1f5b-4fe5-90fd-b4849e788dc9",
+    "lemma": "body",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "azaltmak"
+      "vücut, gövde, kurul"
     ],
     "synonyms": [
-      "reduce",
-      "decrease"
+      "physique",
+      "structure",
+      "organization"
     ],
-    "multi_word": true,
     "example": {
-      "text": "Doctors advised him to cut down on sugar.",
-      "translation": "Doktorlar şeker tüketimini azaltmasını tavsiye etti."
+      "text": "Regular exercise is essential for maintaining a healthy body and mind.",
+      "translation": "Düzenli egzersiz, sağlıklı bir vücut ve zihin yapısını korumak için esastır."
     },
     "cloze": {
-      "template": "Doctors advised him to cut {{cloze}} sugar.",
-      "answer": "down on"
+      "template": "Regular exercise is essential for maintaining a healthy {{cloze}} and mind.",
+      "answer": "body"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610177",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_14",
-    "lemma": "figure out",
-    "pos": "phrasal_verb",
+    "id": "005cdecc-3268-4040-9181-c545c445e8f8",
+    "lemma": "budget",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "çözmek, anlamak"
+      "bütçe"
     ],
     "synonyms": [
-      "understand",
-      "solve",
-      "comprehend"
+      "finances",
+      "funds",
+      "cost"
     ],
-    "multi_word": true,
     "example": {
-      "text": "I can't figure out why the computer keeps crashing.",
-      "translation": "Bilgisayarın neden çöküp durduğunu çözemiyorum."
+      "text": "The government announced a tight budget with cuts to public spending.",
+      "translation": "Hükümet, kamu harcamalarında kesintiler içeren sıkı bir bütçe açıkladı."
     },
     "cloze": {
-      "template": "I can't figure {{cloze}} why the computer keeps crashing.",
-      "answer": "out"
+      "template": "The government announced a tight {{cloze}} with cuts to public spending.",
+      "answer": "budget"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610187",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_15",
-    "lemma": "give up",
-    "pos": "phrasal_verb",
+    "id": "c7b52496-a414-4465-9a7b-59e6bc52b4df",
+    "lemma": "business",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "bırakmak, vazgeçmek"
+      "iş, işletme, ticaret"
     ],
     "synonyms": [
-      "quit",
-      "stop",
-      "surrender"
+      "commerce",
+      "trade",
+      "enterprise"
     ],
-    "multi_word": true,
     "example": {
-      "text": "Never give up on your dreams, no matter how hard it gets.",
-      "translation": "Ne kadar zor olursa olsun hayallerinden asla vazgeçme."
+      "text": "The city offers tax incentives to attract new business and boost the local economy.",
+      "translation": "Şehir, yeni işletmeleri çekmek ve yerel ekonomiyi canlandırmak için vergi teşvikleri sunuyor."
     },
     "cloze": {
-      "template": "Never give {{cloze}} on your dreams, no matter how hard it gets.",
-      "answer": "up"
+      "template": "The city offers tax incentives to attract new {{cloze}} and boost the local economy.",
+      "answer": "business"
     },
-    "difficulty": 1
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610196",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_16",
-    "lemma": "look into",
-    "pos": "phrasal_verb",
+    "id": "2297e444-721d-4687-9c27-1a9f0080e0db",
+    "lemma": "candidate",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "incelemek, araştırmak"
+      "aday"
     ],
     "synonyms": [
-      "investigate",
-      "examine",
-      "explore"
+      "applicant",
+      "contender",
+      "nominee"
     ],
-    "multi_word": true,
     "example": {
-      "text": "Authorities promised to look into the allegations of corruption.",
-      "translation": "Yetkililer yolsuzluk iddialarını inceleme sözü verdi."
+      "text": "The ideal candidate for this position should have strong leadership skills and relevant experience.",
+      "translation": "Bu pozisyon için ideal aday, güçlü liderlik becerilerine ve ilgili deneyime sahip olmalıdır."
     },
     "cloze": {
-      "template": "Authorities promised to look {{cloze}} the allegations of corruption.",
-      "answer": "into"
+      "template": "The ideal {{cloze}} for this position should have strong leadership skills and relevant experience.",
+      "answer": "candidate"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610207",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_17",
-    "lemma": "make up",
-    "pos": "phrasal_verb",
+    "id": "f59553e4-1be2-43f5-822f-37e4ced8d318",
+    "lemma": "care",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "oluşturmak, uydurmak"
+      "bakım, özen, dikkat"
     ],
     "synonyms": [
-      "constitute",
-      "invent",
-      "compose"
+      "caution",
+      "attention",
+      "protection"
     ],
-    "multi_word": true,
     "example": {
-      "text": "Women make up 50% of the population.",
-      "translation": "Kadınlar nüfusun %50'sini oluşturuyor."
+      "text": "Medical professionals must handle patient data with the utmost care and confidentiality.",
+      "translation": "Tıp uzmanları, hasta verilerini en üst düzeyde özen ve gizlilikle ele almalıdır."
     },
     "cloze": {
-      "template": "Women make {{cloze}} 50% of the population.",
-      "answer": "up"
+      "template": "Medical professionals must handle patient data with the utmost {{cloze}} and confidentiality.",
+      "answer": "care"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610217",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_18",
-    "lemma": "point out",
-    "pos": "phrasal_verb",
+    "id": "110d7408-49a0-4946-b540-4dec893ae91d",
+    "lemma": "case",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "işaret etmek, belirtmek"
+      "durum, vaka, dava"
     ],
     "synonyms": [
-      "indicate",
-      "mention",
-      "highlight"
+      "situation",
+      "instance",
+      "lawsuit"
     ],
-    "multi_word": true,
     "example": {
-      "text": "Critics point out that the plan has several flaws.",
-      "translation": "Eleştirmenler planın birkaç kusuru olduğuna işaret ediyor."
+      "text": "In case of emergency, please evacuate the building immediately using the nearest exit.",
+      "translation": "Acil durum halinde, lütfen en yakın çıkışı kullanarak binayı derhal tahliye edin."
     },
     "cloze": {
-      "template": "Critics point {{cloze}} that the plan has several flaws.",
-      "answer": "out"
+      "template": "In {{cloze}} of emergency, please evacuate the building immediately using the nearest exit.",
+      "answer": "case"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610230",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_19",
-    "lemma": "put off",
-    "pos": "phrasal_verb",
+    "id": "3b339177-7d71-4443-8254-12f156e1b576",
+    "lemma": "cause",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "ertelemek"
+      "sebep, neden, amaç"
     ],
     "synonyms": [
-      "postpone",
-      "delay",
-      "defer"
+      "reason",
+      "origin",
+      "source"
     ],
-    "multi_word": true,
     "example": {
-      "text": "Never put off until tomorrow what you can do today.",
-      "translation": "Bugün yapabileceğin işi asla yarına erteleme."
+      "text": "Smoking is a leading cause of preventable diseases such as lung cancer.",
+      "translation": "Sigara içmek, akciğer kanseri gibi önlenebilir hastalıkların önde gelen bir nedenidir."
     },
     "cloze": {
-      "template": "Never put {{cloze}} until tomorrow what you can do today.",
-      "answer": "off"
+      "template": "Smoking is a leading {{cloze}} of preventable diseases such as lung cancer.",
+      "answer": "cause"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610243",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "pv_20",
-    "lemma": "take over",
-    "pos": "phrasal_verb",
+    "id": "72a5c938-5d85-49f0-8abf-f2260a28ef92",
+    "lemma": "cell",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "devralmak, üstlenmek"
+      "hücre"
     ],
     "synonyms": [
-      "assume control of",
-      "acquire"
+      "unit",
+      "compartment"
     ],
-    "multi_word": true,
     "example": {
-      "text": "The vice president will take over if the president resigns.",
-      "translation": "Başkan istifa ederse başkan yardımcısı görevi devralacak."
+      "text": "The human body is composed of trillions of cells that work together to maintain life.",
+      "translation": "İnsan vücudu, yaşamı sürdürmek için birlikte çalışan trilyonlarca hücreden oluşur."
     },
     "cloze": {
-      "template": "The vice president will take {{cloze}} if the president resigns.",
-      "answer": "over"
+      "template": "The human body is composed of trillions of {{cloze}}s that work together to maintain life.",
+      "answer": "cell"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610255",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "conj_01",
-    "lemma": "although",
-    "pos": "conjunction",
+    "id": "429a1074-c28a-4647-ad47-710b273e9686",
+    "lemma": "century",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "-e rağmen, olsa bile"
+      "yüzyıl, asır"
     ],
     "synonyms": [
-      "even though",
-      "though",
-      "while"
+      "100 years"
     ],
     "example": {
-      "text": "Although it was raining, they went for a walk.",
-      "translation": "Yağmur yağmasına rağmen yürüyüşe çıktılar."
+      "text": "The 21st century has seen rapid advancements in digital technology and communication.",
+      "translation": "21. yüzyıl, dijital teknoloji ve iletişimde hızlı ilerlemelere tanık oldu."
     },
     "cloze": {
-      "template": "{{cloze}} it was raining, they went for a walk.",
-      "answer": "Although"
+      "template": "The 21st {{cloze}} has seen rapid advancements in digital technology and communication.",
+      "answer": "century"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610265",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "conj_02",
-    "lemma": "because",
-    "pos": "conjunction",
+    "id": "f29d9824-96a9-4d3c-ad47-d8f2f32e5599",
+    "lemma": "challenge",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "çünkü, -dığı için"
+      "zorluk, meydan okuma"
     ],
     "synonyms": [
-      "since",
-      "as",
-      "due to the fact that"
+      "difficulty",
+      "obstacle",
+      "problem"
     ],
     "example": {
-      "text": "We stayed at home because the weather was bad.",
-      "translation": "Hava kötü olduğu için evde kaldık."
+      "text": "Addressing climate change causes a significant challenge for policymakers worldwide.",
+      "translation": "İklim değişikliğiyle mücadele etmek, dünya genelindeki politika yapıcılar için önemli bir zorluk teşkil etmektedir."
     },
     "cloze": {
-      "template": "We stayed at home {{cloze}} the weather was bad.",
-      "answer": "because"
+      "template": "Addressing climate change causes a significant {{cloze}} for policymakers worldwide.",
+      "answer": "challenge"
     },
-    "difficulty": 1
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610280",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "conj_03",
-    "lemma": "even if",
-    "pos": "conjunction",
+    "id": "4825be4e-69b5-431c-bc14-4afe8827fe93",
+    "lemma": "change",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "olsa bile"
+      "değişim, değişiklik"
     ],
     "synonyms": [
-      "whether or not",
-      "although"
+      "alternation",
+      "modification",
+      "shift"
     ],
     "example": {
-      "text": "I will go even if it rains.",
-      "translation": "Yağmur yağsa bile gideceğim."
+      "text": "Social change is often driven by the collective action of determined individuals.",
+      "translation": "Toplumsal değişim genellikle kararlı bireylerin kolektif eylemleriyle yönlendirilir."
     },
     "cloze": {
-      "template": "I will go {{cloze}} it rains.",
-      "answer": "even if"
+      "template": "Social {{cloze}} is often driven by the collective action of determined individuals.",
+      "answer": "change"
     },
-    "multi_word": true,
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610293",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "conj_04",
-    "lemma": "if",
-    "pos": "conjunction",
+    "id": "1f4742d6-fc44-46e3-bc83-f3d9c34223d7",
+    "lemma": "characteristic",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "eğer"
+      "özellik, nitelik"
     ],
     "synonyms": [
-      "provided that",
-      "in case"
+      "feature",
+      "quality",
+      "trait"
     ],
     "example": {
-      "text": "If you study hard, you will pass the exam.",
-      "translation": "Eğer sıkı çalışırsan sınavı geçersin."
+      "text": "Adaptability is a key characteristic of species that survive in changing environments.",
+      "translation": "Uyum sağlama yeteneği, değişen çevrelerde hayatta kalan türlerin temel bir özelliğidir."
     },
     "cloze": {
-      "template": "{{cloze}} you study hard, you will pass the exam.",
-      "answer": "If"
+      "template": "Adaptability is a key {{cloze}} of species that survive in changing environments.",
+      "answer": "characteristic"
     },
-    "difficulty": 1
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610302",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "conj_05",
-    "lemma": "in case",
-    "pos": "conjunction",
+    "id": "340bfe4d-4164-4922-9266-7e36d3eb9d62",
+    "lemma": "circumstance",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "durumunda, ihtimaline karşı"
+      "durum, koşul, hal"
     ],
     "synonyms": [
-      "in the event that"
+      "situation",
+      "condition",
+      "context"
     ],
     "example": {
-      "text": "Take an umbrella in case it rains.",
-      "translation": "Yağmur yağma ihtimaline karşı şemsiye al."
+      "text": "Under no circumstance should you open the emergency door while the plane is in flight.",
+      "translation": "Uçak havadayken acil çıkış kapısını hiçbir koşulda açmamalısınız."
     },
     "cloze": {
-      "template": "Take an umbrella {{cloze}} it rains.",
-      "answer": "in case"
+      "template": "Under no {{cloze}} should you open the emergency door while the plane is in flight.",
+      "answer": "circumstance"
     },
-    "multi_word": true,
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610373",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "conj_06",
-    "lemma": "provided that",
-    "pos": "conjunction",
+    "id": "075b78df-66e9-44e6-84d9-ce75cb8ae3bd",
+    "lemma": "citizen",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "şartıyla, koşuluyla"
+      "vatandaş, yurttaş"
     ],
     "synonyms": [
-      "on condition that",
-      "as long as"
+      "resident",
+      "inhabitant",
+      "civilian"
     ],
     "example": {
-      "text": "You can borrow the car provided that you return it by 5 PM.",
-      "translation": "Saat 17.00'ye kadar geri getirmek şartıyla arabayı ödünç alabilirsin."
+      "text": "Every citizen has the right to vote and participate in the democratic process.",
+      "translation": "Her vatandaşın oy kullanma ve demokratik sürece katılma hakkı vardır."
     },
     "cloze": {
-      "template": "You can borrow the car {{cloze}} you return it by 5 PM.",
-      "answer": "provided that"
+      "template": "Every {{cloze}} has the right to vote and participate in the democratic process.",
+      "answer": "citizen"
     },
-    "multi_word": true,
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610413",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "conj_07",
-    "lemma": "since",
-    "pos": "conjunction",
+    "id": "76558058-63bb-4e55-a47a-2e58011f74a6",
+    "lemma": "city",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "-den beri; çünkü"
+      "şehir, kent"
     ],
     "synonyms": [
-      "because",
-      "as"
+      "metropolis",
+      "town",
+      "urban area"
     ],
     "example": {
-      "text": "Since we have no money, we can't buy a new car.",
-      "translation": "Paramız olmadığı için yeni bir araba alamayız."
+      "text": "Urban planning is essential to manage the growth of a rapidly expanding city.",
+      "translation": "Kentsel planlama, hızla genişleyen bir şehrin büyümesini yönetmek için esastır."
     },
     "cloze": {
-      "template": "{{cloze}} we have no money, we can't buy a new car.",
-      "answer": "Since"
+      "template": "Urban planning is essential to manage the growth of a rapidly expanding {{cloze}}.",
+      "answer": "city"
     },
-    "difficulty": 2
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610444",
+    "repetitions": 0,
+    "lastReviewed": null
   },
   {
-    "id": "conj_08",
-    "lemma": "so that",
-    "pos": "conjunction",
+    "id": "7d840802-d170-400e-b1bf-1e71753c49a9",
+    "lemma": "claim",
+    "pos": "noun",
+    "multiWord": false,
     "meanings": [
-      "-sin diye, olsun diye"
+      "iddia, talep, hak"
     ],
     "synonyms": [
-      "in order that"
+      "assertion",
+      "allegation",
+      "demand"
     ],
     "example": {
-      "text": "He works hard so that he can support his family.",
-      "translation": "Ailesini geçindirebilsin diye çok çalışıyor."
+      "text": "The scientist made a bold claim that he had found a cure for the disease, but it required verification.",
+      "translation": "Bilim insanı, hastalığa bir çare bulduğuna dair cesur bir iddiada bulundu, ancak bunun doğrulanması gerekiyordu."
     },
     "cloze": {
-      "template": "He works hard {{cloze}} he can support his family.",
-      "answer": "so that"
+      "template": "The scientist made a bold {{cloze}} that he had found a cure for the disease, but it required verification.",
+      "answer": "claim"
     },
-    "multi_word": true,
-    "difficulty": 2
-  },
-  {
-    "id": "conj_09",
-    "lemma": "unless",
-    "pos": "conjunction",
-    "meanings": [
-      "-medikçe, olmazsa"
-    ],
-    "synonyms": [
-      "if not",
-      "except if"
-    ],
-    "example": {
-      "text": "You will fail unless you study harder.",
-      "translation": "Daha sıkı çalışmazsan başarısız olursun."
-    },
-    "cloze": {
-      "template": "You will fail {{cloze}} you study harder.",
-      "answer": "unless"
-    },
-    "difficulty": 2
-  },
-  {
-    "id": "conj_10",
-    "lemma": "whereas",
-    "pos": "conjunction",
-    "meanings": [
-      "oysa, halbuki"
-    ],
-    "synonyms": [
-      "while",
-      "on the contrary"
-    ],
-    "example": {
-      "text": "He loves sports, whereas his brother prefers reading.",
-      "translation": "O sporu sever, oysa kardeşi kitap okumayı tercih eder."
-    },
-    "cloze": {
-      "template": "He loves sports, {{cloze}} his brother prefers reading.",
-      "answer": "whereas"
-    },
-    "difficulty": 3
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:17:57.610469",
+    "repetitions": 0,
+    "lastReviewed": null
   }
 ]
