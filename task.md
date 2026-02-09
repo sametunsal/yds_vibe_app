@@ -1,12 +1,9 @@
-# Tasarım Görevleri
+# Task List - Streak & Activity History
 
-## Genel
-- [x] MVP Tasarım Dokümanını Oluştur
-- [x] Tasarımı Kullanıcıya Sun
-- [x] İçerik Üretim Pipeline'ını Tasarla
-- [x] 100 MVL Kart Listesini Hazırla (Starter + Core)
-- [x] 40 Verb Kartı Oluştur (verbs_40.json)
-- [x] 40 Adjective Kartı Oluştur (adjectives_40.json)
-- [x] 20 Phrasal Verb Kartı Oluştur (phrasal_verbs_20.json)
-- [x] 10 Conjunction Kartı Oluştur (conjunctions_10.json) <!-- id: 8 -->
-- [ ] Kart Oluşturma API/Scriptini Tasarla <!-- id: 4 -->
+- [x] Check/Add `shared_preferences` to `pubspec.yaml`
+- [x] Create `lib/services/streak_service.dart` <!-- id: 14 -->
+- [x] Implement `saveStudyActivity` and math logic <!-- id: 17 -->
+- [x] Integrate `StreakService` into `lib/services/srs_service.dart` (Async) <!-- id: 15 -->
+- [x] Update `ReviewScreen.dart` to await processReview <!-- id: 18 -->
+- [x] Update `ProfileScreen.dart` with real data <!-- id: 16 -->
+- [x] Fix `srs_service_test.dart` compile errors <!-- id: 19 -->
