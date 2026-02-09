@@ -1,15 +1,16 @@
 import '../models/card.dart';
+import 'streak_service.dart';
 
 class SRSService {
   // SM-2 Algorithm Implementation
   // Returns an updated card with new interval and ease factor
   // Optional `now` parameter for deterministic testing
 
-  static VocabularyCard processReview(
+  static Future<VocabularyCard> processReview(
     VocabularyCard card,
     Rating rating, {
     DateTime? now,
-  }) {
+  }) async {
     double newEaseFactor = card.easeFactor;
     int newInterval;
     int newRepetitions = card.repetitions;
@@ -65,6 +66,9 @@ class SRSService {
     final currentTime = now ?? DateTime.now();
     final newDueDate = currentTime.add(Duration(days: newInterval));
 
+    // Save study activity for streak overlap
+    await StreakService.saveStudyActivity();
+
     return card.copyWith(
       easeFactor: newEaseFactor,
       intervalDays: newInterval,
@@ -80,9 +84,12 @@ class SRSService {
   static double _calculateEaseFactor(double currentEF, int quality) {
     // Map our 0-3 scale to SM-2's approximate 0-5 scale
     // 0 (Again) -> 0, 1 (Struggled) -> 2, 2 (Good) -> 4, 3 (Easy) -> 5
-    final int sm2Quality = quality == 0 ? 0 : (quality == 1 ? 2 : (quality == 2 ? 4 : 5));
+    final int sm2Quality = quality == 0
+        ? 0
+        : (quality == 1 ? 2 : (quality == 2 ? 4 : 5));
 
-    final newEF = currentEF + (0.1 - (5 - sm2Quality) * (0.08 + (5 - sm2Quality) * 0.02));
+    final newEF =
+        currentEF + (0.1 - (5 - sm2Quality) * (0.08 + (5 - sm2Quality) * 0.02));
     return newEF;
   }
 
@@ -98,11 +105,29 @@ class SRSService {
 
   // Get learning cards (currently in learning, 0 < interval < 21 days)
   static List<VocabularyCard> getLearningCards(List<VocabularyCard> allCards) {
-    return allCards.where((card) => card.intervalDays > 0 && card.intervalDays < 21).toList();
+    return allCards
+        .where((card) => card.intervalDays > 0 && card.intervalDays < 21)
+        .toList();
   }
 
   // Get reviewed cards (interval >= 21 days - "graduated")
   static List<VocabularyCard> getReviewedCards(List<VocabularyCard> allCards) {
     return allCards.where((card) => card.intervalDays >= 21).toList();
+  }
+
+  // Get cards by category (POS)
+  // Supports: 'all', 'noun', 'verb', 'adj', 'adv', 'phrasal_verb', 'conjunction'
+  static List<VocabularyCard> getCardsByCategory(
+    List<VocabularyCard> allCards,
+    String category,
+  ) {
+    if (category.toLowerCase() == 'all' ||
+        category.toLowerCase() == 'tümü' ||
+        category.isEmpty) {
+      return allCards;
+    }
+    return allCards
+        .where((card) => card.pos.toLowerCase() == category.toLowerCase())
+        .toList();
   }
 }
