@@ -1,0 +1,8102 @@
+[
+  {
+    "id": "d7509877-10bb-4469-bc02-b8288e1419ec",
+    "lemma": "wealthy",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "wealthy"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160813",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b72d89dd-7b5e-4beb-8920-414c7290b8f7",
+    "lemma": "poor",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "poor"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160873",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "bdd146e6-5579-4a3f-af9d-1fc6e8d63568",
+    "lemma": "absolute",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "absolute"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160893",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "41ecf812-4b33-4edb-b09a-a7b184887df2",
+    "lemma": "acceptable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "acceptable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160904",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "07067d51-92cc-4d09-a60f-37fba14cf645",
+    "lemma": "accurate",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "accurate"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160915",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c0d7fbf4-b618-44ea-a335-ce608f98f0dc",
+    "lemma": "additional",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "additional"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160927",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c5e4d01a-4dd8-4183-b332-0d5ad9c5c988",
+    "lemma": "adequate",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "adequate"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160936",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "87b4fe06-a6e6-48d1-a605-0aa2dbb9b83b",
+    "lemma": "adult",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "adult"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160945",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "fd3f72a3-502b-4ea1-a088-5e282a6d1f35",
+    "lemma": "advanced",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "advanced"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160954",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "7ccfa3e7-cd97-4379-821a-f98df07d1ca2",
+    "lemma": "aggressive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "aggressive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160962",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "d1626b38-440b-4d93-8fc4-3cb7df757f4e",
+    "lemma": "ancient",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "ancient"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160971",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "0fdbe891-56d0-404e-b45d-3880b600fc74",
+    "lemma": "annual",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "annual"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160980",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "8b6f8c54-cc7a-4fb8-a4be-c4741d306c54",
+    "lemma": "anxious",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "anxious"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.160992",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f6796312-9048-4a5f-93e4-31b248113dc4",
+    "lemma": "apparent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "apparent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161004",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "5354c136-f431-421d-a194-84223577e12f",
+    "lemma": "appropriate",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "appropriate"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161012",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c211f648-4602-4d20-909b-d1bc668457ea",
+    "lemma": "attractive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "attractive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161021",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "7eaeb3fa-913e-4f0b-8c49-aa532afb15fe",
+    "lemma": "available",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "available"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161033",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "36460ba3-d942-40f8-9808-e88190fff881",
+    "lemma": "average",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "average"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161043",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "eee1624c-7b32-474b-bb5a-e0a66c94a74d",
+    "lemma": "aware",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "aware"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161051",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "2e92c5f9-f650-4107-85fd-cba59c0548f8",
+    "lemma": "bad",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "bad"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161060",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6baf87d3-c956-4358-9608-6e34a3f11b08",
+    "lemma": "basic",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "basic"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161069",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6883611e-29ef-4e5b-9e0c-c52fb7d920c8",
+    "lemma": "beautiful",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "beautiful"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161077",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "80c16a3f-c445-47be-8665-a91c98f195e9",
+    "lemma": "best",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "best"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161093",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "4b792a71-c8f2-4abb-bd9d-3e3d258137d3",
+    "lemma": "better",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "better"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161102",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "3098fa41-0f46-4842-9180-3f1dbe4bca1a",
+    "lemma": "brief",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "brief"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161111",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "11a8d5ef-6ee3-4a58-a61c-e151b4847624",
+    "lemma": "bright",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "bright"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161120",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "4e6ce7ce-6e00-4405-9637-d3637d4519b8",
+    "lemma": "brilliant",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "brilliant"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161130",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b352005a-3102-4480-a1c4-e1facf8ac877",
+    "lemma": "busy",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "busy"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161139",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "e0153245-25ef-4d20-b5d1-b658a191fabb",
+    "lemma": "capable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "capable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161148",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "5cefdced-1fd3-40c4-8f01-98f67d627f95",
+    "lemma": "central",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "central"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161156",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "1821e164-2dab-473b-a18a-52ffbf204bd7",
+    "lemma": "certain",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "certain"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161177",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "1f0d7a5a-da10-4bb5-96f2-f6db66c56d21",
+    "lemma": "cheap",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "cheap"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161185",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "4c588633-0f75-4016-9006-807a97de6eab",
+    "lemma": "chemical",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "chemical"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161201",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "830638eb-6ffa-440c-926b-c91d28bd1ccd",
+    "lemma": "clear",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "clear"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161211",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "bf888f78-b9bf-4d9a-bb7f-bfe1b8613ad6",
+    "lemma": "close",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "close"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161219",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b1a963f3-90a9-42b8-8049-d8a9ced6965a",
+    "lemma": "cold",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "cold"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161231",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "8ff298c6-4737-4a01-9d75-0ce7cee494d4",
+    "lemma": "comfortable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "comfortable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161240",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "1e93a6da-421f-4b39-9bd4-c55c3c770754",
+    "lemma": "common",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "common"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161248",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6511691b-ca60-4de5-99f3-85decf8eea62",
+    "lemma": "competitive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "competitive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161259",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "1e598566-abb4-49d4-a9a7-aebd216eeca3",
+    "lemma": "complex",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "complex"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161268",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "bd8ebc4a-67b7-4037-ae88-0a5fb90885f2",
+    "lemma": "complicated",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "complicated"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161277",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "69f96c61-efc2-416e-87a3-6788792b4b87",
+    "lemma": "comprehensive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "comprehensive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161287",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "9db98bcf-ead5-44e0-8b85-c0db0de74ccd",
+    "lemma": "concerned",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "concerned"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161300",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "cf7717c3-295b-4a6a-b4a8-b2c875221724",
+    "lemma": "confident",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "confident"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161309",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "02cd04ed-f3ae-469c-941a-b5ad70432d45",
+    "lemma": "considerable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "considerable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161318",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "92ceb2d4-ad27-4463-b6e3-536bea395f89",
+    "lemma": "consistent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "consistent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161327",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "dd1e7cb4-8489-43c7-a4b8-d2763e9ca237",
+    "lemma": "constant",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "constant"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161336",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "bd26fea0-19cb-43df-8729-d301443ae17e",
+    "lemma": "contemporary",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "contemporary"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161350",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "306f75c6-2253-4cb6-be13-a87377b163da",
+    "lemma": "convenient",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "convenient"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161362",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "749535be-5569-4ea8-86fb-076640be60be",
+    "lemma": "conventional",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "conventional"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161372",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b6bcb724-1806-472c-af85-abc130a3de64",
+    "lemma": "creative",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "creative"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161380",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "7578a922-c057-4a34-9561-9c08966df2ff",
+    "lemma": "criminal",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "criminal"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161389",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "a3f55edf-644a-4b67-9512-e12bfd3adf7f",
+    "lemma": "critical",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "critical"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161401",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "944bd20f-d6c4-4bb1-bef5-746cbaa2bd71",
+    "lemma": "crucial",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "crucial"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161411",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "741692b6-baab-47ff-b54e-930f2d2b8a42",
+    "lemma": "cultural",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "cultural"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161420",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "18fe6625-83c8-4e11-a872-76565e7d38f0",
+    "lemma": "current",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "current"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161429",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "edb420b7-74ca-4b20-9630-4ce1a445f9e4",
+    "lemma": "daily",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "daily"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161438",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "fb37dc3e-8a21-4b71-8321-23be98ac92ed",
+    "lemma": "dangerous",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "dangerous"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161447",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "0eeab745-f5bf-4632-b0df-ff8a9311a28a",
+    "lemma": "dead",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "dead"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161456",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b84d2d50-95d2-49c0-af92-a7b0afa98d60",
+    "lemma": "decent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "decent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161465",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "a3d8b544-37fc-4bf3-bec5-c591a9ed01ab",
+    "lemma": "definite",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "definite"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161477",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6597e029-81ae-4c62-a8bb-1b5f391a8e26",
+    "lemma": "dependent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "dependent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161486",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "faf040f6-aa91-4f6e-adb9-e3e4d2b2b0bc",
+    "lemma": "desperate",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "desperate"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161498",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "dabc3107-a1a0-40d9-8d16-4c95a17ce022",
+    "lemma": "determined",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "determined"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161507",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "472422fd-2075-4d3a-890b-a63d34e30f46",
+    "lemma": "different",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "different"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161522",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "928d48fe-dc74-44a9-b9ab-212a82de4cf1",
+    "lemma": "difficult",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "difficult"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161532",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "00968ff9-516b-4204-a0df-e1190be18685",
+    "lemma": "direct",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "direct"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161541",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "75b7a6f4-400c-41da-97b1-8cfe2558398a",
+    "lemma": "disabled",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "disabled"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161549",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "037f80c4-9fb3-47c7-80c1-b16ec0a39ffd",
+    "lemma": "distant",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "distant"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161557",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "26f5cce4-f695-4649-b6ae-e47a09f73d74",
+    "lemma": "distinct",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "distinct"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161566",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "586b67ed-69b1-4dbe-877f-88955fa306c6",
+    "lemma": "domestic",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "domestic"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161574",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "241aba28-5a03-4184-b5dd-0a6a28fd4509",
+    "lemma": "dull",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "dull"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161583",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "9d7c5cdf-5c0b-4789-8a54-68463dab1d21",
+    "lemma": "early",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "early"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161595",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6a311068-1a3e-4e5b-b5e0-65fcc00ad602",
+    "lemma": "eastern",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "eastern"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161607",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "7d24a396-e366-4b6c-a42a-0046871a1b1a",
+    "lemma": "easy",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "easy"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161617",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b34dccf2-aea0-4f9d-b60b-61c68c24ef9d",
+    "lemma": "economic",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "economic"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161626",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "5dd2d33c-c705-4b9a-b762-010f866b0aaa",
+    "lemma": "effective",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "effective"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161634",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c2f90461-2cdd-4d9f-b4b8-96aff5146c52",
+    "lemma": "efficient",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "efficient"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161643",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "1e0f26a8-7294-4081-b15d-c2b03431e15a",
+    "lemma": "emotional",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "emotional"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161652",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "a08c159b-379d-44a0-a806-7f54b3b2d599",
+    "lemma": "enormous",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "enormous"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161660",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6b4a1907-99a9-4f50-b8d4-a5761129637a",
+    "lemma": "enthusiastic",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "enthusiastic"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161672",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f2cb4dcf-4952-4bf9-94b9-7181376658a4",
+    "lemma": "entire",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "entire"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161687",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "13403cda-5a71-4447-b9db-0688c3d35dc8",
+    "lemma": "environmental",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "environmental"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161699",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "9337b2c8-d76b-43d9-9f6f-472ce8bd8c8f",
+    "lemma": "essential",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "essential"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161709",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "90afdc66-41c8-4908-99f3-6ea70c499459",
+    "lemma": "exact",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "exact"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161719",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "568057d5-3e6a-4979-bd51-cedb0b9fb6ae",
+    "lemma": "existing",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "existing"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161729",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "ec741069-b508-4f07-9b18-e6530947e6a7",
+    "lemma": "expensive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "expensive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161741",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "16da02c3-d49d-4e45-bd24-f7bc4d3a307b",
+    "lemma": "experimental",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "experimental"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161750",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "962267aa-ade5-4e8a-b1d3-188938f4603c",
+    "lemma": "extensive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "extensive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161759",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "1be6f8b5-a5df-420c-a595-ff789fa5cf45",
+    "lemma": "extreme",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "extreme"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161768",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "1e006525-a49f-4f58-bf53-d0a055fb4005",
+    "lemma": "false",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "false"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161777",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "185774d4-8024-495d-aee0-92f6bed5d583",
+    "lemma": "familiar",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "familiar"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161785",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "34b9614d-c7c5-4c55-a7b0-197d90d20bfd",
+    "lemma": "famous",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "famous"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161800",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "47f3483c-55d6-45c0-b329-f6cc15fdf4dd",
+    "lemma": "far",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "far"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161811",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "03424dbf-d9ed-48dc-95b0-84b52ac93d55",
+    "lemma": "fast",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "fast"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161820",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "d251237a-ad0d-422f-8652-7becccfecfab",
+    "lemma": "few",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "few"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161828",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "fa2163a2-3f1b-4167-8f98-0daa680743ed",
+    "lemma": "financial",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "financial"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161841",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "ec1e771f-71b5-473d-9554-fff231c0e384",
+    "lemma": "first",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "first"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161850",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "95549d7a-6d68-4f0d-a1fd-1524ed61c563",
+    "lemma": "following",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "following"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161893",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c6a8fb66-aef1-44a5-abb8-4f152652a98b",
+    "lemma": "foreign",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "foreign"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161908",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "726d5a81-0332-4c8b-8950-c86a1a8703bd",
+    "lemma": "former",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "former"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161918",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f0b4b1ca-bfe2-4060-affc-7bb40bbde761",
+    "lemma": "free",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "free"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161927",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "e56f09a6-9219-4a18-ab7c-3c5e6e6d1eb5",
+    "lemma": "frequent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "frequent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161939",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "aff422c2-92e1-4aa1-8f5e-2863b77d9769",
+    "lemma": "full",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "full"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161947",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "66ef94b3-c993-42f4-82ca-eeca52986c13",
+    "lemma": "fundamental",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "fundamental"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161956",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "06ccd155-f3ad-4ec4-8e0b-5555d65863a9",
+    "lemma": "general",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "general"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161965",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "38c74953-8692-4e26-b011-6c27730d9a94",
+    "lemma": "generous",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "generous"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161974",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "430c36c9-a965-4f87-86e1-10e29412d1f4",
+    "lemma": "genuine",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "genuine"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161982",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "fd7ddc36-4af8-4481-8609-04df42eb9ad7",
+    "lemma": "global",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "global"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.161991",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "0016f8e7-f5b7-4812-a821-26685dfa2b12",
+    "lemma": "good",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "good"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "36b6c008-66e1-4d9f-86a1-904616edb45c",
+    "lemma": "grateful",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "grateful"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162008",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "26aa5223-45a7-4e23-abb8-77096b17508b",
+    "lemma": "great",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "great"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162022",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "48e09869-26ee-4e61-a89a-ae3f203a9103",
+    "lemma": "half",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "half"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162034",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6761fda9-fd27-4476-adf5-271b596e4e2c",
+    "lemma": "hard",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "hard"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162043",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "d9b63687-ac44-4074-ad98-9191fc7645b1",
+    "lemma": "healthy",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "healthy"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162051",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "12324bb2-f1ff-49fc-a3f6-1873884fb5dd",
+    "lemma": "heavy",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "heavy"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162062",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "e3eea851-0bfc-43a7-891f-2c672dcc2766",
+    "lemma": "high",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "high"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162099",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f7d502ca-8132-4e9f-89c0-3cb5e678123c",
+    "lemma": "historical",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "historical"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162109",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "90c5454d-d10b-4468-a7aa-10bbb26038a6",
+    "lemma": "huge",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "huge"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162117",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c75803c5-e70a-44ef-a8a3-a1c755a32f28",
+    "lemma": "ill",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "ill"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162125",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "717dcb20-001c-42f0-84f4-94c1a5a7c5cd",
+    "lemma": "illegal",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "illegal"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162136",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "22aabbfe-47fe-42e8-8aab-1d31ba0ba536",
+    "lemma": "important",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "important"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162145",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "84dc46ba-7a33-4474-a851-72de438f2c6b",
+    "lemma": "impossible",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "impossible"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162157",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "28aed9a8-b9d4-4a8e-88e8-fcbbd4392302",
+    "lemma": "impressive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "impressive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162166",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b6e4a992-b2bb-437b-96da-978bbd789a81",
+    "lemma": "independent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "independent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162177",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "845fb163-eca0-4128-9f19-41bb0ef261cd",
+    "lemma": "individual",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "individual"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162186",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "98c57b6f-d90a-4e90-8e08-43d24dc6f5d5",
+    "lemma": "inevitable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "inevitable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162194",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "7d15697f-555a-4bbd-98a1-07f6daa42da9",
+    "lemma": "initial",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "initial"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162205",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b143ed9e-227f-4bbc-a168-57c4e74c2e5c",
+    "lemma": "innocent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "innocent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162215",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "0379a974-a44e-4563-9286-4fa386ec0798",
+    "lemma": "intellectual",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "intellectual"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162224",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "9d01d44c-84a8-4076-87f5-ed40c715100b",
+    "lemma": "interested",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "interested"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162233",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "ff3e4bc1-89fa-4bf4-b624-1a8910cf77ca",
+    "lemma": "interesting",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "interesting"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162241",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f36d7fc3-ff13-48fb-85ce-0604c3ebb6a6",
+    "lemma": "internal",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "internal"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162257",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "886de9a7-df59-4596-b9b5-7f395a1dcf85",
+    "lemma": "international",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "international"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162267",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "93ad98d4-0b6a-4690-afb3-ab3cd2d93977",
+    "lemma": "involved",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "involved"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162284",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "2cea0ea7-b967-4850-84c5-15b20aa7bd56",
+    "lemma": "keen",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "keen"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162292",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "50b87a10-c5c2-4309-8727-2f83905538d0",
+    "lemma": "kind",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "kind"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162301",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b512face-dd7c-492d-b96b-957203a53e77",
+    "lemma": "known",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "known"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162313",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "36325b75-8232-4053-a962-c294ce12d40a",
+    "lemma": "large",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "large"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162322",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "3496c099-f7f3-4ca5-9ffe-c61b63e3477a",
+    "lemma": "last",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "last"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162331",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "22e11134-19b1-47bb-b6a5-7f322414ee1a",
+    "lemma": "late",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "late"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162339",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "430dc4cb-b930-4932-a5c0-c1ca9c3ac7d0",
+    "lemma": "left",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "left"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162348",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "0d479b0a-14ef-4c30-a9b7-d409c9d54cdc",
+    "lemma": "light",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "light"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162359",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "a7d1ddfe-486b-469c-9910-df1809ea8bed",
+    "lemma": "likely",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "likely"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162370",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f80decb3-3fd7-41be-a78f-2a007ea33a44",
+    "lemma": "limited",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "limited"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162380",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c6942a79-14c5-481f-b61c-f78c2c07d6f3",
+    "lemma": "literary",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "literary"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162389",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "561a911b-8b63-4cc0-80fe-0b7a5974cbf6",
+    "lemma": "little",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "little"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162398",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "aaa8f133-8cec-4389-822f-967a60c5b2b4",
+    "lemma": "local",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "local"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162407",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "be74e374-dfd3-4279-940b-0234a15dcdaf",
+    "lemma": "lonely",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "lonely"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162415",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "1151bb58-8331-4810-946e-70ee2131508a",
+    "lemma": "long",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "long"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162431",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "e969b8bf-18ea-45c2-a9f2-271012071f08",
+    "lemma": "loose",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "loose"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162447",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "425e9af1-672d-4490-8ac7-e4af3665c16c",
+    "lemma": "lost",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "lost"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162468",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "7a018027-33b1-441c-aef3-d308bd25f7f3",
+    "lemma": "lower",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "lower"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162508",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "099fe8e9-9800-4c01-b2b6-588a7a09a178",
+    "lemma": "main",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "main"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162525",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "86f632d2-0218-4234-b476-dc6c00d2661e",
+    "lemma": "major",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "major"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162540",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f2f56907-036a-4a95-b43c-0629190fcfe3",
+    "lemma": "many",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "many"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162552",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "ee923391-1016-43d6-b545-42ac0ca939f4",
+    "lemma": "medical",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "medical"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162564",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "69ed5202-0075-4521-89a2-0d29ce21a992",
+    "lemma": "medieval",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "medieval"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162576",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c6335bfe-c569-46c1-a53f-932bc5d64c44",
+    "lemma": "mental",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "mental"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162588",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "76ee962b-2241-4c0d-8b8f-73a4d6c75282",
+    "lemma": "middle",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "middle"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162605",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "9a01db03-cf14-4922-b751-3dbbb9013616",
+    "lemma": "military",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "military"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162615",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "da47e4b5-7168-48ba-bf9e-c992975d6559",
+    "lemma": "mixed",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "mixed"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162624",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "367609b4-f060-489e-b7d7-37e343bcb077",
+    "lemma": "modern",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "modern"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162638",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "958a3153-847b-4acb-a768-0368ff3f0fab",
+    "lemma": "much",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "much"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162647",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "7871f3a5-b59b-42d5-a4d4-eaed0e362715",
+    "lemma": "nasty",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "nasty"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162656",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "598ccd13-72ba-4b50-b193-0e3a53e23278",
+    "lemma": "national",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "national"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162667",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "df7fa5c4-a251-4e8c-8182-39ac63dfce8a",
+    "lemma": "native",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "native"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162696",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "564770a1-922a-44ac-8390-9a1ac672a99b",
+    "lemma": "natural",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "natural"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162706",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "17430444-444f-49e2-8851-24a437b4c4b6",
+    "lemma": "naughty",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "naughty"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162715",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "14cdc26b-27d8-49fc-bb69-875e2ec69cfa",
+    "lemma": "near",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "near"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162723",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "4c03d7bd-9166-428a-9508-dc742b070dd1",
+    "lemma": "necessary",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "necessary"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162732",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "ab7d80be-d076-49f7-a6f7-d1bceacdea16",
+    "lemma": "nervous",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "nervous"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162740",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "2abf55a5-ce8a-40f7-8a35-6d2304e08d17",
+    "lemma": "new",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "new"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162752",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "8bf68397-422c-414e-8876-b8531317e96b",
+    "lemma": "next",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "next"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162765",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "3ab29eab-f3b7-4313-8262-48053b1b4658",
+    "lemma": "numerous",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "numerous"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162775",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "9452d5ba-6671-474b-8711-b3ea00524f05",
+    "lemma": "obvious",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "obvious"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162790",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "fbb36e54-023b-4956-bea8-e066474cd748",
+    "lemma": "occasional",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "occasional"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162841",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "d501a79c-1496-4454-acc5-414572788783",
+    "lemma": "old",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "old"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162853",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b1eba104-8e7c-4e69-856d-abcbb1bac02f",
+    "lemma": "ordinary",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "ordinary"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162862",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "7c5a6748-473b-4e61-9ffc-c43bd02b8f9f",
+    "lemma": "original",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "original"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162872",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "e298d794-8492-479c-bd40-b265504cd0c1",
+    "lemma": "other",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "other"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162881",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "15f440ba-c1c9-4335-bbd9-68d445b44005",
+    "lemma": "particular",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "particular"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162890",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6d8805f8-44e6-4de9-8e76-1311917284a8",
+    "lemma": "patient",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "patient"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162905",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "57997f19-82b3-4ac2-95af-68fb09def594",
+    "lemma": "peaceful",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "peaceful"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162920",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "81afe117-5e02-4ddb-91af-e25b911f0e08",
+    "lemma": "permanent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "permanent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162930",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c21c7b72-0dc1-4669-81ed-faa3ed343f12",
+    "lemma": "personal",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "personal"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162940",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "4dad9c96-c3b1-45c3-856f-6183872dd5d6",
+    "lemma": "pleasant",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "pleasant"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162949",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "20a3873a-8a06-47ae-92ad-ef43699f4ecd",
+    "lemma": "plenty",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "plenty"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162958",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "434abd33-d43a-469e-ba95-6f6dc5ed16a5",
+    "lemma": "political",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "political"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162988",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6637c391-85a2-4be0-a3d6-7426fba3c055",
+    "lemma": "popular",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "popular"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.162997",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "a77e4452-22dc-4334-8067-0ed655e220e1",
+    "lemma": "possible",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "possible"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163006",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "49daad7b-c104-4982-9975-e755f65a0cbd",
+    "lemma": "potential",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "potential"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163018",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "edf7cc33-fecf-4d5a-8146-0ed1b9d19510",
+    "lemma": "powerful",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "powerful"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163030",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b6b496db-38ba-47e6-add3-306d64855a73",
+    "lemma": "practical",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "practical"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163039",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "1abad886-0d4a-4009-b897-519c2fc4aa8f",
+    "lemma": "precise",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "precise"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163048",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "443b9776-bc28-45c6-aed0-fc6a26b93331",
+    "lemma": "present",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "present"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163056",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "78535db3-48fa-4133-9226-7539d0f4d136",
+    "lemma": "previous",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "previous"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163066",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "43f50bb3-6387-4167-a833-c6b073ca5acd",
+    "lemma": "primary",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "primary"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163075",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "73a88a0f-df6b-436d-9119-e3cd2466477c",
+    "lemma": "private",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "private"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163084",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b0acb566-5f39-41f8-a2a3-297cc2b9b03d",
+    "lemma": "proper",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "proper"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163093",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "de67af0a-d142-4e0d-9f87-d92e927c54ca",
+    "lemma": "public",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "public"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163136",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "182c1c56-17a9-4742-8d3a-20e0a432fe58",
+    "lemma": "pure",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "pure"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163148",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "2825461c-102e-4cad-83bf-d18e9ffaf6d0",
+    "lemma": "rapid",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "rapid"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163161",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "eb3fd500-9f64-4e5b-92f3-1d44ba35a4e2",
+    "lemma": "rare",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "rare"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163169",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "54ad5a7f-9352-4f45-a92a-8e5af669208b",
+    "lemma": "real",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "real"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163179",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "8984cc92-1389-404d-a722-ab1c6be40dde",
+    "lemma": "reasonable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "reasonable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163188",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6380c191-a05f-4efa-b469-0c7afd924a99",
+    "lemma": "recent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "recent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163197",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "19f00e2f-f615-4a07-86c7-ac07e2cb6bbe",
+    "lemma": "regular",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "regular"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163209",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "9df10daa-e342-4684-a226-400b38c8a0e0",
+    "lemma": "related",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "related"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163219",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "0525b972-c640-4d8b-8fc5-e3da6c2b780b",
+    "lemma": "relevant",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "relevant"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163228",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c4e8bb25-5ac3-4d76-9c7a-23cc665a22b7",
+    "lemma": "religious",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "religious"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163238",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "976319ea-1730-441d-b520-346b30991a7f",
+    "lemma": "remaining",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "remaining"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163247",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6afbb72a-fe99-4b73-b308-c806f2c9f02e",
+    "lemma": "remarkable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "remarkable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163259",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "657fba45-f732-4916-a62c-95f39e9dbd09",
+    "lemma": "responsible",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "responsible"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163272",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "5b77c0e8-8ff4-46ef-a86e-b8bac276e163",
+    "lemma": "ridiculous",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "ridiculous"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163280",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "140ef3af-76f7-4cc3-b955-2a5fdf35f423",
+    "lemma": "right",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "right"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163289",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "e08dec73-3c94-421f-8fe0-d51e34a6e1cb",
+    "lemma": "rural",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "rural"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163299",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "14bfdc55-fb8f-4af6-aaad-2fddf8221a66",
+    "lemma": "same",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "same"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163314",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f37fe679-dc57-491e-9929-5e538f954d7a",
+    "lemma": "satisfied",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "satisfied"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163324",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b2bec378-063e-4dfb-9b75-85ea93a59b4d",
+    "lemma": "scientific",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "scientific"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163333",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "7dd054ca-acca-4ddc-a2ef-c5e1a5421985",
+    "lemma": "senior",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "senior"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163345",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b0c95017-1e47-4ff4-8b92-65a7f29b7f3a",
+    "lemma": "sensible",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "sensible"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163356",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "0f12cb90-fd1a-455b-9654-cc8ddecfc7e9",
+    "lemma": "sensitive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "sensitive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163368",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "36237e24-fabe-47d7-a1d5-d2c1b032483e",
+    "lemma": "separate",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "separate"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163381",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "25cde957-f1dc-48d0-9570-a4fef600aa16",
+    "lemma": "serious",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "serious"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163391",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c725106f-dd54-49dc-bd6b-15ab57c242dc",
+    "lemma": "severe",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "severe"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163401",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c8e9c3c7-4772-49bc-a5c7-a2f83e08e34a",
+    "lemma": "short",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "short"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163414",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "ee41dc1d-2537-45c2-a943-4335c9e3d561",
+    "lemma": "significant",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "significant"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163424",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "eea39228-bfc6-49f7-96c8-b0ce5af79d8e",
+    "lemma": "similar",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "similar"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163498",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c805936b-5cd5-4e55-bc14-786212a8b407",
+    "lemma": "simple",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "simple"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163579",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "d5c1b2be-88f5-48c2-be31-c02398337a61",
+    "lemma": "single",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "single"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163631",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c05a1b25-ec3f-4dc8-afcb-4018d68a5de0",
+    "lemma": "slow",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "slow"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163643",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b3532443-424c-4afd-bdc7-ab5d6baffb7c",
+    "lemma": "small",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "small"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163668",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "d1bde429-6ed0-4769-a807-d9df62da5057",
+    "lemma": "social",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "social"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163693",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "7f45e0cd-f66c-49d9-af8e-9e1739e91c25",
+    "lemma": "sole",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "sole"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163703",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c7045820-b46e-445a-89cb-b79d30fa7d62",
+    "lemma": "sorry",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "sorry"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163711",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "67b7fa88-b29e-4502-8cdf-82e2bc0d3931",
+    "lemma": "special",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "special"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163720",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c07d1266-f97f-4f3f-bf03-5bbff6ec31d5",
+    "lemma": "specific",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "specific"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163729",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "4c0cb130-e77a-48fe-bc2f-386db8778f74",
+    "lemma": "spiritual",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "spiritual"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163742",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "22e1c18c-d520-4741-8b14-d366ef9c132d",
+    "lemma": "stable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "stable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163754",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "74aa8c30-4704-4c18-8082-f58f113b4840",
+    "lemma": "steady",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "steady"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163763",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "2464c335-fce2-4f68-9510-d9ddd8e52290",
+    "lemma": "straightforward",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "straightforward"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163773",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "565a5670-9045-42ec-9b6e-6cdd52583942",
+    "lemma": "strict",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "strict"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163782",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "d7195c96-5140-4d38-a0c3-7a4b104c9476",
+    "lemma": "strong",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "strong"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163791",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f029fff7-c525-414b-a699-320853f096d8",
+    "lemma": "subsequent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "subsequent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163799",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "87f3febf-466e-47a0-b2ca-3ee525e8968f",
+    "lemma": "substantial",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "substantial"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163809",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "eb43e5fb-2b4e-42a1-84f7-0b6cb1420327",
+    "lemma": "successful",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "successful"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163818",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f3116403-ee85-4946-a10d-fa492a6e1ebc",
+    "lemma": "sufficient",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "sufficient"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163833",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "a22f5257-1d31-4c87-95fd-9288fae05897",
+    "lemma": "suitable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "suitable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163842",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "33366ce3-3e47-46c3-953e-bb1a46f0f461",
+    "lemma": "sure",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "sure"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163853",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "971af5b6-c92a-4079-980c-977b46214e54",
+    "lemma": "surprised",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "surprised"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163861",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "6eae2a9a-7c7f-4cae-be87-1bbf65e88d80",
+    "lemma": "surprising",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "surprising"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163873",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "0d86e59b-02d2-434c-a234-29ed0abf30fd",
+    "lemma": "temporary",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "temporary"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163885",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "1491d1ab-31c3-47ee-a8c3-2f2ad26182d6",
+    "lemma": "total",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "total"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163893",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "2b6d12ca-992f-4c7c-922a-cdba3b58353e",
+    "lemma": "traditional",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "traditional"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163905",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "2f440623-7ae3-426b-b876-04934947da9f",
+    "lemma": "true",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "true"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163916",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "69159134-6d8a-418c-b311-514c8f595d92",
+    "lemma": "ultimate",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "ultimate"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163925",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "8630768d-0665-4d5f-833a-2e68dbb8909f",
+    "lemma": "unfair",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "unfair"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163933",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "5912ac1c-bd5d-48cc-b311-6e8712536dd1",
+    "lemma": "unique",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "unique"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163942",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "5ef43e5d-d524-4243-b30a-38df0ca9df67",
+    "lemma": "unknown",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "unknown"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163950",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b23af909-2954-41c6-9562-3a9fb195584f",
+    "lemma": "unlikely",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "unlikely"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163958",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "ee1f9b12-eaec-4b0f-b490-d31eb9eaa9e3",
+    "lemma": "unusual",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "unusual"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163970",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "96e94c37-ab63-4e36-8348-b139d298f3b0",
+    "lemma": "urban",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "urban"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163982",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "408231e7-0caa-4981-b815-9a14a2412b81",
+    "lemma": "urgent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "urgent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.163990",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "fcb18321-36e4-47b2-9078-d0d22ceee753",
+    "lemma": "useful",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "useful"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164001",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "d7cd902d-9ecd-4a13-9ec0-30f7604ef6f6",
+    "lemma": "valuable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "valuable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164010",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "2e855fc1-b8e6-459d-a636-d1dda8796d21",
+    "lemma": "various",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "various"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164018",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "31799386-046a-43f3-a2a6-0be59958b6ec",
+    "lemma": "vast",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "vast"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164027",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "5cd9aea0-88e6-4a85-ab7c-e94c7bfa7ed1",
+    "lemma": "very",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "very"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164035",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "dc1d354e-6436-4521-9fc0-e7db01d7cf93",
+    "lemma": "violent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "violent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164044",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "acca7311-86a0-4326-b908-274a58bfbbb5",
+    "lemma": "vital",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "vital"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164055",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b2715365-fe56-4dc3-97da-9f03588cd97c",
+    "lemma": "voluntary",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "voluntary"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164064",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "e806f4af-f6f6-4573-a5b1-9a5b9a7cf0e9",
+    "lemma": "vulnerable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "vulnerable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164075",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "d5615405-393b-4652-b69a-6405f41895ba",
+    "lemma": "weak",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "weak"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164084",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "19b9b398-f33d-475e-b308-bc192f7ca50c",
+    "lemma": "well",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "well"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164092",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "3bf31c73-8bfd-4a38-9e8a-9dd07e7bed98",
+    "lemma": "western",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "western"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164100",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "3e9026f4-3956-4a7f-a4b1-ae560d7222d5",
+    "lemma": "wide",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "wide"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164108",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "040703c8-fef8-4b8f-b91c-61065064c584",
+    "lemma": "widespread",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "widespread"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164120",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f594c1ed-fdc0-442a-a89a-26b934434d66",
+    "lemma": "willing",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "willing"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164129",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "8286750b-e397-4351-a211-b1c5d3c3faf3",
+    "lemma": "wise",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "wise"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164137",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "85b7814b-cff0-4c6c-b876-5a1df16ce8ae",
+    "lemma": "wrong",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "wrong"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164145",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "69d60fa3-525a-4cba-b45d-823e7fc483e1",
+    "lemma": "young",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "young"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164154",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "0b95e538-23e2-463e-b54c-c694a3e8a987",
+    "lemma": "indifferent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "indifferent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164165",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f8b4fc4d-feed-4c76-a01e-ba7f04955689",
+    "lemma": "growing",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "growing"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164174",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "a3af7f96-b8a5-4037-91b7-22db91927e3f",
+    "lemma": "increased",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "increased"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164183",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "e2308a45-e0b8-41d0-9135-7a6c5ffe2599",
+    "lemma": "several",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "several"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164191",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "bc984bb4-6064-4dfa-8d70-a0753ae393d4",
+    "lemma": "further",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "further"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164201",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "68256790-5922-4757-9f71-f1e5a483dc56",
+    "lemma": "beneficial",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "beneficial"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164210",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "8b529910-44b2-4e36-a7fe-5983838e7fe5",
+    "lemma": "expected",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "expected"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164218",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c4c95a06-0e75-4c94-81f5-9756772b1de8",
+    "lemma": "reckless",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "reckless"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164226",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "8f0ab535-0246-4ce7-a30b-c89ca8ef6270",
+    "lemma": "appealing",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "appealing"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164237",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "da62c908-25e2-4876-97e0-29385df9cea6",
+    "lemma": "controversial",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "controversial"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164245",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f1f9eaf5-5b3a-46aa-9119-e67a226d0e60",
+    "lemma": "costly",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "costly"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164256",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f2ce2a88-7e27-4d16-bcf6-aba775a9c211",
+    "lemma": "novel",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "novel"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164265",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "9e195d02-adb2-4f74-8c9f-92cfa5d6d12a",
+    "lemma": "harsh",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "harsh"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164273",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "5d48ad87-9d43-47ce-8aee-a4aa6c837c59",
+    "lemma": "innovative",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "innovative"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164281",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "fbb2fc66-510d-4304-bea3-07ebc69af96b",
+    "lemma": "sizeable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "sizeable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164290",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "9db48bf8-af95-4823-815d-017146154ee8",
+    "lemma": "constructive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "constructive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164555",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "728092bf-e5b9-4d23-aa01-bfc45c4a82f8",
+    "lemma": "destructive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "destructive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164598",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "eb62e64c-9bf1-4cef-a5bc-5a89b3b9e25c",
+    "lemma": "progressive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "progressive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164634",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "0556e78c-f3ac-4aad-8c87-b79b2c4d2380",
+    "lemma": "loyal",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "loyal"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164662",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "aaa999cc-ece2-4eb8-a9b2-def742b9e528",
+    "lemma": "profitable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "profitable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164693",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "19ab8ed2-7854-4fe6-812f-37280476765b",
+    "lemma": "favorable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "favorable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164722",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "389983cf-9b10-41dd-b581-dc547ac076be",
+    "lemma": "reluctant",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "reluctant"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164735",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "d4026587-04fc-432a-817e-e947e2d87b71",
+    "lemma": "sophisticated",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "sophisticated"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164745",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "233691fb-1cb0-40c9-8279-fca1b4635067",
+    "lemma": "variable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "variable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164754",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "b7660cf5-8b8c-4475-895b-447220139f65",
+    "lemma": "fertile",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "fertile"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164762",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "c21c58a9-cfb2-4f6d-980b-410d7b4682f5",
+    "lemma": "rising",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "rising"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164771",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "9428636c-10c9-4521-b3b8-221060e9064a",
+    "lemma": "adverse",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "adverse"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164779",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "a2ecafc7-e97c-4a2b-9110-33364d0c35a5",
+    "lemma": "excessive",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "excessive"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164789",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "764ffb17-6382-4812-baea-80843bce1657",
+    "lemma": "representative",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "representative"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164801",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "0efce7ed-75ab-483c-b24e-f4c16a9d2ace",
+    "lemma": "respective",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "respective"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164810",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "f88d839d-0a4c-4835-aa9b-013735550d11",
+    "lemma": "influential",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "influential"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164825",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "e6721193-2aa6-420a-a5a6-fce684f1a4ea",
+    "lemma": "drastic",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "drastic"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164835",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "adf2c981-44c5-49cb-987a-a06f0e5e0b6d",
+    "lemma": "profound",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "profound"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164844",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "9149a0c6-8a42-4afe-b5e0-e4c1b08539dd",
+    "lemma": "harmful",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "harmful"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164855",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "227c8988-0432-4ef7-ad3b-96c492606af6",
+    "lemma": "detrimental",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "detrimental"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164864",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "4c8600fb-03e3-408a-bff3-e4071c09f32e",
+    "lemma": "worldwide",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "worldwide"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164872",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "79a3f650-881d-47ff-a888-f2e34357d441",
+    "lemma": "ambiguous",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "ambiguous"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164882",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "d4273c71-2f68-43b0-a066-7aac690c6f7a",
+    "lemma": "trivial",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "trivial"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164891",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "2cf26bcd-2103-4ec1-906b-975f4972e774",
+    "lemma": "developing",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "developing"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164899",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "51d84659-765e-424f-857b-df6a648baaae",
+    "lemma": "developed",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "developed"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164908",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "630835b2-4c79-494f-b8ca-51d83f10ccd7",
+    "lemma": "prevalent",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "prevalent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164919",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "25b1e54b-39a4-4d7e-b389-5cb004920699",
+    "lemma": "reliable",
+    "pos": "adj",
+    "multiWord": false,
+    "meanings": [
+      "TODO: Fill with AI"
+    ],
+    "synonyms": [
+      "TODO: Fill with AI"
+    ],
+    "example": {
+      "text": "TODO: Fill with AI",
+      "translation": "TODO: Fill with AI"
+    },
+    "cloze": {
+      "template": "TODO: Fill with AI",
+      "answer": "reliable"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-09T14:56:46.164927",
+    "repetitions": 0,
+    "lastReviewed": null
+  }
+]
