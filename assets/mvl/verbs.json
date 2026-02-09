@@ -1,0 +1,914 @@
+[
+    {
+        "id": "v_01",
+        "lemma": "abandon",
+        "pos": "verb",
+        "meanings": [
+            "terk etmek, vazgeçmek"
+        ],
+        "synonyms": [
+            "leave",
+            "give up",
+            "desert"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The government decided to abandon the project due to lack of funds.",
+            "translation": "Hükümet, fon eksikliği nedeniyle projeden vazgeçmeye karar verdi."
+        },
+        "cloze": {
+            "template": "The government decided to {{cloze}} the project due to lack of funds.",
+            "answer": "abandon"
+        },
+        "difficulty": 1
+    },
+    {
+        "id": "v_02",
+        "lemma": "accumulate",
+        "pos": "verb",
+        "meanings": [
+            "birikmek, toplamak"
+        ],
+        "synonyms": [
+            "gather",
+            "collect",
+            "amass"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Dust tends to accumulate in corners where air circulation is poor.",
+            "translation": "Toz, hava sirkülasyonunun zayıf olduğu köşelerde birikme eğilimindedir."
+        },
+        "cloze": {
+            "template": "Dust tends to {{cloze}} in corners where air circulation is poor.",
+            "answer": "accumulate"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_03",
+        "lemma": "acknowledge",
+        "pos": "verb",
+        "meanings": [
+            "kabul etmek, tanımak"
+        ],
+        "synonyms": [
+            "admit",
+            "accept",
+            "recognize"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The company refused to acknowledge responsibility for the accident.",
+            "translation": "Şirket, kaza için sorumluluk kabul etmeyi reddetti."
+        },
+        "cloze": {
+            "template": "The company refused to {{cloze}} responsibility for the accident.",
+            "answer": "acknowledge"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_04",
+        "lemma": "adapt",
+        "pos": "verb",
+        "meanings": [
+            "uyum sağlamak"
+        ],
+        "synonyms": [
+            "adjust",
+            "accommodate"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Animals must adapt to changing environmental conditions to survive.",
+            "translation": "Hayvanlar hayatta kalmak için değişen çevre koşullarına uyum sağlamalıdır."
+        },
+        "cloze": {
+            "template": "Animals must {{cloze}} to changing environmental conditions to survive.",
+            "answer": "adapt"
+        },
+        "difficulty": 1
+    },
+    {
+        "id": "v_05",
+        "lemma": "advocate",
+        "pos": "verb",
+        "meanings": [
+            "savunmak, desteklemek"
+        ],
+        "synonyms": [
+            "support",
+            "recommend",
+            "champion"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Many experts advocate a more balanced diet for better health.",
+            "translation": "Birkçok uzman daha iyi bir sağlık için daha dengeli bir diyeti savunmaktadır."
+        },
+        "cloze": {
+            "template": "Many experts {{cloze}} a more balanced diet for better health.",
+            "answer": "advocate"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_06",
+        "lemma": "allocate",
+        "pos": "verb",
+        "meanings": [
+            "ayırmak, tahsis etmek"
+        ],
+        "synonyms": [
+            "assign",
+            "allot",
+            "distribute"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The committee decided to allocate more funds for education.",
+            "translation": "Komite, eğitim için daha fazla fon ayırmaya karar verdi."
+        },
+        "cloze": {
+            "template": "The committee decided to {{cloze}} more funds for education.",
+            "answer": "allocate"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_07",
+        "lemma": "alter",
+        "pos": "verb",
+        "meanings": [
+            "değiştirmek"
+        ],
+        "synonyms": [
+            "change",
+            "modify",
+            "amend"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Climate change can significantly alter the habitats of many species.",
+            "translation": "İklim değişikliği birçok türün yaşam alanlarını önemli ölçüde değiştirebilir."
+        },
+        "cloze": {
+            "template": "Climate change can significantly {{cloze}} the habitats of many species.",
+            "answer": "alter"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_08",
+        "lemma": "assess",
+        "pos": "verb",
+        "meanings": [
+            "değerlendirmek"
+        ],
+        "synonyms": [
+            "evaluate",
+            "estimate",
+            "appraise"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "We need to assess the impact of the new policy on the economy.",
+            "translation": "Yeni politikanın ekonomi üzerindeki etkisini değerlendirmemiz gerekiyor."
+        },
+        "cloze": {
+            "template": "We need to {{cloze}} the impact of the new policy on the economy.",
+            "answer": "assess"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_09",
+        "lemma": "augment",
+        "pos": "verb",
+        "meanings": [
+            "artırmak, çoğaltmak"
+        ],
+        "synonyms": [
+            "increase",
+            "enhance",
+            "boost"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "He took a second job to augment his income.",
+            "translation": "Gelirini artırmak için ikinci bir işe girdi."
+        },
+        "cloze": {
+            "template": "He took a second job to {{cloze}} his income.",
+            "answer": "augment"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "v_10",
+        "lemma": "clarify",
+        "pos": "verb",
+        "meanings": [
+            "açıklığa kavuşturmak"
+        ],
+        "synonyms": [
+            "explain",
+            "elucidate"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The spokesperson issued a statement to clarify the misunderstanding.",
+            "translation": "Sözcü, yanlış anlaşılmayı açıklığa kavuşturmak için bir bildiri yayınladı."
+        },
+        "cloze": {
+            "template": "The spokesperson issued a statement to {{cloze}} the misunderstanding.",
+            "answer": "clarify"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_11",
+        "lemma": "coincide",
+        "pos": "verb",
+        "meanings": [
+            "denk gelmek, aynı zamanda olmak"
+        ],
+        "synonyms": [
+            "occur simultaneously",
+            "concur"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "My vacation plans coincide with the company's annual shutdown.",
+            "translation": "Tatil planlarım şirketin yıllık kapanışına denk geliyor."
+        },
+        "cloze": {
+            "template": "My vacation plans {{cloze}} with the company's annual shutdown.",
+            "answer": "coincide"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_12",
+        "lemma": "collapse",
+        "pos": "verb",
+        "meanings": [
+            "çökmek"
+        ],
+        "synonyms": [
+            "fall down",
+            "crumble",
+            "cave in"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The roof began to collapse under the weight of the heavy snow.",
+            "translation": "Çatı, ağır karın ağırlığı altında çökmeye başladı."
+        },
+        "cloze": {
+            "template": "The roof began to {{cloze}} under the weight of the heavy snow.",
+            "answer": "collapse"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_13",
+        "lemma": "compensate",
+        "pos": "verb",
+        "meanings": [
+            "telafi etmek"
+        ],
+        "synonyms": [
+            "make up for",
+            "reimburse"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Farmers were compensated for the loss of their crops.",
+            "translation": "Çiftçilere mahsul kayıpları için tazminat ödendi."
+        },
+        "cloze": {
+            "template": "Farmers were {{cloze}} for the loss of their crops.",
+            "answer": "compensated"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_14",
+        "lemma": "compile",
+        "pos": "verb",
+        "meanings": [
+            "derlemek, bir araya getirmek"
+        ],
+        "synonyms": [
+            "gather",
+            "assemble",
+            "accumulate"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Researchers compile data from various sources to analyze trends.",
+            "translation": "Araştırmacılar trendleri analiz etmek için çeşitli kaynaklardan veri derler."
+        },
+        "cloze": {
+            "template": "Researchers {{cloze}} data from various sources to analyze trends.",
+            "answer": "compile"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_15",
+        "lemma": "comply",
+        "pos": "verb",
+        "meanings": [
+            "uymak, itaat etmek"
+        ],
+        "synonyms": [
+            "obey",
+            "adhere to",
+            "abide by"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "All employees must comply with the safety regulations.",
+            "translation": "Tüm çalışanlar güvenlik düzenlemelerine uymalıdır."
+        },
+        "cloze": {
+            "template": "All employees must {{cloze}} with the safety regulations.",
+            "answer": "comply"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_16",
+        "lemma": "conclude",
+        "pos": "verb",
+        "meanings": [
+            "sonuçlandırmak, sonucuna varmak"
+        ],
+        "synonyms": [
+            "finish",
+            "deduce",
+            "infer"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The jury concluded that the defendant was innocent.",
+            "translation": "Jüri, sanığın masum olduğu sonucuna vardı."
+        },
+        "cloze": {
+            "template": "The jury {{cloze}} that the defendant was innocent.",
+            "answer": "concluded"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_17",
+        "lemma": "conduct",
+        "pos": "verb",
+        "meanings": [
+            "yürütmek, yönetmek"
+        ],
+        "synonyms": [
+            "carry out",
+            "manage",
+            "lead"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The university decided to conduct a survey among students.",
+            "translation": "Üniversite öğrenciler arasında bir anket yürütmeye karar verdi."
+        },
+        "cloze": {
+            "template": "The university decided to {{cloze}} a survey among students.",
+            "answer": "conduct"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_18",
+        "lemma": "confine",
+        "pos": "verb",
+        "meanings": [
+            "sınırlamak, hapsetmek"
+        ],
+        "synonyms": [
+            "limit",
+            "restrict",
+            "enclose"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Please confine your remarks to the topic under discussion.",
+            "translation": "Lütfen yorumlarınızı tartışılan konuyla sınırlandırın."
+        },
+        "cloze": {
+            "template": "Please {{cloze}} your remarks to the topic under discussion.",
+            "answer": "confine"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_19",
+        "lemma": "confirm",
+        "pos": "verb",
+        "meanings": [
+            "doğrulamak, onaylamak"
+        ],
+        "synonyms": [
+            "verify",
+            "corroborate",
+            "validate"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Please call to confirm your reservation before arriving.",
+            "translation": "Lütfen gelmeden önce rezervasyonunuzu doğrulamak için arayın."
+        },
+        "cloze": {
+            "template": "Please call to {{cloze}} your reservation before arriving.",
+            "answer": "confirm"
+        },
+        "difficulty": 1
+    },
+    {
+        "id": "v_20",
+        "lemma": "conform",
+        "pos": "verb",
+        "meanings": [
+            "uymak (kurala/standarda)"
+        ],
+        "synonyms": [
+            "comply",
+            "follow"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The new building must conform to modern safety standards.",
+            "translation": "Yeni bina modern güvenlik standartlarına uymalıdır."
+        },
+        "cloze": {
+            "template": "The new building must {{cloze}} to modern safety standards.",
+            "answer": "conform"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_21",
+        "lemma": "consent",
+        "pos": "verb",
+        "meanings": [
+            "razı olmak, izin vermek"
+        ],
+        "synonyms": [
+            "agree",
+            "permit",
+            "approve"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The patient did not consent to the experimental treatment.",
+            "translation": "Hasta deneysel tedaviye rıza göstermedi."
+        },
+        "cloze": {
+            "template": "The patient did not {{cloze}} to the experimental treatment.",
+            "answer": "consent"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_22",
+        "lemma": "constitute",
+        "pos": "verb",
+        "meanings": [
+            "oluşturmak, teşkil etmek"
+        ],
+        "synonyms": [
+            "form",
+            "compose",
+            "make up"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Women constitute the majority of the workforce in this sector.",
+            "translation": "Kadınlar bu sektördeki işgücünün çoğunluğunu oluşturmaktadır."
+        },
+        "cloze": {
+            "template": "Women {{cloze}} the majority of the workforce in this sector.",
+            "answer": "constitute"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_23",
+        "lemma": "constrain",
+        "pos": "verb",
+        "meanings": [
+            "kısıtlamak, zorlamak"
+        ],
+        "synonyms": [
+            "restrict",
+            "limit",
+            "confine"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Budget cuts constrain our ability to hire new staff.",
+            "translation": "Bütçe kesintileri yeni personel işe alma yeteneğimizi kısıtlıyor."
+        },
+        "cloze": {
+            "template": "Budget cuts {{cloze}} our ability to hire new staff.",
+            "answer": "constrain"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "v_24",
+        "lemma": "consult",
+        "pos": "verb",
+        "meanings": [
+            "danışmak, başvurmak"
+        ],
+        "synonyms": [
+            "ask",
+            "seek advice from"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "You should consult a doctor if symptoms persist.",
+            "translation": "Semptomlar devam ederse bir doktora danışmalısınız."
+        },
+        "cloze": {
+            "template": "You should {{cloze}} a doctor if symptoms persist.",
+            "answer": "consult"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_25",
+        "lemma": "contradict",
+        "pos": "verb",
+        "meanings": [
+            "çelişmek, aksini iddia etmek"
+        ],
+        "synonyms": [
+            "dispute",
+            "counter",
+            "oppose"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The evidence appears to contradict the witness's testimony.",
+            "translation": "Kanıtlar tanığın ifadesiyle çelişiyor gibi görünüyor."
+        },
+        "cloze": {
+            "template": "The evidence appears to {{cloze}} the witness's testimony.",
+            "answer": "contradict"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_26",
+        "lemma": "convene",
+        "pos": "verb",
+        "meanings": [
+            "toplanmak, bir araya gelmek"
+        ],
+        "synonyms": [
+            "assemble",
+            "gather",
+            "meet"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The board will convene next week to discuss the merger.",
+            "translation": "Kurul, birleşmeyi görüşmek üzere gelecek hafta toplanacak."
+        },
+        "cloze": {
+            "template": "The board will {{cloze}} next week to discuss the merger.",
+            "answer": "convene"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "v_27",
+        "lemma": "convert",
+        "pos": "verb",
+        "meanings": [
+            "dönüştürmek"
+        ],
+        "synonyms": [
+            "transform",
+            "change",
+            "alter"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Photosynthesis is the process by which plants convert sunlight into energy.",
+            "translation": "Fotosentez, bitkilerin güneş ışığını enerjiye dönüştürdüğü süreçtir."
+        },
+        "cloze": {
+            "template": "Photosynthesis is the process by which plants {{cloze}} sunlight into energy.",
+            "answer": "convert"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_28",
+        "lemma": "convince",
+        "pos": "verb",
+        "meanings": [
+            "ikna etmek"
+        ],
+        "synonyms": [
+            "persuade",
+            "assure",
+            "satisfy"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "He tried to convince the jury of his innocence.",
+            "translation": "Jüriyi masumiyetine ikna etmeye çalıştı."
+        },
+        "cloze": {
+            "template": "He tried to {{cloze}} the jury of his innocence.",
+            "answer": "convince"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_29",
+        "lemma": "deduce",
+        "pos": "verb",
+        "meanings": [
+            "sonuç çıkarmak"
+        ],
+        "synonyms": [
+            "infer",
+            "conclude",
+            "derive"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "From the footprints, detectives could deduce the suspect's height.",
+            "translation": "Dedektifler ayak izlerinden şüphelinin boyunu çıkarabildiler."
+        },
+        "cloze": {
+            "template": "From the footprints, detectives could {{cloze}} the suspect's height.",
+            "answer": "deduce"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "v_30",
+        "lemma": "demonstrate",
+        "pos": "verb",
+        "meanings": [
+            "göstermek, kanıtlamak"
+        ],
+        "synonyms": [
+            "show",
+            "prove",
+            "display"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The study aims to demonstrate the effectiveness of the new drug.",
+            "translation": "Çalışma, yeni ilacın etkinliğini göstermeyi amaçlamaktadır."
+        },
+        "cloze": {
+            "template": "The study aims to {{cloze}} the effectiveness of the new drug.",
+            "answer": "demonstrate"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_31",
+        "lemma": "deny",
+        "pos": "verb",
+        "meanings": [
+            "inkar etmek, reddetmek"
+        ],
+        "synonyms": [
+            "refuse",
+            "reject",
+            "refute"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The strict regime may deny citizens their basic rights.",
+            "translation": "Sıkı rejim, vatandaşların temel haklarını reddedebilir."
+        },
+        "cloze": {
+            "template": "The strict regime may {{cloze}} citizens their basic rights.",
+            "answer": "deny"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_32",
+        "lemma": "deplete",
+        "pos": "verb",
+        "meanings": [
+            "tüketmek, azaltmak"
+        ],
+        "synonyms": [
+            "exhaust",
+            "use up",
+            "drain"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Overfishing has begun to deplete the ocean's resources.",
+            "translation": "Aşırı avlanma okyanus kaynaklarını tüketmeye başladı."
+        },
+        "cloze": {
+            "template": "Overfishing has begun to {{cloze}} the ocean's resources.",
+            "answer": "deplete"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "v_33",
+        "lemma": "derive",
+        "pos": "verb",
+        "meanings": [
+            "türetmek, elde etmek"
+        ],
+        "synonyms": [
+            "obtain",
+            "get",
+            "acquire"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Many English words derive from Latin origins.",
+            "translation": "Birçok İngilizce kelime Latin kökenlerinden türemiştir."
+        },
+        "cloze": {
+            "template": "Many English words {{cloze}} from Latin origins.",
+            "answer": "derive"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_34",
+        "lemma": "detect",
+        "pos": "verb",
+        "meanings": [
+            "tespit etmek, algılamak"
+        ],
+        "synonyms": [
+            "notice",
+            "discover",
+            "identify"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Early screening helps doctors detect cancer at a treatable stage.",
+            "translation": "Erken tarama, doktorların kanseri tedavi edilebilir bir aşamada tespit etmesine yardımcı olur."
+        },
+        "cloze": {
+            "template": "Early screening helps doctors {{cloze}} cancer at a treatable stage.",
+            "answer": "detect"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_35",
+        "lemma": "deteriorate",
+        "pos": "verb",
+        "meanings": [
+            "kötüleşmek, bozulmak"
+        ],
+        "synonyms": [
+            "worsen",
+            "decline",
+            "decay"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The patient's condition began to deteriorate rapidly overnight.",
+            "translation": "Hastanın durumu gece boyunca hızla kötüleşmeye başladı."
+        },
+        "cloze": {
+            "template": "The patient's condition began to {{cloze}} rapidly overnight.",
+            "answer": "deteriorate"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_36",
+        "lemma": "deviate",
+        "pos": "verb",
+        "meanings": [
+            "sapmak, ayrılmak"
+        ],
+        "synonyms": [
+            "stray",
+            "diverge",
+            "depart"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "We must not deviate from the agreed plan.",
+            "translation": "Kararlaştırılan plandan sapmamalıyız."
+        },
+        "cloze": {
+            "template": "We must not {{cloze}} from the agreed plan.",
+            "answer": "deviate"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_37",
+        "lemma": "diminish",
+        "pos": "verb",
+        "meanings": [
+            "azalmak, eksiltmek"
+        ],
+        "synonyms": [
+            "decrease",
+            "reduce",
+            "lessen"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The world's oil reserves will diminish over time.",
+            "translation": "Dünyanın petrol rezervleri zamanla azalacaktır."
+        },
+        "cloze": {
+            "template": "The world's oil reserves will {{cloze}} over time.",
+            "answer": "diminish"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_38",
+        "lemma": "discriminate",
+        "pos": "verb",
+        "meanings": [
+            "ayrımcılık yapmak, ayırt etmek"
+        ],
+        "synonyms": [
+            "differentiate",
+            "distinguish"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "It is illegal to discriminate against employees based on their gender.",
+            "translation": "Çalışanlara cinsiyetlerine göre ayrımcılık yapmak yasa dışıdır."
+        },
+        "cloze": {
+            "template": "It is illegal to {{cloze}} against employees based on their gender.",
+            "answer": "discriminate"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "v_39",
+        "lemma": "distribute",
+        "pos": "verb",
+        "meanings": [
+            "dağıtmak"
+        ],
+        "synonyms": [
+            "hand out",
+            "spread"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Aid agencies distribute food and water to disaster victims.",
+            "translation": "Yardım kuruluşları afetzedelere yiyecek ve su dağıtıyor."
+        },
+        "cloze": {
+            "template": "Aid agencies {{cloze}} food and water to disaster victims.",
+            "answer": "distribute"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "v_40",
+        "lemma": "emerge",
+        "pos": "verb",
+        "meanings": [
+            "ortaya çıkmak"
+        ],
+        "synonyms": [
+            "appear",
+            "arise",
+            "surface"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "New evidence may emerge during the investigation.",
+            "translation": "Soruşturma sırasında yeni kanıtlar ortaya çıkabilir."
+        },
+        "cloze": {
+            "template": "New evidence may {{cloze}} during the investigation.",
+            "answer": "emerge"
+        },
+        "difficulty": 2
+    }
+]

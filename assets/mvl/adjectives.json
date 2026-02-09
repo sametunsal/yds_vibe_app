@@ -1,0 +1,915 @@
+[
+    {
+        "id": "adj_01",
+        "lemma": "abstract",
+        "pos": "adjective",
+        "meanings": [
+            "soyut"
+        ],
+        "synonyms": [
+            "theoretical",
+            "conceptual",
+            "intangible"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Mathematics deals with abstract concepts like infinity.",
+            "translation": "Matematik, sonsuzluk gibi soyut kavramlarla ilgilenir."
+        },
+        "cloze": {
+            "template": "Mathematics deals with {{cloze}} concepts like infinity.",
+            "answer": "abstract"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_02",
+        "lemma": "abundant",
+        "pos": "adjective",
+        "meanings": [
+            "bol, bereketli"
+        ],
+        "synonyms": [
+            "plentiful",
+            "copious",
+            "ample"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The country has abundant natural resources.",
+            "translation": "Ülke bol doğal kaynaklara sahiptir."
+        },
+        "cloze": {
+            "template": "The country has {{cloze}} natural resources.",
+            "answer": "abundant"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_03",
+        "lemma": "accurate",
+        "pos": "adjective",
+        "meanings": [
+            "doğru, kesin"
+        ],
+        "synonyms": [
+            "precise",
+            "exact",
+            "correct"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "It is crucial to obtain accurate measurements for the experiment.",
+            "translation": "Deney için kesin ölçümler elde etmek çok önemlidir."
+        },
+        "cloze": {
+            "template": "It is crucial to obtain {{cloze}} measurements for the experiment.",
+            "answer": "accurate"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "adj_04",
+        "lemma": "adequate",
+        "pos": "adjective",
+        "meanings": [
+            "yeterli"
+        ],
+        "synonyms": [
+            "sufficient",
+            "enough"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The refugees lacked adequate food and shelter.",
+            "translation": "Mülteciler yeterli yiyecek ve barınaktan yoksundu."
+        },
+        "cloze": {
+            "template": "The refugees lacked {{cloze}} food and shelter.",
+            "answer": "adequate"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "adj_05",
+        "lemma": "adverse",
+        "pos": "adjective",
+        "meanings": [
+            "olumsuz, ters"
+        ],
+        "synonyms": [
+            "unfavorable",
+            "harmful",
+            "detrimental"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Pollution has adverse effects on human health.",
+            "translation": "Kirliliğin insan sağlığı üzerinde olumsuz etkileri vardır."
+        },
+        "cloze": {
+            "template": "Pollution has {{cloze}} effects on human health.",
+            "answer": "adverse"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_06",
+        "lemma": "ambiguous",
+        "pos": "adjective",
+        "meanings": [
+            "belirsiz, muğlak"
+        ],
+        "synonyms": [
+            "vague",
+            "unclear",
+            "equivocal"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The instructions were ambiguous, leading to confusion among staff.",
+            "translation": "Talimatlar muğlaktı, personeli kafa karışıklığına sürükledi."
+        },
+        "cloze": {
+            "template": "The instructions were {{cloze}}, leading to confusion among staff.",
+            "answer": "ambiguous"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "adj_07",
+        "lemma": "arbitrary",
+        "pos": "adjective",
+        "meanings": [
+            "keyfi, rastgele"
+        ],
+        "synonyms": [
+            "random",
+            "capricious",
+            "subjective"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The decision to fire him seemed completely arbitrary.",
+            "translation": "Onu işten çıkarma kararı tamamen keyfi görünüyordu."
+        },
+        "cloze": {
+            "template": "The decision to fire him seemed completely {{cloze}}.",
+            "answer": "arbitrary"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "adj_08",
+        "lemma": "beneficial",
+        "pos": "adjective",
+        "meanings": [
+            "yararlı, faydalı"
+        ],
+        "synonyms": [
+            "advantageous",
+            "useful",
+            "helpful"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Regular exercise is beneficial for both physical and mental health.",
+            "translation": "Düzenli egzersiz hem fiziksel hem de zihinsel sağlık için yararlıdır."
+        },
+        "cloze": {
+            "template": "Regular exercise is {{cloze}} for both physical and mental health.",
+            "answer": "beneficial"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "adj_09",
+        "lemma": "coherent",
+        "pos": "adjective",
+        "meanings": [
+            "tutarlı, mantıklı"
+        ],
+        "synonyms": [
+            "logical",
+            "consistent",
+            "rational"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The witness provided a coherent account of the incident.",
+            "translation": "Tanık, olayın tutarlı bir açıklamasını yaptı."
+        },
+        "cloze": {
+            "template": "The witness provided a {{cloze}} account of the incident.",
+            "answer": "coherent"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_10",
+        "lemma": "compatible",
+        "pos": "adjective",
+        "meanings": [
+            "uyumlu"
+        ],
+        "synonyms": [
+            "consistent",
+            "harmonious",
+            "suitable"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "This software is not compatible with older operating systems.",
+            "translation": "Bu yazılım eski işletim sistemleriyle uyumlu değildir."
+        },
+        "cloze": {
+            "template": "This software is not {{cloze}} with older operating systems.",
+            "answer": "compatible"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_11",
+        "lemma": "comprehensive",
+        "pos": "adjective",
+        "meanings": [
+            "kapsamlı"
+        ],
+        "synonyms": [
+            "extensive",
+            "complete",
+            "thorough"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The guidebook offers a comprehensive overview of the city's history.",
+            "translation": "Rehber kitap, şehir tarihinin kapsamlı bir özetini sunar."
+        },
+        "cloze": {
+            "template": "The guidebook offers a {{cloze}} overview of the city's history.",
+            "answer": "comprehensive"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_12",
+        "lemma": "concise",
+        "pos": "adjective",
+        "meanings": [
+            "kısa ve öz"
+        ],
+        "synonyms": [
+            "brief",
+            "succinct",
+            "to the point"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Please write a concise summary of the report.",
+            "translation": "Lütfen raporun kısa ve öz bir özetini yazın."
+        },
+        "cloze": {
+            "template": "Please write a {{cloze}} summary of the report.",
+            "answer": "concise"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_13",
+        "lemma": "consistent",
+        "pos": "adjective",
+        "meanings": [
+            "tutarlı, istikrarlı"
+        ],
+        "synonyms": [
+            "steady",
+            "constant",
+            "uniform"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "He is the team's most consistent player, scoring in every game.",
+            "translation": "O, takımın en istikrarlı oyuncusudur, her maçta skor üretir."
+        },
+        "cloze": {
+            "template": "He is the team's most {{cloze}} player, scoring in every game.",
+            "answer": "consistent"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "adj_14",
+        "lemma": "contemporary",
+        "pos": "adjective",
+        "meanings": [
+            "çağdaş, modern"
+        ],
+        "synonyms": [
+            "modern",
+            "current"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Contemporary art often reflects correct social issues.",
+            "translation": "Çağdaş sanat genellikle güncel sosyal sorunları yansıtır."
+        },
+        "cloze": {
+            "template": "{{cloze}} art often reflects correct social issues.",
+            "answer": "Contemporary"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_15",
+        "lemma": "controversial",
+        "pos": "adjective",
+        "meanings": [
+            "tartışmalı"
+        ],
+        "synonyms": [
+            "debatable",
+            "disputed",
+            "contentious"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The government's new tax plan is highly controversial.",
+            "translation": "Hükümetin yeni vergi planı oldukça tartışmalıdır."
+        },
+        "cloze": {
+            "template": "The government's new tax plan is highly {{cloze}}.",
+            "answer": "controversial"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_16",
+        "lemma": "crucial",
+        "pos": "adjective",
+        "meanings": [
+            "çok önemli, kritik"
+        ],
+        "synonyms": [
+            "vital",
+            "critical",
+            "essential"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Water is crucial for the survival of all living organisms.",
+            "translation": "Su, tüm canlı organizmaların hayatta kalması için kritiktir."
+        },
+        "cloze": {
+            "template": "Water is {{cloze}} for the survival of all living organisms.",
+            "answer": "crucial"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "adj_17",
+        "lemma": "cumulative",
+        "pos": "adjective",
+        "meanings": [
+            "kümülatif, birikimli"
+        ],
+        "synonyms": [
+            "increasing",
+            "accumulating"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The cumulative effect of smoking can be fatal.",
+            "translation": "Sigaranın birikimli etkisi ölümcül olabilir."
+        },
+        "cloze": {
+            "template": "The {{cloze}} effect of smoking can be fatal.",
+            "answer": "cumulative"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "adj_18",
+        "lemma": "deficient",
+        "pos": "adjective",
+        "meanings": [
+            "yetersiz, eksik"
+        ],
+        "synonyms": [
+            "lacking",
+            "insufficient",
+            "inadequate"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "A diet deficient in vitamins can cause health problems.",
+            "translation": "Vitamin açısından yetersiz bir diyet sağlık sorunlarına yol açabilir."
+        },
+        "cloze": {
+            "template": "A diet {{cloze}} in vitamins can cause health problems.",
+            "answer": "deficient"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_19",
+        "lemma": "distinct",
+        "pos": "adjective",
+        "meanings": [
+            "belirgin, farklı"
+        ],
+        "synonyms": [
+            "obvious",
+            "clear",
+            "separate"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "There is a distinct difference between the two theories.",
+            "translation": "İki teori arasında belirgin bir fark vardır."
+        },
+        "cloze": {
+            "template": "There is a {{cloze}} difference between the two theories.",
+            "answer": "distinct"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_20",
+        "lemma": "diverse",
+        "pos": "adjective",
+        "meanings": [
+            "çeşitli, farklı"
+        ],
+        "synonyms": [
+            "various",
+            "varied",
+            "different"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "New York is a culturally diverse city.",
+            "translation": "New York kültürel olarak çeşitli bir şehirdir."
+        },
+        "cloze": {
+            "template": "New York is a culturally {{cloze}} city.",
+            "answer": "diverse"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "adj_21",
+        "lemma": "drastic",
+        "pos": "adjective",
+        "meanings": [
+            "köklü, şiddetli"
+        ],
+        "synonyms": [
+            "radical",
+            "extreme",
+            "severe"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Drastic measures are needed to combat climate change.",
+            "translation": "İklim değişikliğiyle mücadele etmek için köklü tedbirlere ihtiyaç vardır."
+        },
+        "cloze": {
+            "template": "{{cloze}} measures are needed to combat climate change.",
+            "answer": "Drastic"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_22",
+        "lemma": "elaborate",
+        "pos": "adjective",
+        "meanings": [
+            "ayrıntılı, özenli"
+        ],
+        "synonyms": [
+            "detailed",
+            "complex",
+            "intricate"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "She prepared an elaborate dinner for the guests.",
+            "translation": "Misafirler için ayrıntılı bir akşam yemeği hazırladı."
+        },
+        "cloze": {
+            "template": "She prepared an {{cloze}} dinner for the guests.",
+            "answer": "elaborate"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "adj_23",
+        "lemma": "empirical",
+        "pos": "adjective",
+        "meanings": [
+            "deneysel, gözleme dayalı"
+        ],
+        "synonyms": [
+            "observational",
+            "experimental"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Scientific theories must be based on empirical evidence.",
+            "translation": "Bilimsel teoriler deneysel kanıtlara dayanmalıdır."
+        },
+        "cloze": {
+            "template": "Scientific theories must be based on {{cloze}} evidence.",
+            "answer": "empirical"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "adj_24",
+        "lemma": "entitled",
+        "pos": "adjective",
+        "meanings": [
+            "hak sahibi, yetkili"
+        ],
+        "synonyms": [
+            "authorized",
+            "eligible"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Employees are entitled to 20 days of paid vacation per year.",
+            "translation": "Çalışanlar yılda 20 gün ücretli izin hakkına sahiptir."
+        },
+        "cloze": {
+            "template": "Employees are {{cloze}} to 20 days of paid vacation per year.",
+            "answer": "entitled"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_25",
+        "lemma": "essential",
+        "pos": "adjective",
+        "meanings": [
+            "temel, gerekli"
+        ],
+        "synonyms": [
+            "necessary",
+            "vital",
+            "fundamental"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Teamwork is essential for the success of this project.",
+            "translation": "Bu projenin başarısı için takım çalışması esastır."
+        },
+        "cloze": {
+            "template": "Teamwork is {{cloze}} for the success of this project.",
+            "answer": "essential"
+        },
+        "difficulty": 1
+    },
+    {
+        "id": "adj_26",
+        "lemma": "explicit",
+        "pos": "adjective",
+        "meanings": [
+            "açık, net"
+        ],
+        "synonyms": [
+            "clear",
+            "direct",
+            "unambiguous"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The contract gave explicit instructions on how to proceed.",
+            "translation": "Sözleşme, nasıl ilerleneceği konusunda açık talimatlar verdi."
+        },
+        "cloze": {
+            "template": "The contract gave {{cloze}} instructions on how to proceed.",
+            "answer": "explicit"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_27",
+        "lemma": "extensive",
+        "pos": "adjective",
+        "meanings": [
+            "kapsamlı, geniş"
+        ],
+        "synonyms": [
+            "widespread",
+            "broad",
+            "vast"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The fire caused extensive damage to the building.",
+            "translation": "Yangın binada kapsamlı hasara neden oldu."
+        },
+        "cloze": {
+            "template": "The fire caused {{cloze}} damage to the building.",
+            "answer": "extensive"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "adj_28",
+        "lemma": "flexible",
+        "pos": "adjective",
+        "meanings": [
+            "esnek"
+        ],
+        "synonyms": [
+            "adaptable",
+            "pliable"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "We need a flexible schedule to accommodate everyone's needs.",
+            "translation": "Herkesin ihtiyaçlarını karşılamak için esnek bir programa ihtiyacımız var."
+        },
+        "cloze": {
+            "template": "We need a {{cloze}} schedule to accommodate everyone's needs.",
+            "answer": "flexible"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "adj_29",
+        "lemma": "fragile",
+        "pos": "adjective",
+        "meanings": [
+            "kırılgan, hassas"
+        ],
+        "synonyms": [
+            "delicate",
+            "frail",
+            "brittle"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The economy remains fragile despite recent improvements.",
+            "translation": "Son iyileşmelere rağmen ekonomi kırılganlığını koruyor."
+        },
+        "cloze": {
+            "template": "The economy remains {{cloze}} despite recent improvements.",
+            "answer": "fragile"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_30",
+        "lemma": "fundamental",
+        "pos": "adjective",
+        "meanings": [
+            "temel, esas"
+        ],
+        "synonyms": [
+            "basic",
+            "primary",
+            "core"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Freedom of speech is a fundamental human right.",
+            "translation": "İfade özgürlüğü temel bir insan hakkıdır."
+        },
+        "cloze": {
+            "template": "Freedom of speech is a {{cloze}} human right.",
+            "answer": "fundamental"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "adj_31",
+        "lemma": "gigantic",
+        "pos": "adjective",
+        "meanings": [
+            "dev, muazzam"
+        ],
+        "synonyms": [
+            "huge",
+            "massive",
+            "enormous"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The asteroid left a gigantic crater on the surface.",
+            "translation": "Asteroit yüzeyde devasa bir krater bıraktı."
+        },
+        "cloze": {
+            "template": "The asteroid left a {{cloze}} crater on the surface.",
+            "answer": "gigantic"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "adj_32",
+        "lemma": "hazardous",
+        "pos": "adjective",
+        "meanings": [
+            "tehlikeli"
+        ],
+        "synonyms": [
+            "dangerous",
+            "risky",
+            "perilous"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Smoking is hazardous to your health.",
+            "translation": "Sigara içmek sağlığınız için tehlikelidir."
+        },
+        "cloze": {
+            "template": "Smoking is {{cloze}} to your health.",
+            "answer": "hazardous"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "adj_33",
+        "lemma": "hostile",
+        "pos": "adjective",
+        "meanings": [
+            "düşmanca"
+        ],
+        "synonyms": [
+            "unfriendly",
+            "antagonistic",
+            "aggressive"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The environment was hostile to any form of life.",
+            "translation": "Ortam her türlü yaşam formuna karşı düşmancaydı (elverişsizdi)."
+        },
+        "cloze": {
+            "template": "The environment was {{cloze}} to any form of life.",
+            "answer": "hostile"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_34",
+        "lemma": "identical",
+        "pos": "adjective",
+        "meanings": [
+            "özdeş, aynı"
+        ],
+        "synonyms": [
+            "same",
+            "alike",
+            "duplicate"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The twins wore identical outfits.",
+            "translation": "İkizler aynı kıyafetleri giydiler."
+        },
+        "cloze": {
+            "template": "The twins wore {{cloze}} outfits.",
+            "answer": "identical"
+        },
+        "difficulty": 1
+    },
+    {
+        "id": "adj_35",
+        "lemma": "immerse",
+        "pos": "adjective",
+        "meanings": [
+            "dalmış, kendini kaptırmış"
+        ],
+        "synonyms": [
+            "absorbed",
+            "engrossed"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "She was completely immersed in her book.",
+            "translation": "Kitabına tamamen dalmıştı."
+        },
+        "cloze": {
+            "template": "She was completely {{cloze}}d in her book.",
+            "answer": "immerse"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_36",
+        "lemma": "imperative",
+        "pos": "adjective",
+        "meanings": [
+            "zorunlu, şart"
+        ],
+        "synonyms": [
+            "mandatory",
+            "crucial",
+            "essential"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "It is imperative that we act immediately.",
+            "translation": "Hemen harekete geçmemiz şarttır."
+        },
+        "cloze": {
+            "template": "It is {{cloze}} that we act immediately.",
+            "answer": "imperative"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "adj_37",
+        "lemma": "implausible",
+        "pos": "adjective",
+        "meanings": [
+            "inanılmaz, mantıksız"
+        ],
+        "synonyms": [
+            "unlikely",
+            "unbelievable",
+            "improbable"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "His explanation for being late sounded highly implausible.",
+            "translation": "Geç kalma açıklaması kulağa son derece mantıksız geliyordu."
+        },
+        "cloze": {
+            "template": "His explanation for being late sounded highly {{cloze}}.",
+            "answer": "implausible"
+        },
+        "difficulty": 4
+    },
+    {
+        "id": "adj_38",
+        "lemma": "inadequate",
+        "pos": "adjective",
+        "meanings": [
+            "yetersiz"
+        ],
+        "synonyms": [
+            "insufficient",
+            "deficient",
+            "scarce"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Current resources are inadequate to meet the rising demand.",
+            "translation": "Mevcut kaynaklar artan talebi karşılamak için yetersizdir."
+        },
+        "cloze": {
+            "template": "Current resources are {{cloze}} to meet the rising demand.",
+            "answer": "inadequate"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_39",
+        "lemma": "inevitable",
+        "pos": "adjective",
+        "meanings": [
+            "kaçınılmaz"
+        ],
+        "synonyms": [
+            "unavoidable",
+            "inescapable",
+            "certain"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "Change is an inevitable part of life.",
+            "translation": "Değişim hayatın kaçınılmaz bir parçasıdır."
+        },
+        "cloze": {
+            "template": "Change is an {{cloze}} part of life.",
+            "answer": "inevitable"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "adj_40",
+        "lemma": "infinite",
+        "pos": "adjective",
+        "meanings": [
+            "sonsuz"
+        ],
+        "synonyms": [
+            "endless",
+            "limitless",
+            "boundless"
+        ],
+        "multi_word": false,
+        "example": {
+            "text": "The universe is believed to be infinite in size.",
+            "translation": "Evrenin büyüklüğünün sonsuz olduğuna inanılır."
+        },
+        "cloze": {
+            "template": "The universe is believed to be {{cloze}} in size.",
+            "answer": "infinite"
+        },
+        "difficulty": 2
+    }
+]

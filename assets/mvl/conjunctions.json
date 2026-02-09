@@ -1,0 +1,216 @@
+[
+    {
+        "id": "conj_01",
+        "lemma": "although",
+        "pos": "conjunction",
+        "meanings": [
+            "-e rağmen, olsa bile"
+        ],
+        "synonyms": [
+            "even though",
+            "though",
+            "while"
+        ],
+        "example": {
+            "text": "Although it was raining, they went for a walk.",
+            "translation": "Yağmur yağmasına rağmen yürüyüşe çıktılar."
+        },
+        "cloze": {
+            "template": "{{cloze}} it was raining, they went for a walk.",
+            "answer": "Although"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "conj_02",
+        "lemma": "because",
+        "pos": "conjunction",
+        "meanings": [
+            "çünkü, -dığı için"
+        ],
+        "synonyms": [
+            "since",
+            "as",
+            "due to the fact that"
+        ],
+        "example": {
+            "text": "We stayed at home because the weather was bad.",
+            "translation": "Hava kötü olduğu için evde kaldık."
+        },
+        "cloze": {
+            "template": "We stayed at home {{cloze}} the weather was bad.",
+            "answer": "because"
+        },
+        "difficulty": 1
+    },
+    {
+        "id": "conj_03",
+        "lemma": "even if",
+        "pos": "conjunction",
+        "meanings": [
+            "olsa bile"
+        ],
+        "synonyms": [
+            "whether or not",
+            "although"
+        ],
+        "example": {
+            "text": "I will go even if it rains.",
+            "translation": "Yağmur yağsa bile gideceğim."
+        },
+        "cloze": {
+            "template": "I will go {{cloze}} it rains.",
+            "answer": "even if"
+        },
+        "multi_word": true,
+        "difficulty": 2
+    },
+    {
+        "id": "conj_04",
+        "lemma": "if",
+        "pos": "conjunction",
+        "meanings": [
+            "eğer"
+        ],
+        "synonyms": [
+            "provided that",
+            "in case"
+        ],
+        "example": {
+            "text": "If you study hard, you will pass the exam.",
+            "translation": "Eğer sıkı çalışırsan sınavı geçersin."
+        },
+        "cloze": {
+            "template": "{{cloze}} you study hard, you will pass the exam.",
+            "answer": "If"
+        },
+        "difficulty": 1
+    },
+    {
+        "id": "conj_05",
+        "lemma": "in case",
+        "pos": "conjunction",
+        "meanings": [
+            "durumunda, ihtimaline karşı"
+        ],
+        "synonyms": [
+            "in the event that"
+        ],
+        "example": {
+            "text": "Take an umbrella in case it rains.",
+            "translation": "Yağmur yağma ihtimaline karşı şemsiye al."
+        },
+        "cloze": {
+            "template": "Take an umbrella {{cloze}} it rains.",
+            "answer": "in case"
+        },
+        "multi_word": true,
+        "difficulty": 2
+    },
+    {
+        "id": "conj_06",
+        "lemma": "provided that",
+        "pos": "conjunction",
+        "meanings": [
+            "şartıyla, koşuluyla"
+        ],
+        "synonyms": [
+            "on condition that",
+            "as long as"
+        ],
+        "example": {
+            "text": "You can borrow the car provided that you return it by 5 PM.",
+            "translation": "Saat 17.00'ye kadar geri getirmek şartıyla arabayı ödünç alabilirsin."
+        },
+        "cloze": {
+            "template": "You can borrow the car {{cloze}} you return it by 5 PM.",
+            "answer": "provided that"
+        },
+        "multi_word": true,
+        "difficulty": 3
+    },
+    {
+        "id": "conj_07",
+        "lemma": "since",
+        "pos": "conjunction",
+        "meanings": [
+            "-den beri; çünkü"
+        ],
+        "synonyms": [
+            "because",
+            "as"
+        ],
+        "example": {
+            "text": "Since we have no money, we can't buy a new car.",
+            "translation": "Paramız olmadığı için yeni bir araba alamayız."
+        },
+        "cloze": {
+            "template": "{{cloze}} we have no money, we can't buy a new car.",
+            "answer": "Since"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "conj_08",
+        "lemma": "so that",
+        "pos": "conjunction",
+        "meanings": [
+            "-sin diye, olsun diye"
+        ],
+        "synonyms": [
+            "in order that"
+        ],
+        "example": {
+            "text": "He works hard so that he can support his family.",
+            "translation": "Ailesini geçindirebilsin diye çok çalışıyor."
+        },
+        "cloze": {
+            "template": "He works hard {{cloze}} he can support his family.",
+            "answer": "so that"
+        },
+        "multi_word": true,
+        "difficulty": 2
+    },
+    {
+        "id": "conj_09",
+        "lemma": "unless",
+        "pos": "conjunction",
+        "meanings": [
+            "-medikçe, olmazsa"
+        ],
+        "synonyms": [
+            "if not",
+            "except if"
+        ],
+        "example": {
+            "text": "You will fail unless you study harder.",
+            "translation": "Daha sıkı çalışmazsan başarısız olursun."
+        },
+        "cloze": {
+            "template": "You will fail {{cloze}} you study harder.",
+            "answer": "unless"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "conj_10",
+        "lemma": "whereas",
+        "pos": "conjunction",
+        "meanings": [
+            "oysa, halbuki"
+        ],
+        "synonyms": [
+            "while",
+            "on the contrary"
+        ],
+        "example": {
+            "text": "He loves sports, whereas his brother prefers reading.",
+            "translation": "O sporu sever, oysa kardeşi kitap okumayı tercih eder."
+        },
+        "cloze": {
+            "template": "He loves sports, {{cloze}} his brother prefers reading.",
+            "answer": "whereas"
+        },
+        "difficulty": 3
+    }
+]

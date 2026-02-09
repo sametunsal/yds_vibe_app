@@ -1,0 +1,457 @@
+[
+    {
+        "id": "pv_01",
+        "lemma": "account for",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "oluşturmak, açıklamak"
+        ],
+        "synonyms": [
+            "explain",
+            "constitute"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "Oil exports account for 80% of the country's revenue.",
+            "translation": "Petrol ihracatı, ülke gelirinin %80'ini oluşturmaktadır."
+        },
+        "cloze": {
+            "template": "Oil exports account {{cloze}} 80% of the country's revenue.",
+            "answer": "for"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "pv_02",
+        "lemma": "break down",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "bozulmak, parçalanmak"
+        ],
+        "synonyms": [
+            "stop working",
+            "collapse",
+            "fail"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "Negotiations between the two countries began to break down.",
+            "translation": "İki ülke arasındaki müzakereler bozulmaya başladı."
+        },
+        "cloze": {
+            "template": "Negotiations between the two countries began to break {{cloze}}.",
+            "answer": "down"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_03",
+        "lemma": "break out",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "patlak vermek (savaş/yangın)"
+        ],
+        "synonyms": [
+            "erupt",
+            "start suddenly"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "War could break out if diplomatic efforts fail.",
+            "translation": "Diplomatik çabalar başarısız olursa savaş patlak verebilir."
+        },
+        "cloze": {
+            "template": "War could break {{cloze}} if diplomatic efforts fail.",
+            "answer": "out"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "pv_04",
+        "lemma": "bring about",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "neden olmak, yol açmak"
+        ],
+        "synonyms": [
+            "cause",
+            "lead to",
+            "generate"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "The new policies aim to bring about positive social change.",
+            "translation": "Yeni politikalar olumlu sosyal değişim getirmeyi amaçlıyor."
+        },
+        "cloze": {
+            "template": "The new policies aim to bring {{cloze}} positive social change.",
+            "answer": "about"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "pv_05",
+        "lemma": "call for",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "gerektirmek, talep etmek"
+        ],
+        "synonyms": [
+            "require",
+            "demand",
+            "necessitate"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "This situation calls for immediate action.",
+            "translation": "Bu durum acil eylem gerektirir."
+        },
+        "cloze": {
+            "template": "This situation calls {{cloze}} immediate action.",
+            "answer": "for"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_06",
+        "lemma": "call off",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "iptal etmek"
+        ],
+        "synonyms": [
+            "cancel",
+            "abandon",
+            "drop"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "They had to call off the meeting due to the storm.",
+            "translation": "Fırtına nedeniyle toplantıyı iptal etmek zorunda kaldılar."
+        },
+        "cloze": {
+            "template": "They had to call {{cloze}} the meeting due to the storm.",
+            "answer": "off"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_07",
+        "lemma": "carry out",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "uygulamak, yerine getirmek"
+        ],
+        "synonyms": [
+            "perform",
+            "execute",
+            "conduct"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "Scientists carry out experiments to test their theories.",
+            "translation": "Bilim insanları teorilerini test etmek için deneyler yaparlar."
+        },
+        "cloze": {
+            "template": "Scientists carry {{cloze}} experiments to test their theories.",
+            "answer": "out"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_08",
+        "lemma": "catch up",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "yetişmek, yakalamak"
+        ],
+        "synonyms": [
+            "reach",
+            "keep up with"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "He needs to study hard to catch up with his classmates.",
+            "translation": "Sınıf arkadaşlarına yetişmek için çok çalışması gerekiyor."
+        },
+        "cloze": {
+            "template": "He needs to study hard to catch {{cloze}} with his classmates.",
+            "answer": "up"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_09",
+        "lemma": "come across",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "karşılaşmak (tesadüfen)"
+        ],
+        "synonyms": [
+            "encounter",
+            "run into",
+            "find by chance"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "I came across some old photos while cleaning the attic.",
+            "translation": "Tavan arasını temizlerken bazı eski fotoğraflara rastladım."
+        },
+        "cloze": {
+            "template": "I came {{cloze}} some old photos while cleaning the attic.",
+            "answer": "across"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_10",
+        "lemma": "come up with",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "bulmak, üretmek (fikir)"
+        ],
+        "synonyms": [
+            "invent",
+            "create",
+            "think of"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "Engineers need to come up with a solution to the problem.",
+            "translation": "Mühendislerin soruna bir çözüm bulması gerekiyor."
+        },
+        "cloze": {
+            "template": "Engineers need to come {{cloze}} a solution to the problem.",
+            "answer": "up with"
+        },
+        "difficulty": 3
+    },
+    {
+        "id": "pv_11",
+        "lemma": "cope with",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "başa çıkmak, üstesinden gelmek"
+        ],
+        "synonyms": [
+            "deal with",
+            "manage",
+            "handle"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "It is difficult to cope with stress without support.",
+            "translation": "Destek olmadan stresle başa çıkmak zordur."
+        },
+        "cloze": {
+            "template": "It is difficult to cope {{cloze}} stress without support.",
+            "answer": "with"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_12",
+        "lemma": "count on",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "güvenmek, bel bağlamak"
+        ],
+        "synonyms": [
+            "rely on",
+            "depend on",
+            "trust"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "You can count on me to support you during this difficult time.",
+            "translation": "Bu zor zamanda seni destekleyeceğime güvenebilirsin."
+        },
+        "cloze": {
+            "template": "You can count {{cloze}} me to support you during this difficult time.",
+            "answer": "on"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_13",
+        "lemma": "cut down on",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "azaltmak"
+        ],
+        "synonyms": [
+            "reduce",
+            "decrease"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "Doctors advised him to cut down on sugar.",
+            "translation": "Doktorlar şeker tüketimini azaltmasını tavsiye etti."
+        },
+        "cloze": {
+            "template": "Doctors advised him to cut {{cloze}} sugar.",
+            "answer": "down on"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_14",
+        "lemma": "figure out",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "çözmek, anlamak"
+        ],
+        "synonyms": [
+            "understand",
+            "solve",
+            "comprehend"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "I can't figure out why the computer keeps crashing.",
+            "translation": "Bilgisayarın neden çöküp durduğunu çözemiyorum."
+        },
+        "cloze": {
+            "template": "I can't figure {{cloze}} why the computer keeps crashing.",
+            "answer": "out"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_15",
+        "lemma": "give up",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "bırakmak, vazgeçmek"
+        ],
+        "synonyms": [
+            "quit",
+            "stop",
+            "surrender"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "Never give up on your dreams, no matter how hard it gets.",
+            "translation": "Ne kadar zor olursa olsun hayallerinden asla vazgeçme."
+        },
+        "cloze": {
+            "template": "Never give {{cloze}} on your dreams, no matter how hard it gets.",
+            "answer": "up"
+        },
+        "difficulty": 1
+    },
+    {
+        "id": "pv_16",
+        "lemma": "look into",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "incelemek, araştırmak"
+        ],
+        "synonyms": [
+            "investigate",
+            "examine",
+            "explore"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "Authorities promised to look into the allegations of corruption.",
+            "translation": "Yetkililer yolsuzluk iddialarını inceleme sözü verdi."
+        },
+        "cloze": {
+            "template": "Authorities promised to look {{cloze}} the allegations of corruption.",
+            "answer": "into"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_17",
+        "lemma": "make up",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "oluşturmak, uydurmak"
+        ],
+        "synonyms": [
+            "constitute",
+            "invent",
+            "compose"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "Women make up 50% of the population.",
+            "translation": "Kadınlar nüfusun %50'sini oluşturuyor."
+        },
+        "cloze": {
+            "template": "Women make {{cloze}} 50% of the population.",
+            "answer": "up"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_18",
+        "lemma": "point out",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "işaret etmek, belirtmek"
+        ],
+        "synonyms": [
+            "indicate",
+            "mention",
+            "highlight"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "Critics point out that the plan has several flaws.",
+            "translation": "Eleştirmenler planın birkaç kusuru olduğuna işaret ediyor."
+        },
+        "cloze": {
+            "template": "Critics point {{cloze}} that the plan has several flaws.",
+            "answer": "out"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_19",
+        "lemma": "put off",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "ertelemek"
+        ],
+        "synonyms": [
+            "postpone",
+            "delay",
+            "defer"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "Never put off until tomorrow what you can do today.",
+            "translation": "Bugün yapabileceğin işi asla yarına erteleme."
+        },
+        "cloze": {
+            "template": "Never put {{cloze}} until tomorrow what you can do today.",
+            "answer": "off"
+        },
+        "difficulty": 2
+    },
+    {
+        "id": "pv_20",
+        "lemma": "take over",
+        "pos": "phrasal_verb",
+        "meanings": [
+            "devralmak, üstlenmek"
+        ],
+        "synonyms": [
+            "assume control of",
+            "acquire"
+        ],
+        "multi_word": true,
+        "example": {
+            "text": "The vice president will take over if the president resigns.",
+            "translation": "Başkan istifa ederse başkan yardımcısı görevi devralacak."
+        },
+        "cloze": {
+            "template": "The vice president will take {{cloze}} if the president resigns.",
+            "answer": "over"
+        },
+        "difficulty": 2
+    }
+]
