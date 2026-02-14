@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import '../constants/app_constants.dart';
+import '../core/responsive.dart';
+import '../core/result.dart';
 import '../models/card.dart';
-import '../data/card_loader.dart';
+import '../repositories/card_repository.dart';
 import '../services/streak_service.dart';
 
 class ProfileScreen extends StatefulWidget {
@@ -11,7 +14,8 @@ class ProfileScreen extends StatefulWidget {
 }
 
 class _ProfileScreenState extends State<ProfileScreen> {
-  late Future<List<VocabularyCard>> _cardsFuture;
+  final CardRepository _repository = CardRepositoryImpl();
+  late Future<Result<List<VocabularyCard>>> _cardsFuture;
 
   int _streakCount = 0;
   List<bool> _weeklyActivity = List.filled(7, false);
@@ -33,7 +37,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
   }
 
   void _loadData() {
-    _cardsFuture = CardLoader.loadCards();
+    _cardsFuture = _repository.getAllCards();
     _loadStreakData();
   }
 
@@ -61,7 +65,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
           ),
         ],
       ),
-      body: FutureBuilder<List<VocabularyCard>>(
+      body: FutureBuilder<Result<List<VocabularyCard>>>(
         future: _cardsFuture,
         builder: (context, snapshot) {
           if (snapshot.connectionState == ConnectionState.waiting) {
@@ -81,90 +85,140 @@ class _ProfileScreenState extends State<ProfileScreen> {
             );
           }
 
-          final cards = snapshot.data ?? [];
-          return _buildContent(cards);
+          final result = snapshot.data;
+          if (result == null) {
+            return const Center(child: CircularProgressIndicator());
+          }
+
+          switch (result) {
+            case Success(value: final cards):
+              return _buildContent(cards);
+            case Failure(message: final msg):
+              return Center(
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(Icons.error_outline, size: 48, color: Colors.red[300]),
+                    const SizedBox(height: 16),
+                    Text('Hata: $msg'),
+                  ],
+                ),
+              );
+          }
         },
       ),
     );
   }
 
   Widget _buildContent(List<VocabularyCard> cards) {
-    // Calculate stats
     final newCount = cards.where((c) => c.intervalDays == 0).length;
     final learningCount = cards
-        .where((c) => c.intervalDays > 0 && c.intervalDays < 21)
+        .where(
+          (c) =>
+              c.intervalDays > 0 &&
+              c.intervalDays < AppConstants.learningThresholdDays,
+        )
         .length;
-    final masteredCount = cards.where((c) => c.intervalDays >= 21).length;
+    final masteredCount = cards
+        .where((c) => c.intervalDays >= AppConstants.masteredThresholdDays)
+        .length;
     final totalCards = cards.length;
-
-    // Calculate level based on mastered cards
     final level = (masteredCount / 10).floor() + 1;
+    final padding = context.horizontalPadding;
 
     return SingleChildScrollView(
-      padding: const EdgeInsets.all(20),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          // Profile Header
-          _buildProfileHeader(level),
-          const SizedBox(height: 28),
+      child: ResponsiveCenter(
+        maxWidth: 600,
+        padding: EdgeInsets.all(padding),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            _buildProfileHeader(level),
+            const SizedBox(height: 28),
 
-          // Stats Section Title
-          Row(
-            children: [
-              Icon(Icons.bar_chart, size: 20, color: Colors.grey[600]),
-              const SizedBox(width: 8),
-              Text(
-                'İlerleme Durumu',
-                style: TextStyle(
-                  fontSize: 16,
-                  fontWeight: FontWeight.w600,
-                  color: Colors.grey[700],
+            // Stats Section Title
+            Row(
+              children: [
+                Icon(Icons.bar_chart, size: 20, color: Colors.grey[600]),
+                const SizedBox(width: 8),
+                Text(
+                  'İlerleme Durumu',
+                  style: TextStyle(
+                    fontSize: context.responsive(
+                      compact: 14.0,
+                      medium: 16.0,
+                      expanded: 18.0,
+                    ),
+                    fontWeight: FontWeight.w600,
+                    color: Colors.grey[700],
+                  ),
                 ),
-              ),
-            ],
-          ),
-          const SizedBox(height: 12),
+              ],
+            ),
+            const SizedBox(height: 12),
 
-          // Stats Cards
-          _buildStatsGrid(newCount, learningCount, masteredCount, totalCards),
-          const SizedBox(height: 28),
+            _buildStatsGrid(newCount, learningCount, masteredCount, totalCards),
+            const SizedBox(height: 28),
 
-          // Weekly Activity Section
-          Row(
-            children: [
-              Icon(
-                Icons.local_fire_department,
-                size: 20,
-                color: Colors.orange[600],
-              ),
-              const SizedBox(width: 8),
-              Text(
-                'Haftalık Aktivite',
-                style: TextStyle(
-                  fontSize: 16,
-                  fontWeight: FontWeight.w600,
-                  color: Colors.grey[700],
+            // Weekly Activity Section
+            Row(
+              children: [
+                Icon(
+                  Icons.local_fire_department,
+                  size: 20,
+                  color: Colors.orange[600],
                 ),
-              ),
-            ],
-          ),
-          const SizedBox(height: 12),
+                const SizedBox(width: 8),
+                Text(
+                  'Haftalık Aktivite',
+                  style: TextStyle(
+                    fontSize: context.responsive(
+                      compact: 14.0,
+                      medium: 16.0,
+                      expanded: 18.0,
+                    ),
+                    fontWeight: FontWeight.w600,
+                    color: Colors.grey[700],
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 12),
 
-          // Weekly Streak
-          _buildWeeklyStreak(),
-          const SizedBox(height: 28),
+            _buildWeeklyStreak(),
+            const SizedBox(height: 28),
 
-          // Quick Stats
-          _buildQuickStats(cards),
-        ],
+            _buildQuickStats(cards),
+          ],
+        ),
       ),
     );
   }
 
   Widget _buildProfileHeader(int level) {
+    final avatarSize = context.responsive(
+      compact: 56.0,
+      medium: 72.0,
+      expanded: 88.0,
+    );
+    final titleFont = context.responsive(
+      compact: 18.0,
+      medium: 22.0,
+      expanded: 26.0,
+    );
+    final trophySize = context.responsive(
+      compact: 24.0,
+      medium: 28.0,
+      expanded: 32.0,
+    );
+    final headerPadding = context.responsive(
+      compact: 16.0,
+      medium: 20.0,
+      expanded: 24.0,
+    );
+
     return Container(
-      padding: const EdgeInsets.all(20),
+      padding: EdgeInsets.all(headerPadding),
       decoration: BoxDecoration(
         gradient: LinearGradient(
           begin: Alignment.topLeft,
@@ -182,28 +236,29 @@ class _ProfileScreenState extends State<ProfileScreen> {
       ),
       child: Row(
         children: [
-          // Avatar
           Container(
-            width: 72,
-            height: 72,
+            width: avatarSize,
+            height: avatarSize,
             decoration: BoxDecoration(
               color: Colors.white.withValues(alpha: 0.2),
               shape: BoxShape.circle,
               border: Border.all(color: Colors.white, width: 3),
             ),
-            child: const Icon(Icons.person, size: 40, color: Colors.white),
+            child: Icon(
+              Icons.person,
+              size: avatarSize * 0.55,
+              color: Colors.white,
+            ),
           ),
-          const SizedBox(width: 20),
-
-          // User Info
+          SizedBox(width: headerPadding),
           Expanded(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                const Text(
+                Text(
                   'YDS Adayı',
                   style: TextStyle(
-                    fontSize: 22,
+                    fontSize: titleFont,
                     fontWeight: FontWeight.bold,
                     color: Colors.white,
                   ),
@@ -220,8 +275,12 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   ),
                   child: Text(
                     'Level $level',
-                    style: const TextStyle(
-                      fontSize: 14,
+                    style: TextStyle(
+                      fontSize: context.responsive(
+                        compact: 12.0,
+                        medium: 14.0,
+                        expanded: 16.0,
+                      ),
                       fontWeight: FontWeight.w600,
                       color: Colors.white,
                     ),
@@ -230,17 +289,15 @@ class _ProfileScreenState extends State<ProfileScreen> {
               ],
             ),
           ),
-
-          // Trophy icon
           Container(
             padding: const EdgeInsets.all(10),
             decoration: BoxDecoration(
               color: Colors.amber.withValues(alpha: 0.3),
               shape: BoxShape.circle,
             ),
-            child: const Icon(
+            child: Icon(
               Icons.emoji_events,
-              size: 28,
+              size: trophySize,
               color: Colors.amber,
             ),
           ),
@@ -293,8 +350,31 @@ class _ProfileScreenState extends State<ProfileScreen> {
     required IconData icon,
     required Color color,
   }) {
+    final iconSize = context.responsive(
+      compact: 24.0,
+      medium: 28.0,
+      expanded: 32.0,
+    );
+    final countFont = context.responsive(
+      compact: 22.0,
+      medium: 26.0,
+      expanded: 30.0,
+    );
+    final labelFont = context.responsive(
+      compact: 11.0,
+      medium: 12.0,
+      expanded: 14.0,
+    );
+
     return Container(
-      padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 12),
+      padding: EdgeInsets.symmetric(
+        vertical: context.responsive(
+          compact: 12.0,
+          medium: 16.0,
+          expanded: 20.0,
+        ),
+        horizontal: 12,
+      ),
       decoration: BoxDecoration(
         color: color.withValues(alpha: 0.1),
         borderRadius: BorderRadius.circular(16),
@@ -302,12 +382,12 @@ class _ProfileScreenState extends State<ProfileScreen> {
       ),
       child: Column(
         children: [
-          Icon(icon, color: color, size: 28),
+          Icon(icon, color: color, size: iconSize),
           const SizedBox(height: 8),
           Text(
             count.toString(),
             style: TextStyle(
-              fontSize: 26,
+              fontSize: countFont,
               fontWeight: FontWeight.bold,
               color: color,
             ),
@@ -316,7 +396,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
           Text(
             title,
             style: TextStyle(
-              fontSize: 12,
+              fontSize: labelFont,
               fontWeight: FontWeight.w500,
               color: Colors.grey[600],
             ),
@@ -329,9 +409,31 @@ class _ProfileScreenState extends State<ProfileScreen> {
 
   Widget _buildWeeklyStreak() {
     final currentStreak = _streakCount;
+    final dotSize = context.responsive(
+      compact: 28.0,
+      medium: 36.0,
+      expanded: 44.0,
+    );
+    final dotIconSize = context.responsive(
+      compact: 16.0,
+      medium: 20.0,
+      expanded: 24.0,
+    );
+    final streakFont = context.responsive(
+      compact: 16.0,
+      medium: 18.0,
+      expanded: 20.0,
+    );
+    final dayLabelFont = context.responsive(
+      compact: 10.0,
+      medium: 11.0,
+      expanded: 13.0,
+    );
 
     return Container(
-      padding: const EdgeInsets.all(20),
+      padding: EdgeInsets.all(
+        context.responsive(compact: 16.0, medium: 20.0, expanded: 24.0),
+      ),
       decoration: BoxDecoration(
         color: Colors.grey[50],
         borderRadius: BorderRadius.circular(16),
@@ -339,20 +441,23 @@ class _ProfileScreenState extends State<ProfileScreen> {
       ),
       child: Column(
         children: [
-          // Streak count
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Icon(
                 Icons.local_fire_department,
                 color: currentStreak >= 5 ? Colors.orange : Colors.grey[400],
-                size: 32,
+                size: context.responsive(
+                  compact: 28.0,
+                  medium: 32.0,
+                  expanded: 36.0,
+                ),
               ),
               const SizedBox(width: 8),
               Text(
                 '$currentStreak gün aktif',
                 style: TextStyle(
-                  fontSize: 18,
+                  fontSize: streakFont,
                   fontWeight: FontWeight.bold,
                   color: Colors.grey[800],
                 ),
@@ -360,8 +465,6 @@ class _ProfileScreenState extends State<ProfileScreen> {
             ],
           ),
           const SizedBox(height: 20),
-
-          // Week days
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: List.generate(7, (index) {
@@ -369,8 +472,8 @@ class _ProfileScreenState extends State<ProfileScreen> {
               return Column(
                 children: [
                   Container(
-                    width: 36,
-                    height: 36,
+                    width: dotSize,
+                    height: dotSize,
                     decoration: BoxDecoration(
                       color: isActive ? Colors.green : Colors.grey[300],
                       shape: BoxShape.circle,
@@ -387,14 +490,14 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     child: Icon(
                       isActive ? Icons.check : Icons.remove,
                       color: Colors.white,
-                      size: 20,
+                      size: dotIconSize,
                     ),
                   ),
                   const SizedBox(height: 6),
                   Text(
                     _weekDays[index],
                     style: TextStyle(
-                      fontSize: 11,
+                      fontSize: dayLabelFont,
                       fontWeight: FontWeight.w500,
                       color: isActive ? Colors.grey[800] : Colors.grey[500],
                     ),
@@ -409,17 +512,16 @@ class _ProfileScreenState extends State<ProfileScreen> {
   }
 
   Widget _buildQuickStats(List<VocabularyCard> cards) {
-    // Calculate average repetitions
     final avgReps = cards.isEmpty
         ? 0.0
         : cards.map((c) => c.repetitions).reduce((a, b) => a + b) /
               cards.length;
-
-    // Cards reviewed at least once
     final reviewedCards = cards.where((c) => c.repetitions > 0).length;
 
     return Container(
-      padding: const EdgeInsets.all(20),
+      padding: EdgeInsets.all(
+        context.responsive(compact: 16.0, medium: 20.0, expanded: 24.0),
+      ),
       decoration: BoxDecoration(
         color: Colors.deepPurple.shade50,
         borderRadius: BorderRadius.circular(16),
@@ -430,7 +532,11 @@ class _ProfileScreenState extends State<ProfileScreen> {
           Text(
             'Detaylı İstatistikler',
             style: TextStyle(
-              fontSize: 14,
+              fontSize: context.responsive(
+                compact: 13.0,
+                medium: 14.0,
+                expanded: 16.0,
+              ),
               fontWeight: FontWeight.w600,
               color: Colors.deepPurple[700],
             ),
@@ -463,20 +569,36 @@ class _ProfileScreenState extends State<ProfileScreen> {
     required String label,
     required String value,
   }) {
+    final iconSize = context.responsive(
+      compact: 18.0,
+      medium: 20.0,
+      expanded: 22.0,
+    );
+    final labelFont = context.responsive(
+      compact: 13.0,
+      medium: 14.0,
+      expanded: 16.0,
+    );
+    final valueFont = context.responsive(
+      compact: 14.0,
+      medium: 16.0,
+      expanded: 18.0,
+    );
+
     return Row(
       children: [
-        Icon(icon, size: 20, color: Colors.deepPurple),
+        Icon(icon, size: iconSize, color: Colors.deepPurple),
         const SizedBox(width: 12),
         Expanded(
           child: Text(
             label,
-            style: TextStyle(fontSize: 14, color: Colors.grey[700]),
+            style: TextStyle(fontSize: labelFont, color: Colors.grey[700]),
           ),
         ),
         Text(
           value,
-          style: const TextStyle(
-            fontSize: 16,
+          style: TextStyle(
+            fontSize: valueFont,
             fontWeight: FontWeight.bold,
             color: Colors.deepPurple,
           ),

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
+import '../core/responsive.dart';
 
 class CategoryCard extends StatelessWidget {
   final String title;
@@ -19,121 +20,139 @@ class CategoryCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final cardPadding = context.responsive(
+      compact: 14.0,
+      medium: 20.0,
+      expanded: 24.0,
+    );
+    final iconSize = context.responsive(
+      compact: 24.0,
+      medium: 28.0,
+      expanded: 36.0,
+    );
+    final iconContainerPadding = context.responsive(
+      compact: 10.0,
+      medium: 12.0,
+      expanded: 14.0,
+    );
+    final bgIconSize = context.responsive(
+      compact: 80.0,
+      medium: 100.0,
+      expanded: 120.0,
+    );
+    final countFont = context.responsive(
+      compact: 16.0,
+      medium: 20.0,
+      expanded: 24.0,
+    );
+    final titleFont = context.responsive(
+      compact: 14.0,
+      medium: 16.0,
+      expanded: 18.0,
+    );
+
     return InkWell(
-      onTap: onTap,
-      borderRadius: BorderRadius.circular(24),
-      splashColor: color.withValues(alpha: 0.3),
-      highlightColor: color.withValues(alpha: 0.2),
-      child: Container(
-        decoration: BoxDecoration(
-          gradient: LinearGradient(
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-            colors: [
-              color.withValues(alpha: 0.85),
-              color,
-            ],
-            stops: const [0.0, 1.0],
-          ),
+          onTap: onTap,
           borderRadius: BorderRadius.circular(24),
-          boxShadow: [
-            BoxShadow(
-              color: color.withValues(alpha: 0.4),
-              blurRadius: 16,
-              offset: const Offset(0, 8),
-              spreadRadius: -4,
-            ),
-          ],
-        ),
-        child: Stack(
-          clipBehavior: Clip.none,
-          children: [
-            // Background Icon (faded, large)
-            Positioned(
-              right: -16,
-              bottom: -16,
-              child: Icon(
-                icon,
-                size: 100,
-                color: Colors.white.withValues(alpha: 0.15),
+          splashColor: color.withValues(alpha: 0.3),
+          highlightColor: color.withValues(alpha: 0.2),
+          child: Container(
+            decoration: BoxDecoration(
+              gradient: LinearGradient(
+                begin: Alignment.topLeft,
+                end: Alignment.bottomRight,
+                colors: [color.withValues(alpha: 0.85), color],
+                stops: const [0.0, 1.0],
               ),
+              borderRadius: BorderRadius.circular(24),
+              boxShadow: [
+                BoxShadow(
+                  color: color.withValues(alpha: 0.4),
+                  blurRadius: 16,
+                  offset: const Offset(0, 8),
+                  spreadRadius: -4,
+                ),
+              ],
             ),
-            // Content
-            Padding(
-              padding: const EdgeInsets.all(20.0),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  // Icon container with glow effect
-                  Container(
-                    padding: const EdgeInsets.all(12),
-                    decoration: BoxDecoration(
-                      color: Colors.white.withValues(alpha: 0.25),
-                      shape: BoxShape.circle,
-                      boxShadow: [
-                        BoxShadow(
-                          color: Colors.white.withValues(alpha: 0.2),
-                          blurRadius: 8,
-                          spreadRadius: 2,
-                        ),
-                      ],
-                    ),
-                    child: Icon(
-                      icon,
-                      color: Colors.white,
-                      size: 28,
-                    ),
+            child: Stack(
+              clipBehavior: Clip.none,
+              children: [
+                Positioned(
+                  right: -16,
+                  bottom: -16,
+                  child: Icon(
+                    icon,
+                    size: bgIconSize,
+                    color: Colors.white.withValues(alpha: 0.15),
                   ),
-                  const Spacer(),
-                  // Count and Title
-                  Column(
+                ),
+                Padding(
+                  padding: EdgeInsets.all(cardPadding),
+                  child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      // Count badge
                       Container(
-                        padding: const EdgeInsets.symmetric(
-                          horizontal: 10,
-                          vertical: 4,
-                        ),
+                        padding: EdgeInsets.all(iconContainerPadding),
                         decoration: BoxDecoration(
                           color: Colors.white.withValues(alpha: 0.25),
-                          borderRadius: BorderRadius.circular(12),
+                          shape: BoxShape.circle,
+                          boxShadow: [
+                            BoxShadow(
+                              color: Colors.white.withValues(alpha: 0.2),
+                              blurRadius: 8,
+                              spreadRadius: 2,
+                            ),
+                          ],
                         ),
-                        child: Text(
-                          count.toString(),
-                          style: const TextStyle(
-                            fontSize: 20,
-                            fontWeight: FontWeight.w800,
-                            color: Colors.white,
-                            letterSpacing: 0.5,
-                          ),
-                        ),
+                        child: Icon(icon, color: Colors.white, size: iconSize),
                       ),
-                      const SizedBox(height: 8),
-                      // Title
-                      Text(
-                        title,
-                        style: const TextStyle(
-                          fontSize: 16,
-                          fontWeight: FontWeight.w700,
-                          color: Colors.white,
-                          letterSpacing: -0.3,
-                        ),
-                        maxLines: 1,
-                        overflow: TextOverflow.ellipsis,
+                      const Spacer(),
+                      Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Container(
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 10,
+                              vertical: 4,
+                            ),
+                            decoration: BoxDecoration(
+                              color: Colors.white.withValues(alpha: 0.25),
+                              borderRadius: BorderRadius.circular(12),
+                            ),
+                            child: Text(
+                              count.toString(),
+                              style: TextStyle(
+                                fontSize: countFont,
+                                fontWeight: FontWeight.w800,
+                                color: Colors.white,
+                                letterSpacing: 0.5,
+                              ),
+                            ),
+                          ),
+                          const SizedBox(height: 8),
+                          Text(
+                            title,
+                            style: TextStyle(
+                              fontSize: titleFont,
+                              fontWeight: FontWeight.w700,
+                              color: Colors.white,
+                              letterSpacing: -0.3,
+                            ),
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        ],
                       ),
                     ],
                   ),
-                ],
-              ),
+                ),
+              ],
             ),
-          ],
-        ),
-      ),
-    ).animate().fadeIn(duration: 300.ms).scale(
-        begin: const Offset(0.9, 0.9),
-        curve: Curves.easeOutCubic,
-      );
+          ),
+        )
+        .animate()
+        .fadeIn(duration: 300.ms)
+        .scale(begin: const Offset(0.9, 0.9), curve: Curves.easeOutCubic);
   }
 }

@@ -1,0 +1,192 @@
+import 'package:flutter/material.dart';
+import '../../core/responsive.dart';
+import '../../models/card.dart' as model;
+import '../../services/tts_service.dart';
+
+class ReviewCardBack extends StatelessWidget {
+  final model.VocabularyCard card;
+  final TtsService ttsService;
+
+  const ReviewCardBack({
+    super.key,
+    required this.card,
+    required this.ttsService,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    final meaningFont = context.responsive(
+      compact: 26.0,
+      medium: 32.0,
+      expanded: 38.0,
+    );
+    final lemmaFont = context.responsive(
+      compact: 16.0,
+      medium: 20.0,
+      expanded: 24.0,
+    );
+    final synonymFont = context.responsive(
+      compact: 11.0,
+      medium: 13.0,
+      expanded: 15.0,
+    );
+    final exampleFont = context.responsive(
+      compact: 13.0,
+      medium: 15.0,
+      expanded: 17.0,
+    );
+    final translationFont = context.responsive(
+      compact: 11.0,
+      medium: 13.0,
+      expanded: 15.0,
+    );
+    final cardPadding = context.responsive(
+      compact: 16.0,
+      medium: 24.0,
+      expanded: 32.0,
+    );
+
+    return Card(
+      elevation: 12,
+      shadowColor: Colors.deepPurple.withValues(alpha: 0.4),
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
+      child: Container(
+        width: double.infinity,
+        padding: EdgeInsets.all(cardPadding),
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(24),
+          gradient: LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [Colors.deepPurple.shade50, Colors.white],
+          ),
+        ),
+        child: SingleChildScrollView(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Text(
+                card.lemma,
+                style: TextStyle(
+                  fontSize: lemmaFont,
+                  fontWeight: FontWeight.w600,
+                  color: Colors.grey[500],
+                ),
+                textAlign: TextAlign.center,
+              ),
+              const SizedBox(height: 4),
+              IconButton(
+                onPressed: () => ttsService.speak(card.lemma),
+                icon: Icon(
+                  Icons.volume_up_rounded,
+                  size: 20,
+                  color: Colors.grey[400],
+                ),
+                padding: EdgeInsets.zero,
+                constraints: const BoxConstraints(),
+              ),
+              const SizedBox(height: 12),
+              Container(
+                width: 60,
+                height: 3,
+                decoration: BoxDecoration(
+                  color: Colors.deepPurple.shade200,
+                  borderRadius: BorderRadius.circular(2),
+                ),
+              ),
+              const SizedBox(height: 20),
+
+              // Meaning
+              Text(
+                card.meaningTr,
+                style: TextStyle(
+                  fontSize: meaningFont,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.deepPurple,
+                ),
+                textAlign: TextAlign.center,
+              ),
+              const SizedBox(height: 20),
+
+              // Synonyms
+              if (card.synonyms.isNotEmpty) ...[
+                Wrap(
+                  spacing: 8,
+                  runSpacing: 8,
+                  alignment: WrapAlignment.center,
+                  children: card.synonyms
+                      .map(
+                        (s) => Container(
+                          padding: const EdgeInsets.symmetric(
+                            horizontal: 12,
+                            vertical: 6,
+                          ),
+                          decoration: BoxDecoration(
+                            color: Colors.deepPurple.shade100,
+                            borderRadius: BorderRadius.circular(16),
+                          ),
+                          child: Text(
+                            s,
+                            style: TextStyle(
+                              fontSize: synonymFont,
+                              color: Colors.deepPurple[700],
+                              fontWeight: FontWeight.w500,
+                            ),
+                          ),
+                        ),
+                      )
+                      .toList(),
+                ),
+                const SizedBox(height: 20),
+              ],
+
+              // Example sentence
+              Container(
+                padding: EdgeInsets.all(cardPadding * 0.67),
+                decoration: BoxDecoration(
+                  color: Colors.grey[50],
+                  borderRadius: BorderRadius.circular(16),
+                  border: Border.all(color: Colors.grey.shade200),
+                ),
+                child: Column(
+                  children: [
+                    Text(
+                      card.example.text,
+                      style: TextStyle(
+                        fontSize: exampleFont,
+                        fontStyle: FontStyle.italic,
+                        height: 1.5,
+                      ),
+                      textAlign: TextAlign.center,
+                    ),
+                    if (card.example.translation != null) ...[
+                      const SizedBox(height: 12),
+                      Text(
+                        card.example.translation!,
+                        style: TextStyle(
+                          fontSize: translationFont,
+                          color: Colors.grey[600],
+                          height: 1.4,
+                        ),
+                        textAlign: TextAlign.center,
+                      ),
+                    ],
+                    const SizedBox(height: 8),
+                    IconButton(
+                      onPressed: () => ttsService.speak(card.example.text),
+                      icon: Icon(
+                        Icons.volume_up_rounded,
+                        size: 24,
+                        color: Colors.deepPurple.shade300,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}

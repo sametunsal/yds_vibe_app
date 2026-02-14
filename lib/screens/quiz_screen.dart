@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import '../constants/app_constants.dart';
+import '../core/responsive.dart';
+import '../core/result.dart';
 import '../models/card.dart' as model;
-import '../data/card_loader.dart';
+import '../repositories/card_repository.dart';
 import '../services/streak_service.dart';
 
 enum QuizType { synonym, cloze }
@@ -31,6 +34,7 @@ class QuizScreen extends StatefulWidget {
 }
 
 class _QuizScreenState extends State<QuizScreen> {
+  final CardRepository _repository = CardRepositoryImpl();
   List<model.VocabularyCard> _allCards = [];
   List<QuizQuestion> _questions = [];
   int _currentQuestionIndex = 0;
@@ -40,8 +44,7 @@ class _QuizScreenState extends State<QuizScreen> {
   bool _isFinished = false;
   bool _isLoading = true;
 
-  // Max 10 questions per quiz
-  static const int maxQuestions = 10;
+  static const int maxQuestions = AppConstants.maxQuizQuestions;
 
   @override
   void initState() {
@@ -50,16 +53,17 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   Future<void> _loadQuiz() async {
-    setState(() {
-      _isLoading = true;
-    });
+    setState(() => _isLoading = true);
 
-    _allCards = await CardLoader.loadCards();
+    final result = await _repository.getAllCards();
+    switch (result) {
+      case Success(value: final cards):
+        _allCards = cards;
+      case Failure():
+        _allCards = [];
+    }
     _generateQuestions();
-
-    setState(() {
-      _isLoading = false;
-    });
+    setState(() => _isLoading = false);
   }
 
   void _generateQuestions() {
@@ -68,15 +72,11 @@ class _QuizScreenState extends State<QuizScreen> {
       return;
     }
 
-    // Shuffle cards and take up to maxQuestions
     final shuffled = List<model.VocabularyCard>.from(_allCards)..shuffle();
     final selectedCards = shuffled.take(maxQuestions).toList();
-
     _questions = [];
 
     for (final card in selectedCards) {
-      // Generate either synonym or cloze question
-      // Use synonym if available, otherwise use cloze
       if (card.synonyms.isNotEmpty && _canGenerateSynonymQuestion(card)) {
         _questions.add(_generateSynonymQuestion(card, selectedCards));
       } else {
@@ -101,8 +101,6 @@ class _QuizScreenState extends State<QuizScreen> {
   ) {
     final correct = card.synonyms.first;
     final correctLower = correct.toLowerCase();
-
-    // Get wrong options from other cards' synonyms
     final wrongOptions = <String>[];
     final otherCards = allCards.where((c) => c.id != card.id).toList();
     otherCards.shuffle();
@@ -110,7 +108,6 @@ class _QuizScreenState extends State<QuizScreen> {
     for (final other in otherCards) {
       if (other.synonyms.isNotEmpty) {
         final synonym = other.synonyms.first;
-        // Ensure distractor doesn't equal correct answer (case-insensitive)
         if (synonym.toLowerCase() != correctLower) {
           wrongOptions.add(synonym);
         }
@@ -118,8 +115,7 @@ class _QuizScreenState extends State<QuizScreen> {
       if (wrongOptions.length >= 3) break;
     }
 
-    // If not enough wrong options, add some generic ones
-    final generics = ['select', 'choose', 'pick', 'decide'];
+    final generics = AppConstants.genericSynonymFallbacks;
     for (final g in generics) {
       if (wrongOptions.length < 3 &&
           !wrongOptions.contains(g) &&
@@ -128,7 +124,6 @@ class _QuizScreenState extends State<QuizScreen> {
       }
     }
 
-    // Combine and shuffle
     final allOptions = [correct, ...wrongOptions.take(3)]..shuffle();
 
     return QuizQuestion(
@@ -144,23 +139,19 @@ class _QuizScreenState extends State<QuizScreen> {
     final template = card.cloze.template;
     final correct = card.cloze.answer;
     final correctLower = correct.toLowerCase();
-
-    // Get wrong options from other cards' cloze answers
     final wrongOptions = <String>[];
     final otherCards = _allCards.where((c) => c.id != card.id).toList();
     otherCards.shuffle();
 
     for (final other in otherCards) {
       final answer = other.cloze.answer;
-      // Ensure distractor doesn't equal correct answer (case-insensitive)
       if (answer.toLowerCase() != correctLower) {
         wrongOptions.add(answer);
       }
       if (wrongOptions.length >= 3) break;
     }
 
-    // If not enough wrong options, add some generic ones
-    final generics = ['put', 'get', 'make', 'take'];
+    final generics = AppConstants.genericClozeFallbacks;
     for (final g in generics) {
       if (wrongOptions.length < 3 &&
           !wrongOptions.contains(g) &&
@@ -169,7 +160,6 @@ class _QuizScreenState extends State<QuizScreen> {
       }
     }
 
-    // Combine and shuffle
     final allOptions = [correct, ...wrongOptions.take(3)]..shuffle();
 
     return QuizQuestion(
@@ -183,7 +173,6 @@ class _QuizScreenState extends State<QuizScreen> {
 
   void _selectAnswer(String answer) {
     if (_showResult) return;
-
     setState(() {
       _selectedAnswer = answer;
       _showResult = true;
@@ -201,11 +190,8 @@ class _QuizScreenState extends State<QuizScreen> {
         _showResult = false;
       });
     } else {
-      // Quiz completed - save activity for streak
       StreakService.saveStudyActivity();
-      setState(() {
-        _isFinished = true;
-      });
+      setState(() => _isFinished = true);
     }
   }
 
@@ -226,22 +212,30 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   Widget _buildBody() {
-    if (_allCards.isEmpty) {
-      return _buildEmptyState();
-    }
-
-    if (_isFinished) {
-      return _buildResultScreen();
-    }
-
-    if (_questions.isEmpty) {
-      return _buildEmptyState();
-    }
+    if (_allCards.isEmpty || _questions.isEmpty) return _buildEmptyState();
+    if (_isFinished) return _buildResultScreen();
 
     final currentQuestion = _questions[_currentQuestionIndex];
+    final padding = context.horizontalPadding;
+    final questionFont = context.responsive(
+      compact: 18.0,
+      medium: 22.0,
+      expanded: 26.0,
+    );
+    final optionFont = context.responsive(
+      compact: 14.0,
+      medium: 16.0,
+      expanded: 18.0,
+    );
+    final buttonHeight = context.responsive(
+      compact: 44.0,
+      medium: 50.0,
+      expanded: 56.0,
+    );
 
-    return Padding(
-      padding: const EdgeInsets.all(16.0),
+    return ResponsiveCenter(
+      maxWidth: 500,
+      padding: EdgeInsets.all(padding),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
@@ -287,14 +281,14 @@ class _QuizScreenState extends State<QuizScreen> {
             child: Card(
               elevation: 4,
               child: Padding(
-                padding: const EdgeInsets.all(24.0),
+                padding: EdgeInsets.all(padding + 4),
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
                       currentQuestion.question,
-                      style: const TextStyle(
-                        fontSize: 22,
+                      style: TextStyle(
+                        fontSize: questionFont,
                         fontWeight: FontWeight.bold,
                       ),
                       textAlign: TextAlign.center,
@@ -327,12 +321,12 @@ class _QuizScreenState extends State<QuizScreen> {
               child: ElevatedButton(
                 onPressed: _showResult ? null : () => _selectAnswer(option),
                 style: ElevatedButton.styleFrom(
-                  minimumSize: const Size(double.infinity, 50),
+                  minimumSize: Size(double.infinity, buttonHeight),
                   backgroundColor: bgColor,
                   foregroundColor: Colors.black,
                   elevation: isSelected ? 4 : 1,
                 ),
-                child: Text(option, style: const TextStyle(fontSize: 16)),
+                child: Text(option, style: TextStyle(fontSize: optionFont)),
               ),
             );
           }),
@@ -343,7 +337,7 @@ class _QuizScreenState extends State<QuizScreen> {
             ElevatedButton(
               onPressed: _nextQuestion,
               style: ElevatedButton.styleFrom(
-                minimumSize: const Size(double.infinity, 50),
+                minimumSize: Size(double.infinity, buttonHeight),
                 backgroundColor: Colors.deepPurple,
                 foregroundColor: Colors.white,
               ),
@@ -351,7 +345,7 @@ class _QuizScreenState extends State<QuizScreen> {
                 _currentQuestionIndex < _questions.length - 1
                     ? 'Next Question'
                     : 'See Results',
-                style: const TextStyle(fontSize: 18),
+                style: TextStyle(fontSize: optionFont + 2),
               ),
             ),
           ],
@@ -362,63 +356,95 @@ class _QuizScreenState extends State<QuizScreen> {
 
   Widget _buildResultScreen() {
     final percentage = (_score / _questions.length * 100).round();
+    final iconSize = context.responsive(
+      compact: 64.0,
+      medium: 80.0,
+      expanded: 96.0,
+    );
+    final titleFont = context.responsive(
+      compact: 20.0,
+      medium: 24.0,
+      expanded: 28.0,
+    );
+    final percentFont = context.responsive(
+      compact: 40.0,
+      medium: 48.0,
+      expanded: 56.0,
+    );
 
     return Center(
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Icon(
-            percentage >= 70 ? Icons.emoji_events : Icons.check_circle,
-            size: 80,
-            color: percentage >= 70 ? Colors.amber : Colors.green,
-          ),
-          const SizedBox(height: 16),
-          const Text(
-            'Quiz Complete!',
-            style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-          ),
-          const SizedBox(height: 8),
-          Text(
-            'You scored $_score out of ${_questions.length}',
-            style: const TextStyle(fontSize: 18, color: Colors.grey),
-          ),
-          const SizedBox(height: 8),
-          Text(
-            '$percentage%',
-            style: TextStyle(
-              fontSize: 48,
-              fontWeight: FontWeight.bold,
-              color: percentage >= 70 ? Colors.green : Colors.orange,
+      child: ResponsiveCenter(
+        maxWidth: 400,
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Icon(
+              percentage >= 70 ? Icons.emoji_events : Icons.check_circle,
+              size: iconSize,
+              color: percentage >= 70 ? Colors.amber : Colors.green,
             ),
-          ),
-          const SizedBox(height: 32),
-          ElevatedButton(
-            onPressed: _restartQuiz,
-            style: ElevatedButton.styleFrom(
-              minimumSize: const Size(200, 50),
-              backgroundColor: Colors.deepPurple,
-              foregroundColor: Colors.white,
+            const SizedBox(height: 16),
+            Text(
+              'Quiz Complete!',
+              style: TextStyle(
+                fontSize: titleFont,
+                fontWeight: FontWeight.bold,
+              ),
             ),
-            child: const Text('Try Again', style: TextStyle(fontSize: 18)),
-          ),
-        ],
+            const SizedBox(height: 8),
+            Text(
+              'You scored $_score out of ${_questions.length}',
+              style: const TextStyle(fontSize: 18, color: Colors.grey),
+            ),
+            const SizedBox(height: 8),
+            Text(
+              '$percentage%',
+              style: TextStyle(
+                fontSize: percentFont,
+                fontWeight: FontWeight.bold,
+                color: percentage >= 70 ? Colors.green : Colors.orange,
+              ),
+            ),
+            const SizedBox(height: 32),
+            ElevatedButton(
+              onPressed: _restartQuiz,
+              style: ElevatedButton.styleFrom(
+                minimumSize: const Size(200, 50),
+                backgroundColor: Colors.deepPurple,
+                foregroundColor: Colors.white,
+              ),
+              child: const Text('Try Again', style: TextStyle(fontSize: 18)),
+            ),
+          ],
+        ),
       ),
     );
   }
 
   Widget _buildEmptyState() {
-    return const Center(
+    final iconSize = context.responsive(
+      compact: 64.0,
+      medium: 80.0,
+      expanded: 96.0,
+    );
+    final titleFont = context.responsive(
+      compact: 20.0,
+      medium: 24.0,
+      expanded: 28.0,
+    );
+
+    return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Icon(Icons.error_outline, size: 80, color: Colors.grey),
-          SizedBox(height: 16),
+          Icon(Icons.error_outline, size: iconSize, color: Colors.grey),
+          const SizedBox(height: 16),
           Text(
             'No cards available',
-            style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+            style: TextStyle(fontSize: titleFont, fontWeight: FontWeight.bold),
           ),
-          SizedBox(height: 8),
-          Text(
+          const SizedBox(height: 8),
+          const Text(
             'Add vocabulary cards to take quizzes',
             style: TextStyle(color: Colors.grey),
           ),

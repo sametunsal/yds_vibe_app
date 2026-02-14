@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
-import '../data/card_loader.dart';
-import '../models/card.dart';
+import '../core/responsive.dart';
+import '../core/result.dart';
+import '../models/category.dart';
+import '../repositories/card_repository.dart';
 import '../services/srs_service.dart';
 import '../widgets/category_card.dart';
 import 'review_screen.dart';
@@ -15,52 +17,52 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  final CardRepository _repository = CardRepositoryImpl();
   Map<String, int> _counts = {};
   bool _isLoading = true;
 
-  // Category data structure
   static const List<CategoryData> _categories = [
     CategoryData(
       key: 'verb',
       title: 'Fiiller',
       icon: Icons.directions_run,
-      color: Color(0xFFE53935), // Red
+      color: Color(0xFFE53935),
     ),
     CategoryData(
       key: 'noun',
       title: 'İsimler',
       icon: Icons.category_rounded,
-      color: Color(0xFF1E88E5), // Blue
+      color: Color(0xFF1E88E5),
     ),
     CategoryData(
       key: 'adj',
       title: 'Sıfatlar',
       icon: Icons.auto_awesome_rounded,
-      color: Color(0xFF8E24AA), // Purple
+      color: Color(0xFF8E24AA),
     ),
     CategoryData(
       key: 'adv',
       title: 'Zarflar',
       icon: Icons.speed_rounded,
-      color: Color(0xFF00ACC1), // Teal
+      color: Color(0xFF00ACC1),
     ),
     CategoryData(
       key: 'phrasal_verb',
       title: 'Phrasal Verbs',
       icon: Icons.call_merge_rounded,
-      color: Color(0xFFFF6F00), // Amber
+      color: Color(0xFFFF6F00),
     ),
     CategoryData(
       key: 'conjunction',
       title: 'Bağlaçlar',
       icon: Icons.link_rounded,
-      color: Color(0xFF6D4C41), // Brown
+      color: Color(0xFF6D4C41),
     ),
     CategoryData(
       key: 'all',
       title: 'Tümü',
       icon: Icons.library_books_rounded,
-      color: Color(0xFF3949AB), // Indigo
+      color: Color(0xFF3949AB),
     ),
   ];
 
@@ -72,27 +74,28 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> _loadData() async {
     setState(() => _isLoading = true);
-    try {
-      final cards = await CardLoader.loadCards();
+    final result = await _repository.getAllCards();
 
-      // Calculate counts for each category
-      final counts = <String, int>{};
-      for (final category in _categories) {
-        counts[category.key] =
-            SRSService.getCardsByCategory(cards, category.key).length;
-      }
-
-      if (mounted) {
-        setState(() {
-          _counts = counts;
-          _isLoading = false;
-        });
-      }
-    } catch (e) {
-      debugPrint('[HomeScreen] Error loading data: $e');
-      if (mounted) {
-        setState(() => _isLoading = false);
-      }
+    switch (result) {
+      case Success(value: final cards):
+        final counts = <String, int>{};
+        for (final category in _categories) {
+          counts[category.key] = SRSService.getCardsByCategory(
+            cards,
+            category.key,
+          ).length;
+        }
+        if (mounted) {
+          setState(() {
+            _counts = counts;
+            _isLoading = false;
+          });
+        }
+      case Failure(message: final msg):
+        debugPrint('[HomeScreen] Error loading data: $msg');
+        if (mounted) {
+          setState(() => _isLoading = false);
+        }
     }
   }
 
@@ -110,23 +113,38 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final expandedHeight = context.responsive(
+      compact: 120.0,
+      medium: 140.0,
+      expanded: 170.0,
+    );
+    final titleFontSize = context.responsive(
+      compact: 20.0,
+      medium: 24.0,
+      expanded: 28.0,
+    );
+    final bgIconSize = context.responsive(
+      compact: 48.0,
+      medium: 64.0,
+      expanded: 80.0,
+    );
+
     return Scaffold(
       backgroundColor: Colors.grey[50],
       body: CustomScrollView(
         slivers: [
-          // App Bar with gradient
           SliverAppBar(
-            expandedHeight: 140,
+            expandedHeight: expandedHeight,
             floating: false,
             pinned: true,
             backgroundColor: Colors.deepPurple,
             flexibleSpace: FlexibleSpaceBar(
-              title: const Text(
+              title: Text(
                 'YDS Vibe',
                 style: TextStyle(
                   color: Colors.white,
                   fontWeight: FontWeight.bold,
-                  fontSize: 24,
+                  fontSize: titleFontSize,
                 ),
               ),
               background: Container(
@@ -143,7 +161,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 child: Center(
                   child: Icon(
                     Icons.school_rounded,
-                    size: 64,
+                    size: bgIconSize,
                     color: Colors.white.withValues(alpha: 0.2),
                   ),
                 ),
@@ -164,12 +182,8 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ],
           ),
-
-          // Main Content
           SliverToBoxAdapter(
-            child: _isLoading
-                ? _buildLoadingState()
-                : _buildCategoriesGrid(),
+            child: _isLoading ? _buildLoadingState() : _buildCategoriesGrid(),
           ),
         ],
       ),
@@ -179,25 +193,42 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget _buildLoadingState() {
     return const SizedBox(
       height: 400,
-      child: Center(
-        child: CircularProgressIndicator(
-          color: Colors.deepPurple,
-        ),
-      ),
+      child: Center(child: CircularProgressIndicator(color: Colors.deepPurple)),
     );
   }
 
   Widget _buildCategoriesGrid() {
-    return Padding(
-      padding: const EdgeInsets.all(20.0),
+    final padding = context.horizontalPadding;
+    final headerFont = context.responsive(
+      compact: 18.0,
+      medium: 22.0,
+      expanded: 26.0,
+    );
+    final subFont = context.responsive(
+      compact: 12.0,
+      medium: 14.0,
+      expanded: 16.0,
+    );
+    final crossAxisCount = context.responsive(
+      compact: 2,
+      medium: 2,
+      expanded: 3,
+    );
+    final gridSpacing = context.responsive(
+      compact: 12.0,
+      medium: 16.0,
+      expanded: 20.0,
+    );
+
+    return ResponsiveCenter(
+      padding: EdgeInsets.all(padding),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          // Header
           Text(
             'Bugün ne çalışmak istersin?',
             style: TextStyle(
-              fontSize: 22,
+              fontSize: headerFont,
               fontWeight: FontWeight.w700,
               color: Colors.grey[800],
               letterSpacing: -0.5,
@@ -207,23 +238,25 @@ class _HomeScreenState extends State<HomeScreen> {
           Text(
             'Toplam ${_counts['all'] ?? 0} kart',
             style: TextStyle(
-              fontSize: 14,
+              fontSize: subFont,
               fontWeight: FontWeight.w500,
               color: Colors.grey[600],
             ),
           ).animate().fadeIn(delay: 100.ms, duration: 400.ms),
-          const SizedBox(height: 24),
-
-          // Categories Grid
+          SizedBox(height: gridSpacing + 4),
           GridView.builder(
             shrinkWrap: true,
             physics: const NeverScrollableScrollPhysics(),
             padding: EdgeInsets.zero,
-            gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-              crossAxisCount: 2,
-              crossAxisSpacing: 16,
-              mainAxisSpacing: 16,
-              childAspectRatio: 1.0,
+            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+              crossAxisCount: crossAxisCount,
+              crossAxisSpacing: gridSpacing,
+              mainAxisSpacing: gridSpacing,
+              childAspectRatio: context.responsive(
+                compact: 0.95,
+                medium: 1.0,
+                expanded: 1.05,
+              ),
             ),
             itemCount: _categories.length,
             itemBuilder: (context, index) {
@@ -231,12 +264,15 @@ class _HomeScreenState extends State<HomeScreen> {
               final count = _counts[category.key] ?? 0;
 
               return CategoryCard(
-                title: category.title,
-                icon: category.icon,
-                count: count,
-                color: category.color,
-                onTap: () => _navigateToCategory(category),
-              ).animate(delay: (index * 50).ms).fadeIn().scale(
+                    title: category.title,
+                    icon: category.icon,
+                    count: count,
+                    color: category.color,
+                    onTap: () => _navigateToCategory(category),
+                  )
+                  .animate(delay: (index * 50).ms)
+                  .fadeIn()
+                  .scale(
                     begin: const Offset(0.9, 0.9),
                     curve: Curves.easeOutCubic,
                   );
@@ -246,19 +282,4 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
     );
   }
-}
-
-// Category data model
-class CategoryData {
-  final String key;
-  final String title;
-  final IconData icon;
-  final Color color;
-
-  const CategoryData({
-    required this.key,
-    required this.title,
-    required this.icon,
-    required this.color,
-  });
 }
