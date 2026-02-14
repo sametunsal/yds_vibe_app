@@ -1,0 +1,4244 @@
+[
+  {
+    "id": "outcome_noun_501",
+    "lemma": "outcome",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "sonuç"
+    ],
+    "synonyms": [
+      "result",
+      "consequence"
+    ],
+    "example": {
+      "text": "The outcome of the experiment confirmed the initial hypothesis.",
+      "translation": "Deneyin sonucu başlangıçtaki hipotezi doğruladı."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of the experiment confirmed the initial hypothesis.",
+      "answer": "outcome"
+    }
+  },
+  {
+    "id": "framework_noun_502",
+    "lemma": "framework",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "çerçeve, iskelet"
+    ],
+    "synonyms": [
+      "structure",
+      "system"
+    ],
+    "example": {
+      "text": "The government adopted a new regulatory framework for digital currencies.",
+      "translation": "Hükümet dijital para birimleri için yeni bir düzenleyici çerçeve benimsedi."
+    },
+    "cloze": {
+      "template": "The government adopted a new regulatory {{cloze}} for digital currencies.",
+      "answer": "framework"
+    }
+  },
+  {
+    "id": "proportion_noun_503",
+    "lemma": "proportion",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "oran, orantı"
+    ],
+    "synonyms": [
+      "ratio",
+      "share"
+    ],
+    "example": {
+      "text": "A significant proportion of the workforce is employed in the service sector.",
+      "translation": "İşgücünün önemli bir oranı hizmet sektöründe istihdam edilmektedir."
+    },
+    "cloze": {
+      "template": "A significant {{cloze}} of the workforce is employed in the service sector.",
+      "answer": "proportion"
+    }
+  },
+  {
+    "id": "controversy_noun_504",
+    "lemma": "controversy",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "tartışma, polemik"
+    ],
+    "synonyms": [
+      "dispute",
+      "debate"
+    ],
+    "example": {
+      "text": "The new policy sparked considerable controversy among academics.",
+      "translation": "Yeni politika akademisyenler arasında önemli bir tartışmaya yol açtı."
+    },
+    "cloze": {
+      "template": "The new policy sparked considerable {{cloze}} among academics.",
+      "answer": "controversy"
+    }
+  },
+  {
+    "id": "component_noun_510",
+    "lemma": "component",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "bileşen, parça"
+    ],
+    "synonyms": [
+      "element",
+      "part"
+    ],
+    "example": {
+      "text": "Trust is a vital component of any successful partnership.",
+      "translation": "Güven, başarılı bir ortaklığın hayati bir bileşenidir."
+    },
+    "cloze": {
+      "template": "Trust is a vital {{cloze}} of any successful partnership.",
+      "answer": "component"
+    }
+  },
+  {
+    "id": "dimension_noun_513",
+    "lemma": "dimension",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "boyut"
+    ],
+    "synonyms": [
+      "aspect",
+      "facet"
+    ],
+    "example": {
+      "text": "The cultural dimension of globalisation is often overlooked.",
+      "translation": "Küreselleşmenin kültürel boyutu genellikle göz ardı edilir."
+    },
+    "cloze": {
+      "template": "The cultural {{cloze}} of globalisation is often overlooked.",
+      "answer": "dimension"
+    }
+  },
+  {
+    "id": "entity_noun_514",
+    "lemma": "entity",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "varlık, kuruluş"
+    ],
+    "synonyms": [
+      "body",
+      "organisation"
+    ],
+    "example": {
+      "text": "The new entity was created to oversee environmental regulations.",
+      "translation": "Çevre düzenlemelerini denetlemek için yeni bir kuruluş oluşturuldu."
+    },
+    "cloze": {
+      "template": "The new {{cloze}} was created to oversee environmental regulations.",
+      "answer": "entity"
+    }
+  },
+  {
+    "id": "rigour_noun_515",
+    "lemma": "rigour",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "titizlik, sıkılık"
+    ],
+    "synonyms": [
+      "thoroughness",
+      "strictness"
+    ],
+    "example": {
+      "text": "The study was praised for its methodological rigour.",
+      "translation": "Çalışma metodolojik titizliği nedeniyle övgü aldı."
+    },
+    "cloze": {
+      "template": "The study was praised for its methodological {{cloze}}.",
+      "answer": "rigour"
+    }
+  },
+  {
+    "id": "scope_noun_516",
+    "lemma": "scope",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "kapsam, alan"
+    ],
+    "synonyms": [
+      "range",
+      "extent"
+    ],
+    "example": {
+      "text": "The scope of the investigation was expanded to include corporate fraud.",
+      "translation": "Soruşturmanın kapsamı kurumsal dolandırıcılığı da içerecek şekilde genişletildi."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of the investigation was expanded to include corporate fraud.",
+      "answer": "scope"
+    }
+  },
+  {
+    "id": "threshold_noun_517",
+    "lemma": "threshold",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "eşik"
+    ],
+    "synonyms": [
+      "limit",
+      "boundary"
+    ],
+    "example": {
+      "text": "Pollution levels have exceeded the safety threshold set by the WHO.",
+      "translation": "Kirlilik seviyeleri DSÖ tarafından belirlenen güvenlik eşiğini aşmıştır."
+    },
+    "cloze": {
+      "template": "Pollution levels have exceeded the safety {{cloze}} set by the WHO.",
+      "answer": "threshold"
+    }
+  },
+  {
+    "id": "dilemma_noun_521",
+    "lemma": "dilemma",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "ikilem, çıkmaz"
+    ],
+    "synonyms": [
+      "predicament",
+      "quandary"
+    ],
+    "example": {
+      "text": "Doctors face an ethical dilemma when patients refuse life-saving treatment.",
+      "translation": "Hastalar hayat kurtarıcı tedaviyi reddettiğinde doktorlar etik bir ikilemle karşı karşıya kalır."
+    },
+    "cloze": {
+      "template": "Doctors face an ethical {{cloze}} when patients refuse life-saving treatment.",
+      "answer": "dilemma"
+    }
+  },
+  {
+    "id": "facet_noun_522",
+    "lemma": "facet",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "yön, boyut"
+    ],
+    "synonyms": [
+      "aspect",
+      "element"
+    ],
+    "example": {
+      "text": "Every facet of the proposal was carefully examined by the committee.",
+      "translation": "Teklifin her yönü komite tarafından dikkatle incelendi."
+    },
+    "cloze": {
+      "template": "Every {{cloze}} of the proposal was carefully examined by the committee.",
+      "answer": "facet"
+    }
+  },
+  {
+    "id": "coherence_noun_528",
+    "lemma": "coherence",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "tutarlılık, uyum"
+    ],
+    "synonyms": [
+      "consistency",
+      "unity"
+    ],
+    "example": {
+      "text": "The essay lacked coherence and failed to present a clear argument.",
+      "translation": "Makale tutarlılıktan yoksundu ve net bir argüman sunamadı."
+    },
+    "cloze": {
+      "template": "The essay lacked {{cloze}} and failed to present a clear argument.",
+      "answer": "coherence"
+    }
+  },
+  {
+    "id": "attribution_noun_532",
+    "lemma": "attribution",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "atıf, bağlama"
+    ],
+    "synonyms": [
+      "credit",
+      "assignment"
+    ],
+    "example": {
+      "text": "The attribution of the painting to Rembrandt was disputed by art historians.",
+      "translation": "Tablonun Rembrandt'a atfedilmesi sanat tarihçileri tarafından tartışıldı."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of the painting to Rembrandt was disputed by art historians.",
+      "answer": "attribution"
+    }
+  },
+  {
+    "id": "drawback_noun_536",
+    "lemma": "drawback",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "dezavantaj, sakınca"
+    ],
+    "synonyms": [
+      "disadvantage",
+      "shortcoming"
+    ],
+    "example": {
+      "text": "The main drawback of the proposal is its high implementation cost.",
+      "translation": "Teklifin ana dezavantajı yüksek uygulama maliyetidir."
+    },
+    "cloze": {
+      "template": "The main {{cloze}} of the proposal is its high implementation cost.",
+      "answer": "drawback"
+    }
+  },
+  {
+    "id": "empirical_noun_537",
+    "lemma": "endeavor",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "girişim, çaba"
+    ],
+    "synonyms": [
+      "undertaking",
+      "enterprise"
+    ],
+    "example": {
+      "text": "Space exploration remains one of humanity's most ambitious endeavors.",
+      "translation": "Uzay keşfi insanlığın en iddialı girişimlerinden biri olmaya devam etmektedir."
+    },
+    "cloze": {
+      "template": "Space exploration remains one of humanity's most ambitious {{cloze}}.",
+      "answer": "endeavors"
+    }
+  },
+  {
+    "id": "ethos_noun_538",
+    "lemma": "ethos",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "ruh, zihniyet"
+    ],
+    "synonyms": [
+      "spirit",
+      "character"
+    ],
+    "example": {
+      "text": "The company's ethos is centred on sustainability and social responsibility.",
+      "translation": "Şirketin ruhu sürdürülebilirlik ve sosyal sorumluluk üzerine odaklanmıştır."
+    },
+    "cloze": {
+      "template": "The company's {{cloze}} is centred on sustainability and social responsibility.",
+      "answer": "ethos"
+    }
+  },
+  {
+    "id": "inclination_noun_541",
+    "lemma": "inclination",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "eğilim, meyil"
+    ],
+    "synonyms": [
+      "tendency",
+      "disposition"
+    ],
+    "example": {
+      "text": "There is a natural inclination to resist change in traditional societies.",
+      "translation": "Geleneksel toplumlarda değişime direnmeye yönelik doğal bir eğilim vardır."
+    },
+    "cloze": {
+      "template": "There is a natural {{cloze}} to resist change in traditional societies.",
+      "answer": "inclination"
+    }
+  },
+  {
+    "id": "integrity_noun_542",
+    "lemma": "integrity",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "bütünlük, dürüstlük"
+    ],
+    "synonyms": [
+      "honesty",
+      "wholeness"
+    ],
+    "example": {
+      "text": "Maintaining the integrity of democratic institutions is essential for stability.",
+      "translation": "Demokratik kurumların bütünlüğünü korumak istikrar için esastır."
+    },
+    "cloze": {
+      "template": "Maintaining the {{cloze}} of democratic institutions is essential for stability.",
+      "answer": "integrity"
+    }
+  },
+  {
+    "id": "methodology_noun_543",
+    "lemma": "methodology",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "yöntem bilimi, metodoloji"
+    ],
+    "synonyms": [
+      "approach",
+      "procedure"
+    ],
+    "example": {
+      "text": "The research methodology was designed to minimise bias.",
+      "translation": "Araştırma metodolojisi yanlılığı en aza indirecek şekilde tasarlandı."
+    },
+    "cloze": {
+      "template": "The research {{cloze}} was designed to minimise bias.",
+      "answer": "methodology"
+    }
+  },
+  {
+    "id": "niche_noun_544",
+    "lemma": "niche",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "niş, uygun alan"
+    ],
+    "synonyms": [
+      "specialisation",
+      "slot"
+    ],
+    "example": {
+      "text": "The company found a profitable niche in the organic food market.",
+      "translation": "Şirket organik gıda pazarında kârlı bir niş buldu."
+    },
+    "cloze": {
+      "template": "The company found a profitable {{cloze}} in the organic food market.",
+      "answer": "niche"
+    }
+  },
+  {
+    "id": "presumption_noun_546",
+    "lemma": "presumption",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "varsayım, zan"
+    ],
+    "synonyms": [
+      "assumption",
+      "supposition"
+    ],
+    "example": {
+      "text": "The presumption of innocence is a fundamental principle of criminal law.",
+      "translation": "Masumiyet karinesi ceza hukukunun temel bir ilkesidir."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of innocence is a fundamental principle of criminal law.",
+      "answer": "presumption"
+    }
+  },
+  {
+    "id": "spectrum_noun_548",
+    "lemma": "spectrum",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "yelpaze, spektrum"
+    ],
+    "synonyms": [
+      "range",
+      "gamut"
+    ],
+    "example": {
+      "text": "The proposal attracted support from across the political spectrum.",
+      "translation": "Teklif siyasi yelpazenin her kesiminden destek aldı."
+    },
+    "cloze": {
+      "template": "The proposal attracted support from across the political {{cloze}}.",
+      "answer": "spectrum"
+    }
+  },
+  {
+    "id": "stance_noun_549",
+    "lemma": "stance",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "duruş, tutum"
+    ],
+    "synonyms": [
+      "position",
+      "standpoint"
+    ],
+    "example": {
+      "text": "The government adopted a firm stance against illegal immigration.",
+      "translation": "Hükümet yasadışı göçe karşı kararlı bir tutum benimsedi."
+    },
+    "cloze": {
+      "template": "The government adopted a firm {{cloze}} against illegal immigration.",
+      "answer": "stance"
+    }
+  },
+  {
+    "id": "doctrine_noun_550",
+    "lemma": "doctrine",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "doktrin, öğreti"
+    ],
+    "synonyms": [
+      "principle",
+      "ideology"
+    ],
+    "example": {
+      "text": "The doctrine of separation of powers protects individual freedoms.",
+      "translation": "Kuvvetler ayrılığı doktrini bireysel özgürlükleri korur."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of separation of powers protects individual freedoms.",
+      "answer": "doctrine"
+    }
+  },
+  {
+    "id": "stimulus_noun_551",
+    "lemma": "stimulus",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "uyarı, teşvik"
+    ],
+    "synonyms": [
+      "impetus",
+      "incentive"
+    ],
+    "example": {
+      "text": "Low interest rates served as a stimulus for economic recovery.",
+      "translation": "Düşük faiz oranları ekonomik toparlanma için bir uyarıcı görevi gördü."
+    },
+    "cloze": {
+      "template": "Low interest rates served as a {{cloze}} for economic recovery.",
+      "answer": "stimulus"
+    }
+  },
+  {
+    "id": "trajectory_noun_556",
+    "lemma": "commodity",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "emtia, mal"
+    ],
+    "synonyms": [
+      "goods",
+      "product"
+    ],
+    "example": {
+      "text": "Oil remains the most traded commodity in the global market.",
+      "translation": "Petrol küresel pazarda en çok ticareti yapılan emtia olmaya devam etmektedir."
+    },
+    "cloze": {
+      "template": "Oil remains the most traded {{cloze}} in the global market.",
+      "answer": "commodity"
+    }
+  },
+  {
+    "id": "demography_noun_557",
+    "lemma": "demography",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "demografi, nüfus bilimi"
+    ],
+    "synonyms": [
+      "population studies",
+      "census science"
+    ],
+    "example": {
+      "text": "Changes in demography have profound effects on labour markets.",
+      "translation": "Demografideki değişiklikler işgücü piyasaları üzerinde derin etkiler yaratır."
+    },
+    "cloze": {
+      "template": "Changes in {{cloze}} have profound effects on labour markets.",
+      "answer": "demography"
+    }
+  },
+  {
+    "id": "fidelity_noun_561",
+    "lemma": "fidelity",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "sadakat, bağlılık"
+    ],
+    "synonyms": [
+      "loyalty",
+      "faithfulness"
+    ],
+    "example": {
+      "text": "The translation was praised for its fidelity to the original text.",
+      "translation": "Çeviri orijinal metne olan bağlılığı nedeniyle övgü aldı."
+    },
+    "cloze": {
+      "template": "The translation was praised for its {{cloze}} to the original text.",
+      "answer": "fidelity"
+    }
+  },
+  {
+    "id": "juncture_noun_564",
+    "lemma": "juncture",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "an, dönem noktası"
+    ],
+    "synonyms": [
+      "point",
+      "moment"
+    ],
+    "example": {
+      "text": "At this critical juncture, bold leadership is needed more than ever.",
+      "translation": "Bu kritik noktada cesur liderliğe her zamankinden daha fazla ihtiyaç var."
+    },
+    "cloze": {
+      "template": "At this critical {{cloze}}, bold leadership is needed more than ever.",
+      "answer": "juncture"
+    }
+  },
+  {
+    "id": "leverage_noun_565",
+    "lemma": "leverage",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "kaldıraç, etki gücü"
+    ],
+    "synonyms": [
+      "influence",
+      "advantage"
+    ],
+    "example": {
+      "text": "Small nations often lack the economic leverage to negotiate favourable trade deals.",
+      "translation": "Küçük uluslar genellikle lehte ticaret anlaşmaları müzakere etmek için ekonomik kaldıraçtan yoksundur."
+    },
+    "cloze": {
+      "template": "Small nations often lack the economic {{cloze}} to negotiate favourable trade deals.",
+      "answer": "leverage"
+    }
+  },
+  {
+    "id": "loophole_noun_566",
+    "lemma": "loophole",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "boşluk, açık"
+    ],
+    "synonyms": [
+      "gap",
+      "flaw"
+    ],
+    "example": {
+      "text": "Corporations exploited tax loopholes to minimise their contributions.",
+      "translation": "Şirketler katkılarını en aza indirmek için vergi boşluklarından yararlandı."
+    },
+    "cloze": {
+      "template": "Corporations exploited tax {{cloze}} to minimise their contributions.",
+      "answer": "loopholes"
+    }
+  },
+  {
+    "id": "manifestation_noun_567",
+    "lemma": "manifestation",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "tezahür, belirtisi"
+    ],
+    "synonyms": [
+      "expression",
+      "display"
+    ],
+    "example": {
+      "text": "Inflation is often a manifestation of deeper structural economic problems.",
+      "translation": "Enflasyon genellikle daha derin yapısal ekonomik sorunların bir tezahürüdür."
+    },
+    "cloze": {
+      "template": "Inflation is often a {{cloze}} of deeper structural economic problems.",
+      "answer": "manifestation"
+    }
+  },
+  {
+    "id": "nomenclature_noun_568",
+    "lemma": "nomenclature",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "adlandırma sistemi, terminoloji"
+    ],
+    "synonyms": [
+      "terminology",
+      "classification"
+    ],
+    "example": {
+      "text": "The scientific nomenclature for species follows strict international conventions.",
+      "translation": "Türler için bilimsel adlandırma sistemi katı uluslararası sözleşmelere uyar."
+    },
+    "cloze": {
+      "template": "The scientific {{cloze}} for species follows strict international conventions.",
+      "answer": "nomenclature"
+    }
+  },
+  {
+    "id": "panacea_noun_569",
+    "lemma": "panacea",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "her derde deva"
+    ],
+    "synonyms": [
+      "cure-all",
+      "remedy"
+    ],
+    "example": {
+      "text": "Technology alone is not a panacea for the problems of education.",
+      "translation": "Teknoloji tek başına eğitim sorunları için her derde deva değildir."
+    },
+    "cloze": {
+      "template": "Technology alone is not a {{cloze}} for the problems of education.",
+      "answer": "panacea"
+    }
+  },
+  {
+    "id": "parameter_noun_570",
+    "lemma": "parameter",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "parametre, değişken"
+    ],
+    "synonyms": [
+      "variable",
+      "factor"
+    ],
+    "example": {
+      "text": "The researchers adjusted the parameters of the model to improve accuracy.",
+      "translation": "Araştırmacılar doğruluğu artırmak için modelin parametrelerini ayarladı."
+    },
+    "cloze": {
+      "template": "The researchers adjusted the {{cloze}} of the model to improve accuracy.",
+      "answer": "parameters"
+    }
+  },
+  {
+    "id": "peer_noun_571",
+    "lemma": "peer",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "akran, eş"
+    ],
+    "synonyms": [
+      "equal",
+      "colleague"
+    ],
+    "example": {
+      "text": "The study was subject to rigorous peer review before publication.",
+      "translation": "Çalışma yayınlanmadan önce titiz akran değerlendirmesine tabi tutuldu."
+    },
+    "cloze": {
+      "template": "The study was subject to rigorous {{cloze}} review before publication.",
+      "answer": "peer"
+    }
+  },
+  {
+    "id": "pertinence_noun_572",
+    "lemma": "pertinence",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "uygunluk, ilgililik"
+    ],
+    "synonyms": [
+      "relevance",
+      "applicability"
+    ],
+    "example": {
+      "text": "The pertinence of the research to current policy debates cannot be understated.",
+      "translation": "Araştırmanın mevcut politika tartışmalarıyla ilgililiği küçümsenemez."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of the research to current policy debates cannot be understated.",
+      "answer": "pertinence"
+    }
+  },
+  {
+    "id": "plateau_noun_573",
+    "lemma": "plateau",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "plato, duraksama noktası"
+    ],
+    "synonyms": [
+      "levelling off",
+      "stabilisation"
+    ],
+    "example": {
+      "text": "Economic growth reached a plateau after years of rapid expansion.",
+      "translation": "Ekonomik büyüme yıllarca süren hızlı genişlemenin ardından bir platoya ulaştı."
+    },
+    "cloze": {
+      "template": "Economic growth reached a {{cloze}} after years of rapid expansion.",
+      "answer": "plateau"
+    }
+  },
+  {
+    "id": "postulate_noun_575",
+    "lemma": "postulate",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "önerme, varsayım"
+    ],
+    "synonyms": [
+      "premise",
+      "axiom"
+    ],
+    "example": {
+      "text": "The postulate that all humans are rational has been challenged by behavioural economists.",
+      "translation": "Tüm insanların rasyonel olduğu varsayımı davranışsal ekonomistler tarafından sorgulanmıştır."
+    },
+    "cloze": {
+      "template": "The {{cloze}} that all humans are rational has been challenged by behavioural economists.",
+      "answer": "postulate"
+    }
+  },
+  {
+    "id": "preamble_noun_576",
+    "lemma": "preamble",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "önsöz, giriş"
+    ],
+    "synonyms": [
+      "introduction",
+      "preface"
+    ],
+    "example": {
+      "text": "The preamble of the constitution outlines the fundamental values of the nation.",
+      "translation": "Anayasanın önsözü ulusun temel değerlerini ana hatlarıyla belirtir."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of the constitution outlines the fundamental values of the nation.",
+      "answer": "preamble"
+    }
+  },
+  {
+    "id": "predisposition_noun_577",
+    "lemma": "predisposition",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "yatkınlık, eğilim"
+    ],
+    "synonyms": [
+      "tendency",
+      "susceptibility"
+    ],
+    "example": {
+      "text": "Genetic predisposition plays a role in the development of certain diseases.",
+      "translation": "Genetik yatkınlık bazı hastalıkların gelişiminde rol oynar."
+    },
+    "cloze": {
+      "template": "Genetic {{cloze}} plays a role in the development of certain diseases.",
+      "answer": "predisposition"
+    }
+  },
+  {
+    "id": "primacy_noun_578",
+    "lemma": "primacy",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "öncelik, üstünlük"
+    ],
+    "synonyms": [
+      "supremacy",
+      "dominance"
+    ],
+    "example": {
+      "text": "The primacy of individual rights is a cornerstone of liberal democracies.",
+      "translation": "Bireysel hakların önceliği liberal demokrasilerin temel taşıdır."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of individual rights is a cornerstone of liberal democracies.",
+      "answer": "primacy"
+    }
+  },
+  {
+    "id": "proclivity_noun_579",
+    "lemma": "proclivity",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "eğilim, meyil"
+    ],
+    "synonyms": [
+      "tendency",
+      "inclination"
+    ],
+    "example": {
+      "text": "His proclivity for risk-taking ultimately led to the company's downfall.",
+      "translation": "Risk almaya yönelik eğilimi sonunda şirketin çöküşüne yol açtı."
+    },
+    "cloze": {
+      "template": "His {{cloze}} for risk-taking ultimately led to the company's downfall.",
+      "answer": "proclivity"
+    }
+  },
+  {
+    "id": "protocol_noun_580",
+    "lemma": "protocol",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "protokol, usul"
+    ],
+    "synonyms": [
+      "procedure",
+      "convention"
+    ],
+    "example": {
+      "text": "Strict safety protocols must be followed in all laboratory settings.",
+      "translation": "Tüm laboratuvar ortamlarında katı güvenlik protokollerine uyulmalıdır."
+    },
+    "cloze": {
+      "template": "Strict safety {{cloze}} must be followed in all laboratory settings.",
+      "answer": "protocols"
+    }
+  },
+  {
+    "id": "quota_noun_581",
+    "lemma": "quota",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "kota, pay"
+    ],
+    "synonyms": [
+      "allocation",
+      "share"
+    ],
+    "example": {
+      "text": "The government introduced quotas to increase female representation in parliament.",
+      "translation": "Hükümet parlamentodaki kadın temsilini artırmak için kota uygulaması başlattı."
+    },
+    "cloze": {
+      "template": "The government introduced {{cloze}} to increase female representation in parliament.",
+      "answer": "quotas"
+    }
+  },
+  {
+    "id": "ratification_noun_582",
+    "lemma": "ratification",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "onay, tasdik"
+    ],
+    "synonyms": [
+      "confirmation",
+      "approval"
+    ],
+    "example": {
+      "text": "The treaty awaits ratification by all member states before it can take effect.",
+      "translation": "Antlaşma yürürlüğe girebilmesi için tüm üye devletler tarafından onay beklemektedir."
+    },
+    "cloze": {
+      "template": "The treaty awaits {{cloze}} by all member states before it can take effect.",
+      "answer": "ratification"
+    }
+  },
+  {
+    "id": "realm_noun_583",
+    "lemma": "realm",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "alan, krallık"
+    ],
+    "synonyms": [
+      "domain",
+      "sphere"
+    ],
+    "example": {
+      "text": "Artificial intelligence is transforming every realm of human activity.",
+      "translation": "Yapay zekâ insan faaliyetinin her alanını dönüştürmektedir."
+    },
+    "cloze": {
+      "template": "Artificial intelligence is transforming every {{cloze}} of human activity.",
+      "answer": "realm"
+    }
+  },
+  {
+    "id": "redundancy_noun_584",
+    "lemma": "redundancy",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "gereksizlik, fazlalık"
+    ],
+    "synonyms": [
+      "surplus",
+      "excess"
+    ],
+    "example": {
+      "text": "Technological advances have led to redundancy in many traditional occupations.",
+      "translation": "Teknolojik gelişmeler birçok geleneksel meslekte gereksizliğe yol açmıştır."
+    },
+    "cloze": {
+      "template": "Technological advances have led to {{cloze}} in many traditional occupations.",
+      "answer": "redundancy"
+    }
+  },
+  {
+    "id": "referendum_noun_585",
+    "lemma": "referendum",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "referandum, halk oylaması"
+    ],
+    "synonyms": [
+      "vote",
+      "plebiscite"
+    ],
+    "example": {
+      "text": "The government called a referendum on the proposed constitutional amendment.",
+      "translation": "Hükümet önerilen anayasa değişikliği için referandum çağrısında bulundu."
+    },
+    "cloze": {
+      "template": "The government called a {{cloze}} on the proposed constitutional amendment.",
+      "answer": "referendum"
+    }
+  },
+  {
+    "id": "restitution_noun_586",
+    "lemma": "restitution",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "tazmin, iade"
+    ],
+    "synonyms": [
+      "compensation",
+      "restoration"
+    ],
+    "example": {
+      "text": "The court ordered restitution for the victims of the financial fraud.",
+      "translation": "Mahkeme mali dolandırıcılık mağdurları için tazmin kararı verdi."
+    },
+    "cloze": {
+      "template": "The court ordered {{cloze}} for the victims of the financial fraud.",
+      "answer": "restitution"
+    }
+  },
+  {
+    "id": "stratification_noun_587",
+    "lemma": "stratification",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "katmanlaşma, tabakalaşma"
+    ],
+    "synonyms": [
+      "layering",
+      "segmentation"
+    ],
+    "example": {
+      "text": "Social stratification has deepened as the gap between rich and poor widens.",
+      "translation": "Zengin ve yoksul arasındaki uçurum genişledikçe sosyal tabakalaşma derinleşmiştir."
+    },
+    "cloze": {
+      "template": "Social {{cloze}} has deepened as the gap between rich and poor widens.",
+      "answer": "stratification"
+    }
+  },
+  {
+    "id": "tenet_noun_588",
+    "lemma": "tenet",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "ilke, prensip"
+    ],
+    "synonyms": [
+      "principle",
+      "belief"
+    ],
+    "example": {
+      "text": "Freedom of expression is a central tenet of democratic governance.",
+      "translation": "İfade özgürlüğü demokratik yönetişimin merkezi bir ilkesidir."
+    },
+    "cloze": {
+      "template": "Freedom of expression is a central {{cloze}} of democratic governance.",
+      "answer": "tenet"
+    }
+  },
+  {
+    "id": "trajectory_noun_589",
+    "lemma": "tribunal",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "mahkeme, yargı kurulu"
+    ],
+    "synonyms": [
+      "court",
+      "panel"
+    ],
+    "example": {
+      "text": "The international tribunal ruled in favour of the displaced communities.",
+      "translation": "Uluslararası mahkeme yerinden edilmiş topluluklar lehine karar verdi."
+    },
+    "cloze": {
+      "template": "The international {{cloze}} ruled in favour of the displaced communities.",
+      "answer": "tribunal"
+    }
+  },
+  {
+    "id": "undertaking_noun_590",
+    "lemma": "undertaking",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "girişim, taahhüt"
+    ],
+    "synonyms": [
+      "enterprise",
+      "venture"
+    ],
+    "example": {
+      "text": "Building the canal was a massive engineering undertaking.",
+      "translation": "Kanalın inşası devasa bir mühendislik girişimiydi."
+    },
+    "cloze": {
+      "template": "Building the canal was a massive engineering {{cloze}}.",
+      "answer": "undertaking"
+    }
+  },
+  {
+    "id": "venture_noun_591",
+    "lemma": "venture",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "girişim, risk"
+    ],
+    "synonyms": [
+      "enterprise",
+      "endeavour"
+    ],
+    "example": {
+      "text": "The joint venture between the two companies was highly successful.",
+      "translation": "İki şirket arasındaki ortak girişim son derece başarılı oldu."
+    },
+    "cloze": {
+      "template": "The joint {{cloze}} between the two companies was highly successful.",
+      "answer": "venture"
+    }
+  },
+  {
+    "id": "warrant_noun_593",
+    "lemma": "warrant",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "izin belgesi, gerekçe"
+    ],
+    "synonyms": [
+      "authorisation",
+      "justification"
+    ],
+    "example": {
+      "text": "The judge issued a warrant for the suspect's arrest.",
+      "translation": "Yargıç şüphelinin tutuklanması için tutuklama emri çıkardı."
+    },
+    "cloze": {
+      "template": "The judge issued a {{cloze}} for the suspect's arrest.",
+      "answer": "warrant"
+    }
+  },
+  {
+    "id": "yielding_noun_594",
+    "lemma": "anomie",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "kuralsızlık, anomi"
+    ],
+    "synonyms": [
+      "lawlessness",
+      "disorder"
+    ],
+    "example": {
+      "text": "Rapid social change can lead to anomie and a sense of disconnection.",
+      "translation": "Hızlı toplumsal değişim anomiye ve kopukluk hissine yol açabilir."
+    },
+    "cloze": {
+      "template": "Rapid social change can lead to {{cloze}} and a sense of disconnection.",
+      "answer": "anomie"
+    }
+  },
+  {
+    "id": "austerity_noun_595",
+    "lemma": "austerity",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "kemer sıkma, tasarruf"
+    ],
+    "synonyms": [
+      "frugality",
+      "cutback"
+    ],
+    "example": {
+      "text": "Austerity measures imposed by the government reduced public spending significantly.",
+      "translation": "Hükümet tarafından dayatılan kemer sıkma tedbirleri kamu harcamalarını önemli ölçüde azalttı."
+    },
+    "cloze": {
+      "template": "{{cloze}} measures imposed by the government reduced public spending significantly.",
+      "answer": "Austerity"
+    }
+  },
+  {
+    "id": "coercion_noun_597",
+    "lemma": "coercion",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "zorlama, baskı"
+    ],
+    "synonyms": [
+      "compulsion",
+      "intimidation"
+    ],
+    "example": {
+      "text": "International law prohibits the use of coercion to change national borders.",
+      "translation": "Uluslararası hukuk ulusal sınırları değiştirmek için zorlama kullanımını yasaklar."
+    },
+    "cloze": {
+      "template": "International law prohibits the use of {{cloze}} to change national borders.",
+      "answer": "coercion"
+    }
+  },
+  {
+    "id": "collusion_noun_598",
+    "lemma": "collusion",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "gizli anlaşma, danışıklılık"
+    ],
+    "synonyms": [
+      "conspiracy",
+      "connivance"
+    ],
+    "example": {
+      "text": "The investigation uncovered collusion between government officials and corporations.",
+      "translation": "Soruşturma hükümet yetkilileri ile şirketler arasındaki gizli anlaşmayı ortaya çıkardı."
+    },
+    "cloze": {
+      "template": "The investigation uncovered {{cloze}} between government officials and corporations.",
+      "answer": "collusion"
+    }
+  },
+  {
+    "id": "compliance_noun_599",
+    "lemma": "compliance",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "uyum, uyumluluk"
+    ],
+    "synonyms": [
+      "conformity",
+      "adherence"
+    ],
+    "example": {
+      "text": "Full compliance with environmental regulations is mandatory for all factories.",
+      "translation": "Çevre düzenlemelerine tam uyum tüm fabrikalar için zorunludur."
+    },
+    "cloze": {
+      "template": "Full {{cloze}} with environmental regulations is mandatory for all factories.",
+      "answer": "compliance"
+    }
+  },
+  {
+    "id": "endorsement_noun_605",
+    "lemma": "endorsement",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "onay, destek"
+    ],
+    "synonyms": [
+      "approval",
+      "support"
+    ],
+    "example": {
+      "text": "The candidate received the endorsement of several influential organisations.",
+      "translation": "Aday birçok etkili kuruluşun onayını aldı."
+    },
+    "cloze": {
+      "template": "The candidate received the {{cloze}} of several influential organisations.",
+      "answer": "endorsement"
+    }
+  },
+  {
+    "id": "entropy_noun_606",
+    "lemma": "entropy",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "entropi, düzensizlik"
+    ],
+    "synonyms": [
+      "disorder",
+      "chaos"
+    ],
+    "example": {
+      "text": "The second law of thermodynamics states that entropy tends to increase over time.",
+      "translation": "Termodinamiğin ikinci yasası entropinin zamanla artma eğiliminde olduğunu belirtir."
+    },
+    "cloze": {
+      "template": "The second law of thermodynamics states that {{cloze}} tends to increase over time.",
+      "answer": "entropy"
+    }
+  },
+  {
+    "id": "exploitation_noun_608",
+    "lemma": "exploitation",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "sömürü, istismar"
+    ],
+    "synonyms": [
+      "abuse",
+      "misuse"
+    ],
+    "example": {
+      "text": "The exploitation of natural resources has led to severe environmental degradation.",
+      "translation": "Doğal kaynakların sömürüsü ciddi çevresel bozulmaya yol açmıştır."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of natural resources has led to severe environmental degradation.",
+      "answer": "exploitation"
+    }
+  },
+  {
+    "id": "fluctuation_noun_609",
+    "lemma": "fluctuation",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "dalgalanma"
+    ],
+    "synonyms": [
+      "variation",
+      "instability"
+    ],
+    "example": {
+      "text": "Currency fluctuations can significantly affect international trade.",
+      "translation": "Kur dalgalanmaları uluslararası ticareti önemli ölçüde etkileyebilir."
+    },
+    "cloze": {
+      "template": "Currency {{cloze}} can significantly affect international trade.",
+      "answer": "fluctuations"
+    }
+  },
+  {
+    "id": "fragmentation_noun_610",
+    "lemma": "fragmentation",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "parçalanma, bölünme"
+    ],
+    "synonyms": [
+      "division",
+      "disintegration"
+    ],
+    "example": {
+      "text": "Political fragmentation has made coalition-building extremely difficult.",
+      "translation": "Siyasi parçalanma koalisyon oluşturmayı son derece zorlaştırmıştır."
+    },
+    "cloze": {
+      "template": "Political {{cloze}} has made coalition-building extremely difficult.",
+      "answer": "fragmentation"
+    }
+  },
+  {
+    "id": "homogeneity_noun_612",
+    "lemma": "homogeneity",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "homojenlik, türdeşlik"
+    ],
+    "synonyms": [
+      "uniformity",
+      "similarity"
+    ],
+    "example": {
+      "text": "Cultural homogeneity is becoming less common in an increasingly globalised world.",
+      "translation": "Kültürel homojenlik giderek küreselleşen bir dünyada daha az yaygın hale gelmektedir."
+    },
+    "cloze": {
+      "template": "Cultural {{cloze}} is becoming less common in an increasingly globalised world.",
+      "answer": "homogeneity"
+    }
+  },
+  {
+    "id": "inception_noun_614",
+    "lemma": "inception",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "başlangıç, kuruluş"
+    ],
+    "synonyms": [
+      "beginning",
+      "establishment"
+    ],
+    "example": {
+      "text": "Since its inception in 1945, the United Nations has promoted international cooperation.",
+      "translation": "1945'teki kuruluşundan bu yana Birleşmiş Milletler uluslararası işbirliğini teşvik etmektedir."
+    },
+    "cloze": {
+      "template": "Since its {{cloze}} in 1945, the United Nations has promoted international cooperation.",
+      "answer": "inception"
+    }
+  },
+  {
+    "id": "juxtaposition_noun_615",
+    "lemma": "inequity",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "adaletsizlik, haksızlık"
+    ],
+    "synonyms": [
+      "injustice",
+      "unfairness"
+    ],
+    "example": {
+      "text": "Addressing systemic inequity requires comprehensive policy reform.",
+      "translation": "Sistemik adaletsizliğin ele alınması kapsamlı politika reformu gerektirmektedir."
+    },
+    "cloze": {
+      "template": "Addressing systemic {{cloze}} requires comprehensive policy reform.",
+      "answer": "inequity"
+    }
+  },
+  {
+    "id": "jurisdiction_noun_616",
+    "lemma": "livelihood",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "geçim kaynağı"
+    ],
+    "synonyms": [
+      "subsistence",
+      "income"
+    ],
+    "example": {
+      "text": "Climate change threatens the livelihood of millions of farmers worldwide.",
+      "translation": "İklim değişikliği dünya genelinde milyonlarca çiftçinin geçim kaynağını tehdit etmektedir."
+    },
+    "cloze": {
+      "template": "Climate change threatens the {{cloze}} of millions of farmers worldwide.",
+      "answer": "livelihood"
+    }
+  },
+  {
+    "id": "malady_noun_617",
+    "lemma": "malady",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "hastalık, bela"
+    ],
+    "synonyms": [
+      "illness",
+      "ailment"
+    ],
+    "example": {
+      "text": "Corruption is often described as a malady that infects the entire political system.",
+      "translation": "Yolsuzluk genellikle tüm siyasi sistemi enfekte eden bir bela olarak tanımlanır."
+    },
+    "cloze": {
+      "template": "Corruption is often described as a {{cloze}} that infects the entire political system.",
+      "answer": "malady"
+    }
+  },
+  {
+    "id": "mandate_noun_618",
+    "lemma": "mediator",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "arabulucu"
+    ],
+    "synonyms": [
+      "intermediary",
+      "negotiator"
+    ],
+    "example": {
+      "text": "The UN appointed a mediator to facilitate peace talks between the warring factions.",
+      "translation": "BM savaşan gruplar arasındaki barış görüşmelerini kolaylaştırmak için bir arabulucu atadı."
+    },
+    "cloze": {
+      "template": "The UN appointed a {{cloze}} to facilitate peace talks between the warring factions.",
+      "answer": "mediator"
+    }
+  },
+  {
+    "id": "monopoly_noun_619",
+    "lemma": "monopoly",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "tekel"
+    ],
+    "synonyms": [
+      "dominance",
+      "exclusivity"
+    ],
+    "example": {
+      "text": "The company held a virtual monopoly on telecommunications in the region.",
+      "translation": "Şirket bölgede telekomünikasyon üzerinde fiili bir tekele sahipti."
+    },
+    "cloze": {
+      "template": "The company held a virtual {{cloze}} on telecommunications in the region.",
+      "answer": "monopoly"
+    }
+  },
+  {
+    "id": "narrative_noun_620",
+    "lemma": "narrative",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "anlatı, hikâye"
+    ],
+    "synonyms": [
+      "story",
+      "account"
+    ],
+    "example": {
+      "text": "The dominant narrative in the media shaped public perception of the crisis.",
+      "translation": "Medyadaki baskın anlatı halkın kriz algısını şekillendirdi."
+    },
+    "cloze": {
+      "template": "The dominant {{cloze}} in the media shaped public perception of the crisis.",
+      "answer": "narrative"
+    }
+  },
+  {
+    "id": "arguably_adv_701",
+    "lemma": "arguably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "tartışmasız olarak"
+    ],
+    "synonyms": [
+      "possibly",
+      "perhaps"
+    ],
+    "example": {
+      "text": "This is arguably the most important scientific discovery of the century.",
+      "translation": "Bu tartışmasız yüzyılın en önemli bilimsel keşfidir."
+    },
+    "cloze": {
+      "template": "This is {{cloze}} the most important scientific discovery of the century.",
+      "answer": "arguably"
+    }
+  },
+  {
+    "id": "predominantly_adv_703",
+    "lemma": "predominantly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "ağırlıklı olarak, çoğunlukla"
+    ],
+    "synonyms": [
+      "mainly",
+      "chiefly"
+    ],
+    "example": {
+      "text": "The workforce is predominantly composed of young graduates.",
+      "translation": "İşgücü ağırlıklı olarak genç mezunlardan oluşmaktadır."
+    },
+    "cloze": {
+      "template": "The workforce is {{cloze}} composed of young graduates.",
+      "answer": "predominantly"
+    }
+  },
+  {
+    "id": "inherently_adv_704",
+    "lemma": "inherently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "doğası gereği"
+    ],
+    "synonyms": [
+      "intrinsically",
+      "fundamentally"
+    ],
+    "example": {
+      "text": "Risk is inherently associated with all forms of financial investment.",
+      "translation": "Risk doğası gereği her türlü finansal yatırımla ilişkilidir."
+    },
+    "cloze": {
+      "template": "Risk is {{cloze}} associated with all forms of financial investment.",
+      "answer": "inherently"
+    }
+  },
+  {
+    "id": "explicitly_adv_705",
+    "lemma": "explicitly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "açıkça, sarih biçimde"
+    ],
+    "synonyms": [
+      "clearly",
+      "directly"
+    ],
+    "example": {
+      "text": "The law explicitly prohibits discrimination on the basis of gender.",
+      "translation": "Yasa cinsiyete dayalı ayrımcılığı açıkça yasaklar."
+    },
+    "cloze": {
+      "template": "The law {{cloze}} prohibits discrimination on the basis of gender.",
+      "answer": "explicitly"
+    }
+  },
+  {
+    "id": "implicitly_adv_706",
+    "lemma": "implicitly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "örtük olarak, dolaylı biçimde"
+    ],
+    "synonyms": [
+      "indirectly",
+      "tacitly"
+    ],
+    "example": {
+      "text": "The agreement implicitly acknowledged the need for further reform.",
+      "translation": "Anlaşma daha fazla reform ihtiyacını örtük olarak kabul etti."
+    },
+    "cloze": {
+      "template": "The agreement {{cloze}} acknowledged the need for further reform.",
+      "answer": "implicitly"
+    }
+  },
+  {
+    "id": "correspondingly_adv_707",
+    "lemma": "correspondingly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "buna bağlı olarak"
+    ],
+    "synonyms": [
+      "accordingly",
+      "proportionally"
+    ],
+    "example": {
+      "text": "Demand increased and prices rose correspondingly.",
+      "translation": "Talep arttı ve fiyatlar buna bağlı olarak yükseldi."
+    },
+    "cloze": {
+      "template": "Demand increased and prices rose {{cloze}}.",
+      "answer": "correspondingly"
+    }
+  },
+  {
+    "id": "disproportionately_adv_708",
+    "lemma": "disproportionately",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "orantısız biçimde"
+    ],
+    "synonyms": [
+      "excessively",
+      "unevenly"
+    ],
+    "example": {
+      "text": "Climate change disproportionately affects the most vulnerable communities.",
+      "translation": "İklim değişikliği en savunmasız toplulukları orantısız biçimde etkiler."
+    },
+    "cloze": {
+      "template": "Climate change {{cloze}} affects the most vulnerable communities.",
+      "answer": "disproportionately"
+    }
+  },
+  {
+    "id": "overwhelmingly_adv_709",
+    "lemma": "overwhelmingly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "ezici bir şekilde"
+    ],
+    "synonyms": [
+      "vastly",
+      "decisively"
+    ],
+    "example": {
+      "text": "The proposal was overwhelmingly approved by the committee.",
+      "translation": "Teklif komite tarafından ezici bir şekilde onaylandı."
+    },
+    "cloze": {
+      "template": "The proposal was {{cloze}} approved by the committee.",
+      "answer": "overwhelmingly"
+    }
+  },
+  {
+    "id": "provisionally_adv_710",
+    "lemma": "provisionally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "geçici olarak, şartlı olarak"
+    ],
+    "synonyms": [
+      "temporarily",
+      "conditionally"
+    ],
+    "example": {
+      "text": "The ceasefire was provisionally accepted by both sides.",
+      "translation": "Ateşkes her iki tarafça da geçici olarak kabul edildi."
+    },
+    "cloze": {
+      "template": "The ceasefire was {{cloze}} accepted by both sides.",
+      "answer": "provisionally"
+    }
+  },
+  {
+    "id": "retrospectively_adv_711",
+    "lemma": "retrospectively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "geriye dönük olarak"
+    ],
+    "synonyms": [
+      "in hindsight",
+      "looking back"
+    ],
+    "example": {
+      "text": "The legislation was applied retrospectively to cover past violations.",
+      "translation": "Mevzuat geçmişteki ihlalleri kapsayacak şekilde geriye dönük olarak uygulandı."
+    },
+    "cloze": {
+      "template": "The legislation was applied {{cloze}} to cover past violations.",
+      "answer": "retrospectively"
+    }
+  },
+  {
+    "id": "simultaneously_adv_712",
+    "lemma": "simultaneously",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "eş zamanlı olarak"
+    ],
+    "synonyms": [
+      "at the same time",
+      "concurrently"
+    ],
+    "example": {
+      "text": "The government must simultaneously address economic growth and environmental protection.",
+      "translation": "Hükümet ekonomik büyüme ve çevre korumayı eş zamanlı olarak ele almalıdır."
+    },
+    "cloze": {
+      "template": "The government must {{cloze}} address economic growth and environmental protection.",
+      "answer": "simultaneously"
+    }
+  },
+  {
+    "id": "perpetually_adv_713",
+    "lemma": "perpetually",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "sürekli olarak, daima"
+    ],
+    "synonyms": [
+      "constantly",
+      "endlessly"
+    ],
+    "example": {
+      "text": "Developing countries are perpetually challenged by debt and infrastructure deficits.",
+      "translation": "Gelişmekte olan ülkeler sürekli olarak borç ve altyapı açıklarıyla mücadele etmektedir."
+    },
+    "cloze": {
+      "template": "Developing countries are {{cloze}} challenged by debt and infrastructure deficits.",
+      "answer": "perpetually"
+    }
+  },
+  {
+    "id": "tentatively_adv_714",
+    "lemma": "tentatively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "çekingen biçimde, geçici olarak"
+    ],
+    "synonyms": [
+      "hesitantly",
+      "cautiously"
+    ],
+    "example": {
+      "text": "The researchers tentatively concluded that the drug was effective.",
+      "translation": "Araştırmacılar ilacın etkili olduğuna çekingen biçimde karar verdi."
+    },
+    "cloze": {
+      "template": "The researchers {{cloze}} concluded that the drug was effective.",
+      "answer": "tentatively"
+    }
+  },
+  {
+    "id": "unilaterally_adv_715",
+    "lemma": "unilaterally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "tek taraflı olarak"
+    ],
+    "synonyms": [
+      "independently",
+      "single-handedly"
+    ],
+    "example": {
+      "text": "The country unilaterally withdrew from the trade agreement.",
+      "translation": "Ülke tek taraflı olarak ticaret anlaşmasından çekildi."
+    },
+    "cloze": {
+      "template": "The country {{cloze}} withdrew from the trade agreement.",
+      "answer": "unilaterally"
+    }
+  },
+  {
+    "id": "empirically_adv_716",
+    "lemma": "empirically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "deneysel olarak"
+    ],
+    "synonyms": [
+      "experimentally",
+      "observationally"
+    ],
+    "example": {
+      "text": "The theory has been empirically validated through extensive research.",
+      "translation": "Teori kapsamlı araştırmalar yoluyla deneysel olarak doğrulanmıştır."
+    },
+    "cloze": {
+      "template": "The theory has been {{cloze}} validated through extensive research.",
+      "answer": "empirically"
+    }
+  },
+  {
+    "id": "categorically_adv_717",
+    "lemma": "categorically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kesinlikle, kategorik olarak"
+    ],
+    "synonyms": [
+      "absolutely",
+      "unconditionally"
+    ],
+    "example": {
+      "text": "The minister categorically denied any involvement in the scandal.",
+      "translation": "Bakan skandalla herhangi bir ilişkisini kesinlikle reddetti."
+    },
+    "cloze": {
+      "template": "The minister {{cloze}} denied any involvement in the scandal.",
+      "answer": "categorically"
+    }
+  },
+  {
+    "id": "tangibly_adv_718",
+    "lemma": "tangibly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "somut biçimde"
+    ],
+    "synonyms": [
+      "concretely",
+      "palpably"
+    ],
+    "example": {
+      "text": "The policy has not yet tangibly improved living standards for the poor.",
+      "translation": "Politika henüz yoksullar için yaşam standartlarını somut biçimde iyileştirmemiştir."
+    },
+    "cloze": {
+      "template": "The policy has not yet {{cloze}} improved living standards for the poor.",
+      "answer": "tangibly"
+    }
+  },
+  {
+    "id": "conclusively_adv_719",
+    "lemma": "conclusively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kesin olarak"
+    ],
+    "synonyms": [
+      "definitively",
+      "decisively"
+    ],
+    "example": {
+      "text": "The evidence conclusively proved that the defendant was guilty.",
+      "translation": "Kanıtlar sanığın suçlu olduğunu kesin olarak kanıtladı."
+    },
+    "cloze": {
+      "template": "The evidence {{cloze}} proved that the defendant was guilty.",
+      "answer": "conclusively"
+    }
+  },
+  {
+    "id": "proportionally_adv_720",
+    "lemma": "proportionally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "orantılı olarak"
+    ],
+    "synonyms": [
+      "comparatively",
+      "relatively"
+    ],
+    "example": {
+      "text": "Taxes should increase proportionally with income.",
+      "translation": "Vergiler gelirle orantılı olarak artmalıdır."
+    },
+    "cloze": {
+      "template": "Taxes should increase {{cloze}} with income.",
+      "answer": "proportionally"
+    }
+  },
+  {
+    "id": "irrevocably_adv_721",
+    "lemma": "irrevocably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "geri dönülemez biçimde"
+    ],
+    "synonyms": [
+      "permanently",
+      "irreversibly"
+    ],
+    "example": {
+      "text": "Human activity has irrevocably altered the planet's ecosystems.",
+      "translation": "İnsan faaliyeti gezegenin ekosistemlerini geri dönülemez biçimde değiştirmiştir."
+    },
+    "cloze": {
+      "template": "Human activity has {{cloze}} altered the planet's ecosystems.",
+      "answer": "irrevocably"
+    }
+  },
+  {
+    "id": "marginally_adv_722",
+    "lemma": "marginally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "marjinal olarak, çok az"
+    ],
+    "synonyms": [
+      "slightly",
+      "minimally"
+    ],
+    "example": {
+      "text": "Profits increased only marginally compared to the previous quarter.",
+      "translation": "Kârlar önceki çeyreğe kıyasla yalnızca marjinal olarak arttı."
+    },
+    "cloze": {
+      "template": "Profits increased only {{cloze}} compared to the previous quarter.",
+      "answer": "marginally"
+    }
+  },
+  {
+    "id": "sporadically_adv_723",
+    "lemma": "sporadically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "ara sıra, düzensiz olarak"
+    ],
+    "synonyms": [
+      "intermittently",
+      "occasionally"
+    ],
+    "example": {
+      "text": "Violence continued to erupt sporadically despite the peace agreement.",
+      "translation": "Barış anlaşmasına rağmen şiddet düzensiz olarak patlak vermeye devam etti."
+    },
+    "cloze": {
+      "template": "Violence continued to erupt {{cloze}} despite the peace agreement.",
+      "answer": "sporadically"
+    }
+  },
+  {
+    "id": "intrinsically_adv_724",
+    "lemma": "intrinsically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "özünde, doğası gereği"
+    ],
+    "synonyms": [
+      "inherently",
+      "essentially"
+    ],
+    "example": {
+      "text": "Education is intrinsically linked to social mobility.",
+      "translation": "Eğitim özünde sosyal hareketlilikle bağlantılıdır."
+    },
+    "cloze": {
+      "template": "Education is {{cloze}} linked to social mobility.",
+      "answer": "intrinsically"
+    }
+  },
+  {
+    "id": "cumulatively_adv_725",
+    "lemma": "cumulatively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "birikimli olarak, toplam olarak"
+    ],
+    "synonyms": [
+      "collectively",
+      "altogether"
+    ],
+    "example": {
+      "text": "Small daily emissions cumulatively produce a significant environmental impact.",
+      "translation": "Küçük günlük emisyonlar birikimli olarak önemli bir çevresel etki yaratır."
+    },
+    "cloze": {
+      "template": "Small daily emissions {{cloze}} produce a significant environmental impact.",
+      "answer": "cumulatively"
+    }
+  },
+  {
+    "id": "albeit_adv_726",
+    "lemma": "albeit",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "her ne kadar, gerçi"
+    ],
+    "synonyms": [
+      "although",
+      "even though"
+    ],
+    "example": {
+      "text": "The reform was successful, albeit limited in scope.",
+      "translation": "Reform başarılıydı, her ne kadar kapsamı sınırlı olsa da."
+    },
+    "cloze": {
+      "template": "The reform was successful, {{cloze}} limited in scope.",
+      "answer": "albeit"
+    }
+  },
+  {
+    "id": "provisionally_adv_727",
+    "lemma": "presumably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "muhtemelen, büyük olasılıkla"
+    ],
+    "synonyms": [
+      "probably",
+      "supposedly"
+    ],
+    "example": {
+      "text": "The artefact is presumably from the Bronze Age, though exact dating is pending.",
+      "translation": "Eser muhtemelen Tunç Çağı'na aittir, ancak kesin tarihleme beklemektedir."
+    },
+    "cloze": {
+      "template": "The artefact is {{cloze}} from the Bronze Age, though exact dating is pending.",
+      "answer": "presumably"
+    }
+  },
+  {
+    "id": "whereby_adv_728",
+    "lemma": "whereby",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "bu sayede, buna göre"
+    ],
+    "synonyms": [
+      "by which",
+      "through which"
+    ],
+    "example": {
+      "text": "The company introduced a system whereby employees could work remotely.",
+      "translation": "Şirket çalışanların uzaktan çalışabileceği bir sistem uygulamaya koydu."
+    },
+    "cloze": {
+      "template": "The company introduced a system {{cloze}} employees could work remotely.",
+      "answer": "whereby"
+    }
+  },
+  {
+    "id": "markedly_adv_729",
+    "lemma": "markedly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "belirgin biçimde"
+    ],
+    "synonyms": [
+      "noticeably",
+      "significantly"
+    ],
+    "example": {
+      "text": "Test scores improved markedly after the curriculum was revised.",
+      "translation": "Müfredat gözden geçirildikten sonra sınav puanları belirgin biçimde iyileşti."
+    },
+    "cloze": {
+      "template": "Test scores improved {{cloze}} after the curriculum was revised.",
+      "answer": "markedly"
+    }
+  },
+  {
+    "id": "purportedly_adv_730",
+    "lemma": "purportedly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "iddiaya göre, güya"
+    ],
+    "synonyms": [
+      "allegedly",
+      "supposedly"
+    ],
+    "example": {
+      "text": "The document was purportedly signed by the president himself.",
+      "translation": "Belgenin iddiaya göre başkanın kendisi tarafından imzalandığı söyleniyor."
+    },
+    "cloze": {
+      "template": "The document was {{cloze}} signed by the president himself.",
+      "answer": "purportedly"
+    }
+  },
+  {
+    "id": "succinctly_adv_731",
+    "lemma": "succinctly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kısa ve öz biçimde"
+    ],
+    "synonyms": [
+      "concisely",
+      "briefly"
+    ],
+    "example": {
+      "text": "The author succinctly summarised the main findings in the conclusion.",
+      "translation": "Yazar sonuç bölümünde ana bulguları kısa ve öz biçimde özetledi."
+    },
+    "cloze": {
+      "template": "The author {{cloze}} summarised the main findings in the conclusion.",
+      "answer": "succinctly"
+    }
+  },
+  {
+    "id": "inadvertently_adv_733",
+    "lemma": "indiscriminately",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "ayrım gözetmeksizin"
+    ],
+    "synonyms": [
+      "randomly",
+      "widely"
+    ],
+    "example": {
+      "text": "Pesticides were used indiscriminately, harming both pests and beneficial insects.",
+      "translation": "Pestisitler ayrım gözetmeksizin kullanıldı ve hem zararlıları hem de faydalı böcekleri etkiledi."
+    },
+    "cloze": {
+      "template": "Pesticides were used {{cloze}}, harming both pests and beneficial insects.",
+      "answer": "indiscriminately"
+    }
+  },
+  {
+    "id": "pivotally_adv_734",
+    "lemma": "notwithstanding",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "buna rağmen"
+    ],
+    "synonyms": [
+      "nevertheless",
+      "despite"
+    ],
+    "example": {
+      "text": "The project proceeded, notwithstanding the significant budget cuts.",
+      "translation": "Önemli bütçe kesintilerine rağmen proje devam etti."
+    },
+    "cloze": {
+      "template": "The project proceeded, {{cloze}} the significant budget cuts.",
+      "answer": "notwithstanding"
+    }
+  },
+  {
+    "id": "stringently_adv_735",
+    "lemma": "stringently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "sıkı biçimde, katı olarak"
+    ],
+    "synonyms": [
+      "strictly",
+      "rigorously"
+    ],
+    "example": {
+      "text": "Food safety regulations must be applied more stringently.",
+      "translation": "Gıda güvenliği düzenlemeleri daha sıkı biçimde uygulanmalıdır."
+    },
+    "cloze": {
+      "template": "Food safety regulations must be applied more {{cloze}}.",
+      "answer": "stringently"
+    }
+  },
+  {
+    "id": "superficially_adv_736",
+    "lemma": "manifestly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "açıkça, belirgin biçimde"
+    ],
+    "synonyms": [
+      "obviously",
+      "clearly"
+    ],
+    "example": {
+      "text": "The policy was manifestly designed to favour large corporations.",
+      "translation": "Politika açıkça büyük şirketleri kayırmak için tasarlanmıştı."
+    },
+    "cloze": {
+      "template": "The policy was {{cloze}} designed to favour large corporations.",
+      "answer": "manifestly"
+    }
+  },
+  {
+    "id": "universally_adv_737",
+    "lemma": "universally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "evrensel olarak"
+    ],
+    "synonyms": [
+      "globally",
+      "everywhere"
+    ],
+    "example": {
+      "text": "Human rights should be universally respected regardless of nationality.",
+      "translation": "İnsan hakları uyruğa bakılmaksızın evrensel olarak saygı görmelidir."
+    },
+    "cloze": {
+      "template": "Human rights should be {{cloze}} respected regardless of nationality.",
+      "answer": "universally"
+    }
+  },
+  {
+    "id": "exponentially_adv_738",
+    "lemma": "exponentially",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "katlanarak, üstel olarak"
+    ],
+    "synonyms": [
+      "dramatically",
+      "rapidly"
+    ],
+    "example": {
+      "text": "The use of social media has grown exponentially over the past decade.",
+      "translation": "Sosyal medya kullanımı geçtiğimiz on yılda katlanarak büyümüştür."
+    },
+    "cloze": {
+      "template": "The use of social media has grown {{cloze}} over the past decade.",
+      "answer": "exponentially"
+    }
+  },
+  {
+    "id": "selectively_adv_739",
+    "lemma": "holistically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "bütüncül olarak"
+    ],
+    "synonyms": [
+      "comprehensively",
+      "wholly"
+    ],
+    "example": {
+      "text": "Health should be approached holistically, addressing both physical and mental aspects.",
+      "translation": "Sağlığa hem fiziksel hem de zihinsel yönleri ele alarak bütüncül olarak yaklaşılmalıdır."
+    },
+    "cloze": {
+      "template": "Health should be approached {{cloze}}, addressing both physical and mental aspects.",
+      "answer": "holistically"
+    }
+  },
+  {
+    "id": "undeniably_adv_740",
+    "lemma": "undeniably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "inkâr edilemez biçimde"
+    ],
+    "synonyms": [
+      "unquestionably",
+      "indisputably"
+    ],
+    "example": {
+      "text": "Technology has undeniably transformed the way we communicate.",
+      "translation": "Teknoloji inkâr edilemez biçimde iletişim şeklimizi dönüştürmüştür."
+    },
+    "cloze": {
+      "template": "Technology has {{cloze}} transformed the way we communicate.",
+      "answer": "undeniably"
+    }
+  },
+  {
+    "id": "thereby_conj_801",
+    "lemma": "thereby",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "bu sayede, böylece"
+    ],
+    "synonyms": [
+      "thus",
+      "consequently"
+    ],
+    "example": {
+      "text": "The factory reduced emissions, thereby meeting the new environmental standards.",
+      "translation": "Fabrika emisyonları azaltarak böylece yeni çevre standartlarını karşıladı."
+    },
+    "cloze": {
+      "template": "The factory reduced emissions, {{cloze}} meeting the new environmental standards.",
+      "answer": "thereby"
+    }
+  },
+  {
+    "id": "hence_conj_802",
+    "lemma": "hence",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "bu nedenle, dolayısıyla"
+    ],
+    "synonyms": [
+      "therefore",
+      "thus"
+    ],
+    "example": {
+      "text": "The sample size was small; hence, the results should be interpreted with caution.",
+      "translation": "Örneklem büyüklüğü küçüktü; dolayısıyla sonuçlar dikkatle yorumlanmalıdır."
+    },
+    "cloze": {
+      "template": "The sample size was small; {{cloze}}, the results should be interpreted with caution.",
+      "answer": "hence"
+    }
+  },
+  {
+    "id": "nonetheless_conj_803",
+    "lemma": "nonetheless",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "buna rağmen, yine de"
+    ],
+    "synonyms": [
+      "nevertheless",
+      "however"
+    ],
+    "example": {
+      "text": "The evidence was inconclusive; nonetheless, the committee decided to proceed.",
+      "translation": "Kanıtlar kesin değildi; buna rağmen komite devam etmeye karar verdi."
+    },
+    "cloze": {
+      "template": "The evidence was inconclusive; {{cloze}}, the committee decided to proceed.",
+      "answer": "nonetheless"
+    }
+  },
+  {
+    "id": "regardless_conj_804",
+    "lemma": "regardless",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "ne olursa olsun, bakılmaksızın"
+    ],
+    "synonyms": [
+      "irrespective",
+      "anyway"
+    ],
+    "example": {
+      "text": "The policy applies to all citizens, regardless of their socioeconomic status.",
+      "translation": "Politika sosyoekonomik durumlarına bakılmaksızın tüm vatandaşlara uygulanır."
+    },
+    "cloze": {
+      "template": "The policy applies to all citizens, {{cloze}} of their socioeconomic status.",
+      "answer": "regardless"
+    }
+  },
+  {
+    "id": "via_conj_805",
+    "lemma": "via",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "yoluyla, aracılığıyla"
+    ],
+    "synonyms": [
+      "through",
+      "by means of"
+    ],
+    "example": {
+      "text": "Information was disseminated via social media platforms.",
+      "translation": "Bilgi sosyal medya platformları aracılığıyla yayıldı."
+    },
+    "cloze": {
+      "template": "Information was disseminated {{cloze}} social media platforms.",
+      "answer": "via"
+    }
+  },
+  {
+    "id": "within_conj_806",
+    "lemma": "within",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "içinde, dahilinde"
+    ],
+    "synonyms": [
+      "inside",
+      "in the scope of"
+    ],
+    "example": {
+      "text": "The reforms must be implemented within the existing legal framework.",
+      "translation": "Reformlar mevcut yasal çerçeve dahilinde uygulanmalıdır."
+    },
+    "cloze": {
+      "template": "The reforms must be implemented {{cloze}} the existing legal framework.",
+      "answer": "within"
+    }
+  },
+  {
+    "id": "amid_conj_807",
+    "lemma": "amid",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "ortasında, sırasında"
+    ],
+    "synonyms": [
+      "during",
+      "in the midst of"
+    ],
+    "example": {
+      "text": "The announcement came amid growing public concern over safety.",
+      "translation": "Açıklama güvenlik konusunda artan kamuoyu endişesi ortasında geldi."
+    },
+    "cloze": {
+      "template": "The announcement came {{cloze}} growing public concern over safety.",
+      "answer": "amid"
+    }
+  },
+  {
+    "id": "notwithstanding_conj_808",
+    "lemma": "inasmuch as",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "...dığı ölçüde, madem ki"
+    ],
+    "synonyms": [
+      "since",
+      "given that"
+    ],
+    "example": {
+      "text": "The ruling was justified inasmuch as it upheld constitutional principles.",
+      "translation": "Karar anayasal ilkeleri desteklediği ölçüde haklıydı."
+    },
+    "cloze": {
+      "template": "The ruling was justified {{cloze}} it upheld constitutional principles.",
+      "answer": "inasmuch as"
+    }
+  },
+  {
+    "id": "insofar_conj_809",
+    "lemma": "insofar as",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "...dığı kadarıyla"
+    ],
+    "synonyms": [
+      "to the extent that",
+      "as far as"
+    ],
+    "example": {
+      "text": "The policy is effective insofar as it addresses the root causes.",
+      "translation": "Politika kök nedenleri ele aldığı kadarıyla etkilidir."
+    },
+    "cloze": {
+      "template": "The policy is effective {{cloze}} it addresses the root causes.",
+      "answer": "insofar as"
+    }
+  },
+  {
+    "id": "lest_conj_810",
+    "lemma": "lest",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "-mesin diye, korkusuyla"
+    ],
+    "synonyms": [
+      "for fear that",
+      "in case"
+    ],
+    "example": {
+      "text": "Strict measures were taken lest the epidemic spread further.",
+      "translation": "Salgın daha fazla yayılmasın diye sıkı önlemler alındı."
+    },
+    "cloze": {
+      "template": "Strict measures were taken {{cloze}} the epidemic spread further.",
+      "answer": "lest"
+    }
+  },
+  {
+    "id": "hitherto_conj_811",
+    "lemma": "hitherto",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "şimdiye kadar, bugüne dek"
+    ],
+    "synonyms": [
+      "until now",
+      "previously"
+    ],
+    "example": {
+      "text": "The discovery challenged hitherto accepted theories of evolution.",
+      "translation": "Keşif şimdiye kadar kabul edilmiş evrim teorilerini sorguladı."
+    },
+    "cloze": {
+      "template": "The discovery challenged {{cloze}} accepted theories of evolution.",
+      "answer": "hitherto"
+    }
+  },
+  {
+    "id": "forthwith_conj_812",
+    "lemma": "forthwith",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "derhal, hemen"
+    ],
+    "synonyms": [
+      "immediately",
+      "at once"
+    ],
+    "example": {
+      "text": "The court ordered the company to cease operations forthwith.",
+      "translation": "Mahkeme şirkete faaliyetlerini derhal durdurmasını emretti."
+    },
+    "cloze": {
+      "template": "The court ordered the company to cease operations {{cloze}}.",
+      "answer": "forthwith"
+    }
+  },
+  {
+    "id": "herein_conj_813",
+    "lemma": "herein",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "bu belgede, burada"
+    ],
+    "synonyms": [
+      "in this document",
+      "here"
+    ],
+    "example": {
+      "text": "The terms and conditions set forth herein are binding on all parties.",
+      "translation": "Burada belirtilen şartlar ve koşullar tüm taraflar için bağlayıcıdır."
+    },
+    "cloze": {
+      "template": "The terms and conditions set forth {{cloze}} are binding on all parties.",
+      "answer": "herein"
+    }
+  },
+  {
+    "id": "whilst_conj_814",
+    "lemma": "whilst",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "iken, rağmen"
+    ],
+    "synonyms": [
+      "while",
+      "whereas"
+    ],
+    "example": {
+      "text": "Exports increased significantly, whilst imports remained stagnant.",
+      "translation": "İhracat önemli ölçüde artarken ithalat durgun kaldı."
+    },
+    "cloze": {
+      "template": "Exports increased significantly, {{cloze}} imports remained stagnant.",
+      "answer": "whilst"
+    }
+  },
+  {
+    "id": "whereby_conj_815",
+    "lemma": "in lieu of",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "yerine"
+    ],
+    "synonyms": [
+      "instead of",
+      "in place of"
+    ],
+    "example": {
+      "text": "Employees received shares in lieu of a cash bonus.",
+      "translation": "Çalışanlar nakit ikramiye yerine hisse senedi aldı."
+    },
+    "cloze": {
+      "template": "Employees received shares {{cloze}} a cash bonus.",
+      "answer": "in lieu of"
+    }
+  },
+  {
+    "id": "accordingly_conj_816",
+    "lemma": "accordingly",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "buna göre, dolayısıyla"
+    ],
+    "synonyms": [
+      "consequently",
+      "therefore"
+    ],
+    "example": {
+      "text": "Demand exceeded supply; accordingly, prices rose sharply.",
+      "translation": "Talep arzı aştı; dolayısıyla fiyatlar keskin bir şekilde yükseldi."
+    },
+    "cloze": {
+      "template": "Demand exceeded supply; {{cloze}}, prices rose sharply.",
+      "answer": "accordingly"
+    }
+  },
+  {
+    "id": "furthermore_conj_817",
+    "lemma": "furthermore",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "ayrıca, üstelik"
+    ],
+    "synonyms": [
+      "moreover",
+      "additionally"
+    ],
+    "example": {
+      "text": "The study was well-designed; furthermore, the sample size was adequate.",
+      "translation": "Çalışma iyi tasarlanmıştı; ayrıca örneklem büyüklüğü yeterliydi."
+    },
+    "cloze": {
+      "template": "The study was well-designed; {{cloze}}, the sample size was adequate.",
+      "answer": "furthermore"
+    }
+  },
+  {
+    "id": "thereby_conj_818",
+    "lemma": "inasmuch",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "ne kadar ki, ...dığı ölçüde"
+    ],
+    "synonyms": [
+      "since",
+      "because"
+    ],
+    "example": {
+      "text": "The measure was welcomed inasmuch it reduced unnecessary bureaucracy.",
+      "translation": "Bu tedbir gereksiz bürokrasiyi azalttığı ölçüde memnuniyetle karşılandı."
+    },
+    "cloze": {
+      "template": "The measure was welcomed {{cloze}} it reduced unnecessary bureaucracy.",
+      "answer": "inasmuch"
+    }
+  },
+  {
+    "id": "henceforth_conj_819",
+    "lemma": "henceforth",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "bundan böyle, bundan sonra"
+    ],
+    "synonyms": [
+      "from now on",
+      "hereafter"
+    ],
+    "example": {
+      "text": "Henceforth, all applications must be submitted electronically.",
+      "translation": "Bundan böyle tüm başvurular elektronik olarak yapılmalıdır."
+    },
+    "cloze": {
+      "template": "{{cloze}}, all applications must be submitted electronically.",
+      "answer": "Henceforth"
+    }
+  },
+  {
+    "id": "albeit_conj_820",
+    "lemma": "pending",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "beklerken, ...e kadar"
+    ],
+    "synonyms": [
+      "until",
+      "awaiting"
+    ],
+    "example": {
+      "text": "The project was suspended pending a full environmental review.",
+      "translation": "Proje kapsamlı bir çevresel inceleme beklerken askıya alındı."
+    },
+    "cloze": {
+      "template": "The project was suspended {{cloze}} a full environmental review.",
+      "answer": "pending"
+    }
+  },
+  {
+    "id": "in_the_wake_of_phrase_901",
+    "lemma": "in the wake of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...nın ardından"
+    ],
+    "synonyms": [
+      "following",
+      "after"
+    ],
+    "example": {
+      "text": "In the wake of the financial crisis, governments adopted stricter banking regulations.",
+      "translation": "Mali krizin ardından hükümetler daha sıkı bankacılık düzenlemeleri benimsedi."
+    },
+    "cloze": {
+      "template": "{{cloze}} the financial crisis, governments adopted stricter banking regulations.",
+      "answer": "In the wake of"
+    }
+  },
+  {
+    "id": "by_virtue_of_phrase_902",
+    "lemma": "by virtue of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...sayesinde, ...den dolayı"
+    ],
+    "synonyms": [
+      "because of",
+      "owing to"
+    ],
+    "example": {
+      "text": "She earned the position by virtue of her academic achievements.",
+      "translation": "Bu pozisyonu akademik başarıları sayesinde kazandı."
+    },
+    "cloze": {
+      "template": "She earned the position {{cloze}} her academic achievements.",
+      "answer": "by virtue of"
+    }
+  },
+  {
+    "id": "on_the_grounds_that_phrase_903",
+    "lemma": "on the grounds that",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...gerekçesiyle"
+    ],
+    "synonyms": [
+      "because",
+      "on the basis that"
+    ],
+    "example": {
+      "text": "The application was rejected on the grounds that it lacked sufficient evidence.",
+      "translation": "Başvuru yeterli kanıt içermediği gerekçesiyle reddedildi."
+    },
+    "cloze": {
+      "template": "The application was rejected {{cloze}} it lacked sufficient evidence.",
+      "answer": "on the grounds that"
+    }
+  },
+  {
+    "id": "with_regard_to_phrase_904",
+    "lemma": "with regard to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ile ilgili olarak"
+    ],
+    "synonyms": [
+      "concerning",
+      "regarding"
+    ],
+    "example": {
+      "text": "Several criticisms were raised with regard to the methodology of the study.",
+      "translation": "Çalışmanın metodolojisiyle ilgili olarak birçok eleştiri yapıldı."
+    },
+    "cloze": {
+      "template": "Several criticisms were raised {{cloze}} the methodology of the study.",
+      "answer": "with regard to"
+    }
+  },
+  {
+    "id": "in_light_of_phrase_905",
+    "lemma": "in light of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ışığında"
+    ],
+    "synonyms": [
+      "considering",
+      "given"
+    ],
+    "example": {
+      "text": "In light of recent developments, the government revised its foreign policy.",
+      "translation": "Son gelişmeler ışığında hükümet dış politikasını gözden geçirdi."
+    },
+    "cloze": {
+      "template": "{{cloze}} recent developments, the government revised its foreign policy.",
+      "answer": "In light of"
+    }
+  },
+  {
+    "id": "to_the_extent_that_phrase_906",
+    "lemma": "to the extent that",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ölçüde"
+    ],
+    "synonyms": [
+      "insofar as",
+      "as much as"
+    ],
+    "example": {
+      "text": "Freedom of speech is protected to the extent that it does not incite violence.",
+      "translation": "İfade özgürlüğü şiddeti kışkırtmadığı ölçüde korunmaktadır."
+    },
+    "cloze": {
+      "template": "Freedom of speech is protected {{cloze}} it does not incite violence.",
+      "answer": "to the extent that"
+    }
+  },
+  {
+    "id": "at_the_expense_of_phrase_907",
+    "lemma": "at the expense of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...pahasına"
+    ],
+    "synonyms": [
+      "to the detriment of",
+      "sacrificing"
+    ],
+    "example": {
+      "text": "Economic growth was achieved at the expense of environmental sustainability.",
+      "translation": "Ekonomik büyüme çevresel sürdürülebilirlik pahasına sağlandı."
+    },
+    "cloze": {
+      "template": "Economic growth was achieved {{cloze}} environmental sustainability.",
+      "answer": "at the expense of"
+    }
+  },
+  {
+    "id": "in_conjunction_with_phrase_908",
+    "lemma": "in conjunction with",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ile birlikte"
+    ],
+    "synonyms": [
+      "together with",
+      "in combination with"
+    ],
+    "example": {
+      "text": "The new drug works best in conjunction with regular physical therapy.",
+      "translation": "Yeni ilaç düzenli fizyoterapi ile birlikte en iyi sonucu verir."
+    },
+    "cloze": {
+      "template": "The new drug works best {{cloze}} regular physical therapy.",
+      "answer": "in conjunction with"
+    }
+  },
+  {
+    "id": "for_the_sake_of_phrase_909",
+    "lemma": "for the sake of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...uğruna, hatırına"
+    ],
+    "synonyms": [
+      "in the interest of",
+      "for the purpose of"
+    ],
+    "example": {
+      "text": "Certain freedoms were curtailed for the sake of national security.",
+      "translation": "Ulusal güvenlik uğruna bazı özgürlükler kısıtlandı."
+    },
+    "cloze": {
+      "template": "Certain freedoms were curtailed {{cloze}} national security.",
+      "answer": "for the sake of"
+    }
+  },
+  {
+    "id": "on_behalf_of_phrase_910",
+    "lemma": "on behalf of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...adına"
+    ],
+    "synonyms": [
+      "representing",
+      "in the name of"
+    ],
+    "example": {
+      "text": "The lawyer spoke on behalf of the victims during the hearing.",
+      "translation": "Avukat duruşma sırasında mağdurlar adına konuştu."
+    },
+    "cloze": {
+      "template": "The lawyer spoke {{cloze}} the victims during the hearing.",
+      "answer": "on behalf of"
+    }
+  },
+  {
+    "id": "in_accordance_with_phrase_911",
+    "lemma": "in accordance with",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...uyarınca, uygun olarak"
+    ],
+    "synonyms": [
+      "in line with",
+      "pursuant to"
+    ],
+    "example": {
+      "text": "All procedures were carried out in accordance with international standards.",
+      "translation": "Tüm prosedürler uluslararası standartlara uygun olarak gerçekleştirildi."
+    },
+    "cloze": {
+      "template": "All procedures were carried out {{cloze}} international standards.",
+      "answer": "in accordance with"
+    }
+  },
+  {
+    "id": "with_a_view_to_phrase_912",
+    "lemma": "with a view to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...amacıyla"
+    ],
+    "synonyms": [
+      "in order to",
+      "aiming at"
+    ],
+    "example": {
+      "text": "The curriculum was redesigned with a view to improving critical thinking skills.",
+      "translation": "Müfredat eleştirel düşünme becerilerini geliştirme amacıyla yeniden tasarlandı."
+    },
+    "cloze": {
+      "template": "The curriculum was redesigned {{cloze}} improving critical thinking skills.",
+      "answer": "with a view to"
+    }
+  },
+  {
+    "id": "as_opposed_to_phrase_913",
+    "lemma": "as opposed to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...aksine, ...yerine"
+    ],
+    "synonyms": [
+      "rather than",
+      "in contrast to"
+    ],
+    "example": {
+      "text": "The study focused on qualitative data as opposed to quantitative measures.",
+      "translation": "Çalışma nicel ölçümler yerine nitel verilere odaklandı."
+    },
+    "cloze": {
+      "template": "The study focused on qualitative data {{cloze}} quantitative measures.",
+      "answer": "as opposed to"
+    }
+  },
+  {
+    "id": "on_account_of_phrase_914",
+    "lemma": "on account of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...nedeniyle, -den dolayı"
+    ],
+    "synonyms": [
+      "because of",
+      "due to"
+    ],
+    "example": {
+      "text": "The event was postponed on account of severe weather conditions.",
+      "translation": "Etkinlik şiddetli hava koşulları nedeniyle ertelendi."
+    },
+    "cloze": {
+      "template": "The event was postponed {{cloze}} severe weather conditions.",
+      "answer": "on account of"
+    }
+  },
+  {
+    "id": "by_means_of_phrase_915",
+    "lemma": "by means of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...vasıtasıyla, yoluyla"
+    ],
+    "synonyms": [
+      "through",
+      "via"
+    ],
+    "example": {
+      "text": "Data was collected by means of anonymous questionnaires.",
+      "translation": "Veriler anonim anketler vasıtasıyla toplandı."
+    },
+    "cloze": {
+      "template": "Data was collected {{cloze}} anonymous questionnaires.",
+      "answer": "by means of"
+    }
+  },
+  {
+    "id": "in_terms_of_phrase_916",
+    "lemma": "in terms of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...bakımından, açısından"
+    ],
+    "synonyms": [
+      "regarding",
+      "with respect to"
+    ],
+    "example": {
+      "text": "The country ranks highly in terms of educational attainment.",
+      "translation": "Ülke eğitim düzeyi bakımından üst sıralarda yer almaktadır."
+    },
+    "cloze": {
+      "template": "The country ranks highly {{cloze}} educational attainment.",
+      "answer": "in terms of"
+    }
+  },
+  {
+    "id": "prior_to_phrase_917",
+    "lemma": "prior to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...den önce"
+    ],
+    "synonyms": [
+      "before",
+      "preceding"
+    ],
+    "example": {
+      "text": "All participants must sign a consent form prior to the experiment.",
+      "translation": "Tüm katılımcılar deneyden önce bir onam formu imzalamalıdır."
+    },
+    "cloze": {
+      "template": "All participants must sign a consent form {{cloze}} the experiment.",
+      "answer": "prior to"
+    }
+  },
+  {
+    "id": "subject_to_phrase_918",
+    "lemma": "subject to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...e tabi, bağlı"
+    ],
+    "synonyms": [
+      "contingent on",
+      "dependent on"
+    ],
+    "example": {
+      "text": "Approval is subject to compliance with all regulatory requirements.",
+      "translation": "Onay tüm düzenleyici gerekliliklere uyuma tabidir."
+    },
+    "cloze": {
+      "template": "Approval is {{cloze}} compliance with all regulatory requirements.",
+      "answer": "subject to"
+    }
+  },
+  {
+    "id": "in_the_absence_of_phrase_919",
+    "lemma": "in the absence of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...yokluğunda, olmadığında"
+    ],
+    "synonyms": [
+      "without",
+      "lacking"
+    ],
+    "example": {
+      "text": "In the absence of concrete evidence, the case was dismissed.",
+      "translation": "Somut kanıt yokluğunda dava düşürüldü."
+    },
+    "cloze": {
+      "template": "{{cloze}} concrete evidence, the case was dismissed.",
+      "answer": "In the absence of"
+    }
+  },
+  {
+    "id": "with_respect_to_phrase_920",
+    "lemma": "with respect to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...konusunda, ...bakımından"
+    ],
+    "synonyms": [
+      "regarding",
+      "concerning"
+    ],
+    "example": {
+      "text": "Significant progress has been made with respect to gender equality.",
+      "translation": "Cinsiyet eşitliği konusunda önemli ilerleme kaydedilmiştir."
+    },
+    "cloze": {
+      "template": "Significant progress has been made {{cloze}} gender equality.",
+      "answer": "with respect to"
+    }
+  },
+  {
+    "id": "archetype_noun_624",
+    "lemma": "archetype",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "arketip, ilk örnek"
+    ],
+    "synonyms": [
+      "prototype",
+      "model"
+    ],
+    "example": {
+      "text": "The novel's protagonist became an archetype for the modern anti-hero.",
+      "translation": "Romanın kahramanı modern anti-kahraman için bir arketip oldu."
+    },
+    "cloze": {
+      "template": "The novel's protagonist became an {{cloze}} for the modern anti-hero.",
+      "answer": "archetype"
+    }
+  },
+  {
+    "id": "assertion_noun_625",
+    "lemma": "assertion",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "iddia, beyan"
+    ],
+    "synonyms": [
+      "claim",
+      "declaration"
+    ],
+    "example": {
+      "text": "The researcher's assertion was supported by empirical evidence.",
+      "translation": "Araştırmacının iddiası ampirik kanıtlarla desteklendi."
+    },
+    "cloze": {
+      "template": "The researcher's {{cloze}} was supported by empirical evidence.",
+      "answer": "assertion"
+    }
+  },
+  {
+    "id": "asymmetry_noun_626",
+    "lemma": "asymmetry",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "asimetri, orantısızlık"
+    ],
+    "synonyms": [
+      "imbalance",
+      "disproportion"
+    ],
+    "example": {
+      "text": "The power asymmetry between the two nations made negotiations difficult.",
+      "translation": "İki ulus arasındaki güç asimetrisi müzakereleri zorlaştırdı."
+    },
+    "cloze": {
+      "template": "The power {{cloze}} between the two nations made negotiations difficult.",
+      "answer": "asymmetry"
+    }
+  },
+  {
+    "id": "aversion_noun_627",
+    "lemma": "aversion",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "isteksizlik, tiksinti"
+    ],
+    "synonyms": [
+      "dislike",
+      "antipathy"
+    ],
+    "example": {
+      "text": "Investors showed a strong aversion to high-risk assets during the recession.",
+      "translation": "Yatırımcılar durgunluk döneminde yüksek riskli varlıklara güçlü bir isteksizlik gösterdi."
+    },
+    "cloze": {
+      "template": "Investors showed a strong {{cloze}} to high-risk assets during the recession.",
+      "answer": "aversion"
+    }
+  },
+  {
+    "id": "byproduct_noun_628",
+    "lemma": "byproduct",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "yan ürün"
+    ],
+    "synonyms": [
+      "side effect",
+      "offshoot"
+    ],
+    "example": {
+      "text": "Pollution is a byproduct of rapid industrialisation.",
+      "translation": "Kirlilik hızlı sanayileşmenin yan ürünüdür."
+    },
+    "cloze": {
+      "template": "Pollution is a {{cloze}} of rapid industrialisation.",
+      "answer": "byproduct"
+    }
+  },
+  {
+    "id": "calibre_noun_629",
+    "lemma": "calibre",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "kalite, çap"
+    ],
+    "synonyms": [
+      "quality",
+      "standard"
+    ],
+    "example": {
+      "text": "Universities of this calibre attract applicants from around the world.",
+      "translation": "Bu kalitedeki üniversiteler dünyanın her yerinden başvuru çeker."
+    },
+    "cloze": {
+      "template": "Universities of this {{cloze}} attract applicants from around the world.",
+      "answer": "calibre"
+    }
+  },
+  {
+    "id": "codification_noun_630",
+    "lemma": "codification",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "yasalaştırma, kanunlaştırma"
+    ],
+    "synonyms": [
+      "systematisation",
+      "formalisation"
+    ],
+    "example": {
+      "text": "The codification of international trade law facilitated cross-border commerce.",
+      "translation": "Uluslararası ticaret hukukunun kanunlaştırılması sınır ötesi ticareti kolaylaştırdı."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of international trade law facilitated cross-border commerce.",
+      "answer": "codification"
+    }
+  },
+  {
+    "id": "commencement_noun_632",
+    "lemma": "commencement",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "başlangıç, açılış"
+    ],
+    "synonyms": [
+      "beginning",
+      "start"
+    ],
+    "example": {
+      "text": "The commencement of negotiations marked a turning point in the conflict.",
+      "translation": "Müzakerelerin başlangıcı çatışmada bir dönüm noktası oldu."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of negotiations marked a turning point in the conflict.",
+      "answer": "commencement"
+    }
+  },
+  {
+    "id": "concession_noun_633",
+    "lemma": "concession",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "ödün, taviz"
+    ],
+    "synonyms": [
+      "compromise",
+      "allowance"
+    ],
+    "example": {
+      "text": "Both sides had to make concessions to reach a final agreement.",
+      "translation": "Her iki taraf da nihai bir anlaşmaya varmak için tavizler vermek zorunda kaldı."
+    },
+    "cloze": {
+      "template": "Both sides had to make {{cloze}} to reach a final agreement.",
+      "answer": "concessions"
+    }
+  },
+  {
+    "id": "constituency_noun_634",
+    "lemma": "constituency",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "seçim çevresi, taban"
+    ],
+    "synonyms": [
+      "electorate",
+      "base"
+    ],
+    "example": {
+      "text": "The politician failed to secure the support of her constituency.",
+      "translation": "Politikacı seçim çevresinin desteğini sağlayamadı."
+    },
+    "cloze": {
+      "template": "The politician failed to secure the support of her {{cloze}}.",
+      "answer": "constituency"
+    }
+  },
+  {
+    "id": "convergence_noun_636",
+    "lemma": "convergence",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "yakınlaşma, birleşme"
+    ],
+    "synonyms": [
+      "meeting",
+      "merging"
+    ],
+    "example": {
+      "text": "The convergence of digital technologies is reshaping entire industries.",
+      "translation": "Dijital teknolojilerin yakınlaşması tüm endüstrileri yeniden şekillendirmektedir."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of digital technologies is reshaping entire industries.",
+      "answer": "convergence"
+    }
+  },
+  {
+    "id": "denominator_noun_638",
+    "lemma": "denominator",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "payda, ortak nokta"
+    ],
+    "synonyms": [
+      "common factor",
+      "shared element"
+    ],
+    "example": {
+      "text": "The common denominator in all these studies is a lack of adequate funding.",
+      "translation": "Tüm bu çalışmalardaki ortak payda yeterli finansman eksikliğidir."
+    },
+    "cloze": {
+      "template": "The common {{cloze}} in all these studies is a lack of adequate funding.",
+      "answer": "denominator"
+    }
+  },
+  {
+    "id": "discourse_noun_639",
+    "lemma": "dissemination",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "yayılma, yayma"
+    ],
+    "synonyms": [
+      "distribution",
+      "spread"
+    ],
+    "example": {
+      "text": "The dissemination of scientific knowledge is crucial for public health.",
+      "translation": "Bilimsel bilginin yayılması halk sağlığı için hayati önem taşır."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of scientific knowledge is crucial for public health.",
+      "answer": "dissemination"
+    }
+  },
+  {
+    "id": "divergence_noun_640",
+    "lemma": "divergence",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "farklılaşma, ayrışma"
+    ],
+    "synonyms": [
+      "deviation",
+      "difference"
+    ],
+    "example": {
+      "text": "The divergence in policy approaches led to a diplomatic rift.",
+      "translation": "Politika yaklaşımlarındaki farklılaşma diplomatik bir kırılmaya yol açtı."
+    },
+    "cloze": {
+      "template": "The {{cloze}} in policy approaches led to a diplomatic rift.",
+      "answer": "divergence"
+    }
+  },
+  {
+    "id": "eradication_noun_641",
+    "lemma": "eradication",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "ortadan kaldırma, yok etme"
+    ],
+    "synonyms": [
+      "elimination",
+      "extermination"
+    ],
+    "example": {
+      "text": "The eradication of poverty remains one of the world's most pressing challenges.",
+      "translation": "Yoksulluğun ortadan kaldırılması dünyanın en acil sorunlarından biri olmaya devam etmektedir."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of poverty remains one of the world's most pressing challenges.",
+      "answer": "eradication"
+    }
+  },
+  {
+    "id": "genesis_noun_643",
+    "lemma": "genesis",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "doğuş, köken"
+    ],
+    "synonyms": [
+      "origin",
+      "beginning"
+    ],
+    "example": {
+      "text": "Understanding the genesis of the conflict requires examining historical grievances.",
+      "translation": "Çatışmanın doğuşunu anlamak tarihsel şikâyetlerin incelenmesini gerektirir."
+    },
+    "cloze": {
+      "template": "Understanding the {{cloze}} of the conflict requires examining historical grievances.",
+      "answer": "genesis"
+    }
+  },
+  {
+    "id": "hypothesis_noun_644",
+    "lemma": "impedance",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "empedans, direnç"
+    ],
+    "synonyms": [
+      "resistance",
+      "obstruction"
+    ],
+    "example": {
+      "text": "Bureaucratic impedance slowed the delivery of humanitarian aid.",
+      "translation": "Bürokratik dirence insani yardımın teslimini yavaşlattı."
+    },
+    "cloze": {
+      "template": "Bureaucratic {{cloze}} slowed the delivery of humanitarian aid.",
+      "answer": "impedance"
+    }
+  },
+  {
+    "id": "nuance_noun_647",
+    "lemma": "nexus",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "bağ, bağlantı noktası"
+    ],
+    "synonyms": [
+      "connection",
+      "link"
+    ],
+    "example": {
+      "text": "Scholars have explored the nexus between economic policy and social inequality.",
+      "translation": "Bilim insanları ekonomi politikası ile sosyal eşitsizlik arasındaki bağı araştırmıştır."
+    },
+    "cloze": {
+      "template": "Scholars have explored the {{cloze}} between economic policy and social inequality.",
+      "answer": "nexus"
+    }
+  },
+  {
+    "id": "nomenclature_noun_648",
+    "lemma": "omission",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "ihmal, eksiklik"
+    ],
+    "synonyms": [
+      "oversight",
+      "neglect"
+    ],
+    "example": {
+      "text": "The omission of key data from the report raised serious concerns.",
+      "translation": "Rapordaki önemli verilerin ihmali ciddi endişelere yol açtı."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of key data from the report raised serious concerns.",
+      "answer": "omission"
+    }
+  },
+  {
+    "id": "precedent_noun_649",
+    "lemma": "precedent",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "emsal, örnek"
+    ],
+    "synonyms": [
+      "prior example",
+      "model"
+    ],
+    "example": {
+      "text": "The ruling set a legal precedent for future human rights cases.",
+      "translation": "Karar gelecekteki insan hakları davaları için bir hukuki emsal oluşturdu."
+    },
+    "cloze": {
+      "template": "The ruling set a legal {{cloze}} for future human rights cases.",
+      "answer": "precedent"
+    }
+  },
+  {
+    "id": "premise_noun_651",
+    "lemma": "premise",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "öncül, varsayım"
+    ],
+    "synonyms": [
+      "assumption",
+      "basis"
+    ],
+    "example": {
+      "text": "The argument is based on the premise that all citizens deserve equal access to education.",
+      "translation": "Argüman tüm vatandaşların eğitime eşit erişimi hak ettiği öncülüne dayanmaktadır."
+    },
+    "cloze": {
+      "template": "The argument is based on the {{cloze}} that all citizens deserve equal access to education.",
+      "answer": "premise"
+    }
+  },
+  {
+    "id": "provenance_noun_653",
+    "lemma": "provenance",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "köken, menşe"
+    ],
+    "synonyms": [
+      "origin",
+      "source"
+    ],
+    "example": {
+      "text": "The provenance of the manuscript was traced back to a medieval monastery.",
+      "translation": "El yazmasının kökeni ortaçağ bir manastıra kadar izlendi."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of the manuscript was traced back to a medieval monastery.",
+      "answer": "provenance"
+    }
+  },
+  {
+    "id": "safeguard_noun_656",
+    "lemma": "safeguard",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "güvence, koruma"
+    ],
+    "synonyms": [
+      "protection",
+      "defence"
+    ],
+    "example": {
+      "text": "Constitutional safeguards exist to protect citizens from government overreach.",
+      "translation": "Vatandaşları hükümetin yetki aşımından korumak için anayasal güvenceler mevcuttur."
+    },
+    "cloze": {
+      "template": "Constitutional {{cloze}} exist to protect citizens from government overreach.",
+      "answer": "safeguards"
+    }
+  },
+  {
+    "id": "scrutiny_noun_657",
+    "lemma": "stewardship",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "yöneticilik, emanet yönetimi"
+    ],
+    "synonyms": [
+      "management",
+      "guardianship"
+    ],
+    "example": {
+      "text": "Environmental stewardship requires collective action from all sectors of society.",
+      "translation": "Çevresel yöneticilik toplumun tüm kesimlerinden ortak eylem gerektirir."
+    },
+    "cloze": {
+      "template": "Environmental {{cloze}} requires collective action from all sectors of society.",
+      "answer": "stewardship"
+    }
+  },
+  {
+    "id": "stipulation_noun_658",
+    "lemma": "stipulation",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "şart, koşul"
+    ],
+    "synonyms": [
+      "requirement",
+      "condition"
+    ],
+    "example": {
+      "text": "One stipulation of the grant was that the research results must be published openly.",
+      "translation": "Hibenin bir şartı araştırma sonuçlarının açık olarak yayınlanmasıydı."
+    },
+    "cloze": {
+      "template": "One {{cloze}} of the grant was that the research results must be published openly.",
+      "answer": "stipulation"
+    }
+  },
+  {
+    "id": "subordination_noun_659",
+    "lemma": "subordination",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "bağımlılık, alt sıralama"
+    ],
+    "synonyms": [
+      "subservience",
+      "subjection"
+    ],
+    "example": {
+      "text": "The subordination of individual interests to collective goals is central to the ideology.",
+      "translation": "Bireysel çıkarların kolektif hedeflere bağımlılığı ideolojinin merkezindedir."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of individual interests to collective goals is central to the ideology.",
+      "answer": "subordination"
+    }
+  },
+  {
+    "id": "tenure_noun_660",
+    "lemma": "tenure",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "görev süresi, çalışma dönemi"
+    ],
+    "synonyms": [
+      "term",
+      "incumbency"
+    ],
+    "example": {
+      "text": "During her tenure as director, the museum attracted record visitor numbers.",
+      "translation": "Müdürlük görev süresi boyunca müze rekor ziyaretçi sayılarına ulaştı."
+    },
+    "cloze": {
+      "template": "During her {{cloze}} as director, the museum attracted record visitor numbers.",
+      "answer": "tenure"
+    }
+  },
+  {
+    "id": "transparency_noun_661",
+    "lemma": "transparency",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "şeffaflık"
+    ],
+    "synonyms": [
+      "openness",
+      "clarity"
+    ],
+    "example": {
+      "text": "Greater transparency in government spending would reduce corruption.",
+      "translation": "Hükümet harcamalarında daha fazla şeffaflık yolsuzluğu azaltacaktır."
+    },
+    "cloze": {
+      "template": "Greater {{cloze}} in government spending would reduce corruption.",
+      "answer": "transparency"
+    }
+  },
+  {
+    "id": "unanimity_noun_662",
+    "lemma": "unanimity",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "oybirliği"
+    ],
+    "synonyms": [
+      "consensus",
+      "agreement"
+    ],
+    "example": {
+      "text": "The committee reached unanimity on the proposed reforms.",
+      "translation": "Komite önerilen reformlar konusunda oybirliğine ulaştı."
+    },
+    "cloze": {
+      "template": "The committee reached {{cloze}} on the proposed reforms.",
+      "answer": "unanimity"
+    }
+  },
+  {
+    "id": "dichotomy_noun_665",
+    "lemma": "heterogeneity",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "heterojenlik, çeşitlilik"
+    ],
+    "synonyms": [
+      "diversity",
+      "variety"
+    ],
+    "example": {
+      "text": "The heterogeneity of the population makes a single policy approach impractical.",
+      "translation": "Nüfusun heterojenliği tek bir politika yaklaşımını uygulanamaz kılmaktadır."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of the population makes a single policy approach impractical.",
+      "answer": "heterogeneity"
+    }
+  },
+  {
+    "id": "adjudication_noun_671",
+    "lemma": "adjudication",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "yargılama, karar verme"
+    ],
+    "synonyms": [
+      "judgement",
+      "ruling"
+    ],
+    "example": {
+      "text": "The adjudication of international disputes requires impartial arbitration.",
+      "translation": "Uluslararası uyuşmazlıkların yargılanması tarafsız tahkim gerektirir."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of international disputes requires impartial arbitration.",
+      "answer": "adjudication"
+    }
+  },
+  {
+    "id": "amalgamation_noun_672",
+    "lemma": "amalgamation",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "birleşme, kaynaşma"
+    ],
+    "synonyms": [
+      "merger",
+      "union"
+    ],
+    "example": {
+      "text": "The amalgamation of the two companies created the region's largest employer.",
+      "translation": "İki şirketin birleşmesi bölgenin en büyük işverenini yarattı."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of the two companies created the region's largest employer.",
+      "answer": "amalgamation"
+    }
+  },
+  {
+    "id": "apprehension_noun_674",
+    "lemma": "apprehension",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "kaygı, endişe"
+    ],
+    "synonyms": [
+      "anxiety",
+      "fear"
+    ],
+    "example": {
+      "text": "There is widespread apprehension about the impact of automation on employment.",
+      "translation": "Otomasyonun istihdam üzerindeki etkisi konusunda yaygın bir kaygı bulunmaktadır."
+    },
+    "cloze": {
+      "template": "There is widespread {{cloze}} about the impact of automation on employment.",
+      "answer": "apprehension"
+    }
+  },
+  {
+    "id": "arbitration_noun_675",
+    "lemma": "arbitration",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "tahkim, arabuluculuk"
+    ],
+    "synonyms": [
+      "mediation",
+      "settlement"
+    ],
+    "example": {
+      "text": "International arbitration offers a neutral forum for resolving commercial disputes.",
+      "translation": "Uluslararası tahkim ticari uyuşmazlıkları çözmek için tarafsız bir forum sunar."
+    },
+    "cloze": {
+      "template": "International {{cloze}} offers a neutral forum for resolving commercial disputes.",
+      "answer": "arbitration"
+    }
+  },
+  {
+    "id": "behemoth_noun_676",
+    "lemma": "behemoth",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "dev, devasa şey"
+    ],
+    "synonyms": [
+      "giant",
+      "colossus"
+    ],
+    "example": {
+      "text": "The tech behemoth dominates global digital advertising markets.",
+      "translation": "Teknoloji devi küresel dijital reklam piyasalarına hâkim olmaktadır."
+    },
+    "cloze": {
+      "template": "The tech {{cloze}} dominates global digital advertising markets.",
+      "answer": "behemoth"
+    }
+  },
+  {
+    "id": "corroboration_noun_678",
+    "lemma": "corroboration",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "doğrulama, teyit"
+    ],
+    "synonyms": [
+      "confirmation",
+      "verification"
+    ],
+    "example": {
+      "text": "The witness's testimony required independent corroboration before it could be used.",
+      "translation": "Tanığın ifadesi kullanılmadan önce bağımsız doğrulama gerektiriyordu."
+    },
+    "cloze": {
+      "template": "The witness's testimony required independent {{cloze}} before it could be used.",
+      "answer": "corroboration"
+    }
+  },
+  {
+    "id": "custodian_noun_679",
+    "lemma": "custodian",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "vasi, koruyucu"
+    ],
+    "synonyms": [
+      "guardian",
+      "keeper"
+    ],
+    "example": {
+      "text": "Museums serve as custodians of cultural heritage for future generations.",
+      "translation": "Müzeler gelecek nesiller için kültürel mirasın koruyucuları olarak hizmet eder."
+    },
+    "cloze": {
+      "template": "Museums serve as {{cloze}} of cultural heritage for future generations.",
+      "answer": "custodians"
+    }
+  },
+  {
+    "id": "decimation_noun_680",
+    "lemma": "decimation",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "büyük tahribat"
+    ],
+    "synonyms": [
+      "destruction",
+      "devastation"
+    ],
+    "example": {
+      "text": "The decimation of forests has accelerated biodiversity loss.",
+      "translation": "Ormanların tahribatı biyoçeşitlilik kaybını hızlandırmıştır."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of forests has accelerated biodiversity loss.",
+      "answer": "decimation"
+    }
+  },
+  {
+    "id": "dichotomy_noun_681",
+    "lemma": "detachment",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "kopukluk, tarafsızlık"
+    ],
+    "synonyms": [
+      "objectivity",
+      "aloofness"
+    ],
+    "example": {
+      "text": "Academic detachment is essential for producing unbiased research.",
+      "translation": "Tarafsız araştırma üretmek için akademik kopukluk esastır."
+    },
+    "cloze": {
+      "template": "Academic {{cloze}} is essential for producing unbiased research.",
+      "answer": "detachment"
+    }
+  },
+  {
+    "id": "echelon_noun_683",
+    "lemma": "echelon",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "kademe, basamak"
+    ],
+    "synonyms": [
+      "level",
+      "tier"
+    ],
+    "example": {
+      "text": "Decisions at the highest echelons of government affect millions of lives.",
+      "translation": "Hükümetin en üst kademelerindeki kararlar milyonlarca hayatı etkiler."
+    },
+    "cloze": {
+      "template": "Decisions at the highest {{cloze}} of government affect millions of lives.",
+      "answer": "echelons"
+    }
+  },
+  {
+    "id": "emancipation_noun_684",
+    "lemma": "emancipation",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "özgürleşme, kurtuluş"
+    ],
+    "synonyms": [
+      "liberation",
+      "freedom"
+    ],
+    "example": {
+      "text": "The emancipation of enslaved populations marked a turning point in modern history.",
+      "translation": "Köleleştirilmiş toplulukların özgürleşmesi modern tarihte bir dönüm noktası oldu."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of enslaved populations marked a turning point in modern history.",
+      "answer": "emancipation"
+    }
+  },
+  {
+    "id": "fulcrum_noun_686",
+    "lemma": "fulcrum",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "dayanak noktası, eksen"
+    ],
+    "synonyms": [
+      "pivot",
+      "support"
+    ],
+    "example": {
+      "text": "Education is the fulcrum upon which social progress depends.",
+      "translation": "Eğitim toplumsal ilerlemenin bağlı olduğu dayanak noktasıdır."
+    },
+    "cloze": {
+      "template": "Education is the {{cloze}} upon which social progress depends.",
+      "answer": "fulcrum"
+    }
+  },
+  {
+    "id": "harbinger_noun_687",
+    "lemma": "harbinger",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "haberi, müjdeci"
+    ],
+    "synonyms": [
+      "herald",
+      "forerunner"
+    ],
+    "example": {
+      "text": "Some economists view the stock market decline as a harbinger of recession.",
+      "translation": "Bazı ekonomistler borsa düşüşünü bir durgunluk habercisi olarak görüyor."
+    },
+    "cloze": {
+      "template": "Some economists view the stock market decline as a {{cloze}} of recession.",
+      "answer": "harbinger"
+    }
+  },
+  {
+    "id": "hegemony_noun_688",
+    "lemma": "machination",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "entrika, dolap"
+    ],
+    "synonyms": [
+      "scheme",
+      "plot"
+    ],
+    "example": {
+      "text": "The machinations of corrupt officials undermined public trust in government.",
+      "translation": "Yolsuz yetkililerin entrikaları hükümete olan kamu güvenini zayıflattı."
+    },
+    "cloze": {
+      "template": "The {{cloze}} of corrupt officials undermined public trust in government.",
+      "answer": "machinations"
+    }
+  },
+  {
+    "id": "quorum_noun_690",
+    "lemma": "proclaimation",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "ilan, bildiri"
+    ],
+    "synonyms": [
+      "declaration",
+      "announcement"
+    ],
+    "example": {
+      "text": "The president issued a proclamation declaring a state of emergency.",
+      "translation": "Başkan olağanüstü hal ilan eden bir bildiri yayımladı."
+    },
+    "cloze": {
+      "template": "The president issued a {{cloze}} declaring a state of emergency.",
+      "answer": "proclamation"
+    }
+  },
+  {
+    "id": "reciprocity_noun_691",
+    "lemma": "reciprocity",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "karşılıklılık"
+    ],
+    "synonyms": [
+      "mutuality",
+      "exchange"
+    ],
+    "example": {
+      "text": "Diplomatic reciprocity requires that both nations treat each other's citizens equally.",
+      "translation": "Diplomatik karşılıklılık her iki ulusun birbirlerinin vatandaşlarına eşit davranmasını gerektirir."
+    },
+    "cloze": {
+      "template": "Diplomatic {{cloze}} requires that both nations treat each other's citizens equally.",
+      "answer": "reciprocity"
+    }
+  },
+  {
+    "id": "remittance_noun_692",
+    "lemma": "remittance",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "havale, para transferi"
+    ],
+    "synonyms": [
+      "payment",
+      "transfer"
+    ],
+    "example": {
+      "text": "Remittances from workers abroad constitute a significant source of national income.",
+      "translation": "Yurt dışındaki işçilerin havaleleri ulusal gelirin önemli bir kaynağını oluşturmaktadır."
+    },
+    "cloze": {
+      "template": "{{cloze}} from workers abroad constitute a significant source of national income.",
+      "answer": "Remittances"
+    }
+  },
+  {
+    "id": "repository_noun_693",
+    "lemma": "repository",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "depo, kaynak"
+    ],
+    "synonyms": [
+      "archive",
+      "store"
+    ],
+    "example": {
+      "text": "The library serves as a repository of scientific knowledge dating back centuries.",
+      "translation": "Kütüphane yüzyıllara dayanan bilimsel bilginin deposu olarak hizmet etmektedir."
+    },
+    "cloze": {
+      "template": "The library serves as a {{cloze}} of scientific knowledge dating back centuries.",
+      "answer": "repository"
+    }
+  },
+  {
+    "id": "subversion_noun_694",
+    "lemma": "subversion",
+    "pos": "noun",
+    "multiWord": false,
+    "meanings": [
+      "yıkma, altüst etme"
+    ],
+    "synonyms": [
+      "sabotage",
+      "undermining"
+    ],
+    "example": {
+      "text": "The regime prosecuted all forms of political subversion during that era.",
+      "translation": "Rejim o dönemde her türlü siyasi yıkma girişimini kovuşturdu."
+    },
+    "cloze": {
+      "template": "The regime prosecuted all forms of political {{cloze}} during that era.",
+      "answer": "subversion"
+    }
+  }
+]

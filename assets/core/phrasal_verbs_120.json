@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "pv_back_up_4001",
+    "lemma": "back up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "desteklemek"
+    ],
+    "synonyms": [
+      "support",
+      "substantiate"
+    ],
+    "example": {
+      "text": "The researcher backed up her claims with extensive empirical data.",
+      "translation": "Araştırmacı iddialarını kapsamlı deneysel verilerle destekledi."
+    },
+    "cloze": {
+      "template": "The researcher {{cloze}} her claims with extensive empirical data.",
+      "answer": "backed up"
+    }
+  },
+  {
+    "id": "pv_bear_out_4002",
+    "lemma": "bear out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "doğrulamak"
+    ],
+    "synonyms": [
+      "confirm",
+      "corroborate"
+    ],
+    "example": {
+      "text": "Subsequent experiments bore out the initial hypothesis.",
+      "translation": "Sonraki deneyler ilk hipotezi doğruladı."
+    },
+    "cloze": {
+      "template": "Subsequent experiments {{cloze}} the initial hypothesis.",
+      "answer": "bore out"
+    }
+  },
+  {
+    "id": "pv_boil_down_to_4003",
+    "lemma": "boil down to",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "özünde …den ibaret olmak"
+    ],
+    "synonyms": [
+      "amount to",
+      "reduce to"
+    ],
+    "example": {
+      "text": "The debate essentially boils down to a conflict between economic growth and environmental protection.",
+      "translation": "Tartışma özünde ekonomik büyüme ile çevre koruma arasındaki bir çatışmadan ibarettir."
+    },
+    "cloze": {
+      "template": "The debate essentially {{cloze}} a conflict between economic growth and environmental protection.",
+      "answer": "boils down to"
+    }
+  },
+  {
+    "id": "pv_branch_out_4004",
+    "lemma": "branch out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "genişlemek, farklı alanlara yönelmek"
+    ],
+    "synonyms": [
+      "diversify",
+      "expand"
+    ],
+    "example": {
+      "text": "The company branched out into renewable energy markets.",
+      "translation": "Şirket yenilenebilir enerji pazarlarına yöneldi."
+    },
+    "cloze": {
+      "template": "The company {{cloze}} into renewable energy markets.",
+      "answer": "branched out"
+    }
+  },
+  {
+    "id": "pv_build_on_4005",
+    "lemma": "build on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "üzerine inşa etmek, geliştirmek"
+    ],
+    "synonyms": [
+      "develop",
+      "expand"
+    ],
+    "example": {
+      "text": "The new policy builds on the achievements of the previous administration.",
+      "translation": "Yeni politika önceki yönetimin başarıları üzerine inşa edilmektedir."
+    },
+    "cloze": {
+      "template": "The new policy {{cloze}} the achievements of the previous administration.",
+      "answer": "builds on"
+    }
+  },
+  {
+    "id": "pv_build_up_4006",
+    "lemma": "build up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "biriktirmek, artırmak"
+    ],
+    "synonyms": [
+      "accumulate",
+      "strengthen"
+    ],
+    "example": {
+      "text": "Developing nations need time to build up their institutional capacity.",
+      "translation": "Gelişmekte olan ülkelerin kurumsal kapasitelerini artırmak için zamana ihtiyacı var."
+    },
+    "cloze": {
+      "template": "Developing nations need time to {{cloze}} their institutional capacity.",
+      "answer": "build up"
+    }
+  },
+  {
+    "id": "pv_carry_on_4007",
+    "lemma": "carry on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "devam etmek, sürdürmek"
+    ],
+    "synonyms": [
+      "continue",
+      "proceed"
+    ],
+    "example": {
+      "text": "The researchers carried on with the experiment despite the initial setbacks.",
+      "translation": "Araştırmacılar ilk aksaklıklara rağmen deneye devam ettiler."
+    },
+    "cloze": {
+      "template": "The researchers {{cloze}} with the experiment despite the initial setbacks.",
+      "answer": "carried on"
+    }
+  },
+  {
+    "id": "pv_close_down_4008",
+    "lemma": "close down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kapatmak, faaliyetine son vermek"
+    ],
+    "synonyms": [
+      "shut",
+      "terminate"
+    ],
+    "example": {
+      "text": "The factory was closed down after failing to meet environmental standards.",
+      "translation": "Fabrika çevre standartlarını karşılayamaması üzerine kapatıldı."
+    },
+    "cloze": {
+      "template": "The factory was {{cloze}} after failing to meet environmental standards.",
+      "answer": "closed down"
+    }
+  },
+  {
+    "id": "pv_come_about_4009",
+    "lemma": "come about",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "meydana gelmek"
+    ],
+    "synonyms": [
+      "occur",
+      "happen"
+    ],
+    "example": {
+      "text": "The shift in public opinion came about gradually over the decade.",
+      "translation": "Kamuoyu değişikliği on yılda kademeli olarak meydana geldi."
+    },
+    "cloze": {
+      "template": "The shift in public opinion {{cloze}} gradually over the decade.",
+      "answer": "came about"
+    }
+  },
+  {
+    "id": "pv_come_down_to_4010",
+    "lemma": "come down to",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sonuçta …ya dayanmak"
+    ],
+    "synonyms": [
+      "depend on",
+      "hinge on"
+    ],
+    "example": {
+      "text": "Success in this field ultimately comes down to the quality of the data.",
+      "translation": "Bu alandaki başarı sonuçta verinin kalitesine dayanmaktadır."
+    },
+    "cloze": {
+      "template": "Success in this field ultimately {{cloze}} the quality of the data.",
+      "answer": "comes down to"
+    }
+  },
+  {
+    "id": "pv_cut_back_4011",
+    "lemma": "cut back",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kısmak, azaltmak"
+    ],
+    "synonyms": [
+      "reduce",
+      "curtail"
+    ],
+    "example": {
+      "text": "The government was forced to cut back on public spending.",
+      "translation": "Hükümet kamu harcamalarını kısmak zorunda kaldı."
+    },
+    "cloze": {
+      "template": "The government was forced to {{cloze}} on public spending.",
+      "answer": "cut back"
+    }
+  },
+  {
+    "id": "pv_die_out_4012",
+    "lemma": "die out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "soyu tükenmek, yok olmak"
+    ],
+    "synonyms": [
+      "become extinct",
+      "disappear"
+    ],
+    "example": {
+      "text": "Many indigenous languages are at risk of dying out within a generation.",
+      "translation": "Birçok yerli dil bir nesil içinde yok olma tehlikesiyle karşı karşıyadır."
+    },
+    "cloze": {
+      "template": "Many indigenous languages are at risk of {{cloze}} within a generation.",
+      "answer": "dying out"
+    }
+  },
+  {
+    "id": "pv_do_away_with_4013",
+    "lemma": "do away with",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ortadan kaldırmak"
+    ],
+    "synonyms": [
+      "abolish",
+      "eliminate"
+    ],
+    "example": {
+      "text": "The reform aimed to do away with outdated bureaucratic procedures.",
+      "translation": "Reform modası geçmiş bürokratik prosedürleri ortadan kaldırmayı amaçlıyordu."
+    },
+    "cloze": {
+      "template": "The reform aimed to {{cloze}} outdated bureaucratic procedures.",
+      "answer": "do away with"
+    }
+  },
+  {
+    "id": "pv_draw_on_4014",
+    "lemma": "draw on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yararlanmak, başvurmak"
+    ],
+    "synonyms": [
+      "utilise",
+      "exploit"
+    ],
+    "example": {
+      "text": "The author draws on a wide range of primary sources in her analysis.",
+      "translation": "Yazar analizinde geniş bir birincil kaynak yelpazesinden yararlanmaktadır."
+    },
+    "cloze": {
+      "template": "The author {{cloze}} a wide range of primary sources in her analysis.",
+      "answer": "draws on"
+    }
+  },
+  {
+    "id": "pv_draw_up_4015",
+    "lemma": "draw up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "hazırlamak, taslak oluşturmak"
+    ],
+    "synonyms": [
+      "draft",
+      "formulate"
+    ],
+    "example": {
+      "text": "A comprehensive plan was drawn up to address the infrastructure deficit.",
+      "translation": "Altyapı açığını gidermek için kapsamlı bir plan hazırlandı."
+    },
+    "cloze": {
+      "template": "A comprehensive plan was {{cloze}} to address the infrastructure deficit.",
+      "answer": "drawn up"
+    }
+  },
+  {
+    "id": "pv_drop_out_4016",
+    "lemma": "drop out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ayrılmak, bırakmak"
+    ],
+    "synonyms": [
+      "withdraw",
+      "quit"
+    ],
+    "example": {
+      "text": "Nearly 30% of participants dropped out before the study was completed.",
+      "translation": "Katılımcıların yaklaşık yüzde 30'u çalışma tamamlanmadan ayrıldı."
+    },
+    "cloze": {
+      "template": "Nearly 30% of participants {{cloze}} before the study was completed.",
+      "answer": "dropped out"
+    }
+  },
+  {
+    "id": "pv_end_up_4017",
+    "lemma": "end up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sonunda …la kalmak"
+    ],
+    "synonyms": [
+      "result in",
+      "conclude"
+    ],
+    "example": {
+      "text": "Without intervention, the programme may end up costing far more than anticipated.",
+      "translation": "Müdahale olmadan program sonunda beklenenden çok daha fazlaya mal olabilir."
+    },
+    "cloze": {
+      "template": "Without intervention, the programme may {{cloze}} costing far more than anticipated.",
+      "answer": "end up"
+    }
+  },
+  {
+    "id": "pv_fall_behind_4018",
+    "lemma": "fall behind",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "geride kalmak"
+    ],
+    "synonyms": [
+      "lag",
+      "trail"
+    ],
+    "example": {
+      "text": "Countries that underinvest in education risk falling behind in global competitiveness.",
+      "translation": "Eğitime yeterince yatırım yapmayan ülkeler küresel rekabette geride kalma riski taşır."
+    },
+    "cloze": {
+      "template": "Countries that underinvest in education risk {{cloze}} in global competitiveness.",
+      "answer": "falling behind"
+    }
+  },
+  {
+    "id": "pv_find_out_4019",
+    "lemma": "find out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "öğrenmek, keşfetmek"
+    ],
+    "synonyms": [
+      "discover",
+      "ascertain"
+    ],
+    "example": {
+      "text": "The investigation aimed to find out whether the regulations had been violated.",
+      "translation": "Soruşturma düzenlemelerin ihlal edilip edilmediğini öğrenmeyi amaçlıyordu."
+    },
+    "cloze": {
+      "template": "The investigation aimed to {{cloze}} whether the regulations had been violated.",
+      "answer": "find out"
+    }
+  },
+  {
+    "id": "pv_get_across_4020",
+    "lemma": "get across",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "anlatmak, ifade etmek"
+    ],
+    "synonyms": [
+      "convey",
+      "communicate"
+    ],
+    "example": {
+      "text": "The speaker struggled to get across the complexity of the issue.",
+      "translation": "Konuşmacı konunun karmaşıklığını anlatmakta zorlandı."
+    },
+    "cloze": {
+      "template": "The speaker struggled to {{cloze}} the complexity of the issue.",
+      "answer": "get across"
+    }
+  },
+  {
+    "id": "pv_go_ahead_4021",
+    "lemma": "go ahead",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "devam etmek, ilerlemek"
+    ],
+    "synonyms": [
+      "proceed",
+      "advance"
+    ],
+    "example": {
+      "text": "The council decided to go ahead with the urban renewal project.",
+      "translation": "Belediye meclisi kentsel dönüşüm projesine devam etmeye karar verdi."
+    },
+    "cloze": {
+      "template": "The council decided to {{cloze}} with the urban renewal project.",
+      "answer": "go ahead"
+    }
+  },
+  {
+    "id": "pv_go_through_4022",
+    "lemma": "go through",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "incelemek, geçirmek"
+    ],
+    "synonyms": [
+      "examine",
+      "undergo"
+    ],
+    "example": {
+      "text": "All applications must go through a rigorous evaluation process.",
+      "translation": "Tüm başvurular titiz bir değerlendirme sürecinden geçmelidir."
+    },
+    "cloze": {
+      "template": "All applications must {{cloze}} a rigorous evaluation process.",
+      "answer": "go through"
+    }
+  },
+  {
+    "id": "pv_hand_over_4023",
+    "lemma": "hand over",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "devretmek, teslim etmek"
+    ],
+    "synonyms": [
+      "transfer",
+      "relinquish"
+    ],
+    "example": {
+      "text": "The colonial administration was reluctant to hand over power to local authorities.",
+      "translation": "Sömürge yönetimi iktidarı yerel otoritelere devretmeye isteksizdi."
+    },
+    "cloze": {
+      "template": "The colonial administration was reluctant to {{cloze}} power to local authorities.",
+      "answer": "hand over"
+    }
+  },
+  {
+    "id": "pv_hold_back_4024",
+    "lemma": "hold back",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "engellemek, geri tutmak"
+    ],
+    "synonyms": [
+      "restrain",
+      "hinder"
+    ],
+    "example": {
+      "text": "Bureaucratic barriers have held back economic development in the region.",
+      "translation": "Bürokratik engeller bölgedeki ekonomik kalkınmayı engellemiştir."
+    },
+    "cloze": {
+      "template": "Bureaucratic barriers have {{cloze}} economic development in the region.",
+      "answer": "held back"
+    }
+  },
+  {
+    "id": "pv_iron_out_4025",
+    "lemma": "iron out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sorunları çözmek, düzeltmek"
+    ],
+    "synonyms": [
+      "resolve",
+      "rectify"
+    ],
+    "example": {
+      "text": "The negotiators managed to iron out their differences before the deadline.",
+      "translation": "Müzakereciler son tarihten önce anlaşmazlıklarını çözmeyi başardı."
+    },
+    "cloze": {
+      "template": "The negotiators managed to {{cloze}} their differences before the deadline.",
+      "answer": "iron out"
+    }
+  },
+  {
+    "id": "pv_keep_up_with_4026",
+    "lemma": "keep up with",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ayak uydurmak"
+    ],
+    "synonyms": [
+      "match",
+      "maintain pace"
+    ],
+    "example": {
+      "text": "Developing economies often struggle to keep up with rapid technological change.",
+      "translation": "Gelişmekte olan ekonomiler hızlı teknolojik değişime ayak uydurmakta çoğunlukla zorlanır."
+    },
+    "cloze": {
+      "template": "Developing economies often struggle to {{cloze}} rapid technological change.",
+      "answer": "keep up with"
+    }
+  },
+  {
+    "id": "pv_lay_off_4027",
+    "lemma": "lay off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "işten çıkarmak"
+    ],
+    "synonyms": [
+      "dismiss",
+      "terminate"
+    ],
+    "example": {
+      "text": "The corporation laid off thousands of workers following the merger.",
+      "translation": "Şirket birleşmenin ardından binlerce işçiyi işten çıkardı."
+    },
+    "cloze": {
+      "template": "The corporation {{cloze}} thousands of workers following the merger.",
+      "answer": "laid off"
+    }
+  },
+  {
+    "id": "pv_leave_out_4028",
+    "lemma": "leave out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "dışarıda bırakmak, dahil etmemek"
+    ],
+    "synonyms": [
+      "omit",
+      "exclude"
+    ],
+    "example": {
+      "text": "Several key variables were left out of the original analysis.",
+      "translation": "Birçok kilit değişken orijinal analizin dışında bırakıldı."
+    },
+    "cloze": {
+      "template": "Several key variables were {{cloze}} of the original analysis.",
+      "answer": "left out"
+    }
+  },
+  {
+    "id": "pv_live_up_to_4029",
+    "lemma": "live up to",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "karşılamak, layık olmak"
+    ],
+    "synonyms": [
+      "fulfil",
+      "meet"
+    ],
+    "example": {
+      "text": "The programme failed to live up to the expectations of its stakeholders.",
+      "translation": "Program paydaşlarının beklentilerini karşılayamadı."
+    },
+    "cloze": {
+      "template": "The programme failed to {{cloze}} the expectations of its stakeholders.",
+      "answer": "live up to"
+    }
+  },
+  {
+    "id": "pv_look_forward_to_4030",
+    "lemma": "look forward to",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "dört gözle beklemek"
+    ],
+    "synonyms": [
+      "anticipate",
+      "await"
+    ],
+    "example": {
+      "text": "The scientific community looks forward to the publication of the genome project's findings.",
+      "translation": "Bilim camiası genom projesinin bulgularının yayınlanmasını dört gözle beklemektedir."
+    },
+    "cloze": {
+      "template": "The scientific community {{cloze}} the publication of the genome project's findings.",
+      "answer": "looks forward to"
+    }
+  },
+  {
+    "id": "pv_look_up_to_4031",
+    "lemma": "look up to",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "saygı duymak, örnek almak"
+    ],
+    "synonyms": [
+      "admire",
+      "respect"
+    ],
+    "example": {
+      "text": "Young researchers often look up to established scholars in their field.",
+      "translation": "Genç araştırmacılar genellikle alanlarındaki yerleşik bilim insanlarına saygı duyar."
+    },
+    "cloze": {
+      "template": "Young researchers often {{cloze}} established scholars in their field.",
+      "answer": "look up to"
+    }
+  },
+  {
+    "id": "pv_make_out_4032",
+    "lemma": "make out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "anlamak, çözmek"
+    ],
+    "synonyms": [
+      "discern",
+      "decipher"
+    ],
+    "example": {
+      "text": "Scholars have struggled to make out the meaning of the damaged inscription.",
+      "translation": "Bilim insanları hasarlı yazıtın anlamını çözmekte zorlandılar."
+    },
+    "cloze": {
+      "template": "Scholars have struggled to {{cloze}} the meaning of the damaged inscription.",
+      "answer": "make out"
+    }
+  },
+  {
+    "id": "pv_map_out_4033",
+    "lemma": "map out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "planlamak, haritalamak"
+    ],
+    "synonyms": [
+      "plan",
+      "outline"
+    ],
+    "example": {
+      "text": "The committee mapped out a detailed strategy for the next five years.",
+      "translation": "Komite önümüzdeki beş yıl için ayrıntılı bir strateji planladı."
+    },
+    "cloze": {
+      "template": "The committee {{cloze}} a detailed strategy for the next five years.",
+      "answer": "mapped out"
+    }
+  },
+  {
+    "id": "pv_narrow_down_4034",
+    "lemma": "narrow down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "daraltmak"
+    ],
+    "synonyms": [
+      "reduce",
+      "limit"
+    ],
+    "example": {
+      "text": "The researchers narrowed down the list of potential causes to three factors.",
+      "translation": "Araştırmacılar potansiyel neden listesini üç faktöre daralttı."
+    },
+    "cloze": {
+      "template": "The researchers {{cloze}} the list of potential causes to three factors.",
+      "answer": "narrowed down"
+    }
+  },
+  {
+    "id": "pv_opt_out_4035",
+    "lemma": "opt out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "çekilmek, katılmamayı tercih etmek"
+    ],
+    "synonyms": [
+      "withdraw",
+      "decline"
+    ],
+    "example": {
+      "text": "Participants were free to opt out of the study at any stage.",
+      "translation": "Katılımcılar çalışmanın herhangi bir aşamasında çekilmekte özgürdü."
+    },
+    "cloze": {
+      "template": "Participants were free to {{cloze}} of the study at any stage.",
+      "answer": "opt out"
+    }
+  },
+  {
+    "id": "pv_pan_out_4036",
+    "lemma": "pan out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sonuçlanmak, belli olmak"
+    ],
+    "synonyms": [
+      "unfold",
+      "result"
+    ],
+    "example": {
+      "text": "It remains to be seen how the reform will pan out in practice.",
+      "translation": "Reformun pratikte nasıl sonuçlanacağı henüz belli değildir."
+    },
+    "cloze": {
+      "template": "It remains to be seen how the reform will {{cloze}} in practice.",
+      "answer": "pan out"
+    }
+  },
+  {
+    "id": "pv_pass_on_4037",
+    "lemma": "pass on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "aktarmak, iletmek"
+    ],
+    "synonyms": [
+      "transmit",
+      "relay"
+    ],
+    "example": {
+      "text": "Oral traditions allow communities to pass on cultural knowledge to future generations.",
+      "translation": "Sözlü gelenekler toplulukların kültürel bilgiyi gelecek nesillere aktarmasına olanak tanır."
+    },
+    "cloze": {
+      "template": "Oral traditions allow communities to {{cloze}} cultural knowledge to future generations.",
+      "answer": "pass on"
+    }
+  },
+  {
+    "id": "pv_phase_in_4038",
+    "lemma": "phase in",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "aşamalı olarak uygulamaya koymak"
+    ],
+    "synonyms": [
+      "introduce gradually",
+      "implement"
+    ],
+    "example": {
+      "text": "The new regulations will be phased in over a three-year period.",
+      "translation": "Yeni düzenlemeler üç yıllık bir sürede aşamalı olarak uygulamaya konulacaktır."
+    },
+    "cloze": {
+      "template": "The new regulations will be {{cloze}} over a three-year period.",
+      "answer": "phased in"
+    }
+  },
+  {
+    "id": "pv_pick_up_4039",
+    "lemma": "pick up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "edinmek, artmak"
+    ],
+    "synonyms": [
+      "acquire",
+      "increase"
+    ],
+    "example": {
+      "text": "Economic growth is expected to pick up in the second quarter.",
+      "translation": "Ekonomik büyümenin ikinci çeyrekte artması beklenmektedir."
+    },
+    "cloze": {
+      "template": "Economic growth is expected to {{cloze}} in the second quarter.",
+      "answer": "pick up"
+    }
+  },
+  {
+    "id": "pv_play_down_4040",
+    "lemma": "play down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "küçümsemek, önemsizleştirmek"
+    ],
+    "synonyms": [
+      "understate",
+      "minimise"
+    ],
+    "example": {
+      "text": "Officials tried to play down the severity of the environmental damage.",
+      "translation": "Yetkililer çevre hasarının ciddiyetini küçümsemeye çalıştı."
+    },
+    "cloze": {
+      "template": "Officials tried to {{cloze}} the severity of the environmental damage.",
+      "answer": "play down"
+    }
+  },
+  {
+    "id": "pv_pull_off_4041",
+    "lemma": "pull off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "başarmak"
+    ],
+    "synonyms": [
+      "accomplish",
+      "achieve"
+    ],
+    "example": {
+      "text": "The team managed to pull off the project despite severe budget constraints.",
+      "translation": "Ekip ciddi bütçe kısıtlamalarına rağmen projeyi başardı."
+    },
+    "cloze": {
+      "template": "The team managed to {{cloze}} the project despite severe budget constraints.",
+      "answer": "pull off"
+    }
+  },
+  {
+    "id": "pv_put_aside_4042",
+    "lemma": "put aside",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "bir kenara bırakmak"
+    ],
+    "synonyms": [
+      "disregard",
+      "reserve"
+    ],
+    "example": {
+      "text": "Both parties agreed to put aside their differences for the sake of progress.",
+      "translation": "Her iki taraf da ilerleme uğruna farklılıklarını bir kenara bırakmayı kabul etti."
+    },
+    "cloze": {
+      "template": "Both parties agreed to {{cloze}} their differences for the sake of progress.",
+      "answer": "put aside"
+    }
+  },
+  {
+    "id": "pv_put_forward_4043",
+    "lemma": "put forward",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "öne sürmek"
+    ],
+    "synonyms": [
+      "propose",
+      "suggest"
+    ],
+    "example": {
+      "text": "A new framework was put forward to address the shortcomings of the existing one.",
+      "translation": "Mevcut çerçevenin eksikliklerini gidermek için yeni bir çerçeve öne sürüldü."
+    },
+    "cloze": {
+      "template": "A new framework was {{cloze}} to address the shortcomings of the existing one.",
+      "answer": "put forward"
+    }
+  },
+  {
+    "id": "pv_rule_out_4044",
+    "lemma": "rule out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "dışlamak, olasılık dışı bırakmak"
+    ],
+    "synonyms": [
+      "exclude",
+      "eliminate"
+    ],
+    "example": {
+      "text": "The investigators could not rule out the possibility of human error.",
+      "translation": "Müfettişler insan hatası olasılığını dışlayamadı."
+    },
+    "cloze": {
+      "template": "The investigators could not {{cloze}} the possibility of human error.",
+      "answer": "rule out"
+    }
+  },
+  {
+    "id": "pv_run_into_4045",
+    "lemma": "run into",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "karşılaşmak (sorunla)"
+    ],
+    "synonyms": [
+      "encounter",
+      "face"
+    ],
+    "example": {
+      "text": "The implementation team ran into unexpected regulatory obstacles.",
+      "translation": "Uygulama ekibi beklenmedik yasal engellerle karşılaştı."
+    },
+    "cloze": {
+      "template": "The implementation team {{cloze}} unexpected regulatory obstacles.",
+      "answer": "ran into"
+    }
+  },
+  {
+    "id": "pv_run_out_4046",
+    "lemma": "run out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "tükenmek"
+    ],
+    "synonyms": [
+      "deplete",
+      "exhaust"
+    ],
+    "example": {
+      "text": "Global reserves of fossil fuels are expected to run out within the coming decades.",
+      "translation": "Küresel fosil yakıt rezervlerinin önümüzdeki on yıllar içinde tükenmesi beklenmektedir."
+    },
+    "cloze": {
+      "template": "Global reserves of fossil fuels are expected to {{cloze}} within the coming decades.",
+      "answer": "run out"
+    }
+  },
+  {
+    "id": "pv_scale_up_4047",
+    "lemma": "scale up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ölçeğini büyütmek"
+    ],
+    "synonyms": [
+      "expand",
+      "enlarge"
+    ],
+    "example": {
+      "text": "The pilot programme was scaled up to cover all provinces.",
+      "translation": "Pilot program tüm illeri kapsayacak şekilde ölçeği büyütüldü."
+    },
+    "cloze": {
+      "template": "The pilot programme was {{cloze}} to cover all provinces.",
+      "answer": "scaled up"
+    }
+  },
+  {
+    "id": "pv_set_aside_4048",
+    "lemma": "set aside",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ayırmak, bir kenara koymak"
+    ],
+    "synonyms": [
+      "allocate",
+      "reserve"
+    ],
+    "example": {
+      "text": "A significant portion of the budget was set aside for infrastructure development.",
+      "translation": "Bütçenin önemli bir kısmı altyapı gelişimi için ayrıldı."
+    },
+    "cloze": {
+      "template": "A significant portion of the budget was {{cloze}} for infrastructure development.",
+      "answer": "set aside"
+    }
+  },
+  {
+    "id": "pv_set_off_4049",
+    "lemma": "set off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "tetiklemek, yola çıkmak"
+    ],
+    "synonyms": [
+      "trigger",
+      "initiate"
+    ],
+    "example": {
+      "text": "The announcement set off a wave of protests across the country.",
+      "translation": "Duyuru ülke genelinde bir protesto dalgası tetikledi."
+    },
+    "cloze": {
+      "template": "The announcement {{cloze}} a wave of protests across the country.",
+      "answer": "set off"
+    }
+  },
+  {
+    "id": "pv_set_out_4050",
+    "lemma": "set out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ortaya koymak, açıklamak"
+    ],
+    "synonyms": [
+      "present",
+      "describe"
+    ],
+    "example": {
+      "text": "The report sets out the key findings and their policy implications.",
+      "translation": "Rapor temel bulguları ve politika etkilerini ortaya koymaktadır."
+    },
+    "cloze": {
+      "template": "The report {{cloze}} the key findings and their policy implications.",
+      "answer": "sets out"
+    }
+  },
+  {
+    "id": "pv_set_up_4051",
+    "lemma": "set up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kurmak, tesis etmek"
+    ],
+    "synonyms": [
+      "establish",
+      "create"
+    ],
+    "example": {
+      "text": "An independent commission was set up to investigate the allegations.",
+      "translation": "İddiaları soruşturmak için bağımsız bir komisyon kuruldu."
+    },
+    "cloze": {
+      "template": "An independent commission was {{cloze}} to investigate the allegations.",
+      "answer": "set up"
+    }
+  },
+  {
+    "id": "pv_shut_down_4052",
+    "lemma": "shut down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kapatmak"
+    ],
+    "synonyms": [
+      "close",
+      "cease"
+    ],
+    "example": {
+      "text": "The nuclear reactor was shut down as a precautionary measure.",
+      "translation": "Nükleer reaktör ihtiyati tedbir olarak kapatıldı."
+    },
+    "cloze": {
+      "template": "The nuclear reactor was {{cloze}} as a precautionary measure.",
+      "answer": "shut down"
+    }
+  },
+  {
+    "id": "pv_single_out_4053",
+    "lemma": "single out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ayırt etmek, seçmek"
+    ],
+    "synonyms": [
+      "distinguish",
+      "select"
+    ],
+    "example": {
+      "text": "The report singled out corruption as the primary obstacle to development.",
+      "translation": "Rapor yolsuzluğu kalkınmanın önündeki birincil engel olarak belirledi."
+    },
+    "cloze": {
+      "template": "The report {{cloze}} corruption as the primary obstacle to development.",
+      "answer": "singled out"
+    }
+  },
+  {
+    "id": "pv_slow_down_4054",
+    "lemma": "slow down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yavaşlamak"
+    ],
+    "synonyms": [
+      "decelerate",
+      "diminish"
+    ],
+    "example": {
+      "text": "Economic growth has slowed down considerably since the onset of the crisis.",
+      "translation": "Ekonomik büyüme krizin başlangıcından bu yana önemli ölçüde yavaşladı."
+    },
+    "cloze": {
+      "template": "Economic growth has {{cloze}} considerably since the onset of the crisis.",
+      "answer": "slowed down"
+    }
+  },
+  {
+    "id": "pv_sort_out_4055",
+    "lemma": "sort out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "çözmek, düzenlemek"
+    ],
+    "synonyms": [
+      "resolve",
+      "organise"
+    ],
+    "example": {
+      "text": "The administration needs to sort out the inconsistencies in the current legislation.",
+      "translation": "Yönetimin mevcut mevzuattaki tutarsızlıkları çözmesi gerekmektedir."
+    },
+    "cloze": {
+      "template": "The administration needs to {{cloze}} the inconsistencies in the current legislation.",
+      "answer": "sort out"
+    }
+  },
+  {
+    "id": "pv_speed_up_4056",
+    "lemma": "speed up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "hızlandırmak"
+    ],
+    "synonyms": [
+      "accelerate",
+      "expedite"
+    ],
+    "example": {
+      "text": "Technological innovation has significantly sped up the pace of urbanisation.",
+      "translation": "Teknolojik yenilik kentleşmenin hızını önemli ölçüde artırdı."
+    },
+    "cloze": {
+      "template": "Technological innovation has significantly {{cloze}} the pace of urbanisation.",
+      "answer": "sped up"
+    }
+  },
+  {
+    "id": "pv_stand_for_4057",
+    "lemma": "stand for",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "temsil etmek, anlamına gelmek"
+    ],
+    "synonyms": [
+      "represent",
+      "symbolise"
+    ],
+    "example": {
+      "text": "The acronym UNESCO stands for the United Nations Educational, Scientific and Cultural Organisation.",
+      "translation": "UNESCO kısaltması Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü anlamına gelir."
+    },
+    "cloze": {
+      "template": "The acronym UNESCO {{cloze}} the United Nations Educational, Scientific and Cultural Organisation.",
+      "answer": "stands for"
+    }
+  },
+  {
+    "id": "pv_stand_out_4058",
+    "lemma": "stand out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "öne çıkmak, göze çarpmak"
+    ],
+    "synonyms": [
+      "excel",
+      "distinguish"
+    ],
+    "example": {
+      "text": "One finding stands out as particularly significant in the context of this research.",
+      "translation": "Bir bulgu bu araştırmanın bağlamında özellikle önemli olarak öne çıkmaktadır."
+    },
+    "cloze": {
+      "template": "One finding {{cloze}} as particularly significant in the context of this research.",
+      "answer": "stands out"
+    }
+  },
+  {
+    "id": "pv_step_up_4059",
+    "lemma": "step up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "artırmak, yoğunlaştırmak"
+    ],
+    "synonyms": [
+      "intensify",
+      "increase"
+    ],
+    "example": {
+      "text": "Governments must step up their efforts to combat climate change.",
+      "translation": "Hükümetler iklim değişikliğiyle mücadele çabalarını artırmalıdır."
+    },
+    "cloze": {
+      "template": "Governments must {{cloze}} their efforts to combat climate change.",
+      "answer": "step up"
+    }
+  },
+  {
+    "id": "pv_sum_up_4060",
+    "lemma": "sum up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "özetlemek"
+    ],
+    "synonyms": [
+      "summarise",
+      "recapitulate"
+    ],
+    "example": {
+      "text": "To sum up, the evidence points to a significant correlation between the two variables.",
+      "translation": "Özetleyecek olursak kanıtlar iki değişken arasında anlamlı bir korelasyona işaret etmektedir."
+    },
+    "cloze": {
+      "template": "To {{cloze}}, the evidence points to a significant correlation between the two variables.",
+      "answer": "sum up"
+    }
+  },
+  {
+    "id": "pv_take_apart_4061",
+    "lemma": "take on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "üstlenmek"
+    ],
+    "synonyms": [
+      "assume",
+      "undertake"
+    ],
+    "example": {
+      "text": "The institution has taken on a more active role in environmental governance.",
+      "translation": "Kurum çevre yönetişiminde daha aktif bir rol üstlenmiştir."
+    },
+    "cloze": {
+      "template": "The institution has {{cloze}} a more active role in environmental governance.",
+      "answer": "taken on"
+    }
+  },
+  {
+    "id": "pv_take_up_4062",
+    "lemma": "take up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ele almak, başlamak"
+    ],
+    "synonyms": [
+      "adopt",
+      "begin"
+    ],
+    "example": {
+      "text": "The issue was taken up by the parliamentary committee during the autumn session.",
+      "translation": "Konu sonbahar oturumunda parlamento komitesi tarafından ele alındı."
+    },
+    "cloze": {
+      "template": "The issue was {{cloze}} by the parliamentary committee during the autumn session.",
+      "answer": "taken up"
+    }
+  },
+  {
+    "id": "pv_think_over_4063",
+    "lemma": "think over",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "iyice düşünmek"
+    ],
+    "synonyms": [
+      "consider",
+      "deliberate"
+    ],
+    "example": {
+      "text": "Policy makers should think over the long-term consequences before acting.",
+      "translation": "Politika yapıcılar harekete geçmeden önce uzun vadeli sonuçları iyice düşünmelidir."
+    },
+    "cloze": {
+      "template": "Policy makers should {{cloze}} the long-term consequences before acting.",
+      "answer": "think over"
+    }
+  },
+  {
+    "id": "pv_tie_in_with_4064",
+    "lemma": "tie in with",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "bağlantılı olmak, uyuşmak"
+    ],
+    "synonyms": [
+      "relate to",
+      "correspond"
+    ],
+    "example": {
+      "text": "The findings tie in with previous studies on social mobility.",
+      "translation": "Bulgular sosyal hareketliliğe ilişkin önceki çalışmalarla bağlantılıdır."
+    },
+    "cloze": {
+      "template": "The findings {{cloze}} previous studies on social mobility.",
+      "answer": "tie in with"
+    }
+  },
+  {
+    "id": "pv_touch_on_4065",
+    "lemma": "touch on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "değinmek"
+    ],
+    "synonyms": [
+      "mention",
+      "address"
+    ],
+    "example": {
+      "text": "The lecture briefly touched on the ethical dimensions of artificial intelligence.",
+      "translation": "Ders yapay zekânın etik boyutlarına kısaca değindi."
+    },
+    "cloze": {
+      "template": "The lecture briefly {{cloze}} the ethical dimensions of artificial intelligence.",
+      "answer": "touched on"
+    }
+  },
+  {
+    "id": "pv_turn_down_4066",
+    "lemma": "turn down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "reddetmek"
+    ],
+    "synonyms": [
+      "reject",
+      "decline"
+    ],
+    "example": {
+      "text": "The proposal was turned down on the grounds that it lacked feasibility.",
+      "translation": "Teklif uygulanabilirlikten yoksun olduğu gerekçesiyle reddedildi."
+    },
+    "cloze": {
+      "template": "The proposal was {{cloze}} on the grounds that it lacked feasibility.",
+      "answer": "turned down"
+    }
+  },
+  {
+    "id": "pv_turn_into_4067",
+    "lemma": "turn into",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "dönüşmek"
+    ],
+    "synonyms": [
+      "become",
+      "transform"
+    ],
+    "example": {
+      "text": "A minor disagreement can quickly turn into a full-scale diplomatic crisis.",
+      "translation": "Küçük bir anlaşmazlık hızla tam kapsamlı bir diplomatik krize dönüşebilir."
+    },
+    "cloze": {
+      "template": "A minor disagreement can quickly {{cloze}} a full-scale diplomatic crisis.",
+      "answer": "turn into"
+    }
+  },
+  {
+    "id": "pv_turn_out_4068",
+    "lemma": "turn out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ortaya çıkmak, sonuçlanmak"
+    ],
+    "synonyms": [
+      "prove",
+      "transpire"
+    ],
+    "example": {
+      "text": "The initial assumptions turned out to be fundamentally flawed.",
+      "translation": "İlk varsayımların temelden hatalı olduğu ortaya çıktı."
+    },
+    "cloze": {
+      "template": "The initial assumptions {{cloze}} to be fundamentally flawed.",
+      "answer": "turned out"
+    }
+  },
+  {
+    "id": "pv_ward_off_4069",
+    "lemma": "ward off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "savuşturmak, engellemek"
+    ],
+    "synonyms": [
+      "prevent",
+      "avert"
+    ],
+    "example": {
+      "text": "Vaccination campaigns help ward off the spread of infectious diseases.",
+      "translation": "Aşı kampanyaları bulaşıcı hastalıkların yayılmasını savuşturmaya yardımcı olur."
+    },
+    "cloze": {
+      "template": "Vaccination campaigns help {{cloze}} the spread of infectious diseases.",
+      "answer": "ward off"
+    }
+  },
+  {
+    "id": "pv_weigh_up_4070",
+    "lemma": "weigh up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "tartmak, değerlendirmek"
+    ],
+    "synonyms": [
+      "evaluate",
+      "assess"
+    ],
+    "example": {
+      "text": "Decision makers must weigh up the costs against the potential benefits.",
+      "translation": "Karar vericiler maliyetleri potansiyel faydalara karşı tartmalıdır."
+    },
+    "cloze": {
+      "template": "Decision makers must {{cloze}} the costs against the potential benefits.",
+      "answer": "weigh up"
+    }
+  },
+  {
+    "id": "pv_wipe_out_4071",
+    "lemma": "wipe out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yok etmek, silmek"
+    ],
+    "synonyms": [
+      "eradicate",
+      "destroy"
+    ],
+    "example": {
+      "text": "The epidemic nearly wiped out the entire population of the island.",
+      "translation": "Salgın adanın tüm nüfusunu neredeyse yok etti."
+    },
+    "cloze": {
+      "template": "The epidemic nearly {{cloze}} the entire population of the island.",
+      "answer": "wiped out"
+    }
+  },
+  {
+    "id": "pv_work_out_4072",
+    "lemma": "work out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "çözmek, hesaplamak"
+    ],
+    "synonyms": [
+      "calculate",
+      "determine"
+    ],
+    "example": {
+      "text": "Scientists are still trying to work out the mechanism behind the phenomenon.",
+      "translation": "Bilim insanları hâlâ fenomenin ardındaki mekanizmayı çözmeye çalışıyor."
+    },
+    "cloze": {
+      "template": "Scientists are still trying to {{cloze}} the mechanism behind the phenomenon.",
+      "answer": "work out"
+    }
+  },
+  {
+    "id": "pv_write_off_4073",
+    "lemma": "write off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "silmek, gözden çıkarmak"
+    ],
+    "synonyms": [
+      "dismiss",
+      "disregard"
+    ],
+    "example": {
+      "text": "Critics were quick to write off the theory, though it later proved valid.",
+      "translation": "Eleştirmenler teoriyi hemen gözden çıkardılar, ancak daha sonra geçerli olduğu kanıtlandı."
+    },
+    "cloze": {
+      "template": "Critics were quick to {{cloze}} the theory, though it later proved valid.",
+      "answer": "write off"
+    }
+  },
+  {
+    "id": "pv_bring_in_4074",
+    "lemma": "bring in",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "getirmek, uygulamaya koymak"
+    ],
+    "synonyms": [
+      "introduce",
+      "implement"
+    ],
+    "example": {
+      "text": "The government plans to bring in new measures to tackle youth unemployment.",
+      "translation": "Hükümet genç işsizliğiyle mücadele için yeni önlemler getirmeyi planlamaktadır."
+    },
+    "cloze": {
+      "template": "The government plans to {{cloze}} new measures to tackle youth unemployment.",
+      "answer": "bring in"
+    }
+  },
+  {
+    "id": "pv_bring_up_4075",
+    "lemma": "bring up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "gündeme getirmek"
+    ],
+    "synonyms": [
+      "raise",
+      "mention"
+    ],
+    "example": {
+      "text": "The delegate brought up the issue of water scarcity during the plenary session.",
+      "translation": "Delege su kıtlığı sorununu genel oturumda gündeme getirdi."
+    },
+    "cloze": {
+      "template": "The delegate {{cloze}} the issue of water scarcity during the plenary session.",
+      "answer": "brought up"
+    }
+  },
+  {
+    "id": "pv_call_upon_4076",
+    "lemma": "call upon",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "çağrıda bulunmak"
+    ],
+    "synonyms": [
+      "urge",
+      "request"
+    ],
+    "example": {
+      "text": "The resolution calls upon member states to strengthen their climate commitments.",
+      "translation": "Karar üye devletleri iklim taahhütlerini güçlendirmeye çağırmaktadır."
+    },
+    "cloze": {
+      "template": "The resolution {{cloze}} member states to strengthen their climate commitments.",
+      "answer": "calls upon"
+    }
+  },
+  {
+    "id": "pv_catch_on_4077",
+    "lemma": "catch on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "tutulmak, yaygınlaşmak"
+    ],
+    "synonyms": [
+      "gain popularity",
+      "spread"
+    ],
+    "example": {
+      "text": "The concept of circular economy has begun to catch on among policymakers.",
+      "translation": "Döngüsel ekonomi kavramı politika yapıcılar arasında yaygınlaşmaya başlamıştır."
+    },
+    "cloze": {
+      "template": "The concept of circular economy has begun to {{cloze}} among policymakers.",
+      "answer": "catch on"
+    }
+  },
+  {
+    "id": "pv_clamp_down_4078",
+    "lemma": "clamp down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sıkı önlem almak"
+    ],
+    "synonyms": [
+      "suppress",
+      "crack down"
+    ],
+    "example": {
+      "text": "Authorities clamped down on illegal logging in protected forests.",
+      "translation": "Yetkililer koruma altındaki ormanlarda yasadışı ağaç kesimi üzerine sıkı önlem aldı."
+    },
+    "cloze": {
+      "template": "Authorities {{cloze}} on illegal logging in protected forests.",
+      "answer": "clamped down"
+    }
+  },
+  {
+    "id": "pv_come_into_4079",
+    "lemma": "come into",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yürürlüğe girmek"
+    ],
+    "synonyms": [
+      "become effective",
+      "enter"
+    ],
+    "example": {
+      "text": "The new data protection law came into effect in January 2025.",
+      "translation": "Yeni veri koruma kanunu Ocak 2025'te yürürlüğe girdi."
+    },
+    "cloze": {
+      "template": "The new data protection law {{cloze}} effect in January 2025.",
+      "answer": "came into"
+    }
+  },
+  {
+    "id": "pv_comply_with_4080",
+    "lemma": "comply with",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "uymak, riayet etmek"
+    ],
+    "synonyms": [
+      "adhere to",
+      "conform"
+    ],
+    "example": {
+      "text": "All member states are required to comply with the organisation's regulations.",
+      "translation": "Tüm üye devletlerin örgütün düzenlemelerine uyması gerekmektedir."
+    },
+    "cloze": {
+      "template": "All member states are required to {{cloze}} the organisation's regulations.",
+      "answer": "comply with"
+    }
+  },
+  {
+    "id": "pv_crack_down_4081",
+    "lemma": "crack down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sert önlemler almak"
+    ],
+    "synonyms": [
+      "suppress",
+      "clamp down"
+    ],
+    "example": {
+      "text": "The regulatory body cracked down on firms that violated safety standards.",
+      "translation": "Düzenleyici kurum güvenlik standartlarını ihlal eden firmalara sert önlemler aldı."
+    },
+    "cloze": {
+      "template": "The regulatory body {{cloze}} on firms that violated safety standards.",
+      "answer": "cracked down"
+    }
+  },
+  {
+    "id": "pv_deal_with_4082",
+    "lemma": "deal with",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ile ilgilenmek, ele almak"
+    ],
+    "synonyms": [
+      "handle",
+      "address"
+    ],
+    "example": {
+      "text": "The chapter deals with the socioeconomic impact of mass migration.",
+      "translation": "Bölüm kitlesel göçün sosyoekonomik etkisiyle ilgilenmektedir."
+    },
+    "cloze": {
+      "template": "The chapter {{cloze}} the socioeconomic impact of mass migration.",
+      "answer": "deals with"
+    }
+  },
+  {
+    "id": "pv_dwell_on_4083",
+    "lemma": "dwell on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "üzerinde durmak"
+    ],
+    "synonyms": [
+      "focus on",
+      "elaborate"
+    ],
+    "example": {
+      "text": "The author dwells on the cultural implications of colonialism.",
+      "translation": "Yazar sömürgeciliğin kültürel sonuçları üzerinde durmaktadır."
+    },
+    "cloze": {
+      "template": "The author {{cloze}} the cultural implications of colonialism.",
+      "answer": "dwells on"
+    }
+  },
+  {
+    "id": "pv_embark_on_4084",
+    "lemma": "embark on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "girişmek, başlamak"
+    ],
+    "synonyms": [
+      "commence",
+      "undertake"
+    ],
+    "example": {
+      "text": "The university embarked on an ambitious programme of digital transformation.",
+      "translation": "Üniversite hırslı bir dijital dönüşüm programına girişti."
+    },
+    "cloze": {
+      "template": "The university {{cloze}} an ambitious programme of digital transformation.",
+      "answer": "embarked on"
+    }
+  },
+  {
+    "id": "pv_factor_in_4085",
+    "lemma": "factor in",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "hesaba katmak"
+    ],
+    "synonyms": [
+      "include",
+      "consider"
+    ],
+    "example": {
+      "text": "The analysis failed to factor in the impact of inflation.",
+      "translation": "Analiz enflasyonun etkisini hesaba katmadı."
+    },
+    "cloze": {
+      "template": "The analysis failed to {{cloze}} the impact of inflation.",
+      "answer": "factor in"
+    }
+  },
+  {
+    "id": "pv_fend_off_4086",
+    "lemma": "fend off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "savuşturmak, bertaraf etmek"
+    ],
+    "synonyms": [
+      "repel",
+      "deflect"
+    ],
+    "example": {
+      "text": "The company managed to fend off a hostile takeover bid.",
+      "translation": "Şirket düşmanca bir devralma teklifini savuşturmayı başardı."
+    },
+    "cloze": {
+      "template": "The company managed to {{cloze}} a hostile takeover bid.",
+      "answer": "fend off"
+    }
+  },
+  {
+    "id": "pv_flesh_out_4087",
+    "lemma": "flesh out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ayrıntılandırmak"
+    ],
+    "synonyms": [
+      "elaborate",
+      "develop"
+    ],
+    "example": {
+      "text": "The committee asked the team to flesh out their proposal with more detail.",
+      "translation": "Komite ekipten tekliflerini daha fazla ayrıntılandırmasını istedi."
+    },
+    "cloze": {
+      "template": "The committee asked the team to {{cloze}} their proposal with more detail.",
+      "answer": "flesh out"
+    }
+  },
+  {
+    "id": "pv_follow_up_4088",
+    "lemma": "follow up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "takip etmek"
+    ],
+    "synonyms": [
+      "pursue",
+      "continue"
+    ],
+    "example": {
+      "text": "The institution should follow up on the recommendations made in the audit report.",
+      "translation": "Kurum denetim raporundaki tavsiyeleri takip etmelidir."
+    },
+    "cloze": {
+      "template": "The institution should {{cloze}} on the recommendations made in the audit report.",
+      "answer": "follow up"
+    }
+  },
+  {
+    "id": "pv_frowned_upon_4089",
+    "lemma": "frown upon",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "hoş karşılamamak"
+    ],
+    "synonyms": [
+      "disapprove",
+      "condemn"
+    ],
+    "example": {
+      "text": "Academic plagiarism is heavily frowned upon in scholarly communities.",
+      "translation": "Akademik intihal bilimsel çevrelerde şiddetle hoş karşılanmaz."
+    },
+    "cloze": {
+      "template": "Academic plagiarism is heavily {{cloze}} in scholarly communities.",
+      "answer": "frowned upon"
+    }
+  },
+  {
+    "id": "pv_gear_towards_4090",
+    "lemma": "gear towards",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yönelik olmak, yönlendirmek"
+    ],
+    "synonyms": [
+      "orient",
+      "direct"
+    ],
+    "example": {
+      "text": "The curriculum is geared towards developing analytical thinking skills.",
+      "translation": "Müfredat analitik düşünme becerilerini geliştirmeye yöneliktir."
+    },
+    "cloze": {
+      "template": "The curriculum is {{cloze}} developing analytical thinking skills.",
+      "answer": "geared towards"
+    }
+  },
+  {
+    "id": "pv_give_in_4091",
+    "lemma": "give in",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "boyun eğmek, teslim olmak"
+    ],
+    "synonyms": [
+      "yield",
+      "surrender"
+    ],
+    "example": {
+      "text": "The government eventually gave in to the pressure from the international community.",
+      "translation": "Hükümet sonunda uluslararası toplumun baskısına boyun eğdi."
+    },
+    "cloze": {
+      "template": "The government eventually {{cloze}} to the pressure from the international community.",
+      "answer": "gave in"
+    }
+  },
+  {
+    "id": "pv_hammer_out_4092",
+    "lemma": "hammer out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "zorlu müzakerelerde uzlaşmak"
+    ],
+    "synonyms": [
+      "negotiate",
+      "resolve"
+    ],
+    "example": {
+      "text": "After weeks of talks, the two sides hammered out an agreement on trade tariffs.",
+      "translation": "Haftalarca süren görüşmelerin ardından iki taraf ticaret tarifeleri konusunda bir anlaşmaya vardı."
+    },
+    "cloze": {
+      "template": "After weeks of talks, the two sides {{cloze}} an agreement on trade tariffs.",
+      "answer": "hammered out"
+    }
+  },
+  {
+    "id": "pv_head_for_4093",
+    "lemma": "head for",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yönelmek"
+    ],
+    "synonyms": [
+      "proceed towards",
+      "approach"
+    ],
+    "example": {
+      "text": "Without decisive action, the region is heading for an ecological disaster.",
+      "translation": "Kararlı bir müdahale olmadan bölge ekolojik bir felakete doğru ilerlemektedir."
+    },
+    "cloze": {
+      "template": "Without decisive action, the region is {{cloze}} an ecological disaster.",
+      "answer": "heading for"
+    }
+  },
+  {
+    "id": "pv_hold_up_4094",
+    "lemma": "hold up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "geciktirmek; dayandırmak"
+    ],
+    "synonyms": [
+      "delay",
+      "withstand"
+    ],
+    "example": {
+      "text": "The construction project was held up by disputes over land ownership.",
+      "translation": "İnşaat projesi arazi mülkiyeti anlaşmazlıkları nedeniyle geciktirildi."
+    },
+    "cloze": {
+      "template": "The construction project was {{cloze}} by disputes over land ownership.",
+      "answer": "held up"
+    }
+  },
+  {
+    "id": "pv_kick_off_4095",
+    "lemma": "kick off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "başlatmak"
+    ],
+    "synonyms": [
+      "launch",
+      "initiate"
+    ],
+    "example": {
+      "text": "The symposium kicked off with a keynote address on sustainable development.",
+      "translation": "Sempozyum sürdürülebilir kalkınma üzerine bir açılış konuşmasıyla başladı."
+    },
+    "cloze": {
+      "template": "The symposium {{cloze}} with a keynote address on sustainable development.",
+      "answer": "kicked off"
+    }
+  },
+  {
+    "id": "pv_lay_down_4096",
+    "lemma": "lay down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "belirlemek, koymak (kurallar)"
+    ],
+    "synonyms": [
+      "establish",
+      "stipulate"
+    ],
+    "example": {
+      "text": "The treaty lays down strict guidelines for the use of chemical weapons.",
+      "translation": "Antlaşma kimyasal silahların kullanımı için katı kurallar belirlemektedir."
+    },
+    "cloze": {
+      "template": "The treaty {{cloze}} strict guidelines for the use of chemical weapons.",
+      "answer": "lays down"
+    }
+  },
+  {
+    "id": "pv_let_down_4097",
+    "lemma": "let down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "hayal kırıklığına uğratmak"
+    ],
+    "synonyms": [
+      "disappoint",
+      "fail"
+    ],
+    "example": {
+      "text": "Vulnerable communities were once again let down by insufficient government action.",
+      "translation": "Kırılgan topluluklar bir kez daha yetersiz hükümet eylemiyle hayal kırıklığına uğratıldı."
+    },
+    "cloze": {
+      "template": "Vulnerable communities were once again {{cloze}} by insufficient government action.",
+      "answer": "let down"
+    }
+  },
+  {
+    "id": "pv_level_off_4098",
+    "lemma": "level off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "dengelenmek, sabitlenmek"
+    ],
+    "synonyms": [
+      "stabilise",
+      "plateau"
+    ],
+    "example": {
+      "text": "Population growth in the region has begun to level off in recent years.",
+      "translation": "Bölgedeki nüfus artışı son yıllarda dengelenmeye başlamıştır."
+    },
+    "cloze": {
+      "template": "Population growth in the region has begun to {{cloze}} in recent years.",
+      "answer": "level off"
+    }
+  },
+  {
+    "id": "pv_line_up_4099",
+    "lemma": "line up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "düzenlemek, sıraya koymak"
+    ],
+    "synonyms": [
+      "arrange",
+      "organise"
+    ],
+    "example": {
+      "text": "The organisers lined up a series of workshops for the academic conference.",
+      "translation": "Düzenleyiciler akademik konferans için bir dizi atölye çalışması planladı."
+    },
+    "cloze": {
+      "template": "The organisers {{cloze}} a series of workshops for the academic conference.",
+      "answer": "lined up"
+    }
+  },
+  {
+    "id": "pv_miss_out_4100",
+    "lemma": "miss out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kaçırmak, mahrum kalmak"
+    ],
+    "synonyms": [
+      "forgo",
+      "lose"
+    ],
+    "example": {
+      "text": "Students in rural areas risk missing out on quality educational resources.",
+      "translation": "Kırsal bölgelerdeki öğrenciler kaliteli eğitim kaynaklarından mahrum kalma riski taşımaktadır."
+    },
+    "cloze": {
+      "template": "Students in rural areas risk {{cloze}} on quality educational resources.",
+      "answer": "missing out"
+    }
+  },
+  {
+    "id": "pv_open_up_4101",
+    "lemma": "open up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "açmak, ortaya çıkarmak"
+    ],
+    "synonyms": [
+      "reveal",
+      "create"
+    ],
+    "example": {
+      "text": "Globalisation has opened up new markets for developing economies.",
+      "translation": "Küreselleşme gelişmekte olan ekonomiler için yeni pazarlar açmıştır."
+    },
+    "cloze": {
+      "template": "Globalisation has {{cloze}} new markets for developing economies.",
+      "answer": "opened up"
+    }
+  },
+  {
+    "id": "pv_phase_out_4102",
+    "lemma": "phase out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "aşamalı olarak kaldırmak"
+    ],
+    "synonyms": [
+      "withdraw",
+      "discontinue"
+    ],
+    "example": {
+      "text": "Several countries have pledged to phase out coal-fired power plants by 2035.",
+      "translation": "Birçok ülke 2035'e kadar kömürle çalışan santralleri aşamalı olarak kaldırmayı taahhüt etmiştir."
+    },
+    "cloze": {
+      "template": "Several countries have pledged to {{cloze}} coal-fired power plants by 2035.",
+      "answer": "phase out"
+    }
+  },
+  {
+    "id": "pv_pile_up_4103",
+    "lemma": "pile up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "birikmek"
+    ],
+    "synonyms": [
+      "accumulate",
+      "mount"
+    ],
+    "example": {
+      "text": "Unresolved complaints continued to pile up throughout the fiscal year.",
+      "translation": "Çözülmemiş şikâyetler mali yıl boyunca birikmeye devam etti."
+    },
+    "cloze": {
+      "template": "Unresolved complaints continued to {{cloze}} throughout the fiscal year.",
+      "answer": "pile up"
+    }
+  },
+  {
+    "id": "pv_pin_down_4104",
+    "lemma": "pin down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kesin olarak belirlemek"
+    ],
+    "synonyms": [
+      "identify",
+      "define"
+    ],
+    "example": {
+      "text": "Researchers have struggled to pin down the exact cause of the anomaly.",
+      "translation": "Araştırmacılar anomalinin kesin nedenini belirlemekte zorlanmıştır."
+    },
+    "cloze": {
+      "template": "Researchers have struggled to {{cloze}} the exact cause of the anomaly.",
+      "answer": "pin down"
+    }
+  },
+  {
+    "id": "pv_prop_up_4105",
+    "lemma": "prop up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "desteklemek, ayakta tutmak"
+    ],
+    "synonyms": [
+      "support",
+      "sustain"
+    ],
+    "example": {
+      "text": "Government subsidies were used to prop up the failing industry.",
+      "translation": "Devlet sübvansiyonları batan sektörü ayakta tutmak için kullanıldı."
+    },
+    "cloze": {
+      "template": "Government subsidies were used to {{cloze}} the failing industry.",
+      "answer": "prop up"
+    }
+  },
+  {
+    "id": "pv_pull_out_4106",
+    "lemma": "pull out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "çekilmek"
+    ],
+    "synonyms": [
+      "withdraw",
+      "retreat"
+    ],
+    "example": {
+      "text": "The investors decided to pull out of the project when risks became apparent.",
+      "translation": "Yatırımcılar riskler belirgin hale geldiğinde projeden çekilmeye karar verdi."
+    },
+    "cloze": {
+      "template": "The investors decided to {{cloze}} of the project when risks became apparent.",
+      "answer": "pull out"
+    }
+  },
+  {
+    "id": "pv_push_for_4107",
+    "lemma": "push for",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "baskı yapmak, talep etmek"
+    ],
+    "synonyms": [
+      "advocate",
+      "demand"
+    ],
+    "example": {
+      "text": "Environmental groups have been pushing for stricter emissions regulations.",
+      "translation": "Çevre grupları daha sıkı emisyon düzenlemeleri için baskı yapmaktadır."
+    },
+    "cloze": {
+      "template": "Environmental groups have been {{cloze}} stricter emissions regulations.",
+      "answer": "pushing for"
+    }
+  },
+  {
+    "id": "pv_roll_out_4108",
+    "lemma": "roll out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yaygınlaştırmak, piyasaya sürmek"
+    ],
+    "synonyms": [
+      "launch",
+      "deploy"
+    ],
+    "example": {
+      "text": "The vaccination programme was rolled out in phases across the country.",
+      "translation": "Aşı programı ülke genelinde aşamalı olarak yaygınlaştırıldı."
+    },
+    "cloze": {
+      "template": "The vaccination programme was {{cloze}} in phases across the country.",
+      "answer": "rolled out"
+    }
+  },
+  {
+    "id": "pv_run_up_against_4109",
+    "lemma": "run up against",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "karşılaşmak (engelle)"
+    ],
+    "synonyms": [
+      "encounter",
+      "confront"
+    ],
+    "example": {
+      "text": "Reformists often run up against entrenched institutional resistance.",
+      "translation": "Reformcular çoğunlukla köklü kurumsal dirençle karşılaşır."
+    },
+    "cloze": {
+      "template": "Reformists often {{cloze}} entrenched institutional resistance.",
+      "answer": "run up against"
+    }
+  },
+  {
+    "id": "pv_sell_off_4110",
+    "lemma": "sell off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "elden çıkarmak, satmak"
+    ],
+    "synonyms": [
+      "dispose of",
+      "liquidate"
+    ],
+    "example": {
+      "text": "The state sold off several public enterprises during the privatisation wave.",
+      "translation": "Devlet özelleştirme dalgası sırasında birçok kamu işletmesini elden çıkardı."
+    },
+    "cloze": {
+      "template": "The state {{cloze}} several public enterprises during the privatisation wave.",
+      "answer": "sold off"
+    }
+  },
+  {
+    "id": "pv_smooth_over_4111",
+    "lemma": "smooth over",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yatıştırmak, üstünü örtmek"
+    ],
+    "synonyms": [
+      "gloss over",
+      "mitigate"
+    ],
+    "example": {
+      "text": "Diplomatic efforts were made to smooth over tensions between the two nations.",
+      "translation": "İki ülke arasındaki gerginliği yatıştırmak için diplomatik çabalar gösterildi."
+    },
+    "cloze": {
+      "template": "Diplomatic efforts were made to {{cloze}} tensions between the two nations.",
+      "answer": "smooth over"
+    }
+  },
+  {
+    "id": "pv_snap_up_4112",
+    "lemma": "snap up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "hemen kapmak"
+    ],
+    "synonyms": [
+      "seize",
+      "grab"
+    ],
+    "example": {
+      "text": "International corporations quickly snapped up the newly privatised firms.",
+      "translation": "Uluslararası şirketler yeni özelleştirilmiş firmaları hızla kaptı."
+    },
+    "cloze": {
+      "template": "International corporations quickly {{cloze}} the newly privatised firms.",
+      "answer": "snapped up"
+    }
+  },
+  {
+    "id": "pv_spell_out_4113",
+    "lemma": "spell out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "açıkça belirtmek"
+    ],
+    "synonyms": [
+      "clarify",
+      "specify"
+    ],
+    "example": {
+      "text": "The directive spells out the responsibilities of each participating body.",
+      "translation": "Yönerge her katılımcı kuruluşun sorumluluklarını açıkça belirtmektedir."
+    },
+    "cloze": {
+      "template": "The directive {{cloze}} the responsibilities of each participating body.",
+      "answer": "spells out"
+    }
+  },
+  {
+    "id": "pv_spring_up_4114",
+    "lemma": "spring up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "aniden ortaya çıkmak"
+    ],
+    "synonyms": [
+      "emerge",
+      "appear"
+    ],
+    "example": {
+      "text": "New technology start-ups have sprung up across the region in recent years.",
+      "translation": "Son yıllarda bölge genelinde yeni teknoloji girişimleri aniden ortaya çıkmıştır."
+    },
+    "cloze": {
+      "template": "New technology start-ups have {{cloze}} across the region in recent years.",
+      "answer": "sprung up"
+    }
+  },
+  {
+    "id": "pv_stamp_out_4115",
+    "lemma": "stamp out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ortadan kaldırmak, bastırmak"
+    ],
+    "synonyms": [
+      "eradicate",
+      "eliminate"
+    ],
+    "example": {
+      "text": "Concerted efforts are needed to stamp out corruption at all levels of government.",
+      "translation": "Yolsuzluğu hükümetin tüm düzeylerinde ortadan kaldırmak için ortak çabalar gereklidir."
+    },
+    "cloze": {
+      "template": "Concerted efforts are needed to {{cloze}} corruption at all levels of government.",
+      "answer": "stamp out"
+    }
+  },
+  {
+    "id": "pv_stem_from_4116",
+    "lemma": "stem from",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kaynaklanmak"
+    ],
+    "synonyms": [
+      "originate",
+      "arise"
+    ],
+    "example": {
+      "text": "Many of the current problems stem from decades of underinvestment.",
+      "translation": "Mevcut sorunların çoğu on yıllarca süren eksik yatırımdan kaynaklanmaktadır."
+    },
+    "cloze": {
+      "template": "Many of the current problems {{cloze}} decades of underinvestment.",
+      "answer": "stem from"
+    }
+  },
+  {
+    "id": "pv_strip_away_4117",
+    "lemma": "strip away",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "soymak, ortadan kaldırmak"
+    ],
+    "synonyms": [
+      "remove",
+      "dismantle"
+    ],
+    "example": {
+      "text": "The reforms stripped away layers of bureaucratic regulation.",
+      "translation": "Reformlar katman katman bürokratik düzenlemeyi ortadan kaldırdı."
+    },
+    "cloze": {
+      "template": "The reforms {{cloze}} layers of bureaucratic regulation.",
+      "answer": "stripped away"
+    }
+  },
+  {
+    "id": "pv_taper_off_4118",
+    "lemma": "taper off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "tedricen azalmak"
+    ],
+    "synonyms": [
+      "diminish",
+      "decline"
+    ],
+    "example": {
+      "text": "Foreign investment in the sector began to taper off after the regulatory changes.",
+      "translation": "Sektöre yapılan yabancı yatırım düzenleyici değişikliklerden sonra tedricen azalmaya başladı."
+    },
+    "cloze": {
+      "template": "Foreign investment in the sector began to {{cloze}} after the regulatory changes.",
+      "answer": "taper off"
+    }
+  },
+  {
+    "id": "pv_water_down_4119",
+    "lemma": "water down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sulandırmak, hafifletmek"
+    ],
+    "synonyms": [
+      "dilute",
+      "weaken"
+    ],
+    "example": {
+      "text": "Critics argued that the legislation had been watered down to appease industry lobbyists.",
+      "translation": "Eleştirmenler mevzuatın sanayi lobicilerini memnun etmek için sulandırıldığını savundu."
+    },
+    "cloze": {
+      "template": "Critics argued that the legislation had been {{cloze}} to appease industry lobbyists.",
+      "answer": "watered down"
+    }
+  },
+  {
+    "id": "pv_wind_up_4120",
+    "lemma": "wind up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sonuçlanmak, tasfiye etmek"
+    ],
+    "synonyms": [
+      "conclude",
+      "terminate"
+    ],
+    "example": {
+      "text": "Companies that fail to comply with regulations may wind up facing heavy penalties.",
+      "translation": "Düzenlemelere uymayan şirketler ağır cezalarla karşı karşıya kalabilir."
+    },
+    "cloze": {
+      "template": "Companies that fail to comply with regulations may {{cloze}} facing heavy penalties.",
+      "answer": "wind up"
+    }
+  }
+]

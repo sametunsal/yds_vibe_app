@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "conj_alternatively_3001",
+    "lemma": "besides",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "bunun yanı sıra, ayrıca"
+    ],
+    "synonyms": [
+      "moreover",
+      "furthermore"
+    ],
+    "example": {
+      "text": "The project lacked funding; besides, the timeline was unrealistic.",
+      "translation": "Projenin finansmanı yoktu; bunun yanı sıra zaman çizelgesi de gerçekçi değildi."
+    },
+    "cloze": {
+      "template": "The project lacked funding; {{cloze}}, the timeline was unrealistic.",
+      "answer": "besides"
+    }
+  },
+  {
+    "id": "conj_consequently_3002",
+    "lemma": "consequently",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "sonuç olarak"
+    ],
+    "synonyms": [
+      "therefore",
+      "thus"
+    ],
+    "example": {
+      "text": "Emissions were not reduced; consequently, air quality continued to decline.",
+      "translation": "Emisyonlar azaltılmadı; sonuç olarak hava kalitesi düşmeye devam etti."
+    },
+    "cloze": {
+      "template": "Emissions were not reduced; {{cloze}}, air quality continued to decline.",
+      "answer": "consequently"
+    }
+  },
+  {
+    "id": "conj_conversely_3003",
+    "lemma": "conversely",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "tersine, aksine"
+    ],
+    "synonyms": [
+      "on the contrary",
+      "by contrast"
+    ],
+    "example": {
+      "text": "Rural areas experienced decline; conversely, urban regions showed rapid growth.",
+      "translation": "Kırsal alanlar geriledi; tersine kentsel bölgeler hızlı büyüme gösterdi."
+    },
+    "cloze": {
+      "template": "Rural areas experienced decline; {{cloze}}, urban regions showed rapid growth.",
+      "answer": "conversely"
+    }
+  },
+  {
+    "id": "conj_eventually_3004",
+    "lemma": "eventually",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "sonunda, nihayetinde"
+    ],
+    "synonyms": [
+      "finally",
+      "ultimately"
+    ],
+    "example": {
+      "text": "The negotiations were difficult, but the parties eventually reached an agreement.",
+      "translation": "Müzakereler zorlu oldu ancak taraflar sonunda bir anlaşmaya vardı."
+    },
+    "cloze": {
+      "template": "The negotiations were difficult, but the parties {{cloze}} reached an agreement.",
+      "answer": "eventually"
+    }
+  },
+  {
+    "id": "conj_however_3005",
+    "lemma": "however",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "bununla birlikte, ancak"
+    ],
+    "synonyms": [
+      "nevertheless",
+      "nonetheless"
+    ],
+    "example": {
+      "text": "The results were promising; however, further research is needed.",
+      "translation": "Sonuçlar umut vericiydi; ancak daha fazla araştırmaya ihtiyaç var."
+    },
+    "cloze": {
+      "template": "The results were promising; {{cloze}}, further research is needed.",
+      "answer": "however"
+    }
+  },
+  {
+    "id": "conj_indeed_3006",
+    "lemma": "indeed",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "gerçekten de, nitekim"
+    ],
+    "synonyms": [
+      "in fact",
+      "certainly"
+    ],
+    "example": {
+      "text": "The theory is widely accepted; indeed, it has been confirmed by multiple experiments.",
+      "translation": "Teori yaygın biçimde kabul görmektedir; nitekim birçok deneyle doğrulanmıştır."
+    },
+    "cloze": {
+      "template": "The theory is widely accepted; {{cloze}}, it has been confirmed by multiple experiments.",
+      "answer": "indeed"
+    }
+  },
+  {
+    "id": "conj_likewise_3007",
+    "lemma": "likewise",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "aynı şekilde, benzer biçimde"
+    ],
+    "synonyms": [
+      "similarly",
+      "equally"
+    ],
+    "example": {
+      "text": "The programme benefited students; likewise, teachers reported positive outcomes.",
+      "translation": "Program öğrencilere fayda sağladı; aynı şekilde öğretmenler de olumlu sonuçlar bildirdi."
+    },
+    "cloze": {
+      "template": "The programme benefited students; {{cloze}}, teachers reported positive outcomes.",
+      "answer": "likewise"
+    }
+  },
+  {
+    "id": "conj_meanwhile_3008",
+    "lemma": "meanwhile",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "bu arada, bu sırada"
+    ],
+    "synonyms": [
+      "in the meantime",
+      "simultaneously"
+    ],
+    "example": {
+      "text": "Exports declined sharply; meanwhile, domestic consumption continued to rise.",
+      "translation": "İhracat keskin biçimde düştü; bu arada iç tüketim artmaya devam etti."
+    },
+    "cloze": {
+      "template": "Exports declined sharply; {{cloze}}, domestic consumption continued to rise.",
+      "answer": "meanwhile"
+    }
+  },
+  {
+    "id": "conj_moreover_3009",
+    "lemma": "moreover",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "üstelik, dahası"
+    ],
+    "synonyms": [
+      "furthermore",
+      "additionally"
+    ],
+    "example": {
+      "text": "The study had a large sample size; moreover, the methodology was robust.",
+      "translation": "Çalışmanın örneklem büyüklüğü geniş idi; üstelik metodolojisi de sağlamdı."
+    },
+    "cloze": {
+      "template": "The study had a large sample size; {{cloze}}, the methodology was robust.",
+      "answer": "moreover"
+    }
+  },
+  {
+    "id": "conj_nevertheless_3010",
+    "lemma": "nevertheless",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "yine de, buna rağmen"
+    ],
+    "synonyms": [
+      "nonetheless",
+      "however"
+    ],
+    "example": {
+      "text": "The evidence was limited; nevertheless, the committee proceeded with the recommendation.",
+      "translation": "Kanıtlar sınırlıydı; yine de komite tavsiyeye devam etti."
+    },
+    "cloze": {
+      "template": "The evidence was limited; {{cloze}}, the committee proceeded with the recommendation.",
+      "answer": "nevertheless"
+    }
+  },
+  {
+    "id": "conj_notwithstanding_3011",
+    "lemma": "notwithstanding",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "buna karşın, rağmen"
+    ],
+    "synonyms": [
+      "despite",
+      "in spite of"
+    ],
+    "example": {
+      "text": "Notwithstanding the objections, the reforms were implemented.",
+      "translation": "İtirazlara karşın reformlar uygulandı."
+    },
+    "cloze": {
+      "template": "{{cloze}} the objections, the reforms were implemented.",
+      "answer": "Notwithstanding"
+    }
+  },
+  {
+    "id": "conj_otherwise_3012",
+    "lemma": "otherwise",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "aksi takdirde"
+    ],
+    "synonyms": [
+      "alternatively",
+      "if not"
+    ],
+    "example": {
+      "text": "Standards must be strictly enforced; otherwise, public safety will be compromised.",
+      "translation": "Standartlar sıkı bir şekilde uygulanmalıdır; aksi takdirde kamu güvenliği tehlikeye girecektir."
+    },
+    "cloze": {
+      "template": "Standards must be strictly enforced; {{cloze}}, public safety will be compromised.",
+      "answer": "otherwise"
+    }
+  },
+  {
+    "id": "conj_overall_3013",
+    "lemma": "overall",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "genel olarak"
+    ],
+    "synonyms": [
+      "in general",
+      "all in all"
+    ],
+    "example": {
+      "text": "Overall, the initiative has achieved its primary objectives.",
+      "translation": "Genel olarak girişim temel hedeflerine ulaşmıştır."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the initiative has achieved its primary objectives.",
+      "answer": "Overall"
+    }
+  },
+  {
+    "id": "conj_rather_3014",
+    "lemma": "rather",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "daha ziyade, aksine"
+    ],
+    "synonyms": [
+      "instead",
+      "on the contrary"
+    ],
+    "example": {
+      "text": "The failure was not due to lack of effort but rather to inadequate planning.",
+      "translation": "Başarısızlık çaba eksikliğinden değil daha ziyade yetersiz planlamadan kaynaklandı."
+    },
+    "cloze": {
+      "template": "The failure was not due to lack of effort but {{cloze}} to inadequate planning.",
+      "answer": "rather"
+    }
+  },
+  {
+    "id": "conj_similarly_3015",
+    "lemma": "similarly",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "benzer şekilde"
+    ],
+    "synonyms": [
+      "likewise",
+      "in the same way"
+    ],
+    "example": {
+      "text": "Developed nations face ageing populations; similarly, some developing countries are encountering the same trend.",
+      "translation": "Gelişmiş ülkeler yaşlanan nüfusla karşı karşıyadır; benzer şekilde bazı gelişmekte olan ülkeler de aynı eğilimle karşılaşmaktadır."
+    },
+    "cloze": {
+      "template": "Developed nations face ageing populations; {{cloze}}, some developing countries are encountering the same trend.",
+      "answer": "similarly"
+    }
+  },
+  {
+    "id": "conj_still_3016",
+    "lemma": "still",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "yine de, hâlâ"
+    ],
+    "synonyms": [
+      "yet",
+      "nevertheless"
+    ],
+    "example": {
+      "text": "The economy is recovering, but unemployment is still high.",
+      "translation": "Ekonomi toparlanıyor ancak işsizlik hâlâ yüksek."
+    },
+    "cloze": {
+      "template": "The economy is recovering, but unemployment is {{cloze}} high.",
+      "answer": "still"
+    }
+  },
+  {
+    "id": "conj_subsequently_3017",
+    "lemma": "therefore",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "bu nedenle, dolayısıyla"
+    ],
+    "synonyms": [
+      "consequently",
+      "thus"
+    ],
+    "example": {
+      "text": "The data was inconclusive; therefore, the hypothesis could not be confirmed.",
+      "translation": "Veriler belirsizdi; bu nedenle hipotez doğrulanamadı."
+    },
+    "cloze": {
+      "template": "The data was inconclusive; {{cloze}}, the hypothesis could not be confirmed.",
+      "answer": "therefore"
+    }
+  },
+  {
+    "id": "conj_thus_3018",
+    "lemma": "thus",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "böylece, dolayısıyla"
+    ],
+    "synonyms": [
+      "therefore",
+      "consequently"
+    ],
+    "example": {
+      "text": "Costs were reduced by half, thus allowing greater investment in research.",
+      "translation": "Maliyetler yarıya düşürüldü, böylece araştırmaya daha fazla yatırım yapılmasına olanak sağlandı."
+    },
+    "cloze": {
+      "template": "Costs were reduced by half, {{cloze}} allowing greater investment in research.",
+      "answer": "thus"
+    }
+  },
+  {
+    "id": "conj_undoubtedly_3019",
+    "lemma": "yet",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "yine de, ama"
+    ],
+    "synonyms": [
+      "however",
+      "still"
+    ],
+    "example": {
+      "text": "The approach is innovative, yet it raises several ethical concerns.",
+      "translation": "Yaklaşım yenilikçidir, yine de birçok etik kaygıyı gündeme getirmektedir."
+    },
+    "cloze": {
+      "template": "The approach is innovative, {{cloze}} it raises several ethical concerns.",
+      "answer": "yet"
+    }
+  },
+  {
+    "id": "conj_notably_3020",
+    "lemma": "notably",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "özellikle, dikkate değer biçimde"
+    ],
+    "synonyms": [
+      "particularly",
+      "especially"
+    ],
+    "example": {
+      "text": "Several countries opposed the treaty, notably those with large industrial sectors.",
+      "translation": "Birçok ülke anlaşmaya karşı çıktı, özellikle büyük sanayi sektörlerine sahip olanlar."
+    },
+    "cloze": {
+      "template": "Several countries opposed the treaty, {{cloze}} those with large industrial sectors.",
+      "answer": "notably"
+    }
+  },
+  {
+    "id": "conj_incidentally_3021",
+    "lemma": "alternatively",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "alternatif olarak"
+    ],
+    "synonyms": [
+      "otherwise",
+      "instead"
+    ],
+    "example": {
+      "text": "The samples can be stored at room temperature; alternatively, they may be refrigerated.",
+      "translation": "Numuneler oda sıcaklığında saklanabilir; alternatif olarak buzdolabında muhafaza edilebilir."
+    },
+    "cloze": {
+      "template": "The samples can be stored at room temperature; {{cloze}}, they may be refrigerated.",
+      "answer": "alternatively"
+    }
+  },
+  {
+    "id": "conj_namely_3022",
+    "lemma": "namely",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "yani, şöyle ki"
+    ],
+    "synonyms": [
+      "that is",
+      "specifically"
+    ],
+    "example": {
+      "text": "One factor was decisive, namely the lack of institutional support.",
+      "translation": "Bir faktör belirleyiciydi, yani kurumsal destek eksikliği."
+    },
+    "cloze": {
+      "template": "One factor was decisive, {{cloze}} the lack of institutional support.",
+      "answer": "namely"
+    }
+  },
+  {
+    "id": "conj_also_3023",
+    "lemma": "also",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "ayrıca, da/de"
+    ],
+    "synonyms": [
+      "moreover",
+      "besides"
+    ],
+    "example": {
+      "text": "The report addresses economic issues and also examines social implications.",
+      "translation": "Rapor ekonomik sorunları ele almaktadır ve ayrıca sosyal etkileri incelemektedir."
+    },
+    "cloze": {
+      "template": "The report addresses economic issues and {{cloze}} examines social implications.",
+      "answer": "also"
+    }
+  },
+  {
+    "id": "conj_hereafter_3024",
+    "lemma": "hereafter",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "bundan sonra"
+    ],
+    "synonyms": [
+      "henceforth",
+      "from now on"
+    ],
+    "example": {
+      "text": "The organisation shall hereafter be referred to as 'the Agency.'",
+      "translation": "Kuruluş bundan sonra 'Ajans' olarak anılacaktır."
+    },
+    "cloze": {
+      "template": "The organisation shall {{cloze}} be referred to as 'the Agency.'",
+      "answer": "hereafter"
+    }
+  },
+  {
+    "id": "conj_indeed_3025",
+    "lemma": "whereupon",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "bunun üzerine"
+    ],
+    "synonyms": [
+      "after which",
+      "upon which"
+    ],
+    "example": {
+      "text": "The committee voted unanimously, whereupon the resolution was officially adopted.",
+      "translation": "Komite oybirliğiyle karar verdi, bunun üzerine karar resmi olarak kabul edildi."
+    },
+    "cloze": {
+      "template": "The committee voted unanimously, {{cloze}} the resolution was officially adopted.",
+      "answer": "whereupon"
+    }
+  },
+  {
+    "id": "conj_that_is_3026",
+    "lemma": "that is",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "yani"
+    ],
+    "synonyms": [
+      "namely",
+      "in other words"
+    ],
+    "example": {
+      "text": "The study focused on adolescents, that is, individuals aged between 13 and 19.",
+      "translation": "Çalışma ergenler, yani 13-19 yaş arası bireyler üzerine odaklandı."
+    },
+    "cloze": {
+      "template": "The study focused on adolescents, {{cloze}}, individuals aged between 13 and 19.",
+      "answer": "that is"
+    }
+  },
+  {
+    "id": "conj_likewise_3027",
+    "lemma": "furthermore",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "ayrıca, bunun ötesinde"
+    ],
+    "synonyms": [
+      "moreover",
+      "additionally"
+    ],
+    "example": {
+      "text": "The project exceeded its targets; furthermore, it was completed under budget.",
+      "translation": "Proje hedeflerini aştı; ayrıca bütçe altında tamamlandı."
+    },
+    "cloze": {
+      "template": "The project exceeded its targets; {{cloze}}, it was completed under budget.",
+      "answer": "furthermore"
+    }
+  },
+  {
+    "id": "conj_insomuch_3028",
+    "lemma": "insomuch",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "o kadar ki, öyle ki"
+    ],
+    "synonyms": [
+      "to such an extent",
+      "so much so"
+    ],
+    "example": {
+      "text": "The economy deteriorated insomuch that unemployment doubled within a year.",
+      "translation": "Ekonomi o kadar kötüleşti ki işsizlik bir yıl içinde iki katına çıktı."
+    },
+    "cloze": {
+      "template": "The economy deteriorated {{cloze}} that unemployment doubled within a year.",
+      "answer": "insomuch"
+    }
+  },
+  {
+    "id": "conj_ergo_3029",
+    "lemma": "ergo",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "bu yüzden, binaenaleyh"
+    ],
+    "synonyms": [
+      "therefore",
+      "hence"
+    ],
+    "example": {
+      "text": "The hypothesis was not falsified; ergo, it remains a viable explanation.",
+      "translation": "Hipotez çürütülemedi; bu yüzden geçerli bir açıklama olarak kalmaktadır."
+    },
+    "cloze": {
+      "template": "The hypothesis was not falsified; {{cloze}}, it remains a viable explanation.",
+      "answer": "ergo"
+    }
+  },
+  {
+    "id": "conj_thence_3030",
+    "lemma": "thence",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "oradan, o nedenle"
+    ],
+    "synonyms": [
+      "from there",
+      "therefore"
+    ],
+    "example": {
+      "text": "The goods were shipped to Rotterdam and thence distributed across Europe.",
+      "translation": "Mallar Rotterdam'a gönderildi ve oradan Avrupa'ya dağıtıldı."
+    },
+    "cloze": {
+      "template": "The goods were shipped to Rotterdam and {{cloze}} distributed across Europe.",
+      "answer": "thence"
+    }
+  },
+  {
+    "id": "conj_admittedly_3031",
+    "lemma": "admittedly",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "kabul edilmelidir ki"
+    ],
+    "synonyms": [
+      "concededly",
+      "granted"
+    ],
+    "example": {
+      "text": "Admittedly, the sample size was smaller than ideal.",
+      "translation": "Kabul edilmelidir ki örneklem büyüklüğü idealden küçüktü."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the sample size was smaller than ideal.",
+      "answer": "Admittedly"
+    }
+  },
+  {
+    "id": "conj_ironically_3032",
+    "lemma": "ironically",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "ironik bir şekilde"
+    ],
+    "synonyms": [
+      "paradoxically",
+      "surprisingly"
+    ],
+    "example": {
+      "text": "Ironically, the policy intended to reduce inequality actually widened it.",
+      "translation": "İronik bir şekilde eşitsizliği azaltmayı amaçlayan politika aslında onu derinleştirdi."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the policy intended to reduce inequality actually widened it.",
+      "answer": "Ironically"
+    }
+  },
+  {
+    "id": "conj_contrarily_3033",
+    "lemma": "contrarily",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "aksine"
+    ],
+    "synonyms": [
+      "conversely",
+      "on the contrary"
+    ],
+    "example": {
+      "text": "The initial data suggested improvement; contrarily, the follow-up revealed deterioration.",
+      "translation": "İlk veriler iyileşmeyi gösterdi; aksine takip sonuçları kötüleşme ortaya koydu."
+    },
+    "cloze": {
+      "template": "The initial data suggested improvement; {{cloze}}, the follow-up revealed deterioration.",
+      "answer": "contrarily"
+    }
+  },
+  {
+    "id": "conj_undeniably_3034",
+    "lemma": "undeniably",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "inkâr edilemez biçimde"
+    ],
+    "synonyms": [
+      "indisputably",
+      "unquestionably"
+    ],
+    "example": {
+      "text": "Technology has undeniably transformed the educational landscape.",
+      "translation": "Teknoloji inkâr edilemez biçimde eğitim alanını dönüştürmüştür."
+    },
+    "cloze": {
+      "template": "Technology has {{cloze}} transformed the educational landscape.",
+      "answer": "undeniably"
+    }
+  },
+  {
+    "id": "conj_curiously_3035",
+    "lemma": "curiously",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "ilginç bir şekilde"
+    ],
+    "synonyms": [
+      "interestingly",
+      "oddly"
+    ],
+    "example": {
+      "text": "Curiously, the phenomenon has never been documented in tropical regions.",
+      "translation": "İlginç bir şekilde bu olgu tropikal bölgelerde hiç belgelenmemiştir."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the phenomenon has never been documented in tropical regions.",
+      "answer": "Curiously"
+    }
+  },
+  {
+    "id": "conj_typically_3036",
+    "lemma": "typically",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "tipik olarak"
+    ],
+    "synonyms": [
+      "usually",
+      "normally"
+    ],
+    "example": {
+      "text": "Policy reforms typically require years before their effects become apparent.",
+      "translation": "Politika reformları tipik olarak etkileri belirgin hale gelmeden önce yıllar gerektirir."
+    },
+    "cloze": {
+      "template": "Policy reforms {{cloze}} require years before their effects become apparent.",
+      "answer": "typically"
+    }
+  },
+  {
+    "id": "conj_supposedly_3037",
+    "lemma": "presumably",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "muhtemelen, büyük olasılıkla"
+    ],
+    "synonyms": [
+      "probably",
+      "likely"
+    ],
+    "example": {
+      "text": "The artefact was presumably crafted during the late Bronze Age.",
+      "translation": "Eserin muhtemelen geç Tunç Çağı'nda yapıldığı düşünülmektedir."
+    },
+    "cloze": {
+      "template": "The artefact was {{cloze}} crafted during the late Bronze Age.",
+      "answer": "presumably"
+    }
+  },
+  {
+    "id": "conj_conceivably_3038",
+    "lemma": "thereafter",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "bundan sonra, ardından"
+    ],
+    "synonyms": [
+      "subsequently",
+      "afterwards"
+    ],
+    "example": {
+      "text": "The regulation was enacted in 2010 and was strictly enforced thereafter.",
+      "translation": "Düzenleme 2010'da yürürlüğe girdi ve ardından sıkı bir şekilde uygulandı."
+    },
+    "cloze": {
+      "template": "The regulation was enacted in 2010 and was strictly enforced {{cloze}}.",
+      "answer": "thereafter"
+    }
+  },
+  {
+    "id": "conj_correspondingly_3039",
+    "lemma": "correspondingly",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "buna karşılık, uygun olarak"
+    ],
+    "synonyms": [
+      "accordingly",
+      "proportionally"
+    ],
+    "example": {
+      "text": "Demand for skilled labour increased; correspondingly, wages rose steadily.",
+      "translation": "Nitelikli işgücüne talep arttı; buna karşılık ücretler istikrarlı biçimde yükseldi."
+    },
+    "cloze": {
+      "template": "Demand for skilled labour increased; {{cloze}}, wages rose steadily.",
+      "answer": "correspondingly"
+    }
+  },
+  {
+    "id": "conj_ultimately_3040",
+    "lemma": "ultimately",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "nihayetinde, sonuçta"
+    ],
+    "synonyms": [
+      "finally",
+      "in the end"
+    ],
+    "example": {
+      "text": "The debate was prolonged, but the council ultimately approved the amendment.",
+      "translation": "Tartışma uzamıştı, ancak konsey nihayetinde değişikliği onayladı."
+    },
+    "cloze": {
+      "template": "The debate was prolonged, but the council {{cloze}} approved the amendment.",
+      "answer": "ultimately"
+    }
+  },
+  {
+    "id": "conj_incidentally_3041",
+    "lemma": "incidentally",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "bu arada, tesadüfen"
+    ],
+    "synonyms": [
+      "by the way",
+      "coincidentally"
+    ],
+    "example": {
+      "text": "Incidentally, the same pattern was observed in a parallel experiment.",
+      "translation": "Bu arada aynı örüntü paralel bir deneyde de gözlemlendi."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the same pattern was observed in a parallel experiment.",
+      "answer": "Incidentally"
+    }
+  },
+  {
+    "id": "conj_specifically_3042",
+    "lemma": "specifically",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "spesifik olarak"
+    ],
+    "synonyms": [
+      "particularly",
+      "precisely"
+    ],
+    "example": {
+      "text": "The guidelines apply to all departments, specifically those handling sensitive data.",
+      "translation": "Yönergeler tüm departmanlar için geçerlidir, spesifik olarak hassas veri işleyenler için."
+    },
+    "cloze": {
+      "template": "The guidelines apply to all departments, {{cloze}} those handling sensitive data.",
+      "answer": "specifically"
+    }
+  },
+  {
+    "id": "conj_equally_3043",
+    "lemma": "equally",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "eşit derecede"
+    ],
+    "synonyms": [
+      "similarly",
+      "likewise"
+    ],
+    "example": {
+      "text": "Social factors are equally important in determining health outcomes.",
+      "translation": "Sosyal faktörler sağlık sonuçlarının belirlenmesinde eşit derecede önemlidir."
+    },
+    "cloze": {
+      "template": "Social factors are {{cloze}} important in determining health outcomes.",
+      "answer": "equally"
+    }
+  },
+  {
+    "id": "conj_accordingly_3044",
+    "lemma": "accordingly",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "buna göre"
+    ],
+    "synonyms": [
+      "consequently",
+      "therefore"
+    ],
+    "example": {
+      "text": "The budget was reduced; accordingly, several programmes were suspended.",
+      "translation": "Bütçe azaltıldı; buna göre birçok program askıya alındı."
+    },
+    "cloze": {
+      "template": "The budget was reduced; {{cloze}}, several programmes were suspended.",
+      "answer": "accordingly"
+    }
+  },
+  {
+    "id": "conj_granted_3045",
+    "lemma": "granted",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "kabul edelim ki, her ne kadar"
+    ],
+    "synonyms": [
+      "admittedly",
+      "conceded"
+    ],
+    "example": {
+      "text": "Granted, the model has limitations, but it offers a useful starting point.",
+      "translation": "Kabul edelim ki modelin sınırlamaları var, ancak yararlı bir başlangıç noktası sunuyor."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the model has limitations, but it offers a useful starting point.",
+      "answer": "Granted"
+    }
+  },
+  {
+    "id": "conj_arguably_3046",
+    "lemma": "arguably",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "tartışmasız biçimde"
+    ],
+    "synonyms": [
+      "perhaps",
+      "possibly"
+    ],
+    "example": {
+      "text": "This is arguably the most significant development in modern genetics.",
+      "translation": "Bu tartışmasız modern genetikteki en önemli gelişmedir."
+    },
+    "cloze": {
+      "template": "This is {{cloze}} the most significant development in modern genetics.",
+      "answer": "arguably"
+    }
+  },
+  {
+    "id": "conj_inversely_3047",
+    "lemma": "inversely",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "ters orantılı olarak"
+    ],
+    "synonyms": [
+      "conversely",
+      "reciprocally"
+    ],
+    "example": {
+      "text": "Poverty and educational attainment are inversely correlated.",
+      "translation": "Yoksulluk ve eğitim düzeyi ters orantılı olarak ilişkilidir."
+    },
+    "cloze": {
+      "template": "Poverty and educational attainment are {{cloze}} correlated.",
+      "answer": "inversely"
+    }
+  },
+  {
+    "id": "conj_paradoxically_3048",
+    "lemma": "paradoxically",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "paradoks olarak"
+    ],
+    "synonyms": [
+      "ironically",
+      "contradictorily"
+    ],
+    "example": {
+      "text": "Paradoxically, the campaign to reduce waste actually generated more packaging.",
+      "translation": "Paradoks olarak atıkları azaltma kampanyası aslında daha fazla ambalaj üretti."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the campaign to reduce waste actually generated more packaging.",
+      "answer": "Paradoxically"
+    }
+  },
+  {
+    "id": "conj_presumably_3049",
+    "lemma": "supposedly",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "sözde, güya"
+    ],
+    "synonyms": [
+      "allegedly",
+      "purportedly"
+    ],
+    "example": {
+      "text": "The reforms were supposedly designed to improve transparency.",
+      "translation": "Reformların güya şeffaflığı artırmak için tasarlandığı söylendi."
+    },
+    "cloze": {
+      "template": "The reforms were {{cloze}} designed to improve transparency.",
+      "answer": "supposedly"
+    }
+  },
+  {
+    "id": "conj_ostensibly_3050",
+    "lemma": "ostensibly",
+    "pos": "conj",
+    "multiWord": false,
+    "meanings": [
+      "görünüşe göre, sözde"
+    ],
+    "synonyms": [
+      "apparently",
+      "seemingly"
+    ],
+    "example": {
+      "text": "The programme was ostensibly created to assist small businesses.",
+      "translation": "Programın görünüşe göre küçük işletmelere yardım etmek için oluşturulduğu söyleniyordu."
+    },
+    "cloze": {
+      "template": "The programme was {{cloze}} created to assist small businesses.",
+      "answer": "ostensibly"
+    }
+  },
+  {
+    "id": "phrase_on_the_other_hand_3051",
+    "lemma": "on the other hand",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "öte yandan"
+    ],
+    "synonyms": [
+      "conversely",
+      "alternatively"
+    ],
+    "example": {
+      "text": "Urbanisation brings economic benefits; on the other hand, it exacerbates environmental problems.",
+      "translation": "Kentleşme ekonomik faydalar getirir; öte yandan çevre sorunlarını ağırlaştırır."
+    },
+    "cloze": {
+      "template": "Urbanisation brings economic benefits; {{cloze}}, it exacerbates environmental problems.",
+      "answer": "on the other hand"
+    }
+  },
+  {
+    "id": "phrase_as_a_matter_of_fact_3052",
+    "lemma": "as a matter of fact",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "aslında, gerçeği söylemek gerekirse"
+    ],
+    "synonyms": [
+      "in fact",
+      "actually"
+    ],
+    "example": {
+      "text": "The policy was not ineffective; as a matter of fact, it produced measurable improvements.",
+      "translation": "Politika etkisiz değildi; aslında ölçülebilir iyileşmeler sağladı."
+    },
+    "cloze": {
+      "template": "The policy was not ineffective; {{cloze}}, it produced measurable improvements.",
+      "answer": "as a matter of fact"
+    }
+  },
+  {
+    "id": "phrase_in_other_words_3053",
+    "lemma": "in other words",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "başka bir deyişle"
+    ],
+    "synonyms": [
+      "that is",
+      "namely"
+    ],
+    "example": {
+      "text": "Participation was voluntary; in other words, no individual was obligated to attend.",
+      "translation": "Katılım gönüllüydü; başka bir deyişle hiçbir birey katılmaya zorunlu değildi."
+    },
+    "cloze": {
+      "template": "Participation was voluntary; {{cloze}}, no individual was obligated to attend.",
+      "answer": "in other words"
+    }
+  },
+  {
+    "id": "phrase_in_addition_3054",
+    "lemma": "in addition",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "buna ek olarak"
+    ],
+    "synonyms": [
+      "moreover",
+      "furthermore"
+    ],
+    "example": {
+      "text": "In addition, the committee recommended stricter enforcement of existing regulations.",
+      "translation": "Buna ek olarak komite mevcut düzenlemelerin daha sıkı uygulanmasını tavsiye etti."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the committee recommended stricter enforcement of existing regulations.",
+      "answer": "In addition"
+    }
+  },
+  {
+    "id": "phrase_in_addition_to_3055",
+    "lemma": "in addition to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...e ek olarak"
+    ],
+    "synonyms": [
+      "besides",
+      "apart from"
+    ],
+    "example": {
+      "text": "In addition to financial resources, the initiative requires political commitment.",
+      "translation": "Mali kaynaklara ek olarak girişim siyasi bağlılık gerektirmektedir."
+    },
+    "cloze": {
+      "template": "{{cloze}} financial resources, the initiative requires political commitment.",
+      "answer": "In addition to"
+    }
+  },
+  {
+    "id": "phrase_as_a_consequence_3056",
+    "lemma": "as a consequence",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bunun sonucunda"
+    ],
+    "synonyms": [
+      "as a result",
+      "consequently"
+    ],
+    "example": {
+      "text": "Deforestation accelerated; as a consequence, biodiversity in the region declined sharply.",
+      "translation": "Ormansızlaşma hızlandı; bunun sonucunda bölgedeki biyoçeşitlilik keskin biçimde azaldı."
+    },
+    "cloze": {
+      "template": "Deforestation accelerated; {{cloze}}, biodiversity in the region declined sharply.",
+      "answer": "as a consequence"
+    }
+  },
+  {
+    "id": "phrase_for_instance_3057",
+    "lemma": "for instance",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "örneğin"
+    ],
+    "synonyms": [
+      "for example",
+      "such as"
+    ],
+    "example": {
+      "text": "Several renewable sources are available; for instance, solar and wind energy are widely used.",
+      "translation": "Birçok yenilenebilir kaynak mevcuttur; örneğin güneş ve rüzgâr enerjisi yaygın biçimde kullanılmaktadır."
+    },
+    "cloze": {
+      "template": "Several renewable sources are available; {{cloze}}, solar and wind energy are widely used.",
+      "answer": "for instance"
+    }
+  },
+  {
+    "id": "phrase_for_example_3058",
+    "lemma": "for example",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "örneğin"
+    ],
+    "synonyms": [
+      "for instance",
+      "such as"
+    ],
+    "example": {
+      "text": "International cooperation can take many forms — for example, joint research projects.",
+      "translation": "Uluslararası işbirliği pek çok biçimde olabilir — örneğin ortak araştırma projeleri."
+    },
+    "cloze": {
+      "template": "International cooperation can take many forms — {{cloze}}, joint research projects.",
+      "answer": "for example"
+    }
+  },
+  {
+    "id": "phrase_in_particular_3059",
+    "lemma": "in particular",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "özellikle"
+    ],
+    "synonyms": [
+      "particularly",
+      "especially"
+    ],
+    "example": {
+      "text": "The policy affected developing nations, in particular, those with fragile economies.",
+      "translation": "Politika gelişmekte olan ülkeleri, özellikle kırılgan ekonomilere sahip olanları etkiledi."
+    },
+    "cloze": {
+      "template": "The policy affected developing nations, {{cloze}}, those with fragile economies.",
+      "answer": "in particular"
+    }
+  },
+  {
+    "id": "phrase_as_long_as_3060",
+    "lemma": "as long as",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...dığı sürece"
+    ],
+    "synonyms": [
+      "provided that",
+      "so long as"
+    ],
+    "example": {
+      "text": "The experiment will succeed as long as the variables are carefully controlled.",
+      "translation": "Değişkenler dikkatli biçimde kontrol edildiği sürece deney başarılı olacaktır."
+    },
+    "cloze": {
+      "template": "The experiment will succeed {{cloze}} the variables are carefully controlled.",
+      "answer": "as long as"
+    }
+  },
+  {
+    "id": "phrase_on_the_grounds_of_3061",
+    "lemma": "on the grounds of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...gerekçesiyle"
+    ],
+    "synonyms": [
+      "on the basis of",
+      "because of"
+    ],
+    "example": {
+      "text": "The application was rejected on the grounds of insufficient evidence.",
+      "translation": "Başvuru yetersiz kanıt gerekçesiyle reddedildi."
+    },
+    "cloze": {
+      "template": "The application was rejected {{cloze}} insufficient evidence.",
+      "answer": "on the grounds of"
+    }
+  },
+  {
+    "id": "phrase_in_spite_of_3062",
+    "lemma": "in spite of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...e rağmen"
+    ],
+    "synonyms": [
+      "despite",
+      "notwithstanding"
+    ],
+    "example": {
+      "text": "In spite of the adverse conditions, the expedition achieved its goals.",
+      "translation": "Olumsuz koşullara rağmen keşif gezisi hedeflerine ulaştı."
+    },
+    "cloze": {
+      "template": "{{cloze}} the adverse conditions, the expedition achieved its goals.",
+      "answer": "In spite of"
+    }
+  },
+  {
+    "id": "phrase_owing_to_3063",
+    "lemma": "owing to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...den dolayı"
+    ],
+    "synonyms": [
+      "due to",
+      "because of"
+    ],
+    "example": {
+      "text": "Owing to a shortage of raw materials, production was halted temporarily.",
+      "translation": "Hammadde kıtlığından dolayı üretim geçici olarak durduruldu."
+    },
+    "cloze": {
+      "template": "{{cloze}} a shortage of raw materials, production was halted temporarily.",
+      "answer": "Owing to"
+    }
+  },
+  {
+    "id": "phrase_due_to_3064",
+    "lemma": "due to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...den dolayı, sebebiyle"
+    ],
+    "synonyms": [
+      "owing to",
+      "because of"
+    ],
+    "example": {
+      "text": "The delay was due to unforeseen technical difficulties.",
+      "translation": "Gecikme öngörülemeyen teknik zorluklardan dolayıydı."
+    },
+    "cloze": {
+      "template": "The delay was {{cloze}} unforeseen technical difficulties.",
+      "answer": "due to"
+    }
+  },
+  {
+    "id": "phrase_with_reference_to_3065",
+    "lemma": "with reference to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ye atıfla"
+    ],
+    "synonyms": [
+      "regarding",
+      "with respect to"
+    ],
+    "example": {
+      "text": "With reference to the latest report, several discrepancies were identified.",
+      "translation": "Son rapora atıfla birçok tutarsızlık tespit edildi."
+    },
+    "cloze": {
+      "template": "{{cloze}} the latest report, several discrepancies were identified.",
+      "answer": "With reference to"
+    }
+  },
+  {
+    "id": "phrase_in_contrast_3066",
+    "lemma": "in contrast",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "buna karşılık, aksine"
+    ],
+    "synonyms": [
+      "by contrast",
+      "on the contrary"
+    ],
+    "example": {
+      "text": "Rural migration decreased; in contrast, urban-to-rural movement increased.",
+      "translation": "Kırsal göç azaldı; buna karşılık kentten kıra yönelen hareket arttı."
+    },
+    "cloze": {
+      "template": "Rural migration decreased; {{cloze}}, urban-to-rural movement increased.",
+      "answer": "in contrast"
+    }
+  },
+  {
+    "id": "phrase_as_such_3067",
+    "lemma": "as such",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bu nedenle, bu sıfatla"
+    ],
+    "synonyms": [
+      "therefore",
+      "consequently"
+    ],
+    "example": {
+      "text": "The project is classified as high risk and, as such, requires additional oversight.",
+      "translation": "Proje yüksek riskli olarak sınıflandırılmıştır ve bu nedenle ek denetim gerektirmektedir."
+    },
+    "cloze": {
+      "template": "The project is classified as high risk and, {{cloze}}, requires additional oversight.",
+      "answer": "as such"
+    }
+  },
+  {
+    "id": "phrase_so_as_to_3068",
+    "lemma": "so as to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...mek amacıyla"
+    ],
+    "synonyms": [
+      "in order to",
+      "with the aim of"
+    ],
+    "example": {
+      "text": "Strict regulations were imposed so as to prevent environmental degradation.",
+      "translation": "Çevresel bozulmayı önlemek amacıyla katı düzenlemeler uygulandı."
+    },
+    "cloze": {
+      "template": "Strict regulations were imposed {{cloze}} prevent environmental degradation.",
+      "answer": "so as to"
+    }
+  },
+  {
+    "id": "phrase_in_turn_3069",
+    "lemma": "in turn",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "sırayla, bunun sonucunda"
+    ],
+    "synonyms": [
+      "consequently",
+      "subsequently"
+    ],
+    "example": {
+      "text": "Higher education improves employability, which in turn reduces poverty levels.",
+      "translation": "Yükseköğretim istihdam edilebilirliği artırır, bu da sırayla yoksulluk düzeylerini azaltır."
+    },
+    "cloze": {
+      "template": "Higher education improves employability, which {{cloze}} reduces poverty levels.",
+      "answer": "in turn"
+    }
+  },
+  {
+    "id": "phrase_not_to_mention_3070",
+    "lemma": "not to mention",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...den bahsetmeye bile gerek yok"
+    ],
+    "synonyms": [
+      "let alone",
+      "besides"
+    ],
+    "example": {
+      "text": "The initiative saved time and money, not to mention the environmental benefits.",
+      "translation": "Girişim zaman ve para tasarrufu sağladı, çevresel faydalarından bahsetmeye bile gerek yok."
+    },
+    "cloze": {
+      "template": "The initiative saved time and money, {{cloze}} the environmental benefits.",
+      "answer": "not to mention"
+    }
+  },
+  {
+    "id": "phrase_inasmuch_as_3071",
+    "lemma": "in so doing",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bunu yaparak"
+    ],
+    "synonyms": [
+      "thereby",
+      "by doing so"
+    ],
+    "example": {
+      "text": "The government privatised key industries and, in so doing, altered the economic landscape.",
+      "translation": "Hükümet kilit sektörleri özelleştirdi ve bunu yaparak ekonomik manzarayı değiştirdi."
+    },
+    "cloze": {
+      "template": "The government privatised key industries and, {{cloze}}, altered the economic landscape.",
+      "answer": "in so doing"
+    }
+  },
+  {
+    "id": "phrase_regardless_of_3072",
+    "lemma": "regardless of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...e bakılmaksızın"
+    ],
+    "synonyms": [
+      "irrespective of",
+      "despite"
+    ],
+    "example": {
+      "text": "All citizens are entitled to healthcare, regardless of their socioeconomic status.",
+      "translation": "Tüm vatandaşlar sosyoekonomik durumlarına bakılmaksızın sağlık hizmetine hak kazanır."
+    },
+    "cloze": {
+      "template": "All citizens are entitled to healthcare, {{cloze}} their socioeconomic status.",
+      "answer": "regardless of"
+    }
+  },
+  {
+    "id": "phrase_apart_from_3073",
+    "lemma": "apart from",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...nın dışında, ...den başka"
+    ],
+    "synonyms": [
+      "besides",
+      "aside from"
+    ],
+    "example": {
+      "text": "Apart from minor formatting issues, the manuscript was ready for publication.",
+      "translation": "Küçük biçimlendirme sorunlarının dışında el yazması yayına hazırdı."
+    },
+    "cloze": {
+      "template": "{{cloze}} minor formatting issues, the manuscript was ready for publication.",
+      "answer": "Apart from"
+    }
+  },
+  {
+    "id": "phrase_in_essence_3074",
+    "lemma": "in essence",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "özünde, esasen"
+    ],
+    "synonyms": [
+      "essentially",
+      "fundamentally"
+    ],
+    "example": {
+      "text": "In essence, the study confirms what earlier research had suggested.",
+      "translation": "Özünde çalışma önceki araştırmaların öne sürdüğünü doğrulamaktadır."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the study confirms what earlier research had suggested.",
+      "answer": "In essence"
+    }
+  },
+  {
+    "id": "phrase_to_put_it_differently_3075",
+    "lemma": "to put it differently",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "farklı bir ifadeyle"
+    ],
+    "synonyms": [
+      "in other words",
+      "that is to say"
+    ],
+    "example": {
+      "text": "The policy failed to achieve equity; to put it differently, the rich benefited more.",
+      "translation": "Politika hakkaniyeti sağlayamadı; farklı bir ifadeyle zenginler daha fazla fayda gördü."
+    },
+    "cloze": {
+      "template": "The policy failed to achieve equity; {{cloze}}, the rich benefited more.",
+      "answer": "to put it differently"
+    }
+  },
+  {
+    "id": "phrase_in_the_meantime_3076",
+    "lemma": "in the meantime",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bu arada"
+    ],
+    "synonyms": [
+      "meanwhile",
+      "in the interim"
+    ],
+    "example": {
+      "text": "The final report is still being compiled; in the meantime, preliminary data is available.",
+      "translation": "Son rapor hâlâ derlenmektedir; bu arada ön veriler mevcuttur."
+    },
+    "cloze": {
+      "template": "The final report is still being compiled; {{cloze}}, preliminary data is available.",
+      "answer": "in the meantime"
+    }
+  },
+  {
+    "id": "phrase_it_follows_that_3077",
+    "lemma": "it follows that",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bundan şu çıkar ki"
+    ],
+    "synonyms": [
+      "therefore",
+      "consequently"
+    ],
+    "example": {
+      "text": "If the premise holds, it follows that the conclusion must also be valid.",
+      "translation": "Öncül geçerliyse bundan sonucun da geçerli olması gerektiği çıkar."
+    },
+    "cloze": {
+      "template": "If the premise holds, {{cloze}} the conclusion must also be valid.",
+      "answer": "it follows that"
+    }
+  },
+  {
+    "id": "phrase_in_view_of_3078",
+    "lemma": "in view of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "göz önüne alındığında"
+    ],
+    "synonyms": [
+      "considering",
+      "in light of"
+    ],
+    "example": {
+      "text": "In view of the recent findings, the original hypothesis must be revised.",
+      "translation": "Son bulgular göz önüne alındığında orijinal hipotez gözden geçirilmelidir."
+    },
+    "cloze": {
+      "template": "{{cloze}} the recent findings, the original hypothesis must be revised.",
+      "answer": "In view of"
+    }
+  },
+  {
+    "id": "phrase_with_the_proviso_3079",
+    "lemma": "with the proviso that",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...şartıyla"
+    ],
+    "synonyms": [
+      "on the condition that",
+      "provided that"
+    ],
+    "example": {
+      "text": "The agreement was signed with the proviso that both parties share research data.",
+      "translation": "Anlaşma her iki tarafın da araştırma verilerini paylaşması şartıyla imzalandı."
+    },
+    "cloze": {
+      "template": "The agreement was signed {{cloze}} both parties share research data.",
+      "answer": "with the proviso that"
+    }
+  },
+  {
+    "id": "phrase_for_this_reason_3080",
+    "lemma": "for this reason",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bu nedenle"
+    ],
+    "synonyms": [
+      "therefore",
+      "consequently"
+    ],
+    "example": {
+      "text": "The data was unreliable; for this reason, the experiment was repeated.",
+      "translation": "Veriler güvenilir değildi; bu nedenle deney tekrarlandı."
+    },
+    "cloze": {
+      "template": "The data was unreliable; {{cloze}}, the experiment was repeated.",
+      "answer": "for this reason"
+    }
+  },
+  {
+    "id": "phrase_all_things_considered_3081",
+    "lemma": "all things considered",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "her şey göz önüne alınınca"
+    ],
+    "synonyms": [
+      "on balance",
+      "overall"
+    ],
+    "example": {
+      "text": "All things considered, the programme has been more successful than anticipated.",
+      "translation": "Her şey göz önüne alınınca program beklenenden daha başarılı olmuştur."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the programme has been more successful than anticipated.",
+      "answer": "All things considered"
+    }
+  },
+  {
+    "id": "phrase_as_far_as_3082",
+    "lemma": "as far as … is concerned",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...söz konusu olduğunda"
+    ],
+    "synonyms": [
+      "regarding",
+      "with respect to"
+    ],
+    "example": {
+      "text": "As far as public health is concerned, prevention remains the most cost-effective strategy.",
+      "translation": "Halk sağlığı söz konusu olduğunda önleme en uygun maliyetli strateji olmaya devam etmektedir."
+    },
+    "cloze": {
+      "template": "{{cloze}} public health is concerned, prevention remains the most cost-effective strategy.",
+      "answer": "As far as"
+    }
+  },
+  {
+    "id": "phrase_in_order_to_3083",
+    "lemma": "in order to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...mek için"
+    ],
+    "synonyms": [
+      "so as to",
+      "with the aim of"
+    ],
+    "example": {
+      "text": "In order to ensure accuracy, the measurements were taken three times.",
+      "translation": "Doğruluğu sağlamak için ölçümler üç kez yapıldı."
+    },
+    "cloze": {
+      "template": "{{cloze}} ensure accuracy, the measurements were taken three times.",
+      "answer": "In order to"
+    }
+  },
+  {
+    "id": "phrase_to_sum_up_3084",
+    "lemma": "to sum up",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "özetlemek gerekirse"
+    ],
+    "synonyms": [
+      "in summary",
+      "in conclusion"
+    ],
+    "example": {
+      "text": "To sum up, the evidence strongly supports the proposed framework.",
+      "translation": "Özetlemek gerekirse kanıtlar önerilen çerçeveyi güçlü biçimde desteklemektedir."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the evidence strongly supports the proposed framework.",
+      "answer": "To sum up"
+    }
+  },
+  {
+    "id": "phrase_in_this_regard_3085",
+    "lemma": "in this regard",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bu bakımdan"
+    ],
+    "synonyms": [
+      "in this respect",
+      "on this matter"
+    ],
+    "example": {
+      "text": "In this regard, the role of international organisations cannot be overlooked.",
+      "translation": "Bu bakımdan uluslararası örgütlerin rolü göz ardı edilemez."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the role of international organisations cannot be overlooked.",
+      "answer": "In this regard"
+    }
+  },
+  {
+    "id": "phrase_as_a_whole_3086",
+    "lemma": "as a whole",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bir bütün olarak"
+    ],
+    "synonyms": [
+      "overall",
+      "in its entirety"
+    ],
+    "example": {
+      "text": "The community as a whole benefited from the infrastructure investment.",
+      "translation": "Topluluk bir bütün olarak altyapı yatırımından faydalandı."
+    },
+    "cloze": {
+      "template": "The community {{cloze}} benefited from the infrastructure investment.",
+      "answer": "as a whole"
+    }
+  },
+  {
+    "id": "phrase_given_that_3087",
+    "lemma": "given that",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...dığı göz önüne alındığında"
+    ],
+    "synonyms": [
+      "considering that",
+      "since"
+    ],
+    "example": {
+      "text": "Given that resources are limited, priorities must be clearly defined.",
+      "translation": "Kaynakların sınırlı olduğu göz önüne alındığında öncelikler açıkça tanımlanmalıdır."
+    },
+    "cloze": {
+      "template": "{{cloze}} resources are limited, priorities must be clearly defined.",
+      "answer": "Given that"
+    }
+  },
+  {
+    "id": "phrase_on_balance_3088",
+    "lemma": "on balance",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "dengeyi gözetince, toplamda"
+    ],
+    "synonyms": [
+      "overall",
+      "all things considered"
+    ],
+    "example": {
+      "text": "On balance, the benefits of the reform outweigh its disadvantages.",
+      "translation": "Dengeyi gözetince reformun faydaları dezavantajlarından ağır basmaktadır."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the benefits of the reform outweigh its disadvantages.",
+      "answer": "On balance"
+    }
+  },
+  {
+    "id": "phrase_no_matter_how_3089",
+    "lemma": "no matter how",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "ne kadar … olursa olsun"
+    ],
+    "synonyms": [
+      "regardless of how",
+      "however"
+    ],
+    "example": {
+      "text": "No matter how complex the problem is, a systematic approach can yield solutions.",
+      "translation": "Sorun ne kadar karmaşık olursa olsun sistematik bir yaklaşım çözümler üretebilir."
+    },
+    "cloze": {
+      "template": "{{cloze}} complex the problem is, a systematic approach can yield solutions.",
+      "answer": "No matter how"
+    }
+  },
+  {
+    "id": "phrase_in_conclusion_3090",
+    "lemma": "in conclusion",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "sonuç olarak"
+    ],
+    "synonyms": [
+      "to conclude",
+      "finally"
+    ],
+    "example": {
+      "text": "In conclusion, the study highlights the urgent need for policy reform.",
+      "translation": "Sonuç olarak çalışma politika reformuna olan acil ihtiyacı vurgulamaktadır."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the study highlights the urgent need for policy reform.",
+      "answer": "In conclusion"
+    }
+  }
+]

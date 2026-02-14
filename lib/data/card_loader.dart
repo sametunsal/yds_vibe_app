@@ -19,6 +19,9 @@ class CardLoader {
 
   static List<VocabularyCard>? _cache;
 
+  /// Clear in-memory cache (debug only).
+  static void clearCache() => _cache = null;
+
   /// Load all cards from assets. Results are cached in memory.
   static Future<List<VocabularyCard>> loadCards() async {
     if (_cache != null) return _cache!;
@@ -35,6 +38,12 @@ class CardLoader {
       'mvl/conjunctions.json',
       'mvl/adjectives.json',
       'mvl/adverbs.json',
+      'core/core_450.json',
+      'core/core_nonverb_200.json',
+      'core/phrases_80.json',
+      'core/adv_120.json',
+      'core/connectors_90.json',
+      'core/phrasal_verbs_120.json',
     ];
 
     for (final filePath in filesToLoad) {
@@ -43,7 +52,7 @@ class CardLoader {
         final List<dynamic> jsonList = json.decode(jsonString);
 
         final fileName = filePath.split('/').last;
-        final pos = _filePosMapping[fileName] ?? _extractPos(fileName);
+        final pos = _filePosMapping[fileName];
         final cards = _parseJsonList(jsonList, fileName, pos: pos);
 
         for (final card in cards) {
@@ -55,21 +64,25 @@ class CardLoader {
           }
         }
 
-        debugPrint('[CardLoader] $filePath: ${cards.length} cards (pos: $pos)');
+        debugPrint(
+          '[CardLoader] $filePath: ${cards.length} cards${pos != null ? ' (pos: $pos)' : ''}',
+        );
       } catch (e) {
         debugPrint('[CardLoader] Error loading $filePath: $e');
       }
     }
 
+    // POS breakdown
+    final posCounts = <String, int>{};
+    for (final c in allCards) {
+      posCounts[c.pos] = (posCounts[c.pos] ?? 0) + 1;
+    }
     debugPrint('[CardLoader] Total: ${allCards.length} cards');
+    debugPrint('[CardLoader] POS breakdown: $posCounts');
+    // List successfully loaded files
+    debugPrint('[CardLoader] Files attempted: ${filesToLoad.length}');
     _cache = allCards;
     return allCards;
-  }
-
-  static String _extractPos(String fileName) {
-    final name = fileName.replaceAll('.json', '');
-    if (name.endsWith('s')) return name.substring(0, name.length - 1);
-    return name;
   }
 
   static List<VocabularyCard> _parseJsonList(

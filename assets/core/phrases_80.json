@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "as_a_result_of_phrase_1001",
+    "lemma": "as a result of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...sonucunda"
+    ],
+    "synonyms": [
+      "due to",
+      "because of"
+    ],
+    "example": {
+      "text": "As a result of the reforms, economic growth accelerated.",
+      "translation": "Reformların sonucunda ekonomik büyüme hızlandı."
+    },
+    "cloze": {
+      "template": "{{cloze}} the reforms, economic growth accelerated.",
+      "answer": "As a result of"
+    }
+  },
+  {
+    "id": "in_contrast_to_phrase_1002",
+    "lemma": "in contrast to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...aksine, ...nin tersine"
+    ],
+    "synonyms": [
+      "unlike",
+      "as opposed to"
+    ],
+    "example": {
+      "text": "In contrast to earlier studies, our findings indicate a positive trend.",
+      "translation": "Önceki çalışmaların aksine bulgularımız olumlu bir eğilim göstermektedir."
+    },
+    "cloze": {
+      "template": "{{cloze}} earlier studies, our findings indicate a positive trend.",
+      "answer": "In contrast to"
+    }
+  },
+  {
+    "id": "for_the_purpose_of_phrase_1003",
+    "lemma": "for the purpose of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...amacıyla"
+    ],
+    "synonyms": [
+      "in order to",
+      "with the aim of"
+    ],
+    "example": {
+      "text": "Data was collected for the purpose of identifying market trends.",
+      "translation": "Pazar eğilimlerini belirleme amacıyla veriler toplandı."
+    },
+    "cloze": {
+      "template": "Data was collected {{cloze}} identifying market trends.",
+      "answer": "for the purpose of"
+    }
+  },
+  {
+    "id": "in_the_event_of_phrase_1004",
+    "lemma": "in the event of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...durumunda"
+    ],
+    "synonyms": [
+      "if",
+      "should"
+    ],
+    "example": {
+      "text": "In the event of a power failure, the backup generators will activate automatically.",
+      "translation": "Elektrik kesintisi durumunda yedek jeneratörler otomatik olarak devreye girecektir."
+    },
+    "cloze": {
+      "template": "{{cloze}} a power failure, the backup generators will activate automatically.",
+      "answer": "In the event of"
+    }
+  },
+  {
+    "id": "on_the_contrary_phrase_1005",
+    "lemma": "on the contrary",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "aksine, bilakis"
+    ],
+    "synonyms": [
+      "conversely",
+      "rather"
+    ],
+    "example": {
+      "text": "The new regulations did not limit innovation; on the contrary, they encouraged it.",
+      "translation": "Yeni düzenlemeler yeniliği sınırlamadı; aksine teşvik etti."
+    },
+    "cloze": {
+      "template": "The new regulations did not limit innovation; {{cloze}}, they encouraged it.",
+      "answer": "on the contrary"
+    }
+  },
+  {
+    "id": "in_the_midst_of_phrase_1006",
+    "lemma": "in the midst of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "ortasında"
+    ],
+    "synonyms": [
+      "during",
+      "amid"
+    ],
+    "example": {
+      "text": "The country found itself in the midst of an unprecedented economic crisis.",
+      "translation": "Ülke kendini emsalsiz bir ekonomik krizin ortasında buldu."
+    },
+    "cloze": {
+      "template": "The country found itself {{cloze}} an unprecedented economic crisis.",
+      "answer": "in the midst of"
+    }
+  },
+  {
+    "id": "on_the_verge_of_phrase_1007",
+    "lemma": "on the verge of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...eşiğinde"
+    ],
+    "synonyms": [
+      "about to",
+      "on the brink of"
+    ],
+    "example": {
+      "text": "Several species are on the verge of extinction due to habitat loss.",
+      "translation": "Birçok tür habitat kaybı nedeniyle nesil tükenme eşiğindedir."
+    },
+    "cloze": {
+      "template": "Several species are {{cloze}} extinction due to habitat loss.",
+      "answer": "on the verge of"
+    }
+  },
+  {
+    "id": "in_the_context_of_phrase_1008",
+    "lemma": "in the context of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...bağlamında"
+    ],
+    "synonyms": [
+      "within the framework of",
+      "regarding"
+    ],
+    "example": {
+      "text": "In the context of globalisation, cultural exchange has become inevitable.",
+      "translation": "Küreselleşme bağlamında kültürel değişim kaçınılmaz hale gelmiştir."
+    },
+    "cloze": {
+      "template": "{{cloze}} globalisation, cultural exchange has become inevitable.",
+      "answer": "In the context of"
+    }
+  },
+  {
+    "id": "to_a_large_extent_phrase_1009",
+    "lemma": "to a large extent",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "büyük ölçüde"
+    ],
+    "synonyms": [
+      "largely",
+      "mostly"
+    ],
+    "example": {
+      "text": "The success of the project depends to a large extent on public support.",
+      "translation": "Projenin başarısı büyük ölçüde halkın desteğine bağlıdır."
+    },
+    "cloze": {
+      "template": "The success of the project depends {{cloze}} on public support.",
+      "answer": "to a large extent"
+    }
+  },
+  {
+    "id": "in_response_to_phrase_1010",
+    "lemma": "in response to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...na yanıt olarak"
+    ],
+    "synonyms": [
+      "reacting to",
+      "answering"
+    ],
+    "example": {
+      "text": "New safety protocols were introduced in response to the industrial accident.",
+      "translation": "Endüstriyel kazaya yanıt olarak yeni güvenlik protokolleri uygulamaya konuldu."
+    },
+    "cloze": {
+      "template": "New safety protocols were introduced {{cloze}} the industrial accident.",
+      "answer": "in response to"
+    }
+  },
+  {
+    "id": "with_the_exception_of_phrase_1011",
+    "lemma": "with the exception of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...dışında, hariç"
+    ],
+    "synonyms": [
+      "except for",
+      "apart from"
+    ],
+    "example": {
+      "text": "All departments, with the exception of finance, supported the proposal.",
+      "translation": "Finans dışındaki tüm departmanlar teklifi destekledi."
+    },
+    "cloze": {
+      "template": "All departments, {{cloze}} finance, supported the proposal.",
+      "answer": "with the exception of"
+    }
+  },
+  {
+    "id": "at_the_forefront_of_phrase_1012",
+    "lemma": "at the forefront of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ön safında"
+    ],
+    "synonyms": [
+      "leading",
+      "at the cutting edge of"
+    ],
+    "example": {
+      "text": "Japan is at the forefront of robotics research and development.",
+      "translation": "Japonya robotik araştırma ve geliştirmenin ön safındadır."
+    },
+    "cloze": {
+      "template": "Japan is {{cloze}} robotics research and development.",
+      "answer": "at the forefront of"
+    }
+  },
+  {
+    "id": "in_favour_of_phrase_1013",
+    "lemma": "in favour of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...lehine"
+    ],
+    "synonyms": [
+      "supporting",
+      "for"
+    ],
+    "example": {
+      "text": "The court ruled in favour of the plaintiff.",
+      "translation": "Mahkeme davacı lehine karar verdi."
+    },
+    "cloze": {
+      "template": "The court ruled {{cloze}} the plaintiff.",
+      "answer": "in favour of"
+    }
+  },
+  {
+    "id": "for_the_most_part_phrase_1014",
+    "lemma": "for the most part",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "büyük ölçüde, genellikle"
+    ],
+    "synonyms": [
+      "mostly",
+      "generally"
+    ],
+    "example": {
+      "text": "For the most part, the experiment yielded the expected results.",
+      "translation": "Büyük ölçüde deney beklenen sonuçları verdi."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the experiment yielded the expected results.",
+      "answer": "For the most part"
+    }
+  },
+  {
+    "id": "in_the_face_of_phrase_1015",
+    "lemma": "in the face of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...karşısında"
+    ],
+    "synonyms": [
+      "despite",
+      "confronted with"
+    ],
+    "example": {
+      "text": "The organisation remained steadfast in the face of intense criticism.",
+      "translation": "Örgüt yoğun eleştiriler karşısında kararlılığını korudu."
+    },
+    "cloze": {
+      "template": "The organisation remained steadfast {{cloze}} intense criticism.",
+      "answer": "in the face of"
+    }
+  },
+  {
+    "id": "with_the_aim_of_phrase_1016",
+    "lemma": "with the aim of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...amacıyla"
+    ],
+    "synonyms": [
+      "intending to",
+      "in order to"
+    ],
+    "example": {
+      "text": "The initiative was launched with the aim of reducing child poverty.",
+      "translation": "Girişim çocuk yoksulluğunu azaltma amacıyla başlatıldı."
+    },
+    "cloze": {
+      "template": "The initiative was launched {{cloze}} reducing child poverty.",
+      "answer": "with the aim of"
+    }
+  },
+  {
+    "id": "on_the_basis_of_phrase_1017",
+    "lemma": "on the basis of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...temelinde"
+    ],
+    "synonyms": [
+      "based on",
+      "grounded in"
+    ],
+    "example": {
+      "text": "Candidates are selected on the basis of merit and experience.",
+      "translation": "Adaylar liyakat ve deneyim temelinde seçilmektedir."
+    },
+    "cloze": {
+      "template": "Candidates are selected {{cloze}} merit and experience.",
+      "answer": "on the basis of"
+    }
+  },
+  {
+    "id": "in_keeping_with_phrase_1018",
+    "lemma": "in keeping with",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...uygun olarak"
+    ],
+    "synonyms": [
+      "consistent with",
+      "in line with"
+    ],
+    "example": {
+      "text": "In keeping with the university's mission, the programme promotes diversity.",
+      "translation": "Üniversitenin misyonuna uygun olarak program çeşitliliği teşvik eder."
+    },
+    "cloze": {
+      "template": "{{cloze}} the university's mission, the programme promotes diversity.",
+      "answer": "In keeping with"
+    }
+  },
+  {
+    "id": "at_the_core_of_phrase_1019",
+    "lemma": "at the core of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...özünde, merkezinde"
+    ],
+    "synonyms": [
+      "central to",
+      "at the heart of"
+    ],
+    "example": {
+      "text": "Innovation lies at the core of sustainable economic development.",
+      "translation": "Yenilik sürdürülebilir ekonomik kalkınmanın özünde yer almaktadır."
+    },
+    "cloze": {
+      "template": "Innovation lies {{cloze}} sustainable economic development.",
+      "answer": "at the core of"
+    }
+  },
+  {
+    "id": "in_proportion_to_phrase_1020",
+    "lemma": "in proportion to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ile orantılı olarak"
+    ],
+    "synonyms": [
+      "relative to",
+      "commensurate with"
+    ],
+    "example": {
+      "text": "Taxes should be levied in proportion to one's ability to pay.",
+      "translation": "Vergiler kişinin ödeme gücüyle orantılı olarak alınmalıdır."
+    },
+    "cloze": {
+      "template": "Taxes should be levied {{cloze}} one's ability to pay.",
+      "answer": "in proportion to"
+    }
+  },
+  {
+    "id": "over_the_course_of_phrase_1021",
+    "lemma": "over the course of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...süresince, boyunca"
+    ],
+    "synonyms": [
+      "throughout",
+      "during"
+    ],
+    "example": {
+      "text": "The landscape has changed dramatically over the course of the past century.",
+      "translation": "Manzara geçen yüzyıl boyunca dramatik bir şekilde değişmiştir."
+    },
+    "cloze": {
+      "template": "The landscape has changed dramatically {{cloze}} the past century.",
+      "answer": "over the course of"
+    }
+  },
+  {
+    "id": "in_the_long_run_phrase_1022",
+    "lemma": "in the long run",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "uzun vadede"
+    ],
+    "synonyms": [
+      "eventually",
+      "ultimately"
+    ],
+    "example": {
+      "text": "Investment in education pays off in the long run.",
+      "translation": "Eğitime yapılan yatırım uzun vadede karşılığını verir."
+    },
+    "cloze": {
+      "template": "Investment in education pays off {{cloze}}.",
+      "answer": "in the long run"
+    }
+  },
+  {
+    "id": "by_and_large_phrase_1023",
+    "lemma": "by and large",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "genel olarak"
+    ],
+    "synonyms": [
+      "generally",
+      "on the whole"
+    ],
+    "example": {
+      "text": "By and large, the new policy was well received by the public.",
+      "translation": "Genel olarak yeni politika halk tarafından iyi karşılandı."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the new policy was well received by the public.",
+      "answer": "By and large"
+    }
+  },
+  {
+    "id": "take_into_account_phrase_1024",
+    "lemma": "take into account",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "hesaba katmak, göz önünde bulundurmak"
+    ],
+    "synonyms": [
+      "consider",
+      "factor in"
+    ],
+    "example": {
+      "text": "Policymakers must take into account the environmental impact of new projects.",
+      "translation": "Politika yapıcılar yeni projelerin çevresel etkisini hesaba katmalıdır."
+    },
+    "cloze": {
+      "template": "Policymakers must {{cloze}} the environmental impact of new projects.",
+      "answer": "take into account"
+    }
+  },
+  {
+    "id": "give_rise_to_phrase_1025",
+    "lemma": "give rise to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...na yol açmak"
+    ],
+    "synonyms": [
+      "cause",
+      "lead to"
+    ],
+    "example": {
+      "text": "Economic inequality can give rise to social unrest.",
+      "translation": "Ekonomik eşitsizlik toplumsal huzursuzluğa yol açabilir."
+    },
+    "cloze": {
+      "template": "Economic inequality can {{cloze}} social unrest.",
+      "answer": "give rise to"
+    }
+  },
+  {
+    "id": "bring_about_phrase_1026",
+    "lemma": "bring about",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "gerçekleştirmek, neden olmak"
+    ],
+    "synonyms": [
+      "cause",
+      "produce"
+    ],
+    "example": {
+      "text": "The revolution brought about profound changes in the political system.",
+      "translation": "Devrim siyasi sistemde köklü değişikliklere neden oldu."
+    },
+    "cloze": {
+      "template": "The revolution {{cloze}} profound changes in the political system.",
+      "answer": "brought about"
+    }
+  },
+  {
+    "id": "carry_out_phrase_1027",
+    "lemma": "carry out",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "yürütmek, gerçekleştirmek"
+    ],
+    "synonyms": [
+      "execute",
+      "perform"
+    ],
+    "example": {
+      "text": "The researchers carried out a comprehensive analysis of the data.",
+      "translation": "Araştırmacılar verilerin kapsamlı bir analizini gerçekleştirdi."
+    },
+    "cloze": {
+      "template": "The researchers {{cloze}} a comprehensive analysis of the data.",
+      "answer": "carried out"
+    }
+  },
+  {
+    "id": "come_to_terms_with_phrase_1028",
+    "lemma": "come to terms with",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "kabullenmek, uzlaşmak"
+    ],
+    "synonyms": [
+      "accept",
+      "reconcile with"
+    ],
+    "example": {
+      "text": "Society must come to terms with the consequences of climate change.",
+      "translation": "Toplum iklim değişikliğinin sonuçlarını kabullenmelidir."
+    },
+    "cloze": {
+      "template": "Society must {{cloze}} the consequences of climate change.",
+      "answer": "come to terms with"
+    }
+  },
+  {
+    "id": "in_the_aftermath_of_phrase_1029",
+    "lemma": "in the aftermath of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ardından, sonrasında"
+    ],
+    "synonyms": [
+      "following",
+      "after"
+    ],
+    "example": {
+      "text": "In the aftermath of the earthquake, relief efforts were mobilised swiftly.",
+      "translation": "Depremin ardından yardım çalışmaları hızla seferber edildi."
+    },
+    "cloze": {
+      "template": "{{cloze}} the earthquake, relief efforts were mobilised swiftly.",
+      "answer": "In the aftermath of"
+    }
+  },
+  {
+    "id": "at_stake_phrase_1030",
+    "lemma": "at stake",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "tehlikede, söz konusu"
+    ],
+    "synonyms": [
+      "at risk",
+      "in jeopardy"
+    ],
+    "example": {
+      "text": "The future of biodiversity is at stake if deforestation continues.",
+      "translation": "Ormansızlaşma devam ederse biyoçeşitliliğin geleceği tehlikededir."
+    },
+    "cloze": {
+      "template": "The future of biodiversity is {{cloze}} if deforestation continues.",
+      "answer": "at stake"
+    }
+  },
+  {
+    "id": "in_the_interest_of_phrase_1031",
+    "lemma": "in the interest of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...yararına, çıkarına"
+    ],
+    "synonyms": [
+      "for the benefit of",
+      "for the sake of"
+    ],
+    "example": {
+      "text": "Transparency is maintained in the interest of public accountability.",
+      "translation": "Şeffaflık kamusal hesap verebilirlik yararına sürdürülmektedir."
+    },
+    "cloze": {
+      "template": "Transparency is maintained {{cloze}} public accountability.",
+      "answer": "in the interest of"
+    }
+  },
+  {
+    "id": "stem_from_phrase_1032",
+    "lemma": "stem from",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...den kaynaklanmak"
+    ],
+    "synonyms": [
+      "originate from",
+      "arise from"
+    ],
+    "example": {
+      "text": "Many health problems stem from poor dietary habits.",
+      "translation": "Birçok sağlık sorunu kötü beslenme alışkanlıklarından kaynaklanmaktadır."
+    },
+    "cloze": {
+      "template": "Many health problems {{cloze}} poor dietary habits.",
+      "answer": "stem from"
+    }
+  },
+  {
+    "id": "set_forth_phrase_1033",
+    "lemma": "set forth",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "ortaya koymak, belirtmek"
+    ],
+    "synonyms": [
+      "present",
+      "outline"
+    ],
+    "example": {
+      "text": "The principles set forth in the charter guide all organisational decisions.",
+      "translation": "Tüzükte ortaya konulan ilkeler tüm örgütsel kararları yönlendirir."
+    },
+    "cloze": {
+      "template": "The principles {{cloze}} in the charter guide all organisational decisions.",
+      "answer": "set forth"
+    }
+  },
+  {
+    "id": "rule_out_phrase_1034",
+    "lemma": "rule out",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "dışlamak, ekarte etmek"
+    ],
+    "synonyms": [
+      "exclude",
+      "eliminate"
+    ],
+    "example": {
+      "text": "Scientists could not rule out the possibility of further contamination.",
+      "translation": "Bilim insanları daha fazla kontaminasyon olasılığını dışlayamadı."
+    },
+    "cloze": {
+      "template": "Scientists could not {{cloze}} the possibility of further contamination.",
+      "answer": "rule out"
+    }
+  },
+  {
+    "id": "account_for_phrase_1035",
+    "lemma": "account for",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "açıklamak, oluşturmak"
+    ],
+    "synonyms": [
+      "explain",
+      "constitute"
+    ],
+    "example": {
+      "text": "Renewable sources now account for over thirty per cent of energy production.",
+      "translation": "Yenilenebilir kaynaklar artık enerji üretiminin yüzde otuzundan fazlasını oluşturmaktadır."
+    },
+    "cloze": {
+      "template": "Renewable sources now {{cloze}} over thirty per cent of energy production.",
+      "answer": "account for"
+    }
+  },
+  {
+    "id": "shed_light_on_phrase_1036",
+    "lemma": "shed light on",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "aydınlatmak, ortaya çıkarmak"
+    ],
+    "synonyms": [
+      "illuminate",
+      "clarify"
+    ],
+    "example": {
+      "text": "The study sheds light on the relationship between stress and productivity.",
+      "translation": "Çalışma stres ve verimlilik arasındaki ilişkiyi aydınlatmaktadır."
+    },
+    "cloze": {
+      "template": "The study {{cloze}} the relationship between stress and productivity.",
+      "answer": "sheds light on"
+    }
+  },
+  {
+    "id": "in_so_far_as_phrase_1037",
+    "lemma": "to this end",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bu amaçla"
+    ],
+    "synonyms": [
+      "for this purpose",
+      "to achieve this"
+    ],
+    "example": {
+      "text": "The government pledged to improve healthcare; to this end, it increased the health budget.",
+      "translation": "Hükümet sağlık hizmetlerini iyileştirme sözü verdi; bu amaçla sağlık bütçesini artırdı."
+    },
+    "cloze": {
+      "template": "The government pledged to improve healthcare; {{cloze}}, it increased the health budget.",
+      "answer": "to this end"
+    }
+  },
+  {
+    "id": "pave_the_way_for_phrase_1038",
+    "lemma": "pave the way for",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...için zemin hazırlamak"
+    ],
+    "synonyms": [
+      "facilitate",
+      "enable"
+    ],
+    "example": {
+      "text": "The agreement paved the way for lasting peace in the region.",
+      "translation": "Anlaşma bölgede kalıcı barış için zemin hazırladı."
+    },
+    "cloze": {
+      "template": "The agreement {{cloze}} lasting peace in the region.",
+      "answer": "paved the way for"
+    }
+  },
+  {
+    "id": "fall_short_of_phrase_1039",
+    "lemma": "fall short of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...nin gerisinde kalmak"
+    ],
+    "synonyms": [
+      "fail to reach",
+      "not meet"
+    ],
+    "example": {
+      "text": "The country's emissions reduction targets fell short of international expectations.",
+      "translation": "Ülkenin emisyon azaltma hedefleri uluslararası beklentilerin gerisinde kaldı."
+    },
+    "cloze": {
+      "template": "The country's emissions reduction targets {{cloze}} international expectations.",
+      "answer": "fell short of"
+    }
+  },
+  {
+    "id": "in_the_guise_of_phrase_1040",
+    "lemma": "in the guise of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...kılığında, ...görüntüsü altında"
+    ],
+    "synonyms": [
+      "disguised as",
+      "under the pretence of"
+    ],
+    "example": {
+      "text": "Propaganda was disseminated in the guise of academic research.",
+      "translation": "Propaganda akademik araştırma kılığında yayıldı."
+    },
+    "cloze": {
+      "template": "Propaganda was disseminated {{cloze}} academic research.",
+      "answer": "in the guise of"
+    }
+  },
+  {
+    "id": "lay_the_groundwork_phrase_1041",
+    "lemma": "lay the groundwork for",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...için temel atmak"
+    ],
+    "synonyms": [
+      "establish the foundation",
+      "prepare for"
+    ],
+    "example": {
+      "text": "Early childhood education lays the groundwork for lifelong learning.",
+      "translation": "Erken çocukluk eğitimi yaşam boyu öğrenme için temel atar."
+    },
+    "cloze": {
+      "template": "Early childhood education {{cloze}} lifelong learning.",
+      "answer": "lays the groundwork for"
+    }
+  },
+  {
+    "id": "put_forward_phrase_1042",
+    "lemma": "put forward",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "öne sürmek, ileri sürmek"
+    ],
+    "synonyms": [
+      "propose",
+      "suggest"
+    ],
+    "example": {
+      "text": "The committee put forward a series of recommendations for reform.",
+      "translation": "Komite reform için bir dizi öneri ileri sürdü."
+    },
+    "cloze": {
+      "template": "The committee {{cloze}} a series of recommendations for reform.",
+      "answer": "put forward"
+    }
+  },
+  {
+    "id": "on_the_whole_phrase_1043",
+    "lemma": "on the whole",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "genel olarak"
+    ],
+    "synonyms": [
+      "generally",
+      "overall"
+    ],
+    "example": {
+      "text": "On the whole, the response to the policy has been favourable.",
+      "translation": "Genel olarak politikaya verilen tepki olumlu olmuştur."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the response to the policy has been favourable.",
+      "answer": "On the whole"
+    }
+  },
+  {
+    "id": "in_so_far_as_phrase_1044",
+    "lemma": "in so far as",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...dığı kadarıyla"
+    ],
+    "synonyms": [
+      "to the extent that",
+      "as far as"
+    ],
+    "example": {
+      "text": "The theory is valid in so far as it can be empirically tested.",
+      "translation": "Teori ampirik olarak test edilebildiği kadarıyla geçerlidir."
+    },
+    "cloze": {
+      "template": "The theory is valid {{cloze}} it can be empirically tested.",
+      "answer": "in so far as"
+    }
+  },
+  {
+    "id": "bear_in_mind_phrase_1045",
+    "lemma": "bear in mind",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "aklında tutmak, göz önünde bulundurmak"
+    ],
+    "synonyms": [
+      "remember",
+      "consider"
+    ],
+    "example": {
+      "text": "One should bear in mind that correlation does not imply causation.",
+      "translation": "Korelasyonun nedensellik anlamına gelmediği akılda tutulmalıdır."
+    },
+    "cloze": {
+      "template": "One should {{cloze}} that correlation does not imply causation.",
+      "answer": "bear in mind"
+    }
+  },
+  {
+    "id": "call_into_question_phrase_1046",
+    "lemma": "call into question",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "sorgulamak, tartışmaya açmak"
+    ],
+    "synonyms": [
+      "challenge",
+      "dispute"
+    ],
+    "example": {
+      "text": "New evidence called into question the validity of the original findings.",
+      "translation": "Yeni kanıtlar orijinal bulguların geçerliliğini sorguladı."
+    },
+    "cloze": {
+      "template": "New evidence {{cloze}} the validity of the original findings.",
+      "answer": "called into question"
+    }
+  },
+  {
+    "id": "draw_attention_to_phrase_1047",
+    "lemma": "draw attention to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "dikkat çekmek"
+    ],
+    "synonyms": [
+      "highlight",
+      "emphasise"
+    ],
+    "example": {
+      "text": "The report draws attention to the growing threat of cyber attacks.",
+      "translation": "Rapor siber saldırıların artan tehdidine dikkat çekmektedir."
+    },
+    "cloze": {
+      "template": "The report {{cloze}} the growing threat of cyber attacks.",
+      "answer": "draws attention to"
+    }
+  },
+  {
+    "id": "in_the_realm_of_phrase_1048",
+    "lemma": "in the realm of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...alanında"
+    ],
+    "synonyms": [
+      "in the field of",
+      "in the domain of"
+    ],
+    "example": {
+      "text": "Significant progress has been made in the realm of artificial intelligence.",
+      "translation": "Yapay zekâ alanında önemli ilerleme kaydedilmiştir."
+    },
+    "cloze": {
+      "template": "Significant progress has been made {{cloze}} artificial intelligence.",
+      "answer": "in the realm of"
+    }
+  },
+  {
+    "id": "amount_to_phrase_1049",
+    "lemma": "amount to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ye ulaşmak, ...anlamına gelmek"
+    ],
+    "synonyms": [
+      "total",
+      "equate to"
+    ],
+    "example": {
+      "text": "The costs of the project amount to several billion dollars.",
+      "translation": "Projenin maliyetleri birkaç milyar dolara ulaşmaktadır."
+    },
+    "cloze": {
+      "template": "The costs of the project {{cloze}} several billion dollars.",
+      "answer": "amount to"
+    }
+  },
+  {
+    "id": "in_the_pursuit_of_phrase_1050",
+    "lemma": "in the pursuit of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...peşinde, ...arayışında"
+    ],
+    "synonyms": [
+      "seeking",
+      "striving for"
+    ],
+    "example": {
+      "text": "Ethical boundaries should not be crossed in the pursuit of scientific knowledge.",
+      "translation": "Bilimsel bilgi arayışında etik sınırlar aşılmamalıdır."
+    },
+    "cloze": {
+      "template": "Ethical boundaries should not be crossed {{cloze}} scientific knowledge.",
+      "answer": "in the pursuit of"
+    }
+  },
+  {
+    "id": "run_counter_to_phrase_1051",
+    "lemma": "run counter to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...le çelişmek, ters düşmek"
+    ],
+    "synonyms": [
+      "contradict",
+      "oppose"
+    ],
+    "example": {
+      "text": "The new regulations run counter to the principle of free trade.",
+      "translation": "Yeni düzenlemeler serbest ticaret ilkesiyle çelişmektedir."
+    },
+    "cloze": {
+      "template": "The new regulations {{cloze}} the principle of free trade.",
+      "answer": "run counter to"
+    }
+  },
+  {
+    "id": "in_tandem_with_phrase_1052",
+    "lemma": "in tandem with",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ile birlikte, eş zamanlı olarak"
+    ],
+    "synonyms": [
+      "alongside",
+      "together with"
+    ],
+    "example": {
+      "text": "Economic growth must proceed in tandem with environmental protection.",
+      "translation": "Ekonomik büyüme çevre korumayla birlikte ilerlemek zorundadır."
+    },
+    "cloze": {
+      "template": "Economic growth must proceed {{cloze}} environmental protection.",
+      "answer": "in tandem with"
+    }
+  },
+  {
+    "id": "at_the_outset_phrase_1053",
+    "lemma": "at the outset",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "başlangıçta"
+    ],
+    "synonyms": [
+      "at the beginning",
+      "initially"
+    ],
+    "example": {
+      "text": "At the outset, the project faced significant financial constraints.",
+      "translation": "Başlangıçta proje önemli mali kısıtlamalarla karşı karşıya kaldı."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the project faced significant financial constraints.",
+      "answer": "At the outset"
+    }
+  },
+  {
+    "id": "touch_upon_phrase_1054",
+    "lemma": "touch upon",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "değinmek, dokunmak"
+    ],
+    "synonyms": [
+      "mention",
+      "address"
+    ],
+    "example": {
+      "text": "The lecturer briefly touched upon the ethical implications of the research.",
+      "translation": "Öğretim üyesi araştırmanın etik sonuçlarına kısaca değindi."
+    },
+    "cloze": {
+      "template": "The lecturer briefly {{cloze}} the ethical implications of the research.",
+      "answer": "touched upon"
+    }
+  },
+  {
+    "id": "give_way_to_phrase_1055",
+    "lemma": "give way to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...na bırakmak, yerini vermek"
+    ],
+    "synonyms": [
+      "yield to",
+      "be replaced by"
+    ],
+    "example": {
+      "text": "Traditional farming methods have gradually given way to industrial agriculture.",
+      "translation": "Geleneksel tarım yöntemleri giderek yerini endüstriyel tarıma bırakmıştır."
+    },
+    "cloze": {
+      "template": "Traditional farming methods have gradually {{cloze}} industrial agriculture.",
+      "answer": "given way to"
+    }
+  },
+  {
+    "id": "lend_credence_to_phrase_1056",
+    "lemma": "lend credence to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...na güvenilirlik kazandırmak"
+    ],
+    "synonyms": [
+      "support",
+      "reinforce"
+    ],
+    "example": {
+      "text": "The new findings lend credence to the hypothesis.",
+      "translation": "Yeni bulgular hipoteze güvenilirlik kazandırmaktadır."
+    },
+    "cloze": {
+      "template": "The new findings {{cloze}} the hypothesis.",
+      "answer": "lend credence to"
+    }
+  },
+  {
+    "id": "to_all_intents_phrase_1057",
+    "lemma": "to all intents and purposes",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "her bakımdan, esasen"
+    ],
+    "synonyms": [
+      "effectively",
+      "practically"
+    ],
+    "example": {
+      "text": "The policy is, to all intents and purposes, a ban on imports.",
+      "translation": "Politika her bakımdan ithalat yasağıdır."
+    },
+    "cloze": {
+      "template": "The policy is, {{cloze}}, a ban on imports.",
+      "answer": "to all intents and purposes"
+    }
+  },
+  {
+    "id": "hold_true_phrase_1058",
+    "lemma": "hold true",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "geçerli olmak"
+    ],
+    "synonyms": [
+      "remain valid",
+      "apply"
+    ],
+    "example": {
+      "text": "This principle holds true regardless of the cultural context.",
+      "translation": "Bu ilke kültürel bağlamdan bağımsız olarak geçerlidir."
+    },
+    "cloze": {
+      "template": "This principle {{cloze}} regardless of the cultural context.",
+      "answer": "holds true"
+    }
+  },
+  {
+    "id": "boil_down_to_phrase_1059",
+    "lemma": "boil down to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...na dayanmak, sıkışmak"
+    ],
+    "synonyms": [
+      "reduce to",
+      "ultimately mean"
+    ],
+    "example": {
+      "text": "The entire debate boils down to a question of resource allocation.",
+      "translation": "Tüm tartışma sonuçta bir kaynak tahsisi meselesine dayanmaktadır."
+    },
+    "cloze": {
+      "template": "The entire debate {{cloze}} a question of resource allocation.",
+      "answer": "boils down to"
+    }
+  },
+  {
+    "id": "hinge_on_phrase_1060",
+    "lemma": "hinge on",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...na bağlı olmak"
+    ],
+    "synonyms": [
+      "depend on",
+      "rest on"
+    ],
+    "example": {
+      "text": "The success of the plan hinges on securing adequate funding.",
+      "translation": "Planın başarısı yeterli finansman sağlanmasına bağlıdır."
+    },
+    "cloze": {
+      "template": "The success of the plan {{cloze}} securing adequate funding.",
+      "answer": "hinges on"
+    }
+  },
+  {
+    "id": "in_the_vicinity_of_phrase_1061",
+    "lemma": "in the vicinity of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...civarında, yakınında"
+    ],
+    "synonyms": [
+      "near",
+      "around"
+    ],
+    "example": {
+      "text": "Pollution levels in the vicinity of the factory exceeded safe limits.",
+      "translation": "Fabrika civarında kirlilik seviyeleri güvenli sınırları aştı."
+    },
+    "cloze": {
+      "template": "Pollution levels {{cloze}} the factory exceeded safe limits.",
+      "answer": "in the vicinity of"
+    }
+  },
+  {
+    "id": "leave_much_to_be_desired_phrase_1062",
+    "lemma": "leave much to be desired",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "arzulanan düzeyde olmamak"
+    ],
+    "synonyms": [
+      "be unsatisfactory",
+      "be inadequate"
+    ],
+    "example": {
+      "text": "The quality of public transport in rural areas leaves much to be desired.",
+      "translation": "Kırsal bölgelerde toplu taşıma kalitesi arzulanan düzeyde değildir."
+    },
+    "cloze": {
+      "template": "The quality of public transport in rural areas {{cloze}}.",
+      "answer": "leaves much to be desired"
+    }
+  },
+  {
+    "id": "along_the_lines_of_phrase_1063",
+    "lemma": "along the lines of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...doğrultusunda, tarzında"
+    ],
+    "synonyms": [
+      "similar to",
+      "in the manner of"
+    ],
+    "example": {
+      "text": "The committee proposed reforms along the lines of the European model.",
+      "translation": "Komite Avrupa modeli doğrultusunda reformlar önerdi."
+    },
+    "cloze": {
+      "template": "The committee proposed reforms {{cloze}} the European model.",
+      "answer": "along the lines of"
+    }
+  },
+  {
+    "id": "at_odds_with_phrase_1064",
+    "lemma": "at odds with",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ile çelişen, uyuşmayan"
+    ],
+    "synonyms": [
+      "in conflict with",
+      "contrary to"
+    ],
+    "example": {
+      "text": "The minister's statement was at odds with official policy.",
+      "translation": "Bakanın açıklaması resmi politikayla çelişiyordu."
+    },
+    "cloze": {
+      "template": "The minister's statement was {{cloze}} official policy.",
+      "answer": "at odds with"
+    }
+  },
+  {
+    "id": "play_a_role_in_phrase_1065",
+    "lemma": "play a role in",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...de rol oynamak"
+    ],
+    "synonyms": [
+      "contribute to",
+      "be involved in"
+    ],
+    "example": {
+      "text": "Social media plays a significant role in shaping public opinion.",
+      "translation": "Sosyal medya kamuoyunu şekillendirmede önemli bir rol oynamaktadır."
+    },
+    "cloze": {
+      "template": "Social media {{cloze}} shaping public opinion.",
+      "answer": "plays a significant role in"
+    }
+  },
+  {
+    "id": "place_emphasis_on_phrase_1066",
+    "lemma": "place emphasis on",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...na vurgu yapmak"
+    ],
+    "synonyms": [
+      "stress",
+      "highlight"
+    ],
+    "example": {
+      "text": "Modern curricula place greater emphasis on analytical thinking.",
+      "translation": "Modern müfredatlar analitik düşünmeye daha fazla vurgu yapmaktadır."
+    },
+    "cloze": {
+      "template": "Modern curricula {{cloze}} analytical thinking.",
+      "answer": "place greater emphasis on"
+    }
+  },
+  {
+    "id": "opt_for_phrase_1067",
+    "lemma": "opt for",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...tercih etmek, seçmek"
+    ],
+    "synonyms": [
+      "choose",
+      "select"
+    ],
+    "example": {
+      "text": "Many developing nations opt for renewable energy to reduce carbon emissions.",
+      "translation": "Birçok gelişmekte olan ulus karbon emisyonlarını azaltmak için yenilenebilir enerjiyi tercih eder."
+    },
+    "cloze": {
+      "template": "Many developing nations {{cloze}} renewable energy to reduce carbon emissions.",
+      "answer": "opt for"
+    }
+  },
+  {
+    "id": "in_the_wake_of_phrase_1068",
+    "lemma": "be tantamount to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...eşdeğer olmak"
+    ],
+    "synonyms": [
+      "be equivalent to",
+      "amount to"
+    ],
+    "example": {
+      "text": "Refusing to act would be tantamount to admitting defeat.",
+      "translation": "Harekete geçmeyi reddetmek yenilgiyi kabul etmeye eşdeğer olurdu."
+    },
+    "cloze": {
+      "template": "Refusing to act would {{cloze}} admitting defeat.",
+      "answer": "be tantamount to"
+    }
+  },
+  {
+    "id": "weed_out_phrase_1069",
+    "lemma": "weed out",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "ayıklamak, elemek"
+    ],
+    "synonyms": [
+      "eliminate",
+      "remove"
+    ],
+    "example": {
+      "text": "The selection process is designed to weed out unqualified applicants.",
+      "translation": "Seçim süreci niteliksiz başvuru sahiplerini ayıklamak için tasarlanmıştır."
+    },
+    "cloze": {
+      "template": "The selection process is designed to {{cloze}} unqualified applicants.",
+      "answer": "weed out"
+    }
+  },
+  {
+    "id": "phase_out_phrase_1070",
+    "lemma": "phase out",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "aşamalı olarak kaldırmak"
+    ],
+    "synonyms": [
+      "gradually eliminate",
+      "discontinue"
+    ],
+    "example": {
+      "text": "The government plans to phase out subsidies for fossil fuels.",
+      "translation": "Hükümet fosil yakıt sübvansiyonlarını aşamalı olarak kaldırmayı planlamaktadır."
+    },
+    "cloze": {
+      "template": "The government plans to {{cloze}} subsidies for fossil fuels.",
+      "answer": "phase out"
+    }
+  },
+  {
+    "id": "it_stands_to_reason_phrase_1071",
+    "lemma": "it stands to reason",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "mantıklıdır, akla uygundur"
+    ],
+    "synonyms": [
+      "it is logical",
+      "it makes sense"
+    ],
+    "example": {
+      "text": "It stands to reason that better education leads to improved social outcomes.",
+      "translation": "Daha iyi eğitimin iyileştirilmiş sosyal sonuçlara yol açması mantıklıdır."
+    },
+    "cloze": {
+      "template": "{{cloze}} that better education leads to improved social outcomes.",
+      "answer": "It stands to reason"
+    }
+  },
+  {
+    "id": "in_line_with_phrase_1072",
+    "lemma": "in line with",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ile uyumlu, doğrultusunda"
+    ],
+    "synonyms": [
+      "consistent with",
+      "aligned with"
+    ],
+    "example": {
+      "text": "The new measures are in line with international best practices.",
+      "translation": "Yeni tedbirler uluslararası en iyi uygulamalarla uyumludur."
+    },
+    "cloze": {
+      "template": "The new measures are {{cloze}} international best practices.",
+      "answer": "in line with"
+    }
+  },
+  {
+    "id": "make_up_for_phrase_1073",
+    "lemma": "make up for",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...nin telafisini yapmak"
+    ],
+    "synonyms": [
+      "compensate for",
+      "offset"
+    ],
+    "example": {
+      "text": "Increased exports helped make up for the decline in domestic consumption.",
+      "translation": "Artan ihracat iç tüketimdeki düşüşün telafisine yardımcı oldu."
+    },
+    "cloze": {
+      "template": "Increased exports helped {{cloze}} the decline in domestic consumption.",
+      "answer": "make up for"
+    }
+  },
+  {
+    "id": "in_the_course_of_phrase_1074",
+    "lemma": "in the course of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...sırasında, boyunca"
+    ],
+    "synonyms": [
+      "during",
+      "throughout"
+    ],
+    "example": {
+      "text": "Several important discoveries were made in the course of the investigation.",
+      "translation": "Soruşturma sırasında birçok önemli keşif yapıldı."
+    },
+    "cloze": {
+      "template": "Several important discoveries were made {{cloze}} the investigation.",
+      "answer": "in the course of"
+    }
+  },
+  {
+    "id": "along_with_phrase_1075",
+    "lemma": "along with",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...ile birlikte"
+    ],
+    "synonyms": [
+      "together with",
+      "in addition to"
+    ],
+    "example": {
+      "text": "Economic reform, along with political stability, is essential for growth.",
+      "translation": "Ekonomik reform siyasi istikrarla birlikte büyüme için zorunludur."
+    },
+    "cloze": {
+      "template": "Economic reform, {{cloze}} political stability, is essential for growth.",
+      "answer": "along with"
+    }
+  },
+  {
+    "id": "at_the_behest_of_phrase_1076",
+    "lemma": "at the behest of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...emriyle, isteği üzerine"
+    ],
+    "synonyms": [
+      "upon the request of",
+      "at the instruction of"
+    ],
+    "example": {
+      "text": "The investigation was launched at the behest of the prime minister.",
+      "translation": "Soruşturma başbakanın isteği üzerine başlatıldı."
+    },
+    "cloze": {
+      "template": "The investigation was launched {{cloze}} the prime minister.",
+      "answer": "at the behest of"
+    }
+  },
+  {
+    "id": "serve_as_phrase_1077",
+    "lemma": "serve as",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "...olarak hizmet etmek, görev yapmak"
+    ],
+    "synonyms": [
+      "function as",
+      "act as"
+    ],
+    "example": {
+      "text": "The museum serves as a bridge between past and present cultures.",
+      "translation": "Müze geçmiş ve günümüz kültürleri arasında bir köprü görevi görmektedir."
+    },
+    "cloze": {
+      "template": "The museum {{cloze}} a bridge between past and present cultures.",
+      "answer": "serves as"
+    }
+  },
+  {
+    "id": "the_lion_share_phrase_1078",
+    "lemma": "the lion's share",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "aslan payı, en büyük pay"
+    ],
+    "synonyms": [
+      "the majority",
+      "the largest portion"
+    ],
+    "example": {
+      "text": "The lion's share of the budget was allocated to defence spending.",
+      "translation": "Bütçenin aslan payı savunma harcamalarına ayrıldı."
+    },
+    "cloze": {
+      "template": "{{cloze}} of the budget was allocated to defence spending.",
+      "answer": "The lion's share"
+    }
+  },
+  {
+    "id": "stand_to_gain_phrase_1079",
+    "lemma": "stand to gain",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "kazanma ihtimali olmak"
+    ],
+    "synonyms": [
+      "benefit",
+      "profit"
+    ],
+    "example": {
+      "text": "Developing countries stand to gain the most from fair trade agreements.",
+      "translation": "Gelişmekte olan ülkelerin adil ticaret anlaşmalarından en çok kazanma ihtimali vardır."
+    },
+    "cloze": {
+      "template": "Developing countries {{cloze}} the most from fair trade agreements.",
+      "answer": "stand to gain"
+    }
+  },
+  {
+    "id": "turn_a_blind_eye_phrase_1080",
+    "lemma": "turn a blind eye to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "görmezden gelmek"
+    ],
+    "synonyms": [
+      "ignore",
+      "overlook"
+    ],
+    "example": {
+      "text": "Authorities can no longer turn a blind eye to environmental violations.",
+      "translation": "Yetkililer artık çevre ihlallerini görmezden gelemez."
+    },
+    "cloze": {
+      "template": "Authorities can no longer {{cloze}} environmental violations.",
+      "answer": "turn a blind eye to"
+    }
+  }
+]

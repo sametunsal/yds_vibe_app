@@ -1,3 +1,5 @@
+import 'package:flutter/foundation.dart';
+
 import '../core/result.dart';
 import '../data/card_loader.dart';
 import '../models/card.dart';
@@ -40,7 +42,16 @@ class CardRepositoryImpl implements CardRepository {
   Future<Result<List<VocabularyCard>>> getAllCards() async {
     try {
       final cards = await CardLoader.loadCards();
-      final progress = await _loadProgress();
+
+      // Progress merge is fail-safe: never blocks card loading
+      Map<String, CardProgress> progress;
+      try {
+        progress = await _loadProgress();
+      } catch (e) {
+        debugPrint('[CardRepository] Progress load failed, continuing: $e');
+        progress = {};
+      }
+
       return Success(_mergeProgress(cards, progress));
     } catch (e) {
       return Failure('Kartlar yüklenemedi: $e');

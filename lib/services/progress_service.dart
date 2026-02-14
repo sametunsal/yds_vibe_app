@@ -1,7 +1,6 @@
 import 'dart:convert';
-import 'dart:io';
 import 'package:flutter/foundation.dart';
-import 'package:path_provider/path_provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 /// SRS progress data for a single card.
 class CardProgress {
@@ -42,101 +41,50 @@ class CardProgress {
   }
 }
 
-/// Manages SRS progress storage with atomic writes and backup recovery.
+/// Cross-platform SRS progress storage using SharedPreferences.
 ///
-/// Storage layout:
-///   progress.json     — current progress (cardId → SRS fields)
-///   progress.json.bak — backup of last known good state
-///   progress.json.tmp — temp file during atomic write
+/// Stores progress as a single JSON string under key `progress_json`.
+/// Works identically on Web, Mobile, and Desktop.
 class ProgressService {
-  static const String _fileName = 'progress.json';
-  static const String _bakFileName = 'progress.json.bak';
-  static const String _tmpFileName = 'progress.json.tmp';
+  static const String _prefsKey = 'progress_json';
 
-  static String? _cachedPath;
-
-  static Future<String> get _localPath async {
-    _cachedPath ??= (await getApplicationDocumentsDirectory()).path;
-    return _cachedPath!;
-  }
-
-  /// Load progress map from disk.
-  /// Recovery chain: main file → .bak → empty map.
+  /// Load progress map. Returns empty map on any failure.
   static Future<Map<String, CardProgress>> loadProgress() async {
-    final path = await _localPath;
-    final mainFile = File('$path/$_fileName');
-    final bakFile = File('$path/$_bakFileName');
-
-    // Try main file
-    if (await mainFile.exists()) {
-      try {
-        final data = await mainFile.readAsString();
-        final map = _parseProgressJson(data);
-        debugPrint(
-          '[ProgressService] Loaded ${map.length} card progress entries',
-        );
-        return map;
-      } catch (e) {
-        debugPrint('[ProgressService] Main file corrupt: $e');
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final raw = prefs.getString(_prefsKey);
+      if (raw == null || raw.isEmpty) {
+        debugPrint('[ProgressService] No saved progress, starting fresh');
+        return {};
       }
+      final map = _parseProgressJson(raw);
+      debugPrint(
+        '[ProgressService] Loaded ${map.length} card progress entries',
+      );
+      return map;
+    } catch (e) {
+      debugPrint('[ProgressService] loadProgress failed: $e');
+      return {};
     }
-
-    // Try backup file
-    if (await bakFile.exists()) {
-      try {
-        final data = await bakFile.readAsString();
-        final map = _parseProgressJson(data);
-        debugPrint(
-          '[ProgressService] Recovered ${map.length} entries from backup',
-        );
-        // Restore main file from backup
-        await bakFile.copy('$path/$_fileName');
-        return map;
-      } catch (e) {
-        debugPrint('[ProgressService] Backup also corrupt: $e');
-      }
-    }
-
-    // First run or total corruption
-    debugPrint('[ProgressService] No progress file found, starting fresh');
-    return {};
   }
 
-  /// Save progress map with atomic write + backup.
+  /// Save progress map. Errors are logged but never thrown.
   static Future<void> saveProgress(Map<String, CardProgress> progress) async {
-    final path = await _localPath;
-    final mainFile = File('$path/$_fileName');
-    final bakFile = File('$path/$_bakFileName');
-    final tmpFile = File('$path/$_tmpFileName');
-
     try {
-      // 1. Write to temp file
       final jsonMap = <String, dynamic>{};
       for (final entry in progress.entries) {
         jsonMap[entry.key] = entry.value.toJson();
       }
       final jsonString = json.encode(jsonMap);
-      await tmpFile.writeAsString(jsonString, flush: true);
-
-      // 2. Backup current main file (if exists)
-      if (await mainFile.exists()) {
-        await mainFile.copy(bakFile.path);
-      }
-
-      // 3. Rename temp → main (atomic on most filesystems)
-      await tmpFile.rename(mainFile.path);
-
-      debugPrint('[ProgressService] Saved ${progress.length} entries (atomic)');
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setString(_prefsKey, jsonString);
+      debugPrint('[ProgressService] Saved ${progress.length} entries');
     } catch (e) {
       debugPrint('[ProgressService] Error saving progress: $e');
-      // Clean up temp file if it exists
-      if (await tmpFile.exists()) {
-        await tmpFile.delete();
-      }
     }
   }
 
-  /// Update a single card's progress and save atomically.
+  /// Update a single card's progress and persist.
   static Future<void> updateCardProgress(
     String cardId,
     CardProgress progress,
@@ -155,7 +103,6 @@ class ProgressService {
           entry.value as Map<String, dynamic>,
         );
       } catch (e) {
-        // Unknown or malformed entry — skip gracefully
         debugPrint(
           '[ProgressService] Skipping corrupt entry "${entry.key}": $e',
         );

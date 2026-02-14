@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import '../constants/app_constants.dart';
 import '../models/card.dart';
 import 'streak_service.dart';
@@ -110,9 +111,54 @@ class SRSService {
     return allCards.where((card) => card.isDue).toList();
   }
 
-  // Get new cards (never reviewed, interval = 0)
-  static List<VocabularyCard> getNewCards(List<VocabularyCard> allCards) {
-    return allCards.where((card) => card.intervalDays == 0).toList();
+  // Get new cards with POS-balanced quota
+  // Default quota: noun=5, verb=2, adj=2, other=1
+  static List<VocabularyCard> getNewCards(
+    List<VocabularyCard> allCards, {
+    int maxNew = 10,
+  }) {
+    final allNew = allCards.where((c) => c.intervalDays == 0).toList()
+      ..shuffle();
+
+    // POS quota targets
+    const quotas = <String, int>{'noun': 5, 'verb': 2, 'adj': 2};
+    const otherQuota = 1; // adv, phrase, conjunction, phrasal_verb, etc.
+
+    // Bucket new cards by POS group
+    final buckets = <String, List<VocabularyCard>>{};
+    for (final c in allNew) {
+      final key = quotas.containsKey(c.pos) ? c.pos : 'other';
+      (buckets[key] ??= []).add(c);
+    }
+
+    final picked = <VocabularyCard>[];
+    var remaining = maxNew;
+
+    // Phase 1: fill each quota
+    for (final entry in {...quotas, 'other': otherQuota}.entries) {
+      final bucket = buckets[entry.key] ?? [];
+      final take = entry.value.clamp(0, remaining).clamp(0, bucket.length);
+      picked.addAll(bucket.sublist(0, take));
+      bucket.removeRange(0, take);
+      remaining -= take;
+    }
+
+    // Phase 2: fill leftover slots from any remaining pool
+    if (remaining > 0) {
+      final leftovers = [for (final b in buckets.values) ...b]
+        ..removeWhere((c) => picked.contains(c));
+      final extra = leftovers.take(remaining).toList();
+      picked.addAll(extra);
+    }
+
+    // Debug log
+    final counts = <String, int>{};
+    for (final c in picked) {
+      counts[c.pos] = (counts[c.pos] ?? 0) + 1;
+    }
+    debugPrint('[SRS] New cards picked: ${picked.length} | POS: $counts');
+
+    return picked;
   }
 
   // Get learning cards (currently in learning, 0 < interval < 21 days)

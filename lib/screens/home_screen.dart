@@ -1,6 +1,8 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import '../core/responsive.dart';
 import '../core/result.dart';
+import '../data/card_loader.dart';
 import '../models/category.dart';
 import '../repositories/card_repository.dart';
 import '../services/srs_service.dart';
@@ -24,6 +26,7 @@ class _HomeScreenState extends State<HomeScreen> {
   int _newCount = 0;
   int _streakCount = 0;
   bool _isLoading = true;
+  int _totalCards = 0;
 
   static const List<CategoryData> _categories = [
     CategoryData(
@@ -78,6 +81,10 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> _loadData() async {
     setState(() => _isLoading = true);
+
+    // Debug: force reload from assets (bypass cache)
+    if (kDebugMode) CardLoader.clearCache();
+
     final result = await _repository.getAllCards();
 
     switch (result) {
@@ -93,11 +100,15 @@ class _HomeScreenState extends State<HomeScreen> {
         if (mounted) {
           setState(() {
             _counts = counts;
+            _totalCards = cards.length;
             _dueCount = SRSService.getDueCards(cards).length;
-            _newCount = SRSService.getNewCards(cards).length;
+            _newCount = cards.where((c) => c.intervalDays == 0).length;
             _streakCount = streak;
             _isLoading = false;
           });
+          debugPrint(
+            '[HomeScreen] Total: ${cards.length} | Due: $_dueCount | New(total): $_newCount',
+          );
         }
       case Failure(message: final msg):
         debugPrint('[HomeScreen] Error: $msg');
@@ -223,6 +234,20 @@ class _HomeScreenState extends State<HomeScreen> {
               .animate()
               .fadeIn(duration: 300.ms)
               .slideY(begin: -0.1),
+
+          // Debug: total card count
+          if (kDebugMode)
+            Padding(
+              padding: const EdgeInsets.only(top: 4),
+              child: Text(
+                'Total cards: $_totalCards',
+                style: TextStyle(
+                  fontSize: 11,
+                  color: Colors.amber.shade300,
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+            ),
           const SizedBox(height: 12),
 
           // Start Study CTA

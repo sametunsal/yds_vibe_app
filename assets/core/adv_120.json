@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "adv_accordingly_2001",
+    "lemma": "accordingly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "buna göre"
+    ],
+    "synonyms": [
+      "therefore",
+      "consequently"
+    ],
+    "example": {
+      "text": "The budget was reduced; accordingly, several projects were postponed.",
+      "translation": "Bütçe azaltıldı; buna göre birçok proje ertelendi."
+    },
+    "cloze": {
+      "template": "The budget was reduced; {{cloze}}, several projects were postponed.",
+      "answer": "accordingly"
+    }
+  },
+  {
+    "id": "adv_admittedly_2002",
+    "lemma": "admittedly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kuşkusuz, kabul edilmelidir ki"
+    ],
+    "synonyms": [
+      "concededly",
+      "confessedly"
+    ],
+    "example": {
+      "text": "Admittedly, the study had certain methodological limitations.",
+      "translation": "Kuşkusuz çalışmanın bazı metodolojik sınırlılıkları vardı."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the study had certain methodological limitations.",
+      "answer": "Admittedly"
+    }
+  },
+  {
+    "id": "adv_adversely_2003",
+    "lemma": "alternately",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "dönüşümlü olarak"
+    ],
+    "synonyms": [
+      "in turn",
+      "by turns"
+    ],
+    "example": {
+      "text": "The patient alternately experienced periods of improvement and relapse.",
+      "translation": "Hasta dönüşümlü olarak iyileşme ve nüks dönemleri yaşadı."
+    },
+    "cloze": {
+      "template": "The patient {{cloze}} experienced periods of improvement and relapse.",
+      "answer": "alternately"
+    }
+  },
+  {
+    "id": "adv_alternatively_2004",
+    "lemma": "alternatively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "alternatif olarak"
+    ],
+    "synonyms": [
+      "otherwise",
+      "instead"
+    ],
+    "example": {
+      "text": "The data can be analysed quantitatively; alternatively, a qualitative approach may be adopted.",
+      "translation": "Veriler nicel olarak analiz edilebilir; alternatif olarak nitel bir yaklaşım benimsenebilir."
+    },
+    "cloze": {
+      "template": "The data can be analysed quantitatively; {{cloze}}, a qualitative approach may be adopted.",
+      "answer": "alternatively"
+    }
+  },
+  {
+    "id": "adv_analogously_2005",
+    "lemma": "analogously",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "benzer şekilde"
+    ],
+    "synonyms": [
+      "similarly",
+      "correspondingly"
+    ],
+    "example": {
+      "text": "Analogously, the same principle can be applied to biological systems.",
+      "translation": "Benzer şekilde aynı ilke biyolojik sistemlere uygulanabilir."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the same principle can be applied to biological systems.",
+      "answer": "Analogously"
+    }
+  },
+  {
+    "id": "adv_appreciably_2006",
+    "lemma": "appreciably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "önemli ölçüde, belirgin biçimde"
+    ],
+    "synonyms": [
+      "noticeably",
+      "significantly"
+    ],
+    "example": {
+      "text": "Air quality improved appreciably following the introduction of stricter emission standards.",
+      "translation": "Daha sıkı emisyon standartlarının uygulanmasının ardından hava kalitesi belirgin biçimde iyileşti."
+    },
+    "cloze": {
+      "template": "Air quality improved {{cloze}} following the introduction of stricter emission standards.",
+      "answer": "appreciably"
+    }
+  },
+  {
+    "id": "adv_appropriately_2007",
+    "lemma": "appropriately",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "uygun şekilde"
+    ],
+    "synonyms": [
+      "suitably",
+      "properly"
+    ],
+    "example": {
+      "text": "Funds must be allocated appropriately to maximise their impact.",
+      "translation": "Fonlar etkilerini en üst düzeye çıkarmak için uygun şekilde tahsis edilmelidir."
+    },
+    "cloze": {
+      "template": "Funds must be allocated {{cloze}} to maximise their impact.",
+      "answer": "appropriately"
+    }
+  },
+  {
+    "id": "adv_assertively_2008",
+    "lemma": "assertively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kararlı bir şekilde"
+    ],
+    "synonyms": [
+      "confidently",
+      "firmly"
+    ],
+    "example": {
+      "text": "The delegation assertively defended its position during the negotiations.",
+      "translation": "Heyet müzakereler sırasında tutumunu kararlı bir şekilde savundu."
+    },
+    "cloze": {
+      "template": "The delegation {{cloze}} defended its position during the negotiations.",
+      "answer": "assertively"
+    }
+  },
+  {
+    "id": "adv_autonomously_2009",
+    "lemma": "autonomously",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "özerk biçimde"
+    ],
+    "synonyms": [
+      "independently",
+      "self-sufficiently"
+    ],
+    "example": {
+      "text": "The robots are designed to operate autonomously in hazardous environments.",
+      "translation": "Robotlar tehlikeli ortamlarda özerk biçimde çalışacak şekilde tasarlanmıştır."
+    },
+    "cloze": {
+      "template": "The robots are designed to operate {{cloze}} in hazardous environments.",
+      "answer": "autonomously"
+    }
+  },
+  {
+    "id": "adv_broadly_2010",
+    "lemma": "broadly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "genel olarak, geniş çapta"
+    ],
+    "synonyms": [
+      "generally",
+      "widely"
+    ],
+    "example": {
+      "text": "The findings are broadly consistent with previous research.",
+      "translation": "Bulgular genel olarak önceki araştırmalarla tutarlıdır."
+    },
+    "cloze": {
+      "template": "The findings are {{cloze}} consistent with previous research.",
+      "answer": "broadly"
+    }
+  },
+  {
+    "id": "adv_cautiously_2011",
+    "lemma": "cautiously",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "ihtiyatla, dikkatli biçimde"
+    ],
+    "synonyms": [
+      "carefully",
+      "warily"
+    ],
+    "example": {
+      "text": "Investors cautiously re-entered the market after the downturn.",
+      "translation": "Yatırımcılar düşüşün ardından piyasaya ihtiyatla geri döndü."
+    },
+    "cloze": {
+      "template": "Investors {{cloze}} re-entered the market after the downturn.",
+      "answer": "cautiously"
+    }
+  },
+  {
+    "id": "adv_chronically_2012",
+    "lemma": "chronically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kronik olarak, sürekli"
+    ],
+    "synonyms": [
+      "persistently",
+      "constantly"
+    ],
+    "example": {
+      "text": "The region has been chronically underfunded for decades.",
+      "translation": "Bölge onlarca yıldır kronik olarak yetersiz finanse edilmektedir."
+    },
+    "cloze": {
+      "template": "The region has been {{cloze}} underfunded for decades.",
+      "answer": "chronically"
+    }
+  },
+  {
+    "id": "adv_coherently_2013",
+    "lemma": "coherently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "tutarlı biçimde"
+    ],
+    "synonyms": [
+      "logically",
+      "consistently"
+    ],
+    "example": {
+      "text": "The argument must be presented coherently to persuade the audience.",
+      "translation": "Argüman izleyiciyi ikna etmek için tutarlı biçimde sunulmalıdır."
+    },
+    "cloze": {
+      "template": "The argument must be presented {{cloze}} to persuade the audience.",
+      "answer": "coherently"
+    }
+  },
+  {
+    "id": "adv_collectively_2014",
+    "lemma": "collectively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "topluca, kolektif olarak"
+    ],
+    "synonyms": [
+      "jointly",
+      "together"
+    ],
+    "example": {
+      "text": "These factors collectively contribute to the decline of biodiversity.",
+      "translation": "Bu faktörler topluca biyoçeşitlilik kaybına katkıda bulunmaktadır."
+    },
+    "cloze": {
+      "template": "These factors {{cloze}} contribute to the decline of biodiversity.",
+      "answer": "collectively"
+    }
+  },
+  {
+    "id": "adv_comparatively_2015",
+    "lemma": "comparatively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "nispeten, karşılaştırmalı olarak"
+    ],
+    "synonyms": [
+      "relatively",
+      "proportionally"
+    ],
+    "example": {
+      "text": "The incidence of the disease is comparatively low in northern regions.",
+      "translation": "Hastalığın görülme sıklığı kuzey bölgelerde nispeten düşüktür."
+    },
+    "cloze": {
+      "template": "The incidence of the disease is {{cloze}} low in northern regions.",
+      "answer": "comparatively"
+    }
+  },
+  {
+    "id": "adv_compellingly_2016",
+    "lemma": "compellingly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "ikna edici biçimde"
+    ],
+    "synonyms": [
+      "convincingly",
+      "persuasively"
+    ],
+    "example": {
+      "text": "The author compellingly argues that education reform is overdue.",
+      "translation": "Yazar eğitim reformunun geciktiğini ikna edici biçimde savunuyor."
+    },
+    "cloze": {
+      "template": "The author {{cloze}} argues that education reform is overdue.",
+      "answer": "compellingly"
+    }
+  },
+  {
+    "id": "adv_comprehensively_2017",
+    "lemma": "comprehensively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kapsamlı bir şekilde"
+    ],
+    "synonyms": [
+      "thoroughly",
+      "exhaustively"
+    ],
+    "example": {
+      "text": "The topic has been comprehensively reviewed in the literature.",
+      "translation": "Konu literatürde kapsamlı bir şekilde incelenmiştir."
+    },
+    "cloze": {
+      "template": "The topic has been {{cloze}} reviewed in the literature.",
+      "answer": "comprehensively"
+    }
+  },
+  {
+    "id": "adv_conceivably_2018",
+    "lemma": "conceivably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "düşünülebilecek şekilde, belki"
+    ],
+    "synonyms": [
+      "possibly",
+      "perhaps"
+    ],
+    "example": {
+      "text": "The virus could conceivably mutate into a more resistant strain.",
+      "translation": "Virüs düşünülebilecek şekilde daha dirençli bir suşa dönüşebilir."
+    },
+    "cloze": {
+      "template": "The virus could {{cloze}} mutate into a more resistant strain.",
+      "answer": "conceivably"
+    }
+  },
+  {
+    "id": "adv_conditionally_2019",
+    "lemma": "conditionally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "koşullu olarak"
+    ],
+    "synonyms": [
+      "provisionally",
+      "contingently"
+    ],
+    "example": {
+      "text": "Funding was conditionally approved, pending a final review.",
+      "translation": "Finansman son bir değerlendirme beklerken koşullu olarak onaylandı."
+    },
+    "cloze": {
+      "template": "Funding was {{cloze}} approved, pending a final review.",
+      "answer": "conditionally"
+    }
+  },
+  {
+    "id": "adv_conspicuously_2020",
+    "lemma": "conspicuously",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "göze çarpacak şekilde"
+    ],
+    "synonyms": [
+      "noticeably",
+      "strikingly"
+    ],
+    "example": {
+      "text": "Women were conspicuously absent from the leadership committee.",
+      "translation": "Kadınlar liderlik komitesinde göze çarpacak şekilde yoktu."
+    },
+    "cloze": {
+      "template": "Women were {{cloze}} absent from the leadership committee.",
+      "answer": "conspicuously"
+    }
+  },
+  {
+    "id": "adv_conventionally_2021",
+    "lemma": "conventionally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "geleneksel olarak"
+    ],
+    "synonyms": [
+      "traditionally",
+      "customarily"
+    ],
+    "example": {
+      "text": "Conventionally, the term has been used to describe Western democracies.",
+      "translation": "Geleneksel olarak bu terim Batı demokrasilerini tanımlamak için kullanılmıştır."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the term has been used to describe Western democracies.",
+      "answer": "Conventionally"
+    }
+  },
+  {
+    "id": "adv_critically_2022",
+    "lemma": "critically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "eleştirel biçimde"
+    ],
+    "synonyms": [
+      "analytically",
+      "evaluatively"
+    ],
+    "example": {
+      "text": "Students are expected to critically evaluate the sources they reference.",
+      "translation": "Öğrencilerin başvurdukları kaynakları eleştirel biçimde değerlendirmesi beklenir."
+    },
+    "cloze": {
+      "template": "Students are expected to {{cloze}} evaluate the sources they reference.",
+      "answer": "critically"
+    }
+  },
+  {
+    "id": "adv_decisively_2023",
+    "lemma": "decisively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kararlı biçimde, kesin olarak"
+    ],
+    "synonyms": [
+      "conclusively",
+      "resolutely"
+    ],
+    "example": {
+      "text": "The government acted decisively to contain the spread of the virus.",
+      "translation": "Hükümet virüsün yayılmasını kontrol altına almak için kararlı biçimde harekete geçti."
+    },
+    "cloze": {
+      "template": "The government acted {{cloze}} to contain the spread of the virus.",
+      "answer": "decisively"
+    }
+  },
+  {
+    "id": "adv_deliberately_2024",
+    "lemma": "deliberately",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kasıtlı olarak"
+    ],
+    "synonyms": [
+      "intentionally",
+      "purposely"
+    ],
+    "example": {
+      "text": "The researchers deliberately excluded participants under the age of eighteen.",
+      "translation": "Araştırmacılar on sekiz yaşın altındaki katılımcıları kasıtlı olarak dışladı."
+    },
+    "cloze": {
+      "template": "The researchers {{cloze}} excluded participants under the age of eighteen.",
+      "answer": "deliberately"
+    }
+  },
+  {
+    "id": "adv_demonstrably_2025",
+    "lemma": "demonstrably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kanıtlanabilir şekilde"
+    ],
+    "synonyms": [
+      "provably",
+      "verifiably"
+    ],
+    "example": {
+      "text": "The policy is demonstrably more effective than its predecessor.",
+      "translation": "Politika selefinden kanıtlanabilir şekilde daha etkilidir."
+    },
+    "cloze": {
+      "template": "The policy is {{cloze}} more effective than its predecessor.",
+      "answer": "demonstrably"
+    }
+  },
+  {
+    "id": "adv_diligently_2026",
+    "lemma": "diligently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "özenle, gayretle"
+    ],
+    "synonyms": [
+      "industriously",
+      "assiduously"
+    ],
+    "example": {
+      "text": "The committee diligently reviewed every application submitted.",
+      "translation": "Komite sunulan her başvuruyu özenle inceledi."
+    },
+    "cloze": {
+      "template": "The committee {{cloze}} reviewed every application submitted.",
+      "answer": "diligently"
+    }
+  },
+  {
+    "id": "adv_discernibly_2027",
+    "lemma": "discernibly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "fark edilir şekilde"
+    ],
+    "synonyms": [
+      "perceptibly",
+      "detectably"
+    ],
+    "example": {
+      "text": "The quality of healthcare has discernibly improved over the past decade.",
+      "translation": "Sağlık hizmetlerinin kalitesi son on yılda fark edilir şekilde iyileşmiştir."
+    },
+    "cloze": {
+      "template": "The quality of healthcare has {{cloze}} improved over the past decade.",
+      "answer": "discernibly"
+    }
+  },
+  {
+    "id": "adv_discreetly_2028",
+    "lemma": "discreetly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "göze batmadan, sezdirmeden"
+    ],
+    "synonyms": [
+      "tactfully",
+      "prudently"
+    ],
+    "example": {
+      "text": "The diplomat discreetly conveyed the message during the reception.",
+      "translation": "Diplomat resepsiyon sırasında mesajı göze batmadan iletti."
+    },
+    "cloze": {
+      "template": "The diplomat {{cloze}} conveyed the message during the reception.",
+      "answer": "discreetly"
+    }
+  },
+  {
+    "id": "adv_distinctively_2029",
+    "lemma": "distinctively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "ayırt edici biçimde"
+    ],
+    "synonyms": [
+      "characteristically",
+      "uniquely"
+    ],
+    "example": {
+      "text": "The region's architecture is distinctively influenced by Ottoman traditions.",
+      "translation": "Bölgenin mimarisi ayırt edici biçimde Osmanlı geleneklerinden etkilenmiştir."
+    },
+    "cloze": {
+      "template": "The region's architecture is {{cloze}} influenced by Ottoman traditions.",
+      "answer": "distinctively"
+    }
+  },
+  {
+    "id": "adv_divergently_2030",
+    "lemma": "drastically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "köklü biçimde, büyük ölçüde"
+    ],
+    "synonyms": [
+      "radically",
+      "severely"
+    ],
+    "example": {
+      "text": "Immigration policies have changed drastically in recent years.",
+      "translation": "Göç politikaları son yıllarda köklü biçimde değişmiştir."
+    },
+    "cloze": {
+      "template": "Immigration policies have changed {{cloze}} in recent years.",
+      "answer": "drastically"
+    }
+  },
+  {
+    "id": "adv_duly_2031",
+    "lemma": "duly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "gereği gibi, usulüne uygun"
+    ],
+    "synonyms": [
+      "properly",
+      "rightfully"
+    ],
+    "example": {
+      "text": "The committee duly noted the concerns raised by the public.",
+      "translation": "Komite halk tarafından dile getirilen endişeleri gereği gibi kaydetti."
+    },
+    "cloze": {
+      "template": "The committee {{cloze}} noted the concerns raised by the public.",
+      "answer": "duly"
+    }
+  },
+  {
+    "id": "adv_eloquently_2032",
+    "lemma": "eloquently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "etkili ve güzel bir şekilde"
+    ],
+    "synonyms": [
+      "articulately",
+      "expressively"
+    ],
+    "example": {
+      "text": "The ambassador eloquently defended her nation's position at the summit.",
+      "translation": "Büyükelçi zirvede ülkesinin tutumunu etkili bir şekilde savundu."
+    },
+    "cloze": {
+      "template": "The ambassador {{cloze}} defended her nation's position at the summit.",
+      "answer": "eloquently"
+    }
+  },
+  {
+    "id": "adv_eminently_2033",
+    "lemma": "eminently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "son derece, gayet"
+    ],
+    "synonyms": [
+      "highly",
+      "supremely"
+    ],
+    "example": {
+      "text": "The candidate is eminently qualified for the research position.",
+      "translation": "Aday araştırma pozisyonu için son derece niteliklidir."
+    },
+    "cloze": {
+      "template": "The candidate is {{cloze}} qualified for the research position.",
+      "answer": "eminently"
+    }
+  },
+  {
+    "id": "adv_emphatically_2034",
+    "lemma": "emphatically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "vurgulu biçimde, kesinlikle"
+    ],
+    "synonyms": [
+      "forcefully",
+      "firmly"
+    ],
+    "example": {
+      "text": "The scientist emphatically rejected the claims made in the tabloid press.",
+      "translation": "Bilim insanı bulvar basınında yapılan iddiaları kesinlikle reddetti."
+    },
+    "cloze": {
+      "template": "The scientist {{cloze}} rejected the claims made in the tabloid press.",
+      "answer": "emphatically"
+    }
+  },
+  {
+    "id": "adv_endlessly_2035",
+    "lemma": "endlessly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "durmaksızın, sürekli"
+    ],
+    "synonyms": [
+      "ceaselessly",
+      "interminably"
+    ],
+    "example": {
+      "text": "The debate over climate policy seems to continue endlessly.",
+      "translation": "İklim politikası tartışması durmaksızın devam ediyor gibi görünüyor."
+    },
+    "cloze": {
+      "template": "The debate over climate policy seems to continue {{cloze}}.",
+      "answer": "endlessly"
+    }
+  },
+  {
+    "id": "adv_evidently_2036",
+    "lemma": "evidently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "açıkça, belli ki"
+    ],
+    "synonyms": [
+      "clearly",
+      "obviously"
+    ],
+    "example": {
+      "text": "The policy had evidently failed to achieve its intended objectives.",
+      "translation": "Politika açıkça amaçlanan hedeflerine ulaşamamıştı."
+    },
+    "cloze": {
+      "template": "The policy had {{cloze}} failed to achieve its intended objectives.",
+      "answer": "evidently"
+    }
+  },
+  {
+    "id": "adv_exhaustively_2037",
+    "lemma": "exhaustively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kapsamlı biçimde, tüketici şekilde"
+    ],
+    "synonyms": [
+      "thoroughly",
+      "comprehensively"
+    ],
+    "example": {
+      "text": "The issue has been exhaustively debated in the academic literature.",
+      "translation": "Konu akademik literatürde kapsamlı biçimde tartışılmıştır."
+    },
+    "cloze": {
+      "template": "The issue has been {{cloze}} debated in the academic literature.",
+      "answer": "exhaustively"
+    }
+  },
+  {
+    "id": "adv_expressly_2038",
+    "lemma": "expressly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "açıkça, özellikle"
+    ],
+    "synonyms": [
+      "specifically",
+      "explicitly"
+    ],
+    "example": {
+      "text": "The treaty expressly prohibits the use of chemical weapons.",
+      "translation": "Antlaşma kimyasal silahların kullanımını açıkça yasaklamaktadır."
+    },
+    "cloze": {
+      "template": "The treaty {{cloze}} prohibits the use of chemical weapons.",
+      "answer": "expressly"
+    }
+  },
+  {
+    "id": "adv_extensively_2039",
+    "lemma": "extensively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "yaygın biçimde, geniş ölçüde"
+    ],
+    "synonyms": [
+      "widely",
+      "broadly"
+    ],
+    "example": {
+      "text": "The researcher has published extensively on the topic of migration.",
+      "translation": "Araştırmacı göç konusunda geniş ölçüde yayın yapmıştır."
+    },
+    "cloze": {
+      "template": "The researcher has published {{cloze}} on the topic of migration.",
+      "answer": "extensively"
+    }
+  },
+  {
+    "id": "adv_feasibly_2040",
+    "lemma": "feasibly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "uygulanabilir şekilde"
+    ],
+    "synonyms": [
+      "practicably",
+      "viably"
+    ],
+    "example": {
+      "text": "The targets can feasibly be met within the proposed timeframe.",
+      "translation": "Hedefler önerilen zaman diliminde uygulanabilir şekilde karşılanabilir."
+    },
+    "cloze": {
+      "template": "The targets can {{cloze}} be met within the proposed timeframe.",
+      "answer": "feasibly"
+    }
+  },
+  {
+    "id": "adv_figuratively_2041",
+    "lemma": "figuratively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "mecazi olarak"
+    ],
+    "synonyms": [
+      "metaphorically",
+      "symbolically"
+    ],
+    "example": {
+      "text": "The term is used figuratively to describe a collapse of public trust.",
+      "translation": "Terim kamu güveninin çökmesini mecazi olarak tanımlamak için kullanılır."
+    },
+    "cloze": {
+      "template": "The term is used {{cloze}} to describe a collapse of public trust.",
+      "answer": "figuratively"
+    }
+  },
+  {
+    "id": "adv_fittingly_2042",
+    "lemma": "fittingly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "yerinde bir şekilde"
+    ],
+    "synonyms": [
+      "appropriately",
+      "suitably"
+    ],
+    "example": {
+      "text": "The award was fittingly named after the university's founding scholar.",
+      "translation": "Ödül yerinde bir şekilde üniversitenin kurucu bilim insanının adını taşıyordu."
+    },
+    "cloze": {
+      "template": "The award was {{cloze}} named after the university's founding scholar.",
+      "answer": "fittingly"
+    }
+  },
+  {
+    "id": "adv_formally_2043",
+    "lemma": "formally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "resmi olarak"
+    ],
+    "synonyms": [
+      "officially",
+      "ceremonially"
+    ],
+    "example": {
+      "text": "The agreement was formally ratified by all member states.",
+      "translation": "Anlaşma tüm üye devletler tarafından resmi olarak onaylandı."
+    },
+    "cloze": {
+      "template": "The agreement was {{cloze}} ratified by all member states.",
+      "answer": "formally"
+    }
+  },
+  {
+    "id": "adv_fundamentally_2044",
+    "lemma": "fundamentally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "temelden, köklü olarak"
+    ],
+    "synonyms": [
+      "essentially",
+      "basically"
+    ],
+    "example": {
+      "text": "The two approaches are fundamentally different in their assumptions.",
+      "translation": "İki yaklaşım varsayımlarında temelden farklıdır."
+    },
+    "cloze": {
+      "template": "The two approaches are {{cloze}} different in their assumptions.",
+      "answer": "fundamentally"
+    }
+  },
+  {
+    "id": "adv_genuinely_2045",
+    "lemma": "genuinely",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "gerçekten, samimi olarak"
+    ],
+    "synonyms": [
+      "sincerely",
+      "truly"
+    ],
+    "example": {
+      "text": "The organisation is genuinely committed to reducing carbon emissions.",
+      "translation": "Örgüt karbon emisyonlarını azaltma konusunda gerçekten kararlıdır."
+    },
+    "cloze": {
+      "template": "The organisation is {{cloze}} committed to reducing carbon emissions.",
+      "answer": "genuinely"
+    }
+  },
+  {
+    "id": "adv_haphazardly_2046",
+    "lemma": "haphazardly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "gelişigüzel, rastgele"
+    ],
+    "synonyms": [
+      "randomly",
+      "chaotically"
+    ],
+    "example": {
+      "text": "Resources were distributed haphazardly, leading to widespread waste.",
+      "translation": "Kaynaklar gelişigüzel dağıtıldı ve bu da yaygın isrfa yol açtı."
+    },
+    "cloze": {
+      "template": "Resources were distributed {{cloze}}, leading to widespread waste.",
+      "answer": "haphazardly"
+    }
+  },
+  {
+    "id": "adv_henceforth_2047",
+    "lemma": "henceforth",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "bundan böyle"
+    ],
+    "synonyms": [
+      "hereafter",
+      "from now on"
+    ],
+    "example": {
+      "text": "Henceforth, all submissions must be made through the electronic portal.",
+      "translation": "Bundan böyle tüm başvurular elektronik portal üzerinden yapılmalıdır."
+    },
+    "cloze": {
+      "template": "{{cloze}}, all submissions must be made through the electronic portal.",
+      "answer": "Henceforth"
+    }
+  },
+  {
+    "id": "adv_hypothetically_2048",
+    "lemma": "hypothetically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "varsayımsal olarak"
+    ],
+    "synonyms": [
+      "theoretically",
+      "speculatively"
+    ],
+    "example": {
+      "text": "Hypothetically, if funding were unlimited, the project could be completed in two years.",
+      "translation": "Varsayımsal olarak finansman sınırsız olsaydı proje iki yılda tamamlanabilirdi."
+    },
+    "cloze": {
+      "template": "{{cloze}}, if funding were unlimited, the project could be completed in two years.",
+      "answer": "Hypothetically"
+    }
+  },
+  {
+    "id": "adv_ideally_2049",
+    "lemma": "ideally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "ideal olarak"
+    ],
+    "synonyms": [
+      "optimally",
+      "preferably"
+    ],
+    "example": {
+      "text": "Ideally, the sample should include participants from diverse backgrounds.",
+      "translation": "İdeal olarak örneklem farklı geçmişlerden katılımcıları içermelidir."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the sample should include participants from diverse backgrounds.",
+      "answer": "Ideally"
+    }
+  },
+  {
+    "id": "adv_immensely_2050",
+    "lemma": "immensely",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "son derece, aşırı"
+    ],
+    "synonyms": [
+      "enormously",
+      "vastly"
+    ],
+    "example": {
+      "text": "The research has contributed immensely to our understanding of genetics.",
+      "translation": "Araştırma genetik anlayışımıza son derece katkıda bulunmuştur."
+    },
+    "cloze": {
+      "template": "The research has contributed {{cloze}} to our understanding of genetics.",
+      "answer": "immensely"
+    }
+  },
+  {
+    "id": "adv_impartially_2051",
+    "lemma": "impartially",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "tarafsız biçimde"
+    ],
+    "synonyms": [
+      "objectively",
+      "fairly"
+    ],
+    "example": {
+      "text": "The judge is expected to assess all evidence impartially.",
+      "translation": "Hâkimin tüm delilleri tarafsız biçimde değerlendirmesi beklenir."
+    },
+    "cloze": {
+      "template": "The judge is expected to assess all evidence {{cloze}}.",
+      "answer": "impartially"
+    }
+  },
+  {
+    "id": "adv_incidentally_2052",
+    "lemma": "incidentally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "bu arada, tesadüfen"
+    ],
+    "synonyms": [
+      "by the way",
+      "coincidentally"
+    ],
+    "example": {
+      "text": "Incidentally, the same compound was found in an unrelated study.",
+      "translation": "Bu arada aynı bileşik ilgisiz bir çalışmada da bulunmuştur."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the same compound was found in an unrelated study.",
+      "answer": "Incidentally"
+    }
+  },
+  {
+    "id": "adv_incontrovertibly_2053",
+    "lemma": "incontrovertibly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "tartışmasız biçimde"
+    ],
+    "synonyms": [
+      "indisputably",
+      "undeniably"
+    ],
+    "example": {
+      "text": "The evidence incontrovertibly demonstrates the link between pollution and respiratory disease.",
+      "translation": "Kanıtlar kirlilik ve solunum hastalığı arasındaki bağlantıyı tartışmasız biçimde göstermektedir."
+    },
+    "cloze": {
+      "template": "The evidence {{cloze}} demonstrates the link between pollution and respiratory disease.",
+      "answer": "incontrovertibly"
+    }
+  },
+  {
+    "id": "adv_independently_2054",
+    "lemma": "independently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "bağımsız olarak"
+    ],
+    "synonyms": [
+      "autonomously",
+      "separately"
+    ],
+    "example": {
+      "text": "The two teams independently arrived at the same conclusion.",
+      "translation": "İki ekip bağımsız olarak aynı sonuca vardı."
+    },
+    "cloze": {
+      "template": "The two teams {{cloze}} arrived at the same conclusion.",
+      "answer": "independently"
+    }
+  },
+  {
+    "id": "adv_indirectly_2055",
+    "lemma": "indirectly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "dolaylı olarak"
+    ],
+    "synonyms": [
+      "obliquely",
+      "circuitously"
+    ],
+    "example": {
+      "text": "Climate change indirectly affects food security through crop failure.",
+      "translation": "İklim değişikliği mahsul kaybı yoluyla gıda güvenliğini dolaylı olarak etkiler."
+    },
+    "cloze": {
+      "template": "Climate change {{cloze}} affects food security through crop failure.",
+      "answer": "indirectly"
+    }
+  },
+  {
+    "id": "adv_inexorably_2056",
+    "lemma": "inexorably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kaçınılmaz biçimde"
+    ],
+    "synonyms": [
+      "relentlessly",
+      "inevitably"
+    ],
+    "example": {
+      "text": "Sea levels are rising inexorably as global temperatures increase.",
+      "translation": "Küresel sıcaklıklar arttıkça deniz seviyeleri kaçınılmaz biçimde yükselmektedir."
+    },
+    "cloze": {
+      "template": "Sea levels are rising {{cloze}} as global temperatures increase.",
+      "answer": "inexorably"
+    }
+  },
+  {
+    "id": "adv_informally_2057",
+    "lemma": "informally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "gayri resmi olarak"
+    ],
+    "synonyms": [
+      "casually",
+      "unofficially"
+    ],
+    "example": {
+      "text": "The agreement was reached informally before the official summit.",
+      "translation": "Anlaşma resmi zirveden önce gayri resmi olarak sağlandı."
+    },
+    "cloze": {
+      "template": "The agreement was reached {{cloze}} before the official summit.",
+      "answer": "informally"
+    }
+  },
+  {
+    "id": "adv_interchangeably_2058",
+    "lemma": "interchangeably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "birbirinin yerine"
+    ],
+    "synonyms": [
+      "synonymously",
+      "reciprocally"
+    ],
+    "example": {
+      "text": "The two terms are often used interchangeably, though they differ in scope.",
+      "translation": "İki terim kapsamları farklı olsa da sıklıkla birbirinin yerine kullanılır."
+    },
+    "cloze": {
+      "template": "The two terms are often used {{cloze}}, though they differ in scope.",
+      "answer": "interchangeably"
+    }
+  },
+  {
+    "id": "adv_intermittently_2059",
+    "lemma": "intermittently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "aralıklı olarak"
+    ],
+    "synonyms": [
+      "periodically",
+      "sporadically"
+    ],
+    "example": {
+      "text": "The region has intermittently experienced drought over the past century.",
+      "translation": "Bölge geçen yüzyıl boyunca aralıklı olarak kuraklık yaşamıştır."
+    },
+    "cloze": {
+      "template": "The region has {{cloze}} experienced drought over the past century.",
+      "answer": "intermittently"
+    }
+  },
+  {
+    "id": "adv_justifiably_2060",
+    "lemma": "justifiably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "haklı olarak"
+    ],
+    "synonyms": [
+      "legitimately",
+      "rightly"
+    ],
+    "example": {
+      "text": "Citizens are justifiably concerned about the erosion of civil liberties.",
+      "translation": "Vatandaşlar sivil özgürlüklerin aşınması konusunda haklı olarak endişelidir."
+    },
+    "cloze": {
+      "template": "Citizens are {{cloze}} concerned about the erosion of civil liberties.",
+      "answer": "justifiably"
+    }
+  },
+  {
+    "id": "adv_legitimately_2061",
+    "lemma": "legitimately",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "meşru biçimde"
+    ],
+    "synonyms": [
+      "lawfully",
+      "validly"
+    ],
+    "example": {
+      "text": "The question can legitimately be asked whether the policy is sustainable.",
+      "translation": "Politikanın sürdürülebilir olup olmadığı meşru biçimde sorulabilir."
+    },
+    "cloze": {
+      "template": "The question can {{cloze}} be asked whether the policy is sustainable.",
+      "answer": "legitimately"
+    }
+  },
+  {
+    "id": "adv_markedly_2062",
+    "lemma": "materially",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "maddi olarak, önemli ölçüde"
+    ],
+    "synonyms": [
+      "substantially",
+      "significantly"
+    ],
+    "example": {
+      "text": "The findings do not materially differ from those of previous studies.",
+      "translation": "Bulgular önceki çalışmalarınkinden önemli ölçüde farklılık göstermemektedir."
+    },
+    "cloze": {
+      "template": "The findings do not {{cloze}} differ from those of previous studies.",
+      "answer": "materially"
+    }
+  },
+  {
+    "id": "adv_meticulously_2063",
+    "lemma": "meticulously",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "titizlikle"
+    ],
+    "synonyms": [
+      "scrupulously",
+      "painstakingly"
+    ],
+    "example": {
+      "text": "The data was meticulously collected over a three-year period.",
+      "translation": "Veriler üç yıllık bir süre boyunca titizlikle toplandı."
+    },
+    "cloze": {
+      "template": "The data was {{cloze}} collected over a three-year period.",
+      "answer": "meticulously"
+    }
+  },
+  {
+    "id": "adv_minimally_2064",
+    "lemma": "minimally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "asgari düzeyde"
+    ],
+    "synonyms": [
+      "slightly",
+      "barely"
+    ],
+    "example": {
+      "text": "The intervention was only minimally effective in reducing infection rates.",
+      "translation": "Müdahale enfeksiyon oranlarını azaltmada yalnızca asgari düzeyde etkili oldu."
+    },
+    "cloze": {
+      "template": "The intervention was only {{cloze}} effective in reducing infection rates.",
+      "answer": "minimally"
+    }
+  },
+  {
+    "id": "adv_momentarily_2065",
+    "lemma": "momentarily",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "bir anlığına, kısa süreliğine"
+    ],
+    "synonyms": [
+      "briefly",
+      "fleetingly"
+    ],
+    "example": {
+      "text": "The stock market momentarily surged before declining sharply.",
+      "translation": "Borsa keskin bir düşüşten önce bir anlığına yükseldi."
+    },
+    "cloze": {
+      "template": "The stock market {{cloze}} surged before declining sharply.",
+      "answer": "momentarily"
+    }
+  },
+  {
+    "id": "adv_nominally_2066",
+    "lemma": "nominally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "sözde, isim olarak"
+    ],
+    "synonyms": [
+      "theoretically",
+      "in name"
+    ],
+    "example": {
+      "text": "The country is nominally a democracy but power resides with the military.",
+      "translation": "Ülke sözde bir demokrasidir ancak iktidar ordunun elindedir."
+    },
+    "cloze": {
+      "template": "The country is {{cloze}} a democracy but power resides with the military.",
+      "answer": "nominally"
+    }
+  },
+  {
+    "id": "adv_objectively_2067",
+    "lemma": "objectively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "nesnel olarak"
+    ],
+    "synonyms": [
+      "impartially",
+      "unbiasedly"
+    ],
+    "example": {
+      "text": "The performance of each candidate was objectively measured using standardised tests.",
+      "translation": "Her adayın performansı standart testler kullanılarak nesnel olarak ölçüldü."
+    },
+    "cloze": {
+      "template": "The performance of each candidate was {{cloze}} measured using standardised tests.",
+      "answer": "objectively"
+    }
+  },
+  {
+    "id": "adv_onward_2068",
+    "lemma": "outwardly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "dışarıdan bakıldığında, görünüşte"
+    ],
+    "synonyms": [
+      "externally",
+      "apparently"
+    ],
+    "example": {
+      "text": "The negotiations were outwardly calm, but tensions ran high behind closed doors.",
+      "translation": "Müzakereler dışarıdan bakıldığında sakin görünüyordu ancak kapalı kapılar ardında gerilim yüksekti."
+    },
+    "cloze": {
+      "template": "The negotiations were {{cloze}} calm, but tensions ran high behind closed doors.",
+      "answer": "outwardly"
+    }
+  },
+  {
+    "id": "adv_overtly_2069",
+    "lemma": "overtly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "açıkça, alenen"
+    ],
+    "synonyms": [
+      "openly",
+      "publicly"
+    ],
+    "example": {
+      "text": "The government overtly supported the industrial expansion programme.",
+      "translation": "Hükümet endüstriyel genişleme programını açıkça destekledi."
+    },
+    "cloze": {
+      "template": "The government {{cloze}} supported the industrial expansion programme.",
+      "answer": "overtly"
+    }
+  },
+  {
+    "id": "adv_paradoxically_2070",
+    "lemma": "painstakingly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "büyük özenle"
+    ],
+    "synonyms": [
+      "meticulously",
+      "laboriously"
+    ],
+    "example": {
+      "text": "The archaeologists painstakingly excavated the site over several seasons.",
+      "translation": "Arkeologlar birkaç sezon boyunca alanı büyük özenle kazdı."
+    },
+    "cloze": {
+      "template": "The archaeologists {{cloze}} excavated the site over several seasons.",
+      "answer": "painstakingly"
+    }
+  },
+  {
+    "id": "adv_partially_2071",
+    "lemma": "partially",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kısmen"
+    ],
+    "synonyms": [
+      "partly",
+      "incompletely"
+    ],
+    "example": {
+      "text": "The success of the programme can only be partially attributed to government funding.",
+      "translation": "Programın başarısı yalnızca kısmen devlet finansmanına atfedilebilir."
+    },
+    "cloze": {
+      "template": "The success of the programme can only be {{cloze}} attributed to government funding.",
+      "answer": "partially"
+    }
+  },
+  {
+    "id": "adv_passively_2072",
+    "lemma": "passively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "pasif biçimde"
+    ],
+    "synonyms": [
+      "inactively",
+      "submissively"
+    ],
+    "example": {
+      "text": "Citizens can no longer afford to passively observe environmental destruction.",
+      "translation": "Vatandaşlar artık çevre tahribatını pasif biçimde izlemeye devam edemez."
+    },
+    "cloze": {
+      "template": "Citizens can no longer afford to {{cloze}} observe environmental destruction.",
+      "answer": "passively"
+    }
+  },
+  {
+    "id": "adv_pointedly_2073",
+    "lemma": "pointedly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "bilerek, kasıtlı bir şekilde"
+    ],
+    "synonyms": [
+      "deliberately",
+      "markedly"
+    ],
+    "example": {
+      "text": "The ambassador pointedly refused to comment on the territorial dispute.",
+      "translation": "Büyükelçi toprak anlaşmazlığı hakkında kasıtlı bir şekilde yorum yapmayı reddetti."
+    },
+    "cloze": {
+      "template": "The ambassador {{cloze}} refused to comment on the territorial dispute.",
+      "answer": "pointedly"
+    }
+  },
+  {
+    "id": "adv_practically_2074",
+    "lemma": "practically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "neredeyse, uygulamada"
+    ],
+    "synonyms": [
+      "virtually",
+      "almost"
+    ],
+    "example": {
+      "text": "Corruption has practically become institutionalised in some regions.",
+      "translation": "Yolsuzluk bazı bölgelerde neredeyse kurumsallaşmıştır."
+    },
+    "cloze": {
+      "template": "Corruption has {{cloze}} become institutionalised in some regions.",
+      "answer": "practically"
+    }
+  },
+  {
+    "id": "adv_predictably_2075",
+    "lemma": "predictably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "beklendiği gibi"
+    ],
+    "synonyms": [
+      "unsurprisingly",
+      "expectedly"
+    ],
+    "example": {
+      "text": "Predictably, the opposition rejected the proposed amendments.",
+      "translation": "Beklendiği gibi muhalefet önerilen değişiklikleri reddetti."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the opposition rejected the proposed amendments.",
+      "answer": "Predictably"
+    }
+  },
+  {
+    "id": "adv_preemptively_2076",
+    "lemma": "pre-emptively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "önceden, önleyici olarak"
+    ],
+    "synonyms": [
+      "preventively",
+      "proactively"
+    ],
+    "example": {
+      "text": "The central bank pre-emptively raised interest rates to curb inflation.",
+      "translation": "Merkez bankası enflasyonu dizginlemek için önceden faiz oranlarını artırdı."
+    },
+    "cloze": {
+      "template": "The central bank {{cloze}} raised interest rates to curb inflation.",
+      "answer": "pre-emptively"
+    }
+  },
+  {
+    "id": "adv_prevalently_2077",
+    "lemma": "prevalently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "yaygın biçimde"
+    ],
+    "synonyms": [
+      "commonly",
+      "widely"
+    ],
+    "example": {
+      "text": "The practice is prevalently observed in agrarian societies.",
+      "translation": "Bu uygulama tarım toplumlarında yaygın biçimde görülmektedir."
+    },
+    "cloze": {
+      "template": "The practice is {{cloze}} observed in agrarian societies.",
+      "answer": "prevalently"
+    }
+  },
+  {
+    "id": "adv_proactively_2078",
+    "lemma": "proactively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "proaktif olarak"
+    ],
+    "synonyms": [
+      "anticipatorily",
+      "preventively"
+    ],
+    "example": {
+      "text": "Governments must proactively address emerging threats to cybersecurity.",
+      "translation": "Hükümetler siber güvenliğe yönelik ortaya çıkan tehditleri proaktif olarak ele almalıdır."
+    },
+    "cloze": {
+      "template": "Governments must {{cloze}} address emerging threats to cybersecurity.",
+      "answer": "proactively"
+    }
+  },
+  {
+    "id": "adv_prolifically_2079",
+    "lemma": "prolifically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "üretken biçimde, bol miktarda"
+    ],
+    "synonyms": [
+      "abundantly",
+      "productively"
+    ],
+    "example": {
+      "text": "The author has published prolifically in the field of behavioural economics.",
+      "translation": "Yazar davranışsal ekonomi alanında üretken biçimde yayın yapmıştır."
+    },
+    "cloze": {
+      "template": "The author has published {{cloze}} in the field of behavioural economics.",
+      "answer": "prolifically"
+    }
+  },
+  {
+    "id": "adv_promptly_2080",
+    "lemma": "promptly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "derhal, hemen"
+    ],
+    "synonyms": [
+      "immediately",
+      "swiftly"
+    ],
+    "example": {
+      "text": "The committee promptly responded to the allegations of misconduct.",
+      "translation": "Komite görevi kötüye kullanma iddialarına derhal yanıt verdi."
+    },
+    "cloze": {
+      "template": "The committee {{cloze}} responded to the allegations of misconduct.",
+      "answer": "promptly"
+    }
+  },
+  {
+    "id": "adv_proportionately_2081",
+    "lemma": "proportionately",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "orantılı olarak"
+    ],
+    "synonyms": [
+      "correspondingly",
+      "commensurately"
+    ],
+    "example": {
+      "text": "Funding should increase proportionately with the number of enrolled students.",
+      "translation": "Finansman kayıtlı öğrenci sayısıyla orantılı olarak artmalıdır."
+    },
+    "cloze": {
+      "template": "Funding should increase {{cloze}} with the number of enrolled students.",
+      "answer": "proportionately"
+    }
+  },
+  {
+    "id": "adv_purposefully_2082",
+    "lemma": "purposefully",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "bilinçli olarak, amaçlı biçimde"
+    ],
+    "synonyms": [
+      "deliberately",
+      "intentionally"
+    ],
+    "example": {
+      "text": "The curriculum was purposefully designed to promote critical thinking.",
+      "translation": "Müfredat eleştirel düşünmeyi teşvik etmek için bilinçli olarak tasarlandı."
+    },
+    "cloze": {
+      "template": "The curriculum was {{cloze}} designed to promote critical thinking.",
+      "answer": "purposefully"
+    }
+  },
+  {
+    "id": "adv_quantitatively_2083",
+    "lemma": "quantitatively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "nicel olarak"
+    ],
+    "synonyms": [
+      "numerically",
+      "statistically"
+    ],
+    "example": {
+      "text": "The hypothesis was tested both quantitatively and qualitatively.",
+      "translation": "Hipotez hem nicel hem de nitel olarak test edildi."
+    },
+    "cloze": {
+      "template": "The hypothesis was tested both {{cloze}} and qualitatively.",
+      "answer": "quantitatively"
+    }
+  },
+  {
+    "id": "adv_radically_2084",
+    "lemma": "radically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "radikal biçimde, kökten"
+    ],
+    "synonyms": [
+      "fundamentally",
+      "drastically"
+    ],
+    "example": {
+      "text": "The political landscape has been radically transformed by social media.",
+      "translation": "Siyasi manzara sosyal medya tarafından kökten dönüştürüldü."
+    },
+    "cloze": {
+      "template": "The political landscape has been {{cloze}} transformed by social media.",
+      "answer": "radically"
+    }
+  },
+  {
+    "id": "adv_readily_2085",
+    "lemma": "readily",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kolayca, gönüllü olarak"
+    ],
+    "synonyms": [
+      "easily",
+      "willingly"
+    ],
+    "example": {
+      "text": "The information is readily available in the public domain.",
+      "translation": "Bilgi kamu alanında kolayca erişilebilir durumdadır."
+    },
+    "cloze": {
+      "template": "The information is {{cloze}} available in the public domain.",
+      "answer": "readily"
+    }
+  },
+  {
+    "id": "adv_realistically_2086",
+    "lemma": "realistically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "gerçekçi olarak"
+    ],
+    "synonyms": [
+      "pragmatically",
+      "practically"
+    ],
+    "example": {
+      "text": "Realistically, the targets cannot be achieved without international cooperation.",
+      "translation": "Gerçekçi olarak hedefler uluslararası işbirliği olmadan gerçekleştirilemez."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the targets cannot be achieved without international cooperation.",
+      "answer": "Realistically"
+    }
+  },
+  {
+    "id": "adv_regrettably_2087",
+    "lemma": "regrettably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "ne yazık ki"
+    ],
+    "synonyms": [
+      "unfortunately",
+      "sadly"
+    ],
+    "example": {
+      "text": "Regrettably, many promising initiatives were abandoned due to lack of funding.",
+      "translation": "Ne yazık ki birçok umut verici girişim finansman eksikliği nedeniyle terk edildi."
+    },
+    "cloze": {
+      "template": "{{cloze}}, many promising initiatives were abandoned due to lack of funding.",
+      "answer": "Regrettably"
+    }
+  },
+  {
+    "id": "adv_resolutely_2088",
+    "lemma": "resolutely",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kararlılıkla"
+    ],
+    "synonyms": [
+      "determinedly",
+      "firmly"
+    ],
+    "example": {
+      "text": "The government resolutely pursued its agenda despite fierce opposition.",
+      "translation": "Hükümet şiddetli muhalefete rağmen gündemini kararlılıkla sürdürdü."
+    },
+    "cloze": {
+      "template": "The government {{cloze}} pursued its agenda despite fierce opposition.",
+      "answer": "resolutely"
+    }
+  },
+  {
+    "id": "adv_rigorously_2089",
+    "lemma": "rigorously",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "titiz biçimde, sıkı şekilde"
+    ],
+    "synonyms": [
+      "strictly",
+      "thoroughly"
+    ],
+    "example": {
+      "text": "The methodology was rigorously tested before being widely adopted.",
+      "translation": "Metodoloji yaygın biçimde benimsenmeden önce titiz biçimde test edildi."
+    },
+    "cloze": {
+      "template": "The methodology was {{cloze}} tested before being widely adopted.",
+      "answer": "rigorously"
+    }
+  },
+  {
+    "id": "adv_robustly_2090",
+    "lemma": "robustly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "güçlü biçimde, sağlam şekilde"
+    ],
+    "synonyms": [
+      "vigorously",
+      "strongly"
+    ],
+    "example": {
+      "text": "The economy grew robustly throughout the first quarter.",
+      "translation": "Ekonomi ilk çeyrek boyunca güçlü biçimde büyüdü."
+    },
+    "cloze": {
+      "template": "The economy grew {{cloze}} throughout the first quarter.",
+      "answer": "robustly"
+    }
+  },
+  {
+    "id": "adv_seemingly_2091",
+    "lemma": "seemingly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "görünüşe göre, sanki"
+    ],
+    "synonyms": [
+      "apparently",
+      "ostensibly"
+    ],
+    "example": {
+      "text": "The two events are seemingly unrelated, yet they share a common cause.",
+      "translation": "İki olay görünüşe göre ilgisizdir ancak ortak bir nedeni paylaşmaktadır."
+    },
+    "cloze": {
+      "template": "The two events are {{cloze}} unrelated, yet they share a common cause.",
+      "answer": "seemingly"
+    }
+  },
+  {
+    "id": "adv_seldom_2092",
+    "lemma": "seldom",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "nadiren, seyrek olarak"
+    ],
+    "synonyms": [
+      "rarely",
+      "infrequently"
+    ],
+    "example": {
+      "text": "Such extreme weather events seldom occurred before the onset of global warming.",
+      "translation": "Bu tür aşırı hava olayları küresel ısınmanın başlangıcından önce nadiren meydana gelirdi."
+    },
+    "cloze": {
+      "template": "Such extreme weather events {{cloze}} occurred before the onset of global warming.",
+      "answer": "seldom"
+    }
+  },
+  {
+    "id": "adv_shrewdly_2093",
+    "lemma": "shrewdly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kurnazca, basiretli biçimde"
+    ],
+    "synonyms": [
+      "astutely",
+      "cleverly"
+    ],
+    "example": {
+      "text": "The negotiator shrewdly used the economic data to strengthen her argument.",
+      "translation": "Müzakereci ekonomik verileri argümanını güçlendirmek için basiretli biçimde kullandı."
+    },
+    "cloze": {
+      "template": "The negotiator {{cloze}} used the economic data to strengthen her argument.",
+      "answer": "shrewdly"
+    }
+  },
+  {
+    "id": "adv_skeptically_2094",
+    "lemma": "sceptically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "şüpheyle"
+    ],
+    "synonyms": [
+      "doubtfully",
+      "dubiously"
+    ],
+    "example": {
+      "text": "The public sceptically received the government's optimistic economic forecast.",
+      "translation": "Halk hükümetin iyimser ekonomik tahminini şüpheyle karşıladı."
+    },
+    "cloze": {
+      "template": "The public {{cloze}} received the government's optimistic economic forecast.",
+      "answer": "sceptically"
+    }
+  },
+  {
+    "id": "adv_sparingly_2095",
+    "lemma": "sparingly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "idareli kullanarak, az miktarda"
+    ],
+    "synonyms": [
+      "moderately",
+      "frugally"
+    ],
+    "example": {
+      "text": "Natural resources must be used sparingly to ensure long-term sustainability.",
+      "translation": "Doğal kaynaklar uzun vadeli sürdürülebilirliği sağlamak için idareli kullanılmalıdır."
+    },
+    "cloze": {
+      "template": "Natural resources must be used {{cloze}} to ensure long-term sustainability.",
+      "answer": "sparingly"
+    }
+  },
+  {
+    "id": "adv_specifically_2096",
+    "lemma": "specifically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "özellikle, spesifik olarak"
+    ],
+    "synonyms": [
+      "particularly",
+      "explicitly"
+    ],
+    "example": {
+      "text": "The report specifically addresses the needs of rural communities.",
+      "translation": "Rapor özellikle kırsal toplulukların ihtiyaçlarını ele almaktadır."
+    },
+    "cloze": {
+      "template": "The report {{cloze}} addresses the needs of rural communities.",
+      "answer": "specifically"
+    }
+  },
+  {
+    "id": "adv_steadfastly_2097",
+    "lemma": "steadfastly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "sadakatle, kararlı biçimde"
+    ],
+    "synonyms": [
+      "resolutely",
+      "unwaveringly"
+    ],
+    "example": {
+      "text": "The organisation steadfastly adhered to its founding principles.",
+      "translation": "Örgüt kuruluş ilkelerine sadakatle bağlı kaldı."
+    },
+    "cloze": {
+      "template": "The organisation {{cloze}} adhered to its founding principles.",
+      "answer": "steadfastly"
+    }
+  },
+  {
+    "id": "adv_strikingly_2098",
+    "lemma": "strikingly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "çarpıcı biçimde"
+    ],
+    "synonyms": [
+      "remarkably",
+      "noticeably"
+    ],
+    "example": {
+      "text": "The two civilisations developed strikingly similar agricultural practices.",
+      "translation": "İki medeniyet çarpıcı biçimde benzer tarım uygulamaları geliştirdi."
+    },
+    "cloze": {
+      "template": "The two civilisations developed {{cloze}} similar agricultural practices.",
+      "answer": "strikingly"
+    }
+  },
+  {
+    "id": "adv_subjectively_2099",
+    "lemma": "subjectively",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "öznel olarak"
+    ],
+    "synonyms": [
+      "personally",
+      "individually"
+    ],
+    "example": {
+      "text": "Quality of life is often subjectively assessed through self-reported surveys.",
+      "translation": "Yaşam kalitesi genellikle öznel olarak kendi kendine bildirilen anketlerle değerlendirilir."
+    },
+    "cloze": {
+      "template": "Quality of life is often {{cloze}} assessed through self-reported surveys.",
+      "answer": "subjectively"
+    }
+  },
+  {
+    "id": "adv_subsequently_2100",
+    "lemma": "subsequently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "daha sonra, akabinde"
+    ],
+    "synonyms": [
+      "afterwards",
+      "later"
+    ],
+    "example": {
+      "text": "The pilot project proved successful and was subsequently expanded nationwide.",
+      "translation": "Pilot proje başarılı oldu ve akabinde ülke genelinde genişletildi."
+    },
+    "cloze": {
+      "template": "The pilot project proved successful and was {{cloze}} expanded nationwide.",
+      "answer": "subsequently"
+    }
+  },
+  {
+    "id": "adv_superficially_2102",
+    "lemma": "supposedly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "sözde, güya"
+    ],
+    "synonyms": [
+      "allegedly",
+      "purportedly"
+    ],
+    "example": {
+      "text": "The policy was supposedly designed to benefit low-income families.",
+      "translation": "Politikanın güya düşük gelirli ailelere fayda sağlamak için tasarlandığı söylendi."
+    },
+    "cloze": {
+      "template": "The policy was {{cloze}} designed to benefit low-income families.",
+      "answer": "supposedly"
+    }
+  },
+  {
+    "id": "adv_systematically_2103",
+    "lemma": "systematically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "sistematik olarak"
+    ],
+    "synonyms": [
+      "methodically",
+      "orderly"
+    ],
+    "example": {
+      "text": "The researchers systematically reviewed all available evidence.",
+      "translation": "Araştırmacılar mevcut tüm kanıtları sistematik olarak gözden geçirdi."
+    },
+    "cloze": {
+      "template": "The researchers {{cloze}} reviewed all available evidence.",
+      "answer": "systematically"
+    }
+  },
+  {
+    "id": "adv_tacitly_2104",
+    "lemma": "tacitly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "üstü kapalı olarak, zımnen"
+    ],
+    "synonyms": [
+      "implicitly",
+      "silently"
+    ],
+    "example": {
+      "text": "The government tacitly endorsed the practice by failing to enforce existing regulations.",
+      "translation": "Hükümet mevcut düzenlemeleri uygulamayarak bu uygulamayı zımnen onayladı."
+    },
+    "cloze": {
+      "template": "The government {{cloze}} endorsed the practice by failing to enforce existing regulations.",
+      "answer": "tacitly"
+    }
+  },
+  {
+    "id": "adv_theoretically_2105",
+    "lemma": "theoretically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "teorik olarak"
+    ],
+    "synonyms": [
+      "hypothetically",
+      "in theory"
+    ],
+    "example": {
+      "text": "Theoretically, the model should predict outcomes with high accuracy.",
+      "translation": "Teorik olarak model sonuçları yüksek doğrulukla tahmin etmelidir."
+    },
+    "cloze": {
+      "template": "{{cloze}}, the model should predict outcomes with high accuracy.",
+      "answer": "Theoretically"
+    }
+  },
+  {
+    "id": "adv_thoroughly_2106",
+    "lemma": "thoroughly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "baştan sona, eksiksiz biçimde"
+    ],
+    "synonyms": [
+      "completely",
+      "exhaustively"
+    ],
+    "example": {
+      "text": "All proposals must be thoroughly evaluated before implementation.",
+      "translation": "Tüm teklifler uygulamadan önce baştan sona değerlendirilmelidir."
+    },
+    "cloze": {
+      "template": "All proposals must be {{cloze}} evaluated before implementation.",
+      "answer": "thoroughly"
+    }
+  },
+  {
+    "id": "adv_thereby_2107",
+    "lemma": "thereby",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "bu sayede, böylece"
+    ],
+    "synonyms": [
+      "thus",
+      "consequently"
+    ],
+    "example": {
+      "text": "The factory reduced waste, thereby lowering production costs.",
+      "translation": "Fabrika atıkları azaltarak bu sayede üretim maliyetlerini düşürdü."
+    },
+    "cloze": {
+      "template": "The factory reduced waste, {{cloze}} lowering production costs.",
+      "answer": "thereby"
+    }
+  },
+  {
+    "id": "adv_transparently_2108",
+    "lemma": "transparently",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "şeffaf biçimde"
+    ],
+    "synonyms": [
+      "openly",
+      "clearly"
+    ],
+    "example": {
+      "text": "Government funds should be managed transparently to maintain public trust.",
+      "translation": "Kamu güvenini sürdürmek için hükümet fonları şeffaf biçimde yönetilmelidir."
+    },
+    "cloze": {
+      "template": "Government funds should be managed {{cloze}} to maintain public trust.",
+      "answer": "transparently"
+    }
+  },
+  {
+    "id": "adv_unanimously_2109",
+    "lemma": "unanimously",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "oybirliğiyle"
+    ],
+    "synonyms": [
+      "collectively",
+      "uniformly"
+    ],
+    "example": {
+      "text": "The resolution was unanimously adopted by the council members.",
+      "translation": "Karar konsey üyeleri tarafından oybirliğiyle kabul edildi."
+    },
+    "cloze": {
+      "template": "The resolution was {{cloze}} adopted by the council members.",
+      "answer": "unanimously"
+    }
+  },
+  {
+    "id": "adv_undeniably_2110",
+    "lemma": "unambiguously",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "belirsizliğe yer bırakmaksızın"
+    ],
+    "synonyms": [
+      "clearly",
+      "definitively"
+    ],
+    "example": {
+      "text": "The court ruling unambiguously established the right to peaceful protest.",
+      "translation": "Mahkeme kararı barışçıl gösteri hakkını belirsizliğe yer bırakmaksızın ortaya koydu."
+    },
+    "cloze": {
+      "template": "The court ruling {{cloze}} established the right to peaceful protest.",
+      "answer": "unambiguously"
+    }
+  },
+  {
+    "id": "adv_unconditionally_2111",
+    "lemma": "unconditionally",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "koşulsuz olarak"
+    ],
+    "synonyms": [
+      "unreservedly",
+      "absolutely"
+    ],
+    "example": {
+      "text": "The organisation unconditionally supports the rights of refugees.",
+      "translation": "Örgüt mülteci haklarını koşulsuz olarak desteklemektedir."
+    },
+    "cloze": {
+      "template": "The organisation {{cloze}} supports the rights of refugees.",
+      "answer": "unconditionally"
+    }
+  },
+  {
+    "id": "adv_understandably_2112",
+    "lemma": "understandably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "anlaşılır şekilde"
+    ],
+    "synonyms": [
+      "naturally",
+      "reasonably"
+    ],
+    "example": {
+      "text": "Employees were understandably anxious about the proposed restructuring.",
+      "translation": "Çalışanlar önerilen yeniden yapılanma konusunda anlaşılır şekilde endişeliydi."
+    },
+    "cloze": {
+      "template": "Employees were {{cloze}} anxious about the proposed restructuring.",
+      "answer": "understandably"
+    }
+  },
+  {
+    "id": "adv_undoubtedly_2113",
+    "lemma": "undoubtedly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "kuşkusuz"
+    ],
+    "synonyms": [
+      "certainly",
+      "unquestionably"
+    ],
+    "example": {
+      "text": "Technology has undoubtedly transformed the way we communicate.",
+      "translation": "Teknoloji kuşkusuz iletişim biçimimizi dönüştürmüştür."
+    },
+    "cloze": {
+      "template": "Technology has {{cloze}} transformed the way we communicate.",
+      "answer": "undoubtedly"
+    }
+  },
+  {
+    "id": "adv_unfairly_2114",
+    "lemma": "unfairly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "haksız yere"
+    ],
+    "synonyms": [
+      "unjustly",
+      "inequitably"
+    ],
+    "example": {
+      "text": "Minority groups have been unfairly excluded from policy-making processes.",
+      "translation": "Azınlık grupları politika yapım süreçlerinden haksız yere dışlanmıştır."
+    },
+    "cloze": {
+      "template": "Minority groups have been {{cloze}} excluded from policy-making processes.",
+      "answer": "unfairly"
+    }
+  },
+  {
+    "id": "adv_uniformly_2115",
+    "lemma": "uniformly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "düzgün biçimde, standart olarak"
+    ],
+    "synonyms": [
+      "evenly",
+      "consistently"
+    ],
+    "example": {
+      "text": "Standards must be uniformly applied across all participating institutions.",
+      "translation": "Standartlar tüm katılımcı kurumlarda düzgün biçimde uygulanmalıdır."
+    },
+    "cloze": {
+      "template": "Standards must be {{cloze}} applied across all participating institutions.",
+      "answer": "uniformly"
+    }
+  },
+  {
+    "id": "adv_unmistakably_2116",
+    "lemma": "unmistakably",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "açıkça, tartışmasız biçimde"
+    ],
+    "synonyms": [
+      "clearly",
+      "obviously"
+    ],
+    "example": {
+      "text": "The archaeological evidence unmistakably points to early human settlement.",
+      "translation": "Arkeolojik kanıtlar açıkça erken insan yerleşimine işaret etmektedir."
+    },
+    "cloze": {
+      "template": "The archaeological evidence {{cloze}} points to early human settlement.",
+      "answer": "unmistakably"
+    }
+  },
+  {
+    "id": "adv_unprecedentedly_2117",
+    "lemma": "unprecedentedly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "benzeri görülmemiş şekilde"
+    ],
+    "synonyms": [
+      "exceptionally",
+      "historically"
+    ],
+    "example": {
+      "text": "Unemployment rose unprecedentedly during the global pandemic.",
+      "translation": "İşsizlik küresel pandemi sırasında benzeri görülmemiş şekilde arttı."
+    },
+    "cloze": {
+      "template": "Unemployment rose {{cloze}} during the global pandemic.",
+      "answer": "unprecedentedly"
+    }
+  },
+  {
+    "id": "adv_vigorously_2118",
+    "lemma": "vigorously",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "şiddetle, güçlü biçimde"
+    ],
+    "synonyms": [
+      "energetically",
+      "forcefully"
+    ],
+    "example": {
+      "text": "The opposition vigorously contested the proposed constitutional amendment.",
+      "translation": "Muhalefet önerilen anayasa değişikliğini şiddetle protesto etti."
+    },
+    "cloze": {
+      "template": "The opposition {{cloze}} contested the proposed constitutional amendment.",
+      "answer": "vigorously"
+    }
+  },
+  {
+    "id": "adv_vividly_2119",
+    "lemma": "vividly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "canlı biçimde"
+    ],
+    "synonyms": [
+      "graphically",
+      "strikingly"
+    ],
+    "example": {
+      "text": "The memoir vividly depicts life under authoritarian rule.",
+      "translation": "Anı kitabı otoriter yönetim altındaki yaşamı canlı biçimde betimlemektedir."
+    },
+    "cloze": {
+      "template": "The memoir {{cloze}} depicts life under authoritarian rule.",
+      "answer": "vividly"
+    }
+  },
+  {
+    "id": "adv_wholeheartedly_2121",
+    "lemma": "wholeheartedly",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "gönülden, bütün kalbiyle"
+    ],
+    "synonyms": [
+      "completely",
+      "unreservedly"
+    ],
+    "example": {
+      "text": "The faculty wholeheartedly endorsed the new interdisciplinary curriculum.",
+      "translation": "Fakülte yeni disiplinler arası müfredatı gönülden onayladı."
+    },
+    "cloze": {
+      "template": "The faculty {{cloze}} endorsed the new interdisciplinary curriculum.",
+      "answer": "wholeheartedly"
+    }
+  },
+  {
+    "id": "adv_pragmatically_2123",
+    "lemma": "pragmatically",
+    "pos": "adv",
+    "multiWord": false,
+    "meanings": [
+      "pragmatik olarak, pratik açıdan"
+    ],
+    "synonyms": [
+      "practically",
+      "realistically"
+    ],
+    "example": {
+      "text": "The issue must be pragmatically addressed rather than debated in abstract terms.",
+      "translation": "Konu soyut terimlerle tartışılmak yerine pragmatik olarak ele alınmalıdır."
+    },
+    "cloze": {
+      "template": "The issue must be {{cloze}} addressed rather than debated in abstract terms.",
+      "answer": "pragmatically"
+    }
+  }
+]
