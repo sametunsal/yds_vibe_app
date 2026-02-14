@@ -1,5 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:path_provider/path_provider.dart';
 import '../models/card.dart';
@@ -37,15 +38,19 @@ class CardLoader {
 
       if (await file.exists()) {
         // Load from local file
-        print('[CardLoader] Loading cards from local storage: ${file.path}');
+        debugPrint(
+          '[CardLoader] Loading cards from local storage: ${file.path}',
+        );
         final jsonString = await file.readAsString();
         final List<dynamic> jsonList = json.decode(jsonString);
         final cards = _parseJsonList(jsonList, 'local');
-        print('[CardLoader] Loaded ${cards.length} cards from local storage');
+        debugPrint(
+          '[CardLoader] Loaded ${cards.length} cards from local storage',
+        );
         return cards;
       } else {
         // First run: Load from all assets
-        print('[CardLoader] Local file not found. Loading from assets.');
+        debugPrint('[CardLoader] Local file not found. Loading from assets.');
         final cards = await _loadFromAssets();
         if (cards.isNotEmpty) {
           await saveCards(cards);
@@ -53,13 +58,13 @@ class CardLoader {
         return cards;
       }
     } catch (e) {
-      print('[CardLoader] Error loading cards: $e');
+      debugPrint('[CardLoader] Error loading cards: $e');
       // Fallback to assets if local load fails
       try {
-        print('[CardLoader] Attempting fallback to assets...');
+        debugPrint('[CardLoader] Attempting fallback to assets...');
         return await _loadFromAssets();
       } catch (e2) {
-        print(
+        debugPrint(
           '[CardLoader] Critical error loading cards (fallback failed): $e2',
         );
         return [];
@@ -85,54 +90,47 @@ class CardLoader {
 
     for (final filePath in filesToLoad) {
       try {
-        print('[CardLoader] Loading from assets/$filePath...');
+        debugPrint('[CardLoader] Loading from assets/$filePath...');
         final jsonString = await rootBundle.loadString('assets/$filePath');
         final List<dynamic> jsonList = json.decode(jsonString);
 
         // Get POS from filename
         final fileName = filePath.split('/').last;
-        final pos = _filePosMapping[fileName] ?? _extractPosFromFileName(fileName);
+        final pos =
+            _filePosMapping[fileName] ?? _extractPosFromFileName(fileName);
 
         final cards = _parseJsonList(jsonList, fileName, pos: pos);
 
         // Check for duplicate IDs and filter
         for (final card in cards) {
           if (seenIds.contains(card.id)) {
-            print('[CardLoader] WARNING: Duplicate ID ${card.id} in $filePath, skipping');
+            debugPrint(
+              '[CardLoader] WARNING: Duplicate ID ${card.id} in $filePath, skipping',
+            );
           } else {
             seenIds.add(card.id);
             allCards.add(card);
           }
         }
 
-        print('[CardLoader] Loaded ${cards.length} cards from $filePath (pos: $pos)');
+        debugPrint(
+          '[CardLoader] Loaded ${cards.length} cards from $filePath (pos: $pos)',
+        );
       } catch (e) {
-        print('[CardLoader] Error loading $filePath: $e');
+        debugPrint('[CardLoader] Error loading $filePath: $e');
         // Continue with other files
       }
     }
 
-    print('[CardLoader] Total loaded: ${allCards.length} cards');
+    debugPrint('[CardLoader] Total loaded: ${allCards.length} cards');
     _checkSynonymCollisions(allCards);
     return allCards;
   }
 
-  // Extract POS from filename (e.g., 'verbs.json' -> 'verb')
   static String _extractPosFromFileName(String fileName) {
-    final nameWithoutExt = fileName.replaceAll('.json', '');
-    // Handle plural forms
-    if (nameWithoutExt.endsWith('s')) {
-      return nameWithoutExt.substring(0, nameWithoutExt.length - 1);
-    }
-    // Handle specific cases
-    switch (nameWithoutExt) {
-      case 'adjs':
-        return 'adj';
-      case 'advs':
-        return 'adv';
-      default:
-        return nameWithoutExt;
-    }
+    final name = fileName.replaceAll('.json', '');
+    if (name.endsWith('s')) return name.substring(0, name.length - 1);
+    return name;
   }
 
   static Future<void> saveCards(List<VocabularyCard> cards) async {
@@ -141,9 +139,9 @@ class CardLoader {
       final jsonList = cards.map((card) => card.toJson()).toList();
       final jsonString = json.encode(jsonList);
       await file.writeAsString(jsonString);
-      print('[CardLoader] Saved ${cards.length} cards to local storage.');
+      debugPrint('[CardLoader] Saved ${cards.length} cards to local storage.');
     } catch (e) {
-      print('[CardLoader] Error saving cards: $e');
+      debugPrint('[CardLoader] Error saving cards: $e');
     }
   }
 
@@ -184,7 +182,7 @@ class CardLoader {
     }
 
     if (skippedCount > 0) {
-      print(
+      debugPrint(
         '[CardLoader] From $source: Loaded ${cards.length} cards, skipped $skippedCount invalid cards',
       );
     }
@@ -210,11 +208,11 @@ class CardLoader {
     }
 
     if (collisions.isNotEmpty) {
-      print(
+      debugPrint(
         '[CardLoader] WARNING: Synonym collisions detected (same primary synonym for multiple cards):',
       );
       for (final entry in collisions.entries) {
-        print(
+        debugPrint(
           '[CardLoader]   - "${entry.key}": cards [${entry.value.join(', ')}]',
         );
       }
@@ -287,6 +285,6 @@ class CardLoader {
 
   static void _logError(String message, dynamic item, String source) {
     final id = item is Map<String, dynamic> ? item['id'] : 'unknown';
-    print('[CardLoader] ERROR ($source - Card $id): $message');
+    debugPrint('[CardLoader] ERROR ($source - Card $id): $message');
   }
 }

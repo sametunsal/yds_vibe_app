@@ -901,17 +901,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tartışmak, iddia etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "claim",
+      "contend",
+      "dispute",
+      "debate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Some experts argue that digital technology has isolated people rather than connecting them.",
+      "translation": "Bazı uzmanlar dijital teknolojinin insanları birbirine bağlamak yerine onları yalnızlaştırdığını iddia ediyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Some experts {{cloze}} that digital technology has isolated people rather than connecting them.",
       "answer": "argue"
     },
     "easeFactor": 2.5,
@@ -926,17 +929,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ortaya çıkmak, meydana gelmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "emerge",
+      "appear",
+      "occur",
+      "stem from"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Problems often arise when communication channels are unclear within an organization.",
+      "translation": "Bir organizasyonda iletişim kanalları net olmadığında sıklıkla sorunlar ortaya çıkar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Problems often {{cloze}} when communication channels are unclear within an organization.",
       "answer": "arise"
     },
     "easeFactor": 2.5,
@@ -951,17 +957,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "düzenlemek, ayarlamak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "organize",
+      "schedule",
+      "coordinate",
+      "plan"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "They managed to arrange a meeting with the director despite his busy schedule.",
+      "translation": "Yoğun programına rağmen müdürle bir toplantı ayarlamayı başardılar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "They managed to {{cloze}} a meeting with the director despite his busy schedule.",
       "answer": "arrange"
     },
     "easeFactor": 2.5,
@@ -976,17 +985,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "varmak, ulaşmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "reach",
+      "come",
+      "land",
+      "show up"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The rescue team was expected to arrive at the scene within minutes of the call.",
+      "translation": "Kurtarma ekibinin çağrıdan dakikalar sonra olay yerine varması bekleniyordu."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The rescue team was expected to {{cloze}} at the scene within minutes of the call.",
       "answer": "arrive"
     },
     "easeFactor": 2.5,
@@ -1001,17 +1013,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "sormak, istemek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "inquire",
+      "request",
+      "question",
+      "seek"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Students were encouraged to ask questions whenever they felt confused about the topic.",
+      "translation": "Öğrenciler konu hakkında kafaları karıştığında soru sormaya teşvik edildi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Students were encouraged to {{cloze}} questions whenever they felt confused about the topic.",
       "answer": "ask"
     },
     "easeFactor": 2.5,
@@ -1026,17 +1041,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "değerlendirmek, tespit etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "evaluate",
+      "estimate",
+      "judge",
+      "appraise"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The insurance company sent an expert to assess the damage caused by the flood.",
+      "translation": "Sigorta şirketi, selin neden olduğu hasarı tespit etmek için bir uzman gönderdi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The insurance company sent an expert to {{cloze}} the damage caused by the flood.",
       "answer": "assess"
     },
     "easeFactor": 2.5,
@@ -1051,17 +1069,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ilişkilendirmek, bağdaştırmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "link",
+      "connect",
+      "relate",
+      "correlate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Many people associate the color green with nature and tranquility.",
+      "translation": "Pek çok insan yeşil rengi doğa ve huzurla ilişkilendirir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Many people {{cloze}} the color green with nature and tranquility.",
       "answer": "associate"
     },
     "easeFactor": 2.5,
@@ -1076,17 +1097,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "garanti etmek, temin etmek, inandırmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "guarantee",
+      "promise",
+      "ensure",
+      "convince"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The manager tried to assure the customers that their data was completely secure.",
+      "translation": "Müdür, müşterileri verilerinin tamamen güvende olduğuna inandırmaya çalıştı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The manager tried to {{cloze}} the customers that their data was completely secure.",
       "answer": "assure"
     },
     "easeFactor": 2.5,
@@ -1101,17 +1125,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "girişimde bulunmak, teşebbüs etmek, denemek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "try",
+      "strive",
+      "endeavor",
+      "seek"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The climber will attempt to reach the summit without supplementary oxygen.",
+      "translation": "Dağcı, ek oksijen olmadan zirveye ulaşmaya teşebbüs edecek."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The climber will {{cloze}} to reach the summit without supplementary oxygen.",
       "answer": "attempt"
     },
     "easeFactor": 2.5,
@@ -1126,17 +1153,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "katılmak, devam etmek (okula vb.)"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "be present at",
+      "participate",
+      "go to",
+      "visit"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "All delegates are required to attend the opening ceremony tomorrow morning.",
+      "translation": "Tüm delegelerin yarın sabahki açılış törenine katılması zorunludur."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "All delegates are required to {{cloze}} the opening ceremony tomorrow morning.",
       "answer": "attend"
     },
     "easeFactor": 2.5,
@@ -1151,17 +1181,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "cezbetmek, çekmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "draw",
+      "allure",
+      "entice",
+      "appeal to"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The historical museum continues to attract thousands of tourists every year.",
+      "translation": "Tarih müzesi her yıl binlerce turisti cezbetmeye devam ediyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The historical museum continues to {{cloze}} thousands of tourists every year.",
       "answer": "attract"
     },
     "easeFactor": 2.5,
@@ -1176,17 +1209,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kaçınmak, sakınmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "evade",
+      "shun",
+      "prevent",
+      "stay away from"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He took a different route to avoid the heavy traffic on the main highway.",
+      "translation": "Ana otoyoldaki yoğun trafikten kaçınmak için farklı bir rota izledi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He took a different route to {{cloze}} the heavy traffic on the main highway.",
       "answer": "avoid"
     },
     "easeFactor": 2.5,
@@ -1201,17 +1237,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "dengelemek, dengede tutmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "equilibrium",
+      "stabilize",
+      "counterpoise",
+      "offset"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It can be difficult to balance work responsibilities with family life.",
+      "translation": "İş sorumluluklarını aile hayatıyla dengelemek zor olabilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It can be difficult to {{cloze}} work responsibilities with family life.",
       "answer": "balance"
     },
     "easeFactor": 2.5,
@@ -1226,17 +1265,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "temellendirmek, dayandırmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "found",
+      "establish",
+      "ground",
+      "build"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Scientists base their conclusions on data collected from rigorous experiments.",
+      "translation": "Bilim insanları sonuçlarını titiz deneylerden toplanan verilere dayandırırlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Scientists {{cloze}} their conclusions on data collected from rigorous experiments.",
       "answer": "base"
     },
     "easeFactor": 2.5,
@@ -1251,17 +1293,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "olmak, haline gelmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "turn into",
+      "grow into",
+      "develop into",
+      "transform"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "With hard work and dedication, she hopes to become a successful architect.",
+      "translation": "Çok çalışarak ve özveriyle başarılı bir mimar olmayı umuyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "With hard work and dedication, she hopes to {{cloze}} a successful architect.",
       "answer": "become"
     },
     "easeFactor": 2.5,
@@ -1276,17 +1321,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "inanmak, zannetmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "trust",
+      "think",
+      "suppose",
+      "have faith"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Many cultures believe that dreams carry important messages from the spiritual world.",
+      "translation": "Pek çok kültür, rüyaların manevi dünyadan önemli mesajlar taşıdığına inanır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Many cultures {{cloze}} that dreams carry important messages from the spiritual world.",
       "answer": "believe"
     },
     "easeFactor": 2.5,
@@ -1301,17 +1349,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ait olmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "be owned by",
+      "pertain to",
+      "be part of",
+      "fit in"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "These artifacts belong to the period of the Roman Empire.",
+      "translation": "Bu eserler Roma İmparatorluğu dönemine aittir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "These artifacts {{cloze}} to the period of the Roman Empire.",
       "answer": "belong"
     },
     "easeFactor": 2.5,
@@ -1326,17 +1377,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yarar sağlamak, faydalanmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "gain",
+      "profit",
+      "advantage",
+      "help"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Students will greatly benefit from the new library facilities.",
+      "translation": "Öğrenciler yeni kütüphane olanaklarından büyük ölçüde yararlanacaklar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Students will greatly {{cloze}} from the new library facilities.",
       "answer": "benefit"
     },
     "easeFactor": 2.5,
@@ -1351,17 +1405,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "suçlamak, sorumlu tutmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "accuse",
+      "hold responsible",
+      "charge",
+      "censure"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Authorities blame human error for the recent train accident.",
+      "translation": "Yetkililer son tren kazası için insan hatasını suçluyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Authorities {{cloze}} human error for the recent train accident.",
       "answer": "blame"
     },
     "easeFactor": 2.5,
@@ -1376,17 +1433,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "rezervasyon yapmak, yer ayırtmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "reserve",
+      "schedule",
+      "arrange",
+      "preorder"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It is advisable to book your flight tickets well in advance during the holiday season.",
+      "translation": "Tatil sezonunda uçak biletlerinizi çok önceden ayırtmanız tavsiye edilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It is advisable to {{cloze}} your flight tickets well in advance during the holiday season.",
       "answer": "book"
     },
     "easeFactor": 2.5,
@@ -1401,17 +1461,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ödünç almak, borç almak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "take on loan",
+      "use temporarily",
+      "receive",
+      "acquire"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "You can borrow up to five books at a time from the university library.",
+      "translation": "Üniversite kütüphanesinden bir kerede en fazla beş kitap ödünç alabilirsiniz."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "You can {{cloze}} up to five books at a time from the university library.",
       "answer": "borrow"
     },
     "easeFactor": 2.5,
@@ -1426,17 +1489,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "getirmek, neden olmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "carry",
+      "fetch",
+      "deliver",
+      "cause"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Technological advancements bring both opportunities and challenges to modern society.",
+      "translation": "Teknolojik gelişmeler modern topluma hem fırsatlar hem de zorluklar getirmektedir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Technological advancements {{cloze}} both opportunities and challenges to modern society.",
       "answer": "bring"
     },
     "easeFactor": 2.5,
@@ -1451,17 +1517,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "inşa etmek, kurmak, oluşturmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "construct",
+      "erect",
+      "establish",
+      "develop"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The team worked together to build a strong foundation for the new project.",
+      "translation": "Ekip, yeni proje için güçlü bir temel oluşturmak amacıyla birlikte çalıştı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The team worked together to {{cloze}} a strong foundation for the new project.",
       "answer": "build"
     },
     "easeFactor": 2.5,
@@ -1476,17 +1545,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "gömmek, defnetmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "inter",
+      "entomb",
+      "hide",
+      "conceal"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Ancient civilizations often used to bury their kings with valuable treasures.",
+      "translation": "Eski medeniyetler krallarını genellikle değerli hazinelerle gömerlerdi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Ancient civilizations often used to {{cloze}} their kings with valuable treasures.",
       "answer": "bury"
     },
     "easeFactor": 2.5,
@@ -1501,17 +1573,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "satın almak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "purchase",
+      "acquire",
+      "obtain",
+      "procure"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "They decided to buy a new house instead of renting one.",
+      "translation": "Kiralamak yerine yeni bir ev satın almaya karar verdiler."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "They decided to {{cloze}} a new house instead of renting one.",
       "answer": "buy"
     },
     "easeFactor": 2.5,
@@ -1526,17 +1601,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "aramak, çağırmak, adlandırmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "phone",
+      "summon",
+      "name",
+      "dub"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Please call the customer service if you encounter any issues with the product.",
+      "translation": "Ürünle ilgili herhangi bir sorunla karşılaşırsanız lütfen müşteri hizmetlerini arayın."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Please {{cloze}} the customer service if you encounter any issues with the product.",
       "answer": "call"
     },
     "easeFactor": 2.5,
@@ -1551,17 +1629,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yakalamak, ele geçirmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "catch",
+      "seize",
+      "apprehend",
+      "arrest"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The photographer managed to capture the perfect moment of the sunset.",
+      "translation": "Fotoğrafçı gün batımının mükemmel anını yakalamayı başardı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The photographer managed to {{cloze}} the perfect moment of the sunset.",
       "answer": "capture"
     },
     "easeFactor": 2.5,
@@ -1576,17 +1657,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ön önemsemek, ilgilenmek, bakım yapmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "mind",
+      "look after",
+      "tend",
+      "concern"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It is important to care for the environment for future generations.",
+      "translation": "Gelecek nesiller için çevreye özen göstermek önemlidir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It is important to {{cloze}} for the environment for future generations.",
       "answer": "care"
     },
     "easeFactor": 2.5,
@@ -1601,17 +1685,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "taşımak, götürmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "transport",
+      "convey",
+      "bear",
+      "lift"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Mosquitoes can carry deadly diseases such as malaria.",
+      "translation": "Sivrisinekler sıtma gibi ölümcül hastalıkları taşıyabilirler."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Mosquitoes can {{cloze}} deadly diseases such as malaria.",
       "answer": "carry"
     },
     "easeFactor": 2.5,
@@ -1626,17 +1713,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "fırlatmak, (rol) vermek, dökmek (metal vb.)"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "throw",
+      "toss",
+      "fling",
+      "mold"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The setting sun cast a long shadow over the valley.",
+      "translation": "Batan güneş vadinin üzerine uzun bir gölge düşürdü."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The setting sun {{cloze}} a long shadow over the valley.",
       "answer": "cast"
     },
     "easeFactor": 2.5,
@@ -1651,17 +1741,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "sebep olmak, neden olmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "bring about",
+      "lead to",
+      "trigger",
+      "induce"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Smoking can cause serious health problems, including lung cancer.",
+      "translation": "Sigara içmek, akciğer kanseri de dahil olmak üzere ciddi sağlık sorunlarına neden olabilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Smoking can {{cloze}} serious health problems, including lung cancer.",
       "answer": "cause"
     },
     "easeFactor": 2.5,
@@ -1676,17 +1769,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "durdurmak, sona ermek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "stop",
+      "halt",
+      "end",
+      "discontinue"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The factory will cease operations by the end of the year.",
+      "translation": "Fabrika yıl sonuna kadar faaliyetlerini durduracak."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The factory will {{cloze}} operations by the end of the year.",
       "answer": "cease"
     },
     "easeFactor": 2.5,
@@ -1701,17 +1797,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "değiştirmek, değişmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "alter",
+      "modify",
+      "transform",
+      "shift"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We need to change our strategy to adapt to the new market conditions.",
+      "translation": "Yeni pazar koşullarına uyum sağlamak için stratejimizi değiştirmemiz gerekiyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We need to {{cloze}} our strategy to adapt to the new market conditions.",
       "answer": "change"
     },
     "easeFactor": 2.5,
@@ -1726,17 +1825,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "seçmek, tercih etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "select",
+      "pick",
+      "opt for",
+      "elect"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "You must choose your words carefully when speaking to the press.",
+      "translation": "Basınla konuşurken kelimelerinizi dikkatli seçmelisiniz."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "You must {{cloze}} your words carefully when speaking to the press.",
       "answer": "choose"
     },
     "easeFactor": 2.5,
@@ -1751,17 +1853,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "iddia etmek, talep etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "assert",
+      "maintain",
+      "demand",
+      "state"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Both sides claim ownership of the disputed territory.",
+      "translation": "Her iki taraf da tartışmalı bölgenin mülkiyetini iddia ediyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Both sides {{cloze}} ownership of the disputed territory.",
       "answer": "claim"
     },
     "easeFactor": 2.5,
@@ -1776,17 +1881,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kapatmak, bitirmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "shut",
+      "seal",
+      "conclude",
+      "terminate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Please close the door quietly so as not to wake the baby.",
+      "translation": "Bebeği uyandırmamak için lütfen kapıyı sessizce kapatın."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Please {{cloze}} the door quietly so as not to wake the baby.",
       "answer": "close"
     },
     "easeFactor": 2.5,
@@ -1801,17 +1909,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "çökmek, yıkılmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "fall down",
+      "crumble",
+      "cave in",
+      "fail"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The bridge might collapse if it is not reinforced immediately.",
+      "translation": "Köprü derhal güçlendirilmezse çökebilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The bridge might {{cloze}} if it is not reinforced immediately.",
       "answer": "collapse"
     },
     "easeFactor": 2.5,
@@ -1826,17 +1937,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "birleştirmek, birleşmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "merge",
+      "mix",
+      "blend",
+      "unite"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The new model will combine speed with fuel efficiency.",
+      "translation": "Yeni model hızı yakıt verimliliğiyle birleştirecek."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The new model will {{cloze}} speed with fuel efficiency.",
       "answer": "combine"
     },
     "easeFactor": 2.5,
@@ -1851,17 +1965,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "gelmek, varmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "arrive",
+      "approach",
+      "appear",
+      "reach"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Good things come to those who wait.",
+      "translation": "Güzel şeyler sabredenlere gelir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Good things {{cloze}} to those who wait.",
       "answer": "come"
     },
     "easeFactor": 2.5,
@@ -1876,17 +1993,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yorum yapmak, düşünce belirtmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "remark",
+      "note",
+      "observe",
+      "mention"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He refused to comment on the rumors surrounding his resignation.",
+      "translation": "İstifasıyla ilgili söylentiler hakkında yorum yapmayı reddetti."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He refused to {{cloze}} on the rumors surrounding his resignation.",
       "answer": "comment"
     },
     "easeFactor": 2.5,
@@ -1901,17 +2021,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "işlemek (suç vb.), taahhüt etmek, adamak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "perpetrate",
+      "pledge",
+      "dedicate",
+      "devote"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The government has promised to commit more resources to education.",
+      "translation": "Hükümet eğitime daha fazla kaynak ayırmayı taahhüt etti."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The government has promised to {{cloze}} more resources to education.",
       "answer": "commit"
     },
     "easeFactor": 2.5,
@@ -1926,17 +2049,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "iletişim kurmak, haberleşmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "convey",
+      "correspond",
+      "transmit",
+      "interact"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Dolphins use sounds to communicate with each other underwater.",
+      "translation": "Yunuslar su altında birbirleriyle iletişim kurmak için sesleri kullanırlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Dolphins use sounds to {{cloze}} with each other underwater.",
       "answer": "communicate"
     },
     "easeFactor": 2.5,
@@ -1951,17 +2077,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "karşılaştırmak, kıyaslamak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "contrast",
+      "liken",
+      "correlate",
+      "match"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It is unfair to compare the performance of two different computer models.",
+      "translation": "İki farklı bilgisayar modelinin performansını karşılaştırmak haksızlıktır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It is unfair to {{cloze}} the performance of two different computer models.",
       "answer": "compare"
     },
     "easeFactor": 2.5,
@@ -1976,17 +2105,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yarışmak, rekabet etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "contend",
+      "vie",
+      "rival",
+      "challenge"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Athletes from all over the world will compete in the Olympic Games.",
+      "translation": "Dünyanın her yerinden sporcular Olimpiyat Oyunlarında yarışacak."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Athletes from all over the world will {{cloze}} in the Olympic Games.",
       "answer": "compete"
     },
     "easeFactor": 2.5,
@@ -2001,17 +2133,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "şikayet etmek, yakınmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "grumble",
+      "whine",
+      "protest",
+      "object"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Customers often complain about the slow service in this restaurant.",
+      "translation": "Müşteriler bu restorandaki yavaş hizmetten sık sık şikayet ederler."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Customers often {{cloze}} about the slow service in this restaurant.",
       "answer": "complain"
     },
     "easeFactor": 2.5,
@@ -2026,17 +2161,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tamamlamak, bitirmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "finish",
+      "conclude",
+      "finalize",
+      "accomplish"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "She needs to complete the assignment by Friday.",
+      "translation": "Ödevi Cuma gününe kadar tamamlaması gerekiyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "She needs to {{cloze}} the assignment by Friday.",
       "answer": "complete"
     },
     "easeFactor": 2.5,
@@ -2051,17 +2189,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "içermek, kapsamak, oluşmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "consist of",
+      "include",
+      "contain",
+      "compose"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The committee comprises members from various departments.",
+      "translation": "Komite, çeşitli departmanlardan üyelerden oluşmaktadır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The committee {{cloze}} members from various departments.",
       "answer": "comprise"
     },
     "easeFactor": 2.5,
@@ -2076,17 +2217,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "sonuçlandırmak, bitirmek, karara varmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "finish",
+      "end",
+      "terminate",
+      "deduce"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The meeting will conclude with a short presentation.",
+      "translation": "Toplantı kısa bir sunumla sona erecek."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The meeting will {{cloze}} with a short presentation.",
       "answer": "conclude"
     },
     "easeFactor": 2.5,
@@ -2101,17 +2245,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yürütmek, yönetmek, iletmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "carry out",
+      "manage",
+      "direct",
+      "lead"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The scientists plan to conduct a series of experiments.",
+      "translation": "Bilim insanları bir dizi deney yürütmeyi planlıyorlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The scientists plan to {{cloze}} a series of experiments.",
       "answer": "conduct"
     },
     "easeFactor": 2.5,
@@ -2126,17 +2273,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "sınırlamak, hapsetmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "restrict",
+      "limit",
+      "enclose",
+      "imprison"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Please confine your remarks to the topic under discussion.",
+      "translation": "Lütfen açıklamalarınızı tartışılan konuyla sınırlandırın."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Please {{cloze}} your remarks to the topic under discussion.",
       "answer": "confine"
     },
     "easeFactor": 2.5,
@@ -2151,17 +2301,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "onaylamak, doğrulamak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "verify",
+      "validate",
+      "corroborate",
+      "substantiate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Please call to confirm your reservation.",
+      "translation": "Rezervasyonunuzu onaylamak için lütfen arayın."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Please call to {{cloze}} your reservation.",
       "answer": "confirm"
     },
     "easeFactor": 2.5,
@@ -2176,17 +2329,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "düşünmek, göz önünde bulundurmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "ponder",
+      "contemplate",
+      "regard",
+      "examine"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We need to carefully consider all the options before making a decision.",
+      "translation": "Bir karar vermeden önce tüm seçenekleri dikkatlice düşünmeliyiz."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We need to carefully {{cloze}} all the options before making a decision.",
       "answer": "consider"
     },
     "easeFactor": 2.5,
@@ -2201,17 +2357,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "-den oluşmak, meydana gelmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "be composed of",
+      "comprise",
+      "include",
+      "contain"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The breakfast will consist of bread, cheese, and olives.",
+      "translation": "Kahvaltı ekmek, peynir ve zeytinden oluşacak."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The breakfast will {{cloze}} of bread, cheese, and olives.",
       "answer": "consist"
     },
     "easeFactor": 2.5,
@@ -2226,17 +2385,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "oluşturmak, teşkil etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "form",
+      "compose",
+      "make up",
+      "establish"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Women constitute half of the workforce in this sector.",
+      "translation": "Kadınlar bu sektördeki işgücünün yarısını oluşturmaktadır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Women {{cloze}} half of the workforce in this sector.",
       "answer": "constitute"
     },
     "easeFactor": 2.5,
@@ -2251,17 +2413,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "inşa etmek, kurmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "build",
+      "erect",
+      "assemble",
+      "fabricate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "They plan to construct a new bridge across the river.",
+      "translation": "Nehir üzerine yeni bir köprü inşa etmeyi planlıyorlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "They plan to {{cloze}} a new bridge across the river.",
       "answer": "construct"
     },
     "easeFactor": 2.5,
@@ -2276,17 +2441,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "danışmak, başvurmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "seek advice from",
+      "ask",
+      "confer",
+      "deliberate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "You should consult a doctor if the symptoms persist.",
+      "translation": "Semptomlar devam ederse bir doktora danışmalısınız."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "You should {{cloze}} a doctor if the symptoms persist.",
       "answer": "consult"
     },
     "easeFactor": 2.5,
@@ -2301,17 +2469,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "içermek, kapsamak, kontrol altına almak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "include",
+      "hold",
+      "encompass",
+      "restrain"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This box contains fragile items, so handle it with care.",
+      "translation": "Bu kutu kırılacak eşyalar içeriyor, bu yüzden dikkatli taşıyın."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This box {{cloze}} fragile items, so handle it with care.",
       "answer": "contain"
     },
     "easeFactor": 2.5,
@@ -2326,17 +2497,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "devam etmek, sürdürmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "carry on",
+      "proceed",
+      "persist",
+      "resume"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "They decided to continue the project despite the funding cuts.",
+      "translation": "Fon kesintilerine rağmen projeye devam etmeye karar verdiler."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "They decided to {{cloze}} the project despite the funding cuts.",
       "answer": "continue"
     },
     "easeFactor": 2.5,
@@ -2351,17 +2525,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "katkıda bulunmak, sebep olmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "donate",
+      "supply",
+      "give",
+      "add to"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Everyone is expected to contribute to the team effort.",
+      "translation": "Herkesin takım çalışmasına katkıda bulunması bekleniyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Everyone is expected to {{cloze}} to the team effort.",
       "answer": "contribute"
     },
     "easeFactor": 2.5,
@@ -2376,17 +2553,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kontrol etmek, denetlemek, yönetmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "manage",
+      "regulate",
+      "dominate",
+      "govern"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It is difficult to control the spread of misinformation on social media.",
+      "translation": "Sosyal medyada yanlış bilginin yayılmasını kontrol etmek zordur."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It is difficult to {{cloze}} the spread of misinformation on social media.",
       "answer": "control"
     },
     "easeFactor": 2.5,
@@ -2401,17 +2581,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "dönüştürmek, çevirmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "transform",
+      "change",
+      "alter",
+      "turn"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The factory processes waste to convert it into energy.",
+      "translation": "Fabrika, atıkları enerjiye dönüştürmek için işliyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The factory processes waste to {{cloze}} it into energy.",
       "answer": "convert"
     },
     "easeFactor": 2.5,
@@ -2426,17 +2609,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ikna etmek, inandırmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "persuade",
+      "assure",
+      "satisfy",
+      "sway"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He tried to convince the jury of his innocence.",
+      "translation": "Jüriyi masumiyetine ikna etmeye çalıştı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He tried to {{cloze}} the jury of his innocence.",
       "answer": "convince"
     },
     "easeFactor": 2.5,
@@ -2451,17 +2637,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "mal olmak, tutmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "be priced at",
+      "sell for",
+      "come to",
+      "charge"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The repairs will cost more than the car is worth.",
+      "translation": "Tamiratlar arabanın değerinden daha fazlasına mal olacak."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The repairs will {{cloze}} more than the car is worth.",
       "answer": "cost"
     },
     "easeFactor": 2.5,
@@ -2476,17 +2665,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kapsamak, örtmek, kaplamak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "include",
+      "span",
+      "encompass",
+      "overlay"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The insurance policy covers all medical expenses.",
+      "translation": "Sigorta poliçesi tüm tıbbi masrafları kapsamaktadır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The insurance policy {{cloze}} all medical expenses.",
       "answer": "cover"
     },
     "easeFactor": 2.5,
@@ -2501,17 +2693,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yaratmak, oluşturmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "make",
+      "produce",
+      "generate",
+      "invent"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The artist wants to create a sculpture that inspires hope.",
+      "translation": "Sanatçı, umut veren bir heykel yaratmak istiyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The artist wants to {{cloze}} a sculpture that inspires hope.",
       "answer": "create"
     },
     "easeFactor": 2.5,
@@ -2526,17 +2721,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kesmek, azaltmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "slice",
+      "chop",
+      "reduce",
+      "trim"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The company had to cut costs to remain profitable.",
+      "translation": "Şirket kârlı kalabilmek için maliyetleri kısmak zorunda kaldı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The company had to {{cloze}} costs to remain profitable.",
       "answer": "cut"
     },
     "easeFactor": 2.5,
@@ -2551,17 +2749,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "zarar vermek, hasar vermek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "harm",
+      "injure",
+      "impair",
+      "spoil"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Heavy rains can damage crops and cause food shortages.",
+      "translation": "Şiddetli yağmurlar mahsullere zarar verebilir ve gıda kıtlığına neden olabilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Heavy rains can {{cloze}} crops and cause food shortages.",
       "answer": "damage"
     },
     "easeFactor": 2.5,
@@ -2576,17 +2777,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "karar vermek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "determine",
+      "resolve",
+      "settle",
+      "choose"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It is difficult to decide which university to attend.",
+      "translation": "Hangi üniversiteye gideceğine karar vermek zordur."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It is difficult to {{cloze}} which university to attend.",
       "answer": "decide"
     },
     "easeFactor": 2.5,
@@ -2601,17 +2805,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "beyan etmek, ilan etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "announce",
+      "proclaim",
+      "state",
+      "assert"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The country will declare independence from the colonial power.",
+      "translation": "Ülke, sömürgeci güçten bağımsızlığını ilan edecek."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The country will {{cloze}} independence from the colonial power.",
       "answer": "declare"
     },
     "easeFactor": 2.5,
@@ -2626,17 +2833,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "reddetmek, azalmak, düşmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "refuse",
+      "reject",
+      "decrease",
+      "diminish"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He had to decline the invitation due to prior commitments.",
+      "translation": "Önceki taahhütleri nedeniyle daveti reddetmek zorunda kaldı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He had to {{cloze}} the invitation due to prior commitments.",
       "answer": "decline"
     },
     "easeFactor": 2.5,
@@ -2651,17 +2861,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yenmek, mağlup etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "beat",
+      "conquer",
+      "overcome",
+      "vanquish"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The army managed to defeat the enemy forces.",
+      "translation": "Ordu düşman kuvvetlerini yenmeyi başardı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The army managed to {{cloze}} the enemy forces.",
       "answer": "defeat"
     },
     "easeFactor": 2.5,
@@ -2676,17 +2889,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "savunmak, korumak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "protect",
+      "guard",
+      "shield",
+      "uphold"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Lawyers are hired to defend the accused in court.",
+      "translation": "Avukatlar mahkemede sanığı savunmak için tutulur."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Lawyers are hired to {{cloze}} the accused in court.",
       "answer": "defend"
     },
     "easeFactor": 2.5,
@@ -2701,17 +2917,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tanımlamak, belirlemek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "describe",
+      "explain",
+      "specify",
+      "outline"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It is often hard to define abstract concepts like happiness.",
+      "translation": "Mutluluk gibi soyut kavramları tanımlamak genellikle zordur."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It is often hard to {{cloze}} abstract concepts like happiness.",
       "answer": "define"
     },
     "easeFactor": 2.5,
@@ -2726,17 +2945,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "geciktirmek, ertelemek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "postpone",
+      "defer",
+      "suspend",
+      "adjourn"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Bad weather can delay flights for several hours.",
+      "translation": "Kötü hava koşulları uçuşları birkaç saat geciktirebilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Bad weather can {{cloze}} flights for several hours.",
       "answer": "delay"
     },
     "easeFactor": 2.5,
@@ -2751,17 +2973,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "teslim etmek, ulaştırmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "distribute",
+      "convey",
+      "bring",
+      "hand over"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The courier promised to deliver the package by noon.",
+      "translation": "Kurye paketi öğlene kadar teslim edeceğine söz verdi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The courier promised to {{cloze}} the package by noon.",
       "answer": "deliver"
     },
     "easeFactor": 2.5,
@@ -2776,17 +3001,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "talep etmek, istemek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "request",
+      "require",
+      "ask for",
+      "call for"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Workers demand better wages and working conditions.",
+      "translation": "İşçiler daha iyi ücret ve çalışma koşulları talep ediyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Workers {{cloze}} better wages and working conditions.",
       "answer": "demand"
     },
     "easeFactor": 2.5,
@@ -2801,17 +3029,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "göstermek, kanıtlamak, gösteri yapmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "show",
+      "exhibit",
+      "display",
+      "prove"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The teacher will demonstrate how to solve the math problem.",
+      "translation": "Öğretmen matematik probleminin nasıl çözüleceğini gösterecek."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The teacher will {{cloze}} how to solve the math problem.",
       "answer": "demonstrate"
     },
     "easeFactor": 2.5,
@@ -2826,17 +3057,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "inkar etmek, reddetmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "refute",
+      "reject",
+      "renounce",
+      "disclaim"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "He continued to deny any involvement in the scandal.",
+      "translation": "Skandala karıştığını inkar etmeye devam etti."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "He continued to {{cloze}} any involvement in the scandal.",
       "answer": "deny"
     },
     "easeFactor": 2.5,
@@ -2851,17 +3085,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "bağlı olmak, güvenmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "rely on",
+      "count on",
+      "hinge on",
+      "rest on"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Our picnic plans depend entirely on the weather.",
+      "translation": "Piknik planlarımız tamamen hava durumuna bağlı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Our picnic plans {{cloze}} entirely on the weather.",
       "answer": "depend"
     },
     "easeFactor": 2.5,
@@ -2876,17 +3113,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "türetmek, elde etmek, kaynaklanmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "obtain",
+      "get",
+      "acquire",
+      "stem"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Many English words derive from Latin or Greek roots.",
+      "translation": "Pek çok İngilizce kelime Latince veya Yunanca köklerden türemiştir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Many English words {{cloze}} from Latin or Greek roots.",
       "answer": "derive"
     },
     "easeFactor": 2.5,
@@ -2901,17 +3141,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "betimlemek, tarif etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "depict",
+      "portray",
+      "characterize",
+      "detail"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Witnesses were asked to describe the suspect to the police.",
+      "translation": "Tanıklardan şüpheliyi polise tarif etmeleri istendi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Witnesses were asked to {{cloze}} the suspect to the police.",
       "answer": "describe"
     },
     "easeFactor": 2.5,
@@ -2926,17 +3169,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "hak etmek, layık olmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "merit",
+      "earn",
+      "warrant",
+      "rate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Hardworking students deserve to be rewarded for their efforts.",
+      "translation": "Çalışkan öğrenciler çabalarından dolayı ödüllendirilmeyi hak ederler."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Hardworking students {{cloze}} to be rewarded for their efforts.",
       "answer": "deserve"
     },
     "easeFactor": 2.5,
@@ -2951,17 +3197,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tasarlamak, planlamak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "create",
+      "plan",
+      "devise",
+      "formulate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Engineers design buildings to withstand earthquakes.",
+      "translation": "Mühendisler binaları depreme dayanacak şekilde tasarlarlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Engineers {{cloze}} buildings to withstand earthquakes.",
       "answer": "design"
     },
     "easeFactor": 2.5,
@@ -2976,17 +3225,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yok etmek, imha etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "demolish",
+      "ruin",
+      "wreck",
+      "devastate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "A fire can destroy a house in a matter of minutes.",
+      "translation": "Bir yangın bir evi dakikalar içinde yok edebilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "A fire can {{cloze}} a house in a matter of minutes.",
       "answer": "destroy"
     },
     "easeFactor": 2.5,
@@ -3001,17 +3253,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tespit etmek, saptamak, sezmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "discover",
+      "identify",
+      "notice",
+      "spot"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Modern sensors can detect even the slightest movement.",
+      "translation": "Modern sensörler en ufak bir hareketi bile tespit edebilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Modern sensors can {{cloze}} even the slightest movement.",
       "answer": "detect"
     },
     "easeFactor": 2.5,
@@ -3026,17 +3281,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "belirlemek, saptamak, karar vermek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "decide",
+      "establish",
+      "resolve",
+      "conclude"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We need to determine the cause of the error before fixing it.",
+      "translation": "Hatayı düzeltmeden önce nedenini belirlemeliyiz."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We need to {{cloze}} the cause of the error before fixing it.",
       "answer": "determine"
     },
     "easeFactor": 2.5,
@@ -3051,17 +3309,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "geliştirmek, gelişmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "grow",
+      "evolve",
+      "expand",
+      "progress"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Scientists are working to develop a vaccine for the virus.",
+      "translation": "Bilim insanları virüs için bir aşı geliştirmeye çalışıyorlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Scientists are working to {{cloze}} a vaccine for the virus.",
       "answer": "develop"
     },
     "easeFactor": 2.5,
@@ -3076,17 +3337,20 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "farklılık göstermek, ayrılmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "vary",
+      "diverge",
+      "contrast",
+      "conflict"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Opinions differ on the best way to solve the problem.",
+      "translation": "Problemi çözmenin en iyi yolu konusunda görüşler farklılık gösteriyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Opinions {{cloze}} on the best way to solve the problem.",
       "answer": "differ"
     },
     "easeFactor": 2.5,
@@ -3101,19 +3365,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yönetmek, yönlendirmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "manage",
+      "lead",
+      "guide",
+      "conduct"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The director will direct the new movie project.",
+      "translation": "Yönetmen yeni film projesini yönetecek."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The director will {{cloze}} the new movie project.",
       "answer": "direct"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192387",
@@ -3126,19 +3394,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "gözden kaybolmak, yok olmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "vanish",
+      "fade",
+      "evaporate",
+      "dissolve"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Many species disappear due to habitat loss.",
+      "translation": "Birçok tür habitat kaybı nedeniyle yok olmaktadır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Many species {{cloze}} due to habitat loss.",
       "answer": "disappear"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192396",
@@ -3151,19 +3423,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "hayal kırıklığına uğratmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "let down",
+      "fail",
+      "dismay",
+      "upset"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I hope I didn't disappoint you with my performance.",
+      "translation": "Umarım performansımla seni hayal kırıklığına uğratmadım."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I hope I didn't {{cloze}} you with my performance.",
       "answer": "disappoint"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192408",
@@ -3176,19 +3452,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "keşfetmek, bulmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "find",
+      "uncover",
+      "reveal",
+      "detect"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Scientists discover new planets in distant galaxies.",
+      "translation": "Bilim insanları uzak galaksilerde yeni gezegenler keşfediyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Scientists {{cloze}} new planets in distant galaxies.",
       "answer": "discover"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192418",
@@ -3201,19 +3481,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "sergilemek, göstermek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "show",
+      "exhibit",
+      "present",
+      "demonstrate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The museum will display ancient artifacts from Egypt.",
+      "translation": "Müze, Mısır'dan gelen antik eserleri sergileyecek."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The museum will {{cloze}} ancient artifacts from Egypt.",
       "answer": "display"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192427",
@@ -3226,19 +3510,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tartışmak, itiraz etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "debate",
+      "challenge",
+      "contest",
+      "argue"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Few historians dispute the significance of this event.",
+      "translation": "Az sayıda tarihçi bu olayın önemini tartışır (itiraz eder)."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Few historians {{cloze}} the significance of this event.",
       "answer": "dispute"
     },
+    "difficulty": 4,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192436",
@@ -3251,19 +3539,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ayırt etmek, ayrım yapmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "differentiate",
+      "discriminate",
+      "discern",
+      "separate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "It is important to distinguish between fact and opinion.",
+      "translation": "Gerçek ile görüşü birbirinden ayırt etmek önemlidir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "It is important to {{cloze}} between fact and opinion.",
       "answer": "distinguish"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192445",
@@ -3276,19 +3568,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "dağıtmak, paylaştırmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "allocate",
+      "dispense",
+      "spread",
+      "circulate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The organization works to distribute food to those in need.",
+      "translation": "Örgüt, ihtiyacı olanlara yiyecek dağıtmak için çalışıyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The organization works to {{cloze}} food to those in need.",
       "answer": "distribute"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192456",
@@ -3301,19 +3597,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "rahatsız etmek, bozmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "interrupt",
+      "bother",
+      "upset",
+      "disrupt"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Please do not disturb the baby while she is sleeping.",
+      "translation": "Lütfen bebek uyurken onu rahatsız etmeyin."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Please do not {{cloze}} the baby while she is sleeping.",
       "answer": "disturb"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192466",
@@ -3326,19 +3626,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "bölmek, ayırmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "split",
+      "separate",
+      "partition",
+      "segment"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The river divides the city into two parts.",
+      "translation": "Nehir şehri iki parçaya böler."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The river {{cloze}} the city into two parts.",
       "answer": "divide"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192476",
@@ -3351,19 +3655,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yapmak, etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "perform",
+      "execute",
+      "act",
+      "carry out"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Whatever you do, ensure it is done correctly.",
+      "translation": "Ne yaparsan yap, doğru yapıldığından emin ol."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Whatever you {{cloze}}, ensure it is done correctly.",
       "answer": "do"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192488",
@@ -3376,19 +3684,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "hakim olmak, egemen olmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "control",
+      "rule",
+      "govern",
+      "command"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "One political party tends to dominate the local elections.",
+      "translation": "Yerel seçimlere tek bir siyasi parti hakim olma eğilimindedir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "One political party tends to {{cloze}} the local elections.",
       "answer": "dominate"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192498",
@@ -3401,19 +3713,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "şüphe etmek, kuşkulanmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "question",
+      "mistrust",
+      "suspect",
+      "hesitate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I doubt that he will be able to finish the project on time.",
+      "translation": "Projeyi zamanında bitirebileceğinden şüpheliyim."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I {{cloze}} that he will be able to finish the project on time.",
       "answer": "doubt"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192513",
@@ -3426,19 +3742,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "çizmek, çekmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "sketch",
+      "pull",
+      "drag",
+      "attract"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The artist will draw a portrait of the guest.",
+      "translation": "Sanatçı misafirin bir portresini çizecek."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The artist will {{cloze}} a portrait of the guest.",
       "answer": "draw"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192522",
@@ -3451,19 +3771,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yemek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "consume",
+      "devour",
+      "ingest",
+      "dine"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We usually eat dinner at around 7 PM.",
+      "translation": "Genellikle akşam yemeğini saat 19:00 civarında yeriz."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We usually {{cloze}} dinner at around 7 PM.",
       "answer": "eat"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192532",
@@ -3476,19 +3800,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ortaya çıkmak, belirmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "appear",
+      "arise",
+      "surface",
+      "manifest"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "New evidence may emerge during the investigation.",
+      "translation": "Soruşturma sırasında yeni kanıtlar ortaya çıkabilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "New evidence may {{cloze}} during the investigation.",
       "answer": "emerge"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192542",
@@ -3501,19 +3829,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "işe almak, çalıştırmak, kullanmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "hire",
+      "recruit",
+      "use",
+      "utilize"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The company plans to employ fifty new staff members.",
+      "translation": "Şirket elli yeni personel işe almayı planlıyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The company plans to {{cloze}} fifty new staff members.",
       "answer": "employ"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192551",
@@ -3526,19 +3858,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "olanak sağlamak, mümkün kılmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "allow",
+      "permit",
+      "facilitate",
+      "empower"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Technology can enable people to work from anywhere.",
+      "translation": "Teknoloji, insanların her yerden çalışmasına olanak sağlayabilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Technology can {{cloze}} people to work from anywhere.",
       "answer": "enable"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192560",
@@ -3551,19 +3887,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "karşılaşmak, rastlamak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "meet",
+      "run into",
+      "face",
+      "experience"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We often encounter difficulties when starting a new venture.",
+      "translation": "Yeni bir girişime başlarken sıklıkla zorluklarla karşılaşırız."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We often {{cloze}} difficulties when starting a new venture.",
       "answer": "encounter"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192570",
@@ -3576,19 +3916,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "teşvik etmek, cesaretlendirmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "inspire",
+      "motivate",
+      "stimulate",
+      "support"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Parents should encourage their children to read.",
+      "translation": "Ebeveynler çocuklarını okumaya teşvik etmelidir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Parents should {{cloze}} their children to read.",
       "answer": "encourage"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192579",
@@ -3601,19 +3945,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "bitirmek, sona ermek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "finish",
+      "conclude",
+      "terminate",
+      "cease"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The meeting is scheduled to end at 5 PM.",
+      "translation": "Toplantının saat 17:00'de bitmesi planlanıyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The meeting is scheduled to {{cloze}} at 5 PM.",
       "answer": "end"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192588",
@@ -3626,19 +3974,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "dahil olmak, ilgilenmek, nişanlanmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "participate",
+      "involve",
+      "occupy",
+      "undertake"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Students are encouraged to engage in extracurricular activities.",
+      "translation": "Öğrenciler ders dışı etkinliklere katılmaya teşvik edilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Students are encouraged to {{cloze}} in extracurricular activities.",
       "answer": "engage"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192597",
@@ -3651,19 +4003,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "zevk almak, tadını çıkarmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "relish",
+      "appreciate",
+      "like",
+      "delight in"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "People enjoy walking in the park on sunny days.",
+      "translation": "İnsanlar güneşli günlerde parkta yürümekten zevk alırlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "People {{cloze}} walking in the park on sunny days.",
       "answer": "enjoy"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192609",
@@ -3676,19 +4032,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "garantiye almak, sağlamak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "make certain",
+      "guarantee",
+      "secure",
+      "assure"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We must ensure that all safety regulations are followed.",
+      "translation": "Tüm güvenlik yönetmeliklerine uyulduğundan emin olmalıyız."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We must {{cloze}} that all safety regulations are followed.",
       "answer": "ensure"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192624",
@@ -3701,19 +4061,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yetki vermek, hak kazandırmak, isimlendirmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "qualify",
+      "authorize",
+      "enable",
+      "name"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "This ticket entitles you to a free meal.",
+      "translation": "Bu bilet size ücretsiz bir yemek hakkı kazandırır."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "This ticket {{cloze}} you to a free meal.",
       "answer": "entitle"
     },
+    "difficulty": 4,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192634",
@@ -3726,19 +4090,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kaçmak, kurtulmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "flee",
+      "evade",
+      "run away",
+      "get away"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The prisoner managed to escape from the guards.",
+      "translation": "Mahkum gardiyanlardan kaçmayı başardı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The prisoner managed to {{cloze}} from the guards.",
       "answer": "escape"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192643",
@@ -3751,19 +4119,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "kurmak, tesis etmek, belirlemek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "set up",
+      "found",
+      "institute",
+      "create"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The government aims to establish new trade relations.",
+      "translation": "Hükümet yeni ticari ilişkiler kurmayı hedefliyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The government aims to {{cloze}} new trade relations.",
       "answer": "establish"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192652",
@@ -3776,19 +4148,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "tahmin etmek, değer biçmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "guess",
+      "calculate",
+      "assess",
+      "evaluate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Experts estimate that the project will cost millions.",
+      "translation": "Uzmanlar projenin milyonlara mal olacağını tahmin ediyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Experts {{cloze}} that the project will cost millions.",
       "answer": "estimate"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192661",
@@ -3801,19 +4177,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "incelemek, muayene etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "inspect",
+      "analyze",
+      "scrutinize",
+      "investigate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Doctors must examine patients carefully before diagnosis.",
+      "translation": "Doktorlar teşhis koymadan önce hastaları dikkatlice muayene etmelidir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Doctors must {{cloze}} patients carefully before diagnosis.",
       "answer": "examine"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192671",
@@ -3826,19 +4206,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "değiş tokuş etmek, takas etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "trade",
+      "swap",
+      "interchange",
+      "barter"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We can exchange ideas during the meeting.",
+      "translation": "Toplantı sırasında fikir alışverişinde bulunabiliriz."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We can {{cloze}} ideas during the meeting.",
       "answer": "exchange"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192685",
@@ -3851,19 +4235,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "hariç tutmak, dışlamak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "keep out",
+      "omit",
+      "eliminate",
+      "ban"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The club decided to exclude non-members from the event.",
+      "translation": "Kulüp, üye olmayanları etkinlikten hariç tutmaya karar verdi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The club decided to {{cloze}} non-members from the event.",
       "answer": "exclude"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192695",
@@ -3876,19 +4264,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "mazur görmek, affetmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "forgive",
+      "pardon",
+      "justify",
+      "condone"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Please excuse my late arrival.",
+      "translation": "Lütfen geç kalışımı mazur görün."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Please {{cloze}} my late arrival.",
       "answer": "excuse"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192704",
@@ -3901,19 +4293,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "var olmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "be",
+      "live",
+      "survive",
+      "occur"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Problems exist in every organization.",
+      "translation": "Her organizasyonda sorunlar vardır (mevuttur)."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Problems {{cloze}} in every organization.",
       "answer": "exist"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192717",
@@ -3926,19 +4322,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "genişlemek, büyümek, yayılmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "grow",
+      "enlarge",
+      "extend",
+      "spread"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Metals expand when heated.",
+      "translation": "Metaller ısıtıldığında genleşir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Metals {{cloze}} when heated.",
       "answer": "expand"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192726",
@@ -3951,19 +4351,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ummak, beklemek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "anticipate",
+      "await",
+      "hope for",
+      "predict"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We expect a reply by tomorrow morning.",
+      "translation": "Yarın sabaha kadar bir cevap bekliyoruz."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We {{cloze}} a reply by tomorrow morning.",
       "answer": "expect"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192736",
@@ -3976,19 +4380,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "deneyimlemek, yaşamak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "undergo",
+      "encounter",
+      "face",
+      "feel"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Travelers often experience culture shock in foreign countries.",
+      "translation": "Gezginler yabancı ülkelerde sıklıkla kültür şoku yaşarlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Travelers often {{cloze}} culture shock in foreign countries.",
       "answer": "experience"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192745",
@@ -4001,19 +4409,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "açıklamak, izah etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "describe",
+      "clarify",
+      "define",
+      "illustrate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Can you explain how this machine works?",
+      "translation": "Bu makinenin nasıl çalıştığını açıklayabilir misin?"
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Can you {{cloze}} how this machine works?",
       "answer": "explain"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192757",
@@ -4026,19 +4438,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "keşfetmek, araştırmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "investigate",
+      "survey",
+      "examine",
+      "search"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We need to explore all possible solutions.",
+      "translation": "Tüm olası çözümleri araştırmalıyız (keşfetmeliyiz)."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We need to {{cloze}} all possible solutions.",
       "answer": "explore"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192767",
@@ -4051,19 +4467,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "maruz bırakmak, açığa çıkarmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "reveal",
+      "uncover",
+      "display",
+      "subject to"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Spending too much time in the sun can expose your skin to damage.",
+      "translation": "Güneşte çok fazla zaman geçirmek cildinizi hasara maruz bırakabilir."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Spending too much time in the sun can {{cloze}} your skin to damage.",
       "answer": "expose"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192775",
@@ -4076,19 +4496,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ifade etmek, açıklamak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "state",
+      "articulate",
+      "convey",
+      "communicate"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "She struggled to express her feelings in words.",
+      "translation": "Duygularını kelimelerle ifade etmekte zorlandı."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "She struggled to {{cloze}} her feelings in words.",
       "answer": "express"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192788",
@@ -4101,19 +4525,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "uzatmak, genişletmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "prolong",
+      "stretch",
+      "expand",
+      "lengthen"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The company decided to extend the deadline for applications.",
+      "translation": "Şirket başvurular için son tarihi uzatmaya karar verdi."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The company decided to {{cloze}} the deadline for applications.",
       "answer": "extend"
     },
+    "difficulty": 3,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192798",
@@ -4126,19 +4554,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "yüzleşmek, karşı karşıya kalmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "confront",
+      "encounter",
+      "meet",
+      "brave"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "We must accept reality and face the facts.",
+      "translation": "Gerçeği kabul etmeli ve gerçeklerle yüzleşmeliyiz."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "We must accept reality and {{cloze}} the facts.",
       "answer": "face"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192810",
@@ -4151,19 +4583,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "başarısız olmak, kalmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "flop",
+      "unsucceed",
+      "fall short",
+      "break down"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "If you fail to plan, you plan to fail.",
+      "translation": "Planlamada başarısız olursan, başarısız olmayı planlarsın."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "If you {{cloze}} to plan, you plan to fail.",
       "answer": "fail"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192823",
@@ -4176,19 +4612,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "düşmek, azalmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "drop",
+      "descend",
+      "collapse",
+      "decrease"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Leaves fall from the trees in autumn.",
+      "translation": "Sonbaharda ağaçlardan yapraklar düşer."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Leaves {{cloze}} from the trees in autumn.",
       "answer": "fall"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192838",
@@ -4201,19 +4641,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "korkmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "dread",
+      "be afraid of",
+      "panic",
+      "worry"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "People often fear what they do not understand.",
+      "translation": "İnsanlar genellikle anlamadıkları şeylerden korkarlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "People often {{cloze}} what they do not understand.",
       "answer": "fear"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192855",
@@ -4226,19 +4670,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "hissetmek, duymak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "perceive",
+      "sense",
+      "experience",
+      "touch"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I feel much better after a good night's sleep.",
+      "translation": "İyi bir gece uykusundan sonra kendimi çok daha iyi hissediyorum."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I {{cloze}} much better after a good night's sleep.",
       "answer": "feel"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192880",
@@ -4251,19 +4699,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "gidip getirmek, alıp gelmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "bring",
+      "get",
+      "retrieve",
+      "carry"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The dog loves to fetch the ball.",
+      "translation": "Köpek topu gidip getirmeyi çok sever."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The dog loves to {{cloze}} the ball.",
       "answer": "fetch"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192941",
@@ -4276,19 +4728,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "savaşmak, kavga etmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "battle",
+      "combat",
+      "struggle",
+      "conflict"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Soldiers fight to defend their country.",
+      "translation": "Askerler ülkelerini savunmak için savaşırlar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Soldiers {{cloze}} to defend their country.",
       "answer": "fight"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.192973",
@@ -4301,19 +4757,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "doldurmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "stuff",
+      "load",
+      "pack",
+      "replenish"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Please fill the form with your personal details.",
+      "translation": "Lütfen formu kişisel bilgilerinizle doldurun."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Please {{cloze}} the form with your personal details.",
       "answer": "fill"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.193020",
@@ -4326,19 +4786,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "bulmak, keşfetmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "discover",
+      "locate",
+      "detect",
+      "encounter"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "I cannot find my keys anywhere.",
+      "translation": "Anahtarlarımı hiçbir yerde bulamıyorum."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "I cannot {{cloze}} my keys anywhere.",
       "answer": "find"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.193052",
@@ -4351,19 +4815,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "ateşlemek, kovmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "shoot",
+      "dismiss",
+      "sack",
+      "ignite"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "The manager threatened to fire employees who were consistently late.",
+      "translation": "Müdür sürekli geç kalan çalışanları kovmakla tehdit etti."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "The manager threatened to {{cloze}} employees who were consistently late.",
       "answer": "fire"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.193064",
@@ -4376,19 +4844,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "akmak, dökülmek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "stream",
+      "run",
+      "pour",
+      "gush"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Rivers flow into the sea.",
+      "translation": "Nehirler denize akar."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Rivers {{cloze}} into the sea.",
       "answer": "flow"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.193074",
@@ -4401,19 +4873,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "odaklanmak"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "concentrate",
+      "center",
+      "aim",
+      "direct"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "You need to focus on your studies to pass the exam.",
+      "translation": "Sınavı geçmek için çalışmalarına odaklanman gerekiyor."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "You need to {{cloze}} on your studies to pass the exam.",
       "answer": "focus"
     },
+    "difficulty": 2,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.193088",
@@ -4426,19 +4902,23 @@
     "pos": "verb",
     "multiWord": false,
     "meanings": [
-      "TODO: Fill with AI"
+      "takip etmek, izlemek"
     ],
     "synonyms": [
-      "TODO: Fill with AI"
+      "pursue",
+      "track",
+      "obey",
+      "observe"
     ],
     "example": {
-      "text": "TODO: Fill with AI",
-      "translation": "TODO: Fill with AI"
+      "text": "Please follow the instructions carefully.",
+      "translation": "Lütfen talimatları dikkatlice takip edin."
     },
     "cloze": {
-      "template": "TODO: Fill with AI",
+      "template": "Please {{cloze}} the instructions carefully.",
       "answer": "follow"
     },
+    "difficulty": 1,
     "easeFactor": 2.5,
     "intervalDays": 0,
     "dueDate": "2026-02-09T14:56:44.193100",

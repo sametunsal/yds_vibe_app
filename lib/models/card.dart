@@ -1,7 +1,6 @@
-enum CardType {
-  word,
-  phrase,
-}
+import '../constants/app_constants.dart';
+
+enum CardType { word, phrase }
 
 enum Rating {
   again, // 0 - Forgot completely
@@ -24,10 +23,7 @@ class Example {
   }
 
   Map<String, dynamic> toJson() {
-    return {
-      'text': text,
-      if (translation != null) 'translation': translation,
-    };
+    return {'text': text, if (translation != null) 'translation': translation};
   }
 
   factory Example.fromJson(Map<String, dynamic> json) {
@@ -52,10 +48,7 @@ class Cloze {
   }
 
   Map<String, dynamic> toJson() {
-    return {
-      'template': template,
-      'answer': answer,
-    };
+    return {'template': template, 'answer': answer};
   }
 
   factory Cloze.fromJson(Map<String, dynamic> json) {
@@ -79,11 +72,11 @@ class VocabularyCard {
   final List<String> synonyms; // synonyms (1-3 items)
   final Example example;
   final Cloze cloze;
-  double easeFactor; // SM-2 ease factor (default 2.5)
-  int intervalDays; // Days until next review
-  DateTime dueDate; // When this card is due
-  int repetitions; // Number of successful reviews
-  DateTime? lastReviewed; // Last time this card was reviewed
+  final double easeFactor;
+  final int intervalDays;
+  final DateTime dueDate;
+  final int repetitions;
+  final DateTime? lastReviewed;
 
   VocabularyCard({
     required this.id,
@@ -94,7 +87,7 @@ class VocabularyCard {
     required this.synonyms,
     required this.example,
     required this.cloze,
-    this.easeFactor = 2.5,
+    this.easeFactor = AppConstants.defaultEaseFactor,
     this.intervalDays = 0,
     DateTime? dueDate,
     this.repetitions = 0,
@@ -139,7 +132,9 @@ class VocabularyCard {
     );
   }
 
-  bool get isDue => DateTime.now().isAfter(dueDate) || DateTime.now().isAtSameMomentAs(dueDate);
+  bool get isDue =>
+      DateTime.now().isAfter(dueDate) ||
+      DateTime.now().isAtSameMomentAs(dueDate);
 
   Map<String, dynamic> toJson() {
     return {
@@ -171,7 +166,9 @@ class VocabularyCard {
           ? Example(text: json['example'] as String)
           : Example.fromJson(json['example'] as Map<String, dynamic>),
       cloze: Cloze.fromJson(json['cloze'] as Map<String, dynamic>),
-      easeFactor: (json['easeFactor'] as num?)?.toDouble() ?? 2.5,
+      easeFactor:
+          (json['easeFactor'] as num?)?.toDouble() ??
+          AppConstants.defaultEaseFactor,
       intervalDays: json['intervalDays'] as int? ?? 0,
       dueDate: json['dueDate'] != null
           ? DateTime.parse(json['dueDate'] as String)
@@ -180,21 +177,6 @@ class VocabularyCard {
       lastReviewed: json['lastReviewed'] != null
           ? DateTime.parse(json['lastReviewed'] as String)
           : null,
-    );
-  }
-
-  static VocabularyCard fromAssetJson(Map<String, dynamic> json) {
-    return VocabularyCard(
-      id: json['id'] as String,
-      lemma: json['lemma'] as String,
-      pos: json['pos'] as String? ?? 'word',
-      multiWord: json['multi_word'] as bool? ?? false,
-      meanings: (json['meanings'] as List<dynamic>).cast<String>(),
-      synonyms: (json['synonyms'] as List<dynamic>).cast<String>(),
-      example: json['example'] is String
-          ? Example(text: json['example'] as String)
-          : Example.fromJson(json['example'] as Map<String, dynamic>),
-      cloze: Cloze.fromJson(json['cloze'] as Map<String, dynamic>),
     );
   }
 }

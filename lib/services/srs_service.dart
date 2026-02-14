@@ -1,3 +1,4 @@
+import '../constants/app_constants.dart';
 import '../models/card.dart';
 import 'streak_service.dart';
 
@@ -52,7 +53,11 @@ class SRSService {
         if (card.intervalDays == 0) {
           newInterval = 2;
         } else {
-          newInterval = (card.intervalDays * card.easeFactor * 1.3).round();
+          newInterval =
+              (card.intervalDays *
+                      card.easeFactor *
+                      AppConstants.easyMultiplier)
+                  .round();
           if (newInterval < 1) newInterval = 1;
         }
         newRepetitions++; // Increment for successful review
@@ -60,7 +65,9 @@ class SRSService {
     }
 
     // Ensure ease factor doesn't go below 1.3
-    if (newEaseFactor < 1.3) newEaseFactor = 1.3;
+    if (newEaseFactor < AppConstants.minEaseFactor) {
+      newEaseFactor = AppConstants.minEaseFactor;
+    }
 
     // Calculate new due date
     final currentTime = now ?? DateTime.now();
@@ -106,13 +113,21 @@ class SRSService {
   // Get learning cards (currently in learning, 0 < interval < 21 days)
   static List<VocabularyCard> getLearningCards(List<VocabularyCard> allCards) {
     return allCards
-        .where((card) => card.intervalDays > 0 && card.intervalDays < 21)
+        .where(
+          (card) =>
+              card.intervalDays > 0 &&
+              card.intervalDays < AppConstants.learningThresholdDays,
+        )
         .toList();
   }
 
   // Get reviewed cards (interval >= 21 days - "graduated")
   static List<VocabularyCard> getReviewedCards(List<VocabularyCard> allCards) {
-    return allCards.where((card) => card.intervalDays >= 21).toList();
+    return allCards
+        .where(
+          (card) => card.intervalDays >= AppConstants.masteredThresholdDays,
+        )
+        .toList();
   }
 
   // Get cards by category (POS)

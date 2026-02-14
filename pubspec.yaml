@@ -38,6 +38,7 @@ dependencies:
   path_provider: ^2.1.5
   flutter_animate: ^4.5.2
   confetti: ^0.8.0
+  flutter_tts: ^3.8.3
 
 dev_dependencies:
   flutter_test:
