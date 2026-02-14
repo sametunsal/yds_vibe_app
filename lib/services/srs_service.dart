@@ -69,9 +69,14 @@ class SRSService {
       newEaseFactor = AppConstants.minEaseFactor;
     }
 
-    // Calculate new due date
+    // Calculate new due date: local midnight + interval days
     final currentTime = now ?? DateTime.now();
-    final newDueDate = currentTime.add(Duration(days: newInterval));
+    final localMidnight = DateTime(
+      currentTime.year,
+      currentTime.month,
+      currentTime.day,
+    );
+    final newDueDate = localMidnight.add(Duration(days: newInterval));
 
     // Save study activity for streak overlap
     await StreakService.saveStudyActivity();

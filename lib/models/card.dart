@@ -92,7 +92,7 @@ class VocabularyCard {
     DateTime? dueDate,
     this.repetitions = 0,
     this.lastReviewed,
-  }) : dueDate = dueDate ?? DateTime.now();
+  }) : dueDate = dueDate ?? _today();
 
   String get meaningTr => meanings.isNotEmpty ? meanings.first : '';
 
@@ -132,9 +132,18 @@ class VocabularyCard {
     );
   }
 
-  bool get isDue =>
-      DateTime.now().isAfter(dueDate) ||
-      DateTime.now().isAtSameMomentAs(dueDate);
+  /// Day-boundary comparison: card is due if today >= dueDate (date only).
+  bool get isDue {
+    final now = DateTime.now();
+    final today = DateTime(now.year, now.month, now.day);
+    final due = DateTime(dueDate.year, dueDate.month, dueDate.day);
+    return !today.isBefore(due);
+  }
+
+  static DateTime _today() {
+    final now = DateTime.now();
+    return DateTime(now.year, now.month, now.day);
+  }
 
   Map<String, dynamic> toJson() {
     return {
@@ -171,11 +180,11 @@ class VocabularyCard {
           AppConstants.defaultEaseFactor,
       intervalDays: json['intervalDays'] as int? ?? 0,
       dueDate: json['dueDate'] != null
-          ? DateTime.parse(json['dueDate'] as String)
-          : DateTime.now(),
+          ? DateTime.parse(json['dueDate'] as String).toLocal()
+          : _today(),
       repetitions: json['repetitions'] as int? ?? 0,
       lastReviewed: json['lastReviewed'] != null
-          ? DateTime.parse(json['lastReviewed'] as String)
+          ? DateTime.parse(json['lastReviewed'] as String).toLocal()
           : null,
     );
   }
