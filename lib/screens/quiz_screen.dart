@@ -43,6 +43,7 @@ class _QuizScreenState extends State<QuizScreen> {
   bool _showResult = false;
   bool _isFinished = false;
   bool _isLoading = true;
+  List<QuizQuestion> _wrongAnswers = [];
 
   static const int maxQuestions = AppConstants.maxQuizQuestions;
 
@@ -72,8 +73,8 @@ class _QuizScreenState extends State<QuizScreen> {
       return;
     }
 
-    final shuffled = List<model.VocabularyCard>.from(_allCards)..shuffle();
-    final selectedCards = shuffled.take(maxQuestions).toList();
+    final priorityPool = _buildPriorityPool();
+    final selectedCards = priorityPool.take(maxQuestions).toList();
     _questions = [];
 
     for (final card in selectedCards) {
@@ -89,6 +90,52 @@ class _QuizScreenState extends State<QuizScreen> {
     _selectedAnswer = null;
     _showResult = false;
     _isFinished = false;
+    _wrongAnswers = [];
+  }
+
+  /// Build pool with priority: today's studied > learned > random.
+  /// Deduped by card.id.
+  List<model.VocabularyCard> _buildPriorityPool() {
+    final now = DateTime.now();
+    final todayDate = DateTime(now.year, now.month, now.day);
+
+    final studied = <String, model.VocabularyCard>{};
+    final learned = <String, model.VocabularyCard>{};
+
+    for (final c in _allCards) {
+      if (c.lastReviewed != null) {
+        final reviewDay = DateTime(
+          c.lastReviewed!.year,
+          c.lastReviewed!.month,
+          c.lastReviewed!.day,
+        );
+        if (reviewDay == todayDate) {
+          studied[c.id] = c;
+          continue;
+        }
+      }
+      if (c.intervalDays > 0) {
+        learned[c.id] = c;
+      }
+    }
+
+    // Priority merge: studied first, then learned, then remaining
+    final pool = <String, model.VocabularyCard>{};
+    pool.addAll(studied);
+    for (final entry in learned.entries) {
+      pool.putIfAbsent(entry.key, () => entry.value);
+    }
+
+    // Fill up from all cards if pool is too small
+    if (pool.length < maxQuestions) {
+      for (final c in _allCards) {
+        pool.putIfAbsent(c.id, () => c);
+        if (pool.length >= _allCards.length) break;
+      }
+    }
+
+    final result = pool.values.toList()..shuffle();
+    return result;
   }
 
   bool _canGenerateSynonymQuestion(model.VocabularyCard card) {
@@ -178,6 +225,8 @@ class _QuizScreenState extends State<QuizScreen> {
       _showResult = true;
       if (answer == _questions[_currentQuestionIndex].correctAnswer) {
         _score++;
+      } else {
+        _wrongAnswers.add(_questions[_currentQuestionIndex]);
       }
     });
   }
@@ -406,6 +455,54 @@ class _QuizScreenState extends State<QuizScreen> {
               ),
             ),
             const SizedBox(height: 32),
+
+            // Wrong answers
+            if (_wrongAnswers.isNotEmpty) ...[
+              Text(
+                'Yanlış Cevaplar',
+                style: TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.w600,
+                  color: Colors.grey[700],
+                ),
+              ),
+              const SizedBox(height: 8),
+              ..._wrongAnswers.map(
+                (q) => Container(
+                  margin: const EdgeInsets.only(bottom: 6),
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 12,
+                    vertical: 8,
+                  ),
+                  decoration: BoxDecoration(
+                    color: Colors.red.withValues(alpha: 0.05),
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(
+                      color: Colors.red.withValues(alpha: 0.2),
+                    ),
+                  ),
+                  child: Row(
+                    children: [
+                      Expanded(
+                        child: Text(
+                          q.card.lemma,
+                          style: const TextStyle(fontWeight: FontWeight.w600),
+                        ),
+                      ),
+                      Text(
+                        q.correctAnswer,
+                        style: const TextStyle(
+                          color: Colors.green,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              const SizedBox(height: 16),
+            ],
+
             ElevatedButton(
               onPressed: _restartQuiz,
               style: ElevatedButton.styleFrom(

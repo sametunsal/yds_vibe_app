@@ -4,6 +4,7 @@ import '../core/result.dart';
 import '../models/category.dart';
 import '../repositories/card_repository.dart';
 import '../services/srs_service.dart';
+import '../services/streak_service.dart';
 import '../widgets/category_card.dart';
 import 'review_screen.dart';
 import 'profile_screen.dart';
@@ -19,6 +20,9 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   final CardRepository _repository = CardRepositoryImpl();
   Map<String, int> _counts = {};
+  int _dueCount = 0;
+  int _newCount = 0;
+  int _streakCount = 0;
   bool _isLoading = true;
 
   static const List<CategoryData> _categories = [
@@ -85,17 +89,19 @@ class _HomeScreenState extends State<HomeScreen> {
             category.key,
           ).length;
         }
+        final streak = await StreakService.getStreakCount();
         if (mounted) {
           setState(() {
             _counts = counts;
+            _dueCount = SRSService.getDueCards(cards).length;
+            _newCount = SRSService.getNewCards(cards).length;
+            _streakCount = streak;
             _isLoading = false;
           });
         }
       case Failure(message: final msg):
-        debugPrint('[HomeScreen] Error loading data: $msg');
-        if (mounted) {
-          setState(() => _isLoading = false);
-        }
+        debugPrint('[HomeScreen] Error: $msg');
+        if (mounted) setState(() => _isLoading = false);
     }
   }
 
@@ -108,6 +114,13 @@ class _HomeScreenState extends State<HomeScreen> {
           title: category.title,
         ),
       ),
+    ).then((_) => _loadData());
+  }
+
+  void _startStudy() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (context) => const ReviewScreen()),
     ).then((_) => _loadData());
   }
 
@@ -183,7 +196,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ],
           ),
           SliverToBoxAdapter(
-            child: _isLoading ? _buildLoadingState() : _buildCategoriesGrid(),
+            child: _isLoading ? _buildLoadingState() : _buildContent(),
           ),
         ],
       ),
@@ -197,8 +210,131 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  Widget _buildCategoriesGrid() {
+  Widget _buildContent() {
     final padding = context.horizontalPadding;
+
+    return ResponsiveCenter(
+      padding: EdgeInsets.all(padding),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          // Stats Bar
+          _buildStatsBar()
+              .animate()
+              .fadeIn(duration: 300.ms)
+              .slideY(begin: -0.1),
+          const SizedBox(height: 12),
+
+          // Start Study CTA
+          _buildStartStudyCta()
+              .animate(delay: 100.ms)
+              .fadeIn(duration: 400.ms)
+              .scale(begin: const Offset(0.95, 0.95)),
+          const SizedBox(height: 20),
+
+          // Categories header + grid
+          _buildCategoriesGrid(),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildStatsBar() {
+    return Row(
+      children: [
+        _buildStatChip(
+          icon: Icons.schedule,
+          label: 'Bekleyen',
+          value: '$_dueCount',
+          color: _dueCount > 0 ? Colors.orange : Colors.grey,
+        ),
+        const SizedBox(width: 8),
+        _buildStatChip(
+          icon: Icons.auto_awesome,
+          label: 'Yeni',
+          value: '$_newCount',
+          color: Colors.blue,
+        ),
+        const SizedBox(width: 8),
+        _buildStatChip(
+          icon: Icons.local_fire_department,
+          label: 'Seri',
+          value: '$_streakCount gün',
+          color: _streakCount > 0 ? Colors.deepOrange : Colors.grey,
+        ),
+      ],
+    );
+  }
+
+  Widget _buildStatChip({
+    required IconData icon,
+    required String label,
+    required String value,
+    required Color color,
+  }) {
+    return Expanded(
+      child: Container(
+        padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 8),
+        decoration: BoxDecoration(
+          color: color.withValues(alpha: 0.08),
+          borderRadius: BorderRadius.circular(12),
+          border: Border.all(color: color.withValues(alpha: 0.2)),
+        ),
+        child: Column(
+          children: [
+            Icon(icon, size: 18, color: color),
+            const SizedBox(height: 4),
+            Text(
+              value,
+              style: TextStyle(
+                fontSize: 14,
+                fontWeight: FontWeight.bold,
+                color: color,
+              ),
+            ),
+            Text(
+              label,
+              style: TextStyle(fontSize: 10, color: Colors.grey[600]),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildStartStudyCta() {
+    return SizedBox(
+      width: double.infinity,
+      height: 52,
+      child: ElevatedButton(
+        onPressed: _dueCount > 0 || _newCount > 0 ? _startStudy : null,
+        style: ElevatedButton.styleFrom(
+          backgroundColor: Colors.deepPurple,
+          foregroundColor: Colors.white,
+          disabledBackgroundColor: Colors.grey[300],
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(14),
+          ),
+          elevation: 2,
+        ),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            const Icon(Icons.play_arrow_rounded, size: 24),
+            const SizedBox(width: 8),
+            Text(
+              _dueCount > 0
+                  ? 'Çalışmaya Başla ($_dueCount bekliyor)'
+                  : 'Çalışmaya Başla',
+              style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildCategoriesGrid() {
     final headerFont = context.responsive(
       compact: 18.0,
       medium: 22.0,
@@ -220,66 +356,63 @@ class _HomeScreenState extends State<HomeScreen> {
       expanded: 20.0,
     );
 
-    return ResponsiveCenter(
-      padding: EdgeInsets.all(padding),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Text(
-            'Bugün ne çalışmak istersin?',
-            style: TextStyle(
-              fontSize: headerFont,
-              fontWeight: FontWeight.w700,
-              color: Colors.grey[800],
-              letterSpacing: -0.5,
-            ),
-          ).animate().fadeIn(duration: 400.ms).slideX(begin: -0.1),
-          const SizedBox(height: 8),
-          Text(
-            'Toplam ${_counts['all'] ?? 0} kart',
-            style: TextStyle(
-              fontSize: subFont,
-              fontWeight: FontWeight.w500,
-              color: Colors.grey[600],
-            ),
-          ).animate().fadeIn(delay: 100.ms, duration: 400.ms),
-          SizedBox(height: gridSpacing + 4),
-          GridView.builder(
-            shrinkWrap: true,
-            physics: const NeverScrollableScrollPhysics(),
-            padding: EdgeInsets.zero,
-            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-              crossAxisCount: crossAxisCount,
-              crossAxisSpacing: gridSpacing,
-              mainAxisSpacing: gridSpacing,
-              childAspectRatio: context.responsive(
-                compact: 0.95,
-                medium: 1.0,
-                expanded: 1.05,
-              ),
-            ),
-            itemCount: _categories.length,
-            itemBuilder: (context, index) {
-              final category = _categories[index];
-              final count = _counts[category.key] ?? 0;
-
-              return CategoryCard(
-                    title: category.title,
-                    icon: category.icon,
-                    count: count,
-                    color: category.color,
-                    onTap: () => _navigateToCategory(category),
-                  )
-                  .animate(delay: (index * 50).ms)
-                  .fadeIn()
-                  .scale(
-                    begin: const Offset(0.9, 0.9),
-                    curve: Curves.easeOutCubic,
-                  );
-            },
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(
+          'Kategoriler',
+          style: TextStyle(
+            fontSize: headerFont,
+            fontWeight: FontWeight.w700,
+            color: Colors.grey[800],
+            letterSpacing: -0.5,
           ),
-        ],
-      ),
+        ).animate().fadeIn(duration: 400.ms).slideX(begin: -0.1),
+        const SizedBox(height: 4),
+        Text(
+          'Toplam ${_counts['all'] ?? 0} kart',
+          style: TextStyle(
+            fontSize: subFont,
+            fontWeight: FontWeight.w500,
+            color: Colors.grey[600],
+          ),
+        ).animate().fadeIn(delay: 100.ms, duration: 400.ms),
+        SizedBox(height: gridSpacing),
+        GridView.builder(
+          shrinkWrap: true,
+          physics: const NeverScrollableScrollPhysics(),
+          padding: EdgeInsets.zero,
+          gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+            crossAxisCount: crossAxisCount,
+            crossAxisSpacing: gridSpacing,
+            mainAxisSpacing: gridSpacing,
+            childAspectRatio: context.responsive(
+              compact: 0.95,
+              medium: 1.0,
+              expanded: 1.05,
+            ),
+          ),
+          itemCount: _categories.length,
+          itemBuilder: (context, index) {
+            final category = _categories[index];
+            final count = _counts[category.key] ?? 0;
+
+            return CategoryCard(
+                  title: category.title,
+                  icon: category.icon,
+                  count: count,
+                  color: category.color,
+                  onTap: () => _navigateToCategory(category),
+                )
+                .animate(delay: (index * 50).ms)
+                .fadeIn()
+                .scale(
+                  begin: const Offset(0.9, 0.9),
+                  curve: Curves.easeOutCubic,
+                );
+          },
+        ),
+      ],
     );
   }
 }
