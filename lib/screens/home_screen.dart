@@ -12,6 +12,7 @@ import 'review_screen.dart';
 import 'profile_screen.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import '../theme/app_theme.dart';
+import '../theme/app_styles.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -23,9 +24,9 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   final CardRepository _repository = CardRepositoryImpl();
   Map<String, int> _counts = {};
-  int _dueCount = 0;
-  int _newCount = 0;
-  int _streakCount = 0;
+  int _dueCardsCount = 0;
+  int _newCardsCount = 0;
+  int _streakDaysCount = 0;
   bool _isLoading = true;
   int _totalCards = 0;
 
@@ -34,43 +35,43 @@ class _HomeScreenState extends State<HomeScreen> {
       key: 'verb',
       title: 'Fiiller',
       icon: Icons.directions_run,
-      color: Color(0xFFE53935),
+      color: ColorPalette.ratingAgain, // Red for verbs
     ),
     CategoryData(
       key: 'noun',
       title: 'İsimler',
       icon: Icons.category_rounded,
-      color: Color(0xFF1E88E5),
+      color: ColorPalette.info, // Blue for nouns
     ),
     CategoryData(
       key: 'adj',
       title: 'Sıfatlar',
       icon: Icons.auto_awesome_rounded,
-      color: Color(0xFF8E24AA),
+      color: Color(0xFF8E24AA), // Purple for adjectives
     ),
     CategoryData(
       key: 'adv',
       title: 'Zarflar',
       icon: Icons.speed_rounded,
-      color: Color(0xFF00ACC1),
+      color: ColorPalette.quizSelected, // Cyan for adverbs
     ),
     CategoryData(
       key: 'phrasal_verb',
       title: 'Phrasal Verbs',
       icon: Icons.call_merge_rounded,
-      color: Color(0xFFFF6F00),
+      color: ColorPalette.warning, // Orange for phrasal verbs
     ),
     CategoryData(
       key: 'conjunction',
       title: 'Bağlaçlar',
       icon: Icons.link_rounded,
-      color: Color(0xFF6D4C41),
+      color: Color(0xFF6D4C41), // Brown for conjunctions
     ),
     CategoryData(
       key: 'all',
       title: 'Tümü',
       icon: Icons.library_books_rounded,
-      color: Color(0xFF3949AB),
+      color: ColorPalette.deepPurple, // Deep purple for all
     ),
   ];
 
@@ -81,8 +82,6 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Future<void> _loadData() async {
-    setState(() => _isLoading = true);
-
     // Debug: force reload from assets (bypass cache)
     if (kDebugMode) CardLoader.clearCache();
 
@@ -102,18 +101,20 @@ class _HomeScreenState extends State<HomeScreen> {
           setState(() {
             _counts = counts;
             _totalCards = cards.length;
-            _dueCount = SRSService.getDueCards(cards).length;
-            _newCount = cards.where((c) => c.intervalDays == 0).length;
-            _streakCount = streak;
+            _dueCardsCount = SRSService.getDueCards(cards).length;
+            _newCardsCount = cards.where((c) => c.intervalDays == 0).length;
+            _streakDaysCount = streak;
             _isLoading = false;
           });
           debugPrint(
-            '[HomeScreen] Total: ${cards.length} | Due: $_dueCount | New(total): $_newCount',
+            '[HomeScreen] Total: ${cards.length} | Due: $_dueCardsCount | New(total): $_newCardsCount',
           );
         }
       case Failure(message: final msg):
         debugPrint('[HomeScreen] Error: $msg');
-        if (mounted) setState(() => _isLoading = false);
+        if (mounted) {
+          setState(() => _isLoading = false);
+        }
     }
   }
 
@@ -173,13 +174,13 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
               ),
               background: Container(
-                decoration: BoxDecoration(
+                decoration: const BoxDecoration(
                   gradient: LinearGradient(
                     begin: Alignment.topLeft,
                     end: Alignment.bottomRight,
                     colors: [
-                      Colors.deepPurple.shade400,
-                      Colors.deepPurple.shade700,
+                      Color(0xFF7B1FA2), // Deep purple 400
+                      Color(0xFF4A148C), // Deep purple 900
                     ],
                   ),
                 ),
@@ -275,22 +276,22 @@ class _HomeScreenState extends State<HomeScreen> {
         _buildStatChip(
           icon: Icons.schedule,
           label: 'Bekleyen',
-          value: '$_dueCount',
-          color: _dueCount > 0 ? Colors.orange : Colors.grey,
+          value: '$_dueCardsCount',
+          color: _dueCardsCount > 0 ? ColorPalette.warning : ColorPalette.textHint,
         ),
         const SizedBox(width: 8),
         _buildStatChip(
           icon: Icons.auto_awesome,
           label: 'Yeni',
-          value: '$_newCount',
-          color: Colors.blue,
+          value: '$_newCardsCount',
+          color: ColorPalette.info,
         ),
         const SizedBox(width: 8),
         _buildStatChip(
           icon: Icons.local_fire_department,
           label: 'Seri',
-          value: '$_streakCount gün',
-          color: _streakCount > 0 ? Colors.deepOrange : Colors.grey,
+          value: '$_streakDaysCount gün',
+          color: _streakDaysCount > 0 ? ColorPalette.streakActive : ColorPalette.streakInactive,
         ),
       ],
     );
@@ -309,10 +310,10 @@ class _HomeScreenState extends State<HomeScreen> {
           constraints: const BoxConstraints(
             minHeight: AppTheme.minInteractiveDimension,
           ),
-          padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 8),
+          padding: Spacing.verticalSM,
           decoration: BoxDecoration(
             color: color.withValues(alpha: 0.08),
-            borderRadius: BorderRadius.circular(12),
+            borderRadius: BorderRadiusPresets.mediumBorder,
             border: Border.all(color: color.withValues(alpha: 0.2)),
           ),
           child: Column(
@@ -331,8 +332,8 @@ class _HomeScreenState extends State<HomeScreen> {
               Text(
                 label,
                 style: TextStyle(
-                  fontSize: 12, // Fixed: was 10, now minimum readable
-                  color: Colors.grey[600],
+                  fontSize: 12,
+                  color: ColorPalette.textSecondary,
                 ),
               ),
             ],
@@ -343,17 +344,19 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _buildStartStudyCta() {
+    final hasCardsToStudy = _dueCardsCount > 0 || _newCardsCount > 0;
+
     return SizedBox(
       width: double.infinity,
       height: 52,
       child: ElevatedButton(
-        onPressed: _dueCount > 0 || _newCount > 0 ? _startStudy : null,
+        onPressed: hasCardsToStudy ? _startStudy : null,
         style: ElevatedButton.styleFrom(
-          backgroundColor: Colors.deepPurple,
+          backgroundColor: ColorPalette.deepPurple,
           foregroundColor: Colors.white,
-          disabledBackgroundColor: Colors.grey[300],
+          disabledBackgroundColor: ColorPalette.textHint,
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(14),
+            borderRadius: BorderRadiusPresets.xlargeBorder,
           ),
           elevation: 2,
         ),
@@ -363,8 +366,8 @@ class _HomeScreenState extends State<HomeScreen> {
             const Icon(Icons.play_arrow_rounded, size: 24),
             const SizedBox(width: 8),
             Text(
-              _dueCount > 0
-                  ? 'Çalışmaya Başla ($_dueCount bekliyor)'
+              hasCardsToStudy
+                  ? 'Çalışmaya Başla ($_dueCardsCount bekliyor)'
                   : 'Çalışmaya Başla',
               style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
             ),

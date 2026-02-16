@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import '../core/responsive.dart';
+import '../theme/app_styles.dart';
 
 class CategoryCard extends StatelessWidget {
   final String title;
@@ -53,7 +54,7 @@ class CategoryCard extends StatelessWidget {
 
     return InkWell(
           onTap: onTap,
-          borderRadius: BorderRadius.circular(24),
+          borderRadius: BorderRadiusPresets.xxlargeBorder,
           splashColor: color.withValues(alpha: 0.3),
           highlightColor: color.withValues(alpha: 0.2),
           child: Container(
@@ -64,15 +65,8 @@ class CategoryCard extends StatelessWidget {
                 colors: [color.withValues(alpha: 0.85), color],
                 stops: const [0.0, 1.0],
               ),
-              borderRadius: BorderRadius.circular(24),
-              boxShadow: [
-                BoxShadow(
-                  color: color.withValues(alpha: 0.4),
-                  blurRadius: 16,
-                  offset: const Offset(0, 8),
-                  spreadRadius: -4,
-                ),
-              ],
+              borderRadius: BorderRadiusPresets.xxlargeBorder,
+              boxShadow: ShadowStyles.deepPurpleCard(color),
             ),
             child: Stack(
               clipBehavior: Clip.none,
@@ -99,13 +93,7 @@ class CategoryCard extends StatelessWidget {
                           decoration: BoxDecoration(
                             color: Colors.white.withValues(alpha: 0.25),
                             shape: BoxShape.circle,
-                            boxShadow: [
-                              BoxShadow(
-                                color: Colors.white.withValues(alpha: 0.2),
-                                blurRadius: 8,
-                                spreadRadius: 2,
-                              ),
-                            ],
+                            boxShadow: ShadowStyles.subtle,
                           ),
                           child: Icon(
                             icon,
@@ -122,7 +110,7 @@ class CategoryCard extends StatelessWidget {
                         ),
                         decoration: BoxDecoration(
                           color: Colors.white.withValues(alpha: 0.25),
-                          borderRadius: BorderRadius.circular(12),
+                          borderRadius: BorderRadiusPresets.mediumBorder,
                         ),
                         child: Text(
                           count.toString(),
