@@ -150,45 +150,61 @@ class ReviewCardBack extends StatelessWidget {
                 const SizedBox(height: 20),
               ],
 
-              // Example sentence with word highlighting
+              // Example sentence with improved readability
               Container(
                 padding: EdgeInsets.all(cardPadding * 0.67),
                 decoration: BoxDecoration(
-                  color: Colors.grey[50],
+                  color: Colors.deepPurple.withValues(alpha: 0.06),
                   borderRadius: BorderRadius.circular(16),
-                  border: Border.all(color: Colors.grey.shade200),
+                  border: Border.all(
+                    color: Colors.deepPurple.withValues(alpha: 0.15),
+                    width: 1.5,
+                  ),
                 ),
                 child: Column(
                   children: [
                     SpeakingText(
                       text: card.example.text,
                       baseStyle: TextStyle(
-                        fontSize: exampleFont,
-                        fontStyle: FontStyle.italic,
-                        height: 1.5,
+                        fontSize: exampleFont + 1, // Slightly larger for better readability
+                        fontStyle: FontStyle.normal, // Removed italic for clarity
+                        height: 1.4,
+                        color: const Color(0xFF2D2D2D), // Dark grey for better contrast
+                        fontWeight: FontWeight.w500, // Medium weight for readability
                       ),
                       highlightStyle: TextStyle(
-                        fontSize: exampleFont,
-                        fontStyle: FontStyle.italic,
+                        fontSize: exampleFont + 1,
                         fontWeight: FontWeight.bold,
                         color: Colors.deepPurple,
-                        backgroundColor: Colors.amber.withValues(alpha: 0.3),
+                        backgroundColor: Colors.amber.withValues(alpha: 0.25),
                         decoration: TextDecoration.underline,
                         decorationColor: Colors.amber,
                         decorationThickness: 2,
                       ),
                       ttsService: ttsService,
+                      textAlign: TextAlign.center,
                     ),
                     if (card.example.translation != null) ...[
                       const SizedBox(height: 12),
-                      Text(
-                        card.example.translation!,
-                        style: TextStyle(
-                          fontSize: translationFont,
-                          color: Colors.grey[600],
-                          height: 1.4,
+                      Container(
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 12,
+                          vertical: 6,
                         ),
-                        textAlign: TextAlign.center,
+                        decoration: BoxDecoration(
+                          color: Colors.deepPurple.withValues(alpha: 0.08),
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        child: Text(
+                          card.example.translation!,
+                          style: TextStyle(
+                            fontSize: translationFont + 1,
+                            color: const Color(0xFF424242), // Darker grey for translation
+                            height: 1.3,
+                            fontWeight: FontWeight.w500,
+                          ),
+                          textAlign: TextAlign.center,
+                        ),
                       ),
                     ],
                     const SizedBox(height: 8),
@@ -197,7 +213,11 @@ class ReviewCardBack extends StatelessWidget {
                       icon: Icon(
                         Icons.volume_up_rounded,
                         size: 24,
-                        color: Colors.deepPurple.shade300,
+                        color: Colors.deepPurple,
+                      ),
+                      style: IconButton.styleFrom(
+                        backgroundColor: Colors.deepPurple.withValues(alpha: 0.1),
+                        padding: const EdgeInsets.all(12),
                       ),
                     ),
                   ],

@@ -22,19 +22,19 @@ class CategoryCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final cardPadding = context.responsive(
-      compact: 14.0,
-      medium: 20.0,
-      expanded: 24.0,
+      compact: 12.0,
+      medium: 18.0,
+      expanded: 20.0,
     );
     final iconSize = context.responsive(
-      compact: 24.0,
-      medium: 28.0,
-      expanded: 36.0,
+      compact: 22.0,
+      medium: 26.0,
+      expanded: 30.0,
     );
     final iconContainerPadding = context.responsive(
-      compact: 10.0,
-      medium: 12.0,
-      expanded: 14.0,
+      compact: 8.0,
+      medium: 10.0,
+      expanded: 12.0,
     );
     final bgIconSize = context.responsive(
       compact: 80.0,
@@ -42,14 +42,14 @@ class CategoryCard extends StatelessWidget {
       expanded: 120.0,
     );
     final countFont = context.responsive(
-      compact: 16.0,
-      medium: 20.0,
-      expanded: 24.0,
+      compact: 15.0,
+      medium: 18.0,
+      expanded: 22.0,
     );
     final titleFont = context.responsive(
-      compact: 14.0,
-      medium: 16.0,
-      expanded: 18.0,
+      compact: 13.0,
+      medium: 15.0,
+      expanded: 17.0,
     );
 
     return InkWell(
@@ -84,7 +84,7 @@ class CategoryCard extends StatelessWidget {
                   padding: EdgeInsets.all(cardPadding),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
-                    mainAxisSize: MainAxisSize.max,
+                    mainAxisSize: MainAxisSize.min,
                     children: [
                       FittedBox(
                         fit: BoxFit.scaleDown,
@@ -102,37 +102,43 @@ class CategoryCard extends StatelessWidget {
                           ),
                         ),
                       ),
-                      const Spacer(),
+                      const Spacer(flex: 1),
                       Container(
                         padding: const EdgeInsets.symmetric(
-                          horizontal: 10,
-                          vertical: 3,
+                          horizontal: 8,
+                          vertical: 1,
                         ),
                         decoration: BoxDecoration(
                           color: Colors.white.withValues(alpha: 0.25),
                           borderRadius: BorderRadiusPresets.mediumBorder,
                         ),
-                        child: Text(
-                          count.toString(),
-                          style: TextStyle(
-                            fontSize: countFont,
-                            fontWeight: FontWeight.w800,
-                            color: Colors.white,
-                            letterSpacing: 0.5,
+                        child: FittedBox(
+                          fit: BoxFit.scaleDown,
+                          child: Text(
+                            count.toString(),
+                            style: TextStyle(
+                              fontSize: countFont,
+                              fontWeight: FontWeight.w800,
+                              color: Colors.white,
+                              letterSpacing: 0.5,
+                            ),
                           ),
                         ),
                       ),
-                      const SizedBox(height: 4),
-                      Text(
-                        title,
-                        style: TextStyle(
-                          fontSize: titleFont,
-                          fontWeight: FontWeight.w700,
-                          color: Colors.white,
-                          letterSpacing: -0.3,
+                      const SizedBox(height: 1),
+                      FittedBox(
+                        fit: BoxFit.scaleDown,
+                        child: Text(
+                          title,
+                          style: TextStyle(
+                            fontSize: titleFont,
+                            fontWeight: FontWeight.w700,
+                            color: Colors.white,
+                            letterSpacing: -0.3,
+                          ),
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
                         ),
-                        maxLines: 1,
-                        overflow: TextOverflow.ellipsis,
                       ),
                     ],
                   ),
