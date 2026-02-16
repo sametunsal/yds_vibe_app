@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../../core/responsive.dart';
 import '../../models/card.dart' as model;
 import '../../services/tts_service.dart';
+import '../speaking_text.dart';
 
 class ReviewCardBack extends StatelessWidget {
   final model.VocabularyCard card;
@@ -65,14 +66,23 @@ class ReviewCardBack extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Text(
-                card.lemma,
-                style: TextStyle(
+              SpeakingText(
+                text: card.lemma,
+                baseStyle: TextStyle(
                   fontSize: lemmaFont,
                   fontWeight: FontWeight.w600,
                   color: Colors.grey[500],
                 ),
-                textAlign: TextAlign.center,
+                highlightStyle: TextStyle(
+                  fontSize: lemmaFont,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.deepPurple,
+                  backgroundColor: Colors.deepPurple.withValues(alpha: 0.15),
+                  decoration: TextDecoration.underline,
+                  decorationColor: Colors.deepPurple,
+                  decorationThickness: 2,
+                ),
+                ttsService: ttsService,
               ),
               const SizedBox(height: 4),
               IconButton(
@@ -140,7 +150,7 @@ class ReviewCardBack extends StatelessWidget {
                 const SizedBox(height: 20),
               ],
 
-              // Example sentence
+              // Example sentence with word highlighting
               Container(
                 padding: EdgeInsets.all(cardPadding * 0.67),
                 decoration: BoxDecoration(
@@ -150,14 +160,24 @@ class ReviewCardBack extends StatelessWidget {
                 ),
                 child: Column(
                   children: [
-                    Text(
-                      card.example.text,
-                      style: TextStyle(
+                    SpeakingText(
+                      text: card.example.text,
+                      baseStyle: TextStyle(
                         fontSize: exampleFont,
                         fontStyle: FontStyle.italic,
                         height: 1.5,
                       ),
-                      textAlign: TextAlign.center,
+                      highlightStyle: TextStyle(
+                        fontSize: exampleFont,
+                        fontStyle: FontStyle.italic,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.deepPurple,
+                        backgroundColor: Colors.amber.withValues(alpha: 0.3),
+                        decoration: TextDecoration.underline,
+                        decorationColor: Colors.amber,
+                        decorationThickness: 2,
+                      ),
+                      ttsService: ttsService,
                     ),
                     if (card.example.translation != null) ...[
                       const SizedBox(height: 12),

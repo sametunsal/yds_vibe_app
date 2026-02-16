@@ -1,9 +1,13 @@
+import 'dart:async';
 import 'package:flutter_tts/flutter_tts.dart';
+
+typedef TtsProgressCallback = void Function(String word, int index, int total);
 
 class TtsService {
   static final TtsService _instance = TtsService._internal();
   late FlutterTts _flutterTts;
   bool _isInitialized = false;
+  TtsProgressCallback? _onProgress;
 
   factory TtsService() {
     return _instance;
@@ -11,6 +15,17 @@ class TtsService {
 
   TtsService._internal() {
     _flutterTts = FlutterTts();
+    _setupProgressHandler();
+  }
+
+  void _setupProgressHandler() {
+    _flutterTts.setProgressHandler((String text, int startOffset, int endOffset, String word) {
+      _onProgress?.call(word, startOffset, text.length);
+    });
+  }
+
+  void setProgressCallback(TtsProgressCallback? callback) {
+    _onProgress = callback;
   }
 
   Future<void> _ensureInitialized() async {

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../../core/responsive.dart';
 import '../../models/card.dart' as model;
 import '../../services/tts_service.dart';
+import '../speaking_text.dart';
 
 class ReviewCardFront extends StatelessWidget {
   final model.VocabularyCard card;
@@ -52,14 +53,14 @@ class ReviewCardFront extends StatelessWidget {
               padding: EdgeInsets.symmetric(
                 horizontal: context.horizontalPadding,
               ),
-              child: Text(
-                card.lemma,
-                style: TextStyle(
+              child: SpeakingText(
+                text: card.lemma,
+                baseStyle: TextStyle(
                   fontSize: lemmaFont,
                   fontWeight: FontWeight.bold,
                   letterSpacing: 0.5,
                 ),
-                textAlign: TextAlign.center,
+                ttsService: ttsService,
               ),
             ),
             const SizedBox(height: 16),
