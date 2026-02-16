@@ -13,6 +13,8 @@ import '../widgets/review/review_card_back.dart';
 import '../widgets/review/rating_buttons.dart';
 import '../widgets/review/review_stats_bar.dart';
 import '../widgets/review/empty_review_state.dart';
+import '../widgets/review/swipeable_card.dart';
+import '../widgets/review/swipe_instruction_hint.dart' as hint;
 
 class ReviewScreen extends StatefulWidget {
   final String category;
@@ -131,7 +133,7 @@ class _ReviewScreenState extends State<ReviewScreen>
                 Switch(
                   value: _controller.reviewOnlyMode,
                   onChanged: _toggleReviewMode,
-                  activeColor: Colors.white,
+                  activeThumbColor: Colors.white,
                   activeTrackColor: Colors.deepPurple.shade200,
                 ),
               ],
@@ -220,46 +222,22 @@ class _ReviewScreenState extends State<ReviewScreen>
             ).animate().fadeIn(duration: 300.ms).slideX(begin: -0.1),
             const SizedBox(height: 16),
 
-            // Flip Card
+            // Flip Card with Swipe Support
             Expanded(
-              child:
-                  GestureDetector(
-                        onTap: _flipCard,
-                        child: AnimatedBuilder(
-                          animation: _flipAnimation,
-                          builder: (context, child) {
-                            final angle = _flipAnimation.value * pi;
-                            final isFront = angle < pi / 2;
-
-                            return Transform(
-                              alignment: Alignment.center,
-                              transform: Matrix4.identity()
-                                ..setEntry(3, 2, 0.0015)
-                                ..rotateY(angle),
-                              child: isFront
-                                  ? ReviewCardFront(
-                                      card: card,
-                                      ttsService: _ttsService,
-                                    )
-                                  : Transform(
-                                      alignment: Alignment.center,
-                                      transform: Matrix4.identity()
-                                        ..rotateY(pi),
-                                      child: ReviewCardBack(
-                                        card: card,
-                                        ttsService: _ttsService,
-                                      ),
-                                    ),
-                            );
-                          },
-                        ),
-                      )
-                      .animate(key: _cardKey)
-                      .fadeIn(duration: 400.ms)
-                      .scale(
-                        begin: const Offset(0.9, 0.9),
-                        curve: Curves.easeOutBack,
-                      ),
+              child: SwipeableCard(
+                frontChild: _buildFrontCard(card),
+                backChild: _buildBackCard(card),
+                isFlipped: _controller.isFlipped,
+                onFlip: _controller.isFlipped ? null : _flipCard,
+                onSwipeLeft: () => _submitRating(model.Rating.again),
+                onSwipeRight: () => _submitRating(model.Rating.easy),
+              )
+                  .animate(key: _cardKey)
+                  .fadeIn(duration: 400.ms)
+                  .scale(
+                    begin: const Offset(0.9, 0.9),
+                    curve: Curves.easeOutBack,
+                  ),
             ),
 
             const SizedBox(height: 16),
@@ -269,35 +247,68 @@ class _ReviewScreenState extends State<ReviewScreen>
                 onRating: _submitRating,
               ).animate().fadeIn(delay: 100.ms).slideY(begin: 0.2)
             else
-              _buildTapHint().animate().fadeIn().shimmer(
-                delay: 1000.ms,
-                duration: 1500.ms,
-                color: Colors.deepPurple.withValues(alpha: 0.3),
-              ),
+              const hint.SwipeInstructionHint()
+                  .animate()
+                  .fadeIn()
+                  .then()
+                  .shimmer(
+                    delay: 1000.ms,
+                    duration: 1500.ms,
+                    color: Colors.deepPurple.withValues(alpha: 0.3),
+                  ),
           ],
         ),
       ),
     );
   }
 
-  Widget _buildTapHint() {
-    return Container(
-      padding: const EdgeInsets.symmetric(vertical: 16),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Icon(Icons.swipe, size: 20, color: Colors.grey[400]),
-          const SizedBox(width: 8),
-          Text(
-            'Cevabı görmek için karta dokun',
-            style: TextStyle(
-              fontSize: 14,
-              color: Colors.grey[500],
-              fontStyle: FontStyle.italic,
-            ),
-          ),
-        ],
-      ),
+  Widget _buildFrontCard(model.VocabularyCard card) {
+    return AnimatedBuilder(
+      animation: _flipAnimation,
+      builder: (context, child) {
+        final angle = _flipAnimation.value * pi;
+        final isFront = angle < pi / 2;
+
+        return Transform(
+          alignment: Alignment.center,
+          transform: Matrix4.identity()
+            ..setEntry(3, 2, 0.0015)
+            ..rotateY(angle),
+          child: isFront
+              ? ReviewCardFront(
+                  card: card,
+                  ttsService: _ttsService,
+                )
+              : const SizedBox.shrink(),
+        );
+      },
+    );
+  }
+
+  Widget _buildBackCard(model.VocabularyCard card) {
+    return AnimatedBuilder(
+      animation: _flipAnimation,
+      builder: (context, child) {
+        final angle = _flipAnimation.value * pi;
+        final isBack = angle >= pi / 2;
+
+        return Transform(
+          alignment: Alignment.center,
+          transform: Matrix4.identity()
+            ..setEntry(3, 2, 0.0015)
+            ..rotateY(angle),
+          child: isBack
+              ? Transform(
+                  alignment: Alignment.center,
+                  transform: Matrix4.identity()..rotateY(pi),
+                  child: ReviewCardBack(
+                    card: card,
+                    ttsService: _ttsService,
+                  ),
+                )
+              : const SizedBox.shrink(),
+        );
+      },
     );
   }
 }
