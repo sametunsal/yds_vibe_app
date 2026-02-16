@@ -11,6 +11,7 @@ import '../widgets/category_card.dart';
 import 'review_screen.dart';
 import 'profile_screen.dart';
 import 'package:flutter_animate/flutter_animate.dart';
+import '../theme/app_theme.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -203,6 +204,10 @@ class _HomeScreenState extends State<HomeScreen> {
                   );
                 },
                 tooltip: 'Profil',
+                style: IconButton.styleFrom(
+                  minimumSize: const Size(AppTheme.minInteractiveDimension, AppTheme.minInteractiveDimension),
+                  padding: const EdgeInsets.all(12),
+                ),
               ),
             ],
           ),
@@ -242,7 +247,7 @@ class _HomeScreenState extends State<HomeScreen> {
               child: Text(
                 'Total cards: $_totalCards',
                 style: TextStyle(
-                  fontSize: 11,
+                  fontSize: 12, // Fixed: was 11, now minimum readable
                   color: Colors.amber.shade300,
                   fontWeight: FontWeight.w600,
                 ),
@@ -298,30 +303,40 @@ class _HomeScreenState extends State<HomeScreen> {
     required Color color,
   }) {
     return Expanded(
-      child: Container(
-        padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 8),
-        decoration: BoxDecoration(
-          color: color.withValues(alpha: 0.08),
-          borderRadius: BorderRadius.circular(12),
-          border: Border.all(color: color.withValues(alpha: 0.2)),
-        ),
-        child: Column(
-          children: [
-            Icon(icon, size: 18, color: color),
-            const SizedBox(height: 4),
-            Text(
-              value,
-              style: TextStyle(
-                fontSize: 14,
-                fontWeight: FontWeight.bold,
-                color: color,
+      child: InkWell(
+        onTap: null, // Stat chips are display-only but need proper touch target
+        child: Container(
+          constraints: const BoxConstraints(
+            minHeight: AppTheme.minInteractiveDimension,
+          ),
+          padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 8),
+          decoration: BoxDecoration(
+            color: color.withValues(alpha: 0.08),
+            borderRadius: BorderRadius.circular(12),
+            border: Border.all(color: color.withValues(alpha: 0.2)),
+          ),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Icon(icon, size: 18, color: color),
+              const SizedBox(height: 4),
+              Text(
+                value,
+                style: TextStyle(
+                  fontSize: 14,
+                  fontWeight: FontWeight.bold,
+                  color: color,
+                ),
               ),
-            ),
-            Text(
-              label,
-              style: TextStyle(fontSize: 10, color: Colors.grey[600]),
-            ),
-          ],
+              Text(
+                label,
+                style: TextStyle(
+                  fontSize: 12, // Fixed: was 10, now minimum readable
+                  color: Colors.grey[600],
+                ),
+              ),
+            ],
+          ),
         ),
       ),
     );

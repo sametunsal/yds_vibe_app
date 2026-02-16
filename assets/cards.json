@@ -1615,5 +1615,6304 @@
     "dueDate": "2026-02-09T14:17:57.610469",
     "repetitions": 0,
     "lastReviewed": null
+  },
+  {
+    "id": "conj_001",
+    "lemma": "after all",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "her şeye rağmen, ne de olsa"
+    ],
+    "synonyms": [
+      "nevertheless",
+      "despite everything"
+    ],
+    "example": {
+      "text": "Don't blame him; after all, he is just a child.",
+      "translation": "Onu suçlama; ne de olsa o sadece bir çocuk."
+    },
+    "cloze": {
+      "template": "Don't blame him; {{cloze}}, he is just a child.",
+      "answer": "after all"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_002",
+    "lemma": "as a result",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "sonuç olarak"
+    ],
+    "synonyms": [
+      "consequently",
+      "therefore"
+    ],
+    "example": {
+      "text": "It rained heavily; as a result, the match was cancelled.",
+      "translation": "Şiddetli yağmur yağdı; sonuç olarak maç iptal edildi."
+    },
+    "cloze": {
+      "template": "It rained heavily; {{cloze}}, the match was cancelled.",
+      "answer": "as a result"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_003",
+    "lemma": "as long as",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "olduğu sürece"
+    ],
+    "synonyms": [
+      "provided that",
+      "on condition that"
+    ],
+    "example": {
+      "text": "You can stay as long as you follow the rules.",
+      "translation": "Kurallara uyduğu sürece kalabilirsin."
+    },
+    "cloze": {
+      "template": "You can stay {{cloze}} you follow the rules.",
+      "answer": "as long as"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_004",
+    "lemma": "as soon as",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "... ... antmadan"
+    ],
+    "synonyms": [
+      "immediately when",
+      "once"
+    ],
+    "example": {
+      "text": "Call me as soon as you arrive at the hotel.",
+      "translation": "Otele vardığın anda beni ara."
+    },
+    "cloze": {
+      "template": "Call me {{cloze}} you arrive at the hotel.",
+      "answer": "as soon as"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_005",
+    "lemma": "as though",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "sanki, -mış gibi"
+    ],
+    "synonyms": [
+      "as if",
+      "seeming like"
+    ],
+    "example": {
+      "text": "He acted as though nothing had happened.",
+      "translation": "Hiçbir şey olmamış gibi davrandı."
+    },
+    "cloze": {
+      "template": "He acted {{cloze}} nothing had happened.",
+      "answer": "as though"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_006",
+    "lemma": "assuming that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "farz edelim ki"
+    ],
+    "synonyms": [
+      "supposing that",
+      "if"
+    ],
+    "example": {
+      "text": "Assuming that the weather is good, we'll have a picnic.",
+      "translation": "Hava iyi olduğunu varsayarsak, piknik yapacağız."
+    },
+    "cloze": {
+      "template": "Assuming {{cloze}} the weather is good, we'll have a picnic.",
+      "answer": "assuming that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_007",
+    "lemma": "at the same time",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "aynı zamanda"
+    ],
+    "synonyms": [
+      "simultaneously",
+      "meanwhile"
+    ],
+    "example": {
+      "text": "The book is entertaining; at the same time, it is educational.",
+      "translation": "Kitap eğlenceli; aynı zamanda eğitici."
+    },
+    "cloze": {
+      "template": "The book is entertaining; {{cloze}}, it is educational.",
+      "answer": "at the same time"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_008",
+    "lemma": "because of",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "dığı için"
+    ],
+    "synonyms": [
+      "due to",
+      "owing to"
+    ],
+    "example": {
+      "text": "We canceled the trip because of the bad weather.",
+      "translation": "Kötü hava nedeniyle seyahati iptal ettik."
+    },
+    "cloze": {
+      "template": "We canceled the trip {{cloze}} the bad weather.",
+      "answer": "because of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_009",
+    "lemma": "before",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "önce"
+    ],
+    "synonyms": [
+      "until",
+      "by the time"
+    ],
+    "example": {
+      "text": "Finish your homework before you go out to play.",
+      "translation": "Dışarı çıkmadan önce ödevini bitir."
+    },
+    "cloze": {
+      "template": "Finish your homework {{cloze}} you go out to play.",
+      "answer": "before"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_010",
+    "lemma": "both... and",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "hem ... hem de"
+    ],
+    "synonyms": [
+      "as well as",
+      "and also"
+    ],
+    "example": {
+      "text": "She speaks both English and French fluently.",
+      "translation": "Hem İngilizce hem de Fransızca'yı akıcı konuşur."
+    },
+    "cloze": {
+      "template": "She speaks both English {{cloze}} French fluently.",
+      "answer": "both... and"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_011",
+    "lemma": "but rather",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "bilakis, aksine"
+    ],
+    "synonyms": [
+      "instead",
+      "on the contrary"
+    ],
+    "example": {
+      "text": "He is not sad but rather relieved that it's over.",
+      "translation": "O üzgün değil, aksine bittiği için rahatlamış."
+    },
+    "cloze": {
+      "template": "He is not sad {{cloze}} relieved that it's over.",
+      "answer": "but rather"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_012",
+    "lemma": "by the time",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "olduğunda"
+    ],
+    "synonyms": [
+      "when",
+      "at the time that"
+    ],
+    "example": {
+      "text": "By the time we arrived, the party had ended.",
+      "translation": "Varacağımızda parti sona ermişti."
+    },
+    "cloze": {
+      "template": "By {{cloze}} time we arrived, the party had ended.",
+      "answer": "by the time"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_013",
+    "lemma": "even though",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "rağmen"
+    ],
+    "synonyms": [
+      "although",
+      "despite the fact that"
+    ],
+    "example": {
+      "text": "Even though it was raining, we went for a walk.",
+      "translation": "Yağmur yağmasına rağmen yürüyüşe çıktık."
+    },
+    "cloze": {
+      "template": "Even {{cloze}} it was raining, we went for a walk.",
+      "answer": "even though"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_014",
+    "lemma": "except that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "dışında"
+    ],
+    "synonyms": [
+      "but",
+      "only"
+    ],
+    "example": {
+      "text": "I would go except that I have no money.",
+      "translation": "Param olmadığı dışına giderdim."
+    },
+    "cloze": {
+      "template": "I would go {{cloze}} I have no money.",
+      "answer": "except that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_015",
+    "lemma": "far from",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "uzak, hiç de - değil"
+    ],
+    "synonyms": [
+      "anything but",
+      "not at all"
+    ],
+    "example": {
+      "text": "Far from being angry, she was actually amused.",
+      "translation": "O kızgın değil, aksine eğlenmişti."
+    },
+    "cloze": {
+      "template": "Far {{cloze}} being angry, she was actually amused.",
+      "answer": "far from"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_016",
+    "lemma": "for fear that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "den korkusuyla"
+    ],
+    "synonyms": [
+      "lest",
+      "in case"
+    ],
+    "example": {
+      "text": "She spoke quietly for fear that someone might hear.",
+      "translation": "Biri duyabilir korkusuyla sessizce konuştu."
+    },
+    "cloze": {
+      "template": "She spoke quietly {{cloze}} someone might hear.",
+      "answer": "for fear that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_017",
+    "lemma": "for the sake of",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "dan ötürü, -in hatırına"
+    ],
+    "synonyms": [
+      "for the benefit of",
+      "in honor of"
+    ],
+    "example": {
+      "text": "For the sake of our friendship, let's forget this argument.",
+      "translation": "Dostluğumuzun hatırına, bu tartışmayı unutalım."
+    },
+    "cloze": {
+      "template": "For the sake of our friendship, let's {{cloze}}get this argument.",
+      "answer": "for the sake of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_018",
+    "lemma": "given that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "dığı göz önüne alındığında"
+    ],
+    "synonyms": [
+      "considering that",
+      "since"
+    ],
+    "example": {
+      "text": "Given that he's young, he has a promising future ahead.",
+      "translation": "O genç olduğu göz önüne alındığında, önünde parlak bir gelecek var."
+    },
+    "cloze": {
+      "template": "Given {{cloze}} he's young, he has a promising future ahead.",
+      "answer": "given that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_019",
+    "lemma": "granting that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "kabul edelim ki"
+    ],
+    "synonyms": [
+      "even if",
+      "assuming"
+    ],
+    "example": {
+      "text": "Granting that you are right, we still need more evidence.",
+      "translation": "Haklı olduğunu kabul edelim, yine de daha fazla kanıta ihtiyacımız var."
+    },
+    "cloze": {
+      "template": "Granting {{cloze}} you are right, we still need more evidence.",
+      "answer": "granting that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_020",
+    "lemma": "if only",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "keşke"
+    ],
+    "synonyms": [
+      "I wish that",
+      "hopefully"
+    ],
+    "example": {
+      "text": "If only I had known about the traffic, I would have left earlier.",
+      "translation": "Keşke trafiği bilseydim, daha erken çıkarardım."
+    },
+    "cloze": {
+      "template": "If {{cloze}} I had known about the traffic, I would have left earlier.",
+      "answer": "if only"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_021",
+    "lemma": "in case",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "durumunda"
+    ],
+    "synonyms": [
+      "in the event that",
+      "if"
+    ],
+    "example": {
+      "text": "Take an umbrella in case it rains.",
+      "translation": "Yağmur yağma ihtimaline karşı şemsiye al."
+    },
+    "cloze": {
+      "template": "Take an umbrella {{cloze}} it rains.",
+      "answer": "in case"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_022",
+    "lemma": "in order that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "olsun diye"
+    ],
+    "synonyms": [
+      "so that",
+      "in order to"
+    ],
+    "example": {
+      "text": "He left early in order that he might catch the train.",
+      "translation": "Treni yakalayabilsin diye erken çıktı."
+    },
+    "cloze": {
+      "template": "He left early {{cloze}} he might catch the train.",
+      "answer": "in order that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_023",
+    "lemma": "in the event that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "durumunda"
+    ],
+    "synonyms": [
+      "in case",
+      "should"
+    ],
+    "example": {
+      "text": "In the event that the fire alarm rings, leave the building.",
+      "translation": "Yangın alarmı çalarsa binayı terk et."
+    },
+    "cloze": {
+      "template": "In the event that the fire alarm r{{cloze}}gs, leave the building.",
+      "answer": "in the event that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_024",
+    "lemma": "just as",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "tam ... iken"
+    ],
+    "synonyms": [
+      "just as",
+      "exactly when"
+    ],
+    "example": {
+      "text": "Just as I was leaving, the phone rang.",
+      "translation": "Tam çıkıyordum ki telefon çaldı."
+    },
+    "cloze": {
+      "template": "Just {{cloze}} I was leaving, the phone rang.",
+      "answer": "just as"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_025",
+    "lemma": "lest",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "den korkusuyla, -mesin diye"
+    ],
+    "synonyms": [
+      "for fear that",
+      "in order to avoid"
+    ],
+    "example": {
+      "text": "He whispered lest anyone should hear.",
+      "translation": "Biri duymasın diye fısıldadı."
+    },
+    "cloze": {
+      "template": "He whispered {{cloze}} anyone should hear.",
+      "answer": "lest"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_026",
+    "lemma": "no matter",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "fark etmez"
+    ],
+    "synonyms": [
+      "regardless of",
+      "whatever"
+    ],
+    "example": {
+      "text": "No matter how hard you try, you can't please everyone.",
+      "translation": "Ne kadar çok çalışırsan çalış, herkesi memnun edemezsin."
+    },
+    "cloze": {
+      "template": "No {{cloze}} how hard you try, you can't please everyone.",
+      "answer": "no matter"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_027",
+    "lemma": "now that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "şimdi ki"
+    ],
+    "synonyms": [
+      "since",
+      "given that"
+    ],
+    "example": {
+      "text": "Now that you're here, we can start the meeting.",
+      "translation": "Şimdi burada olduğuna göre toplantıya başlayabiliriz."
+    },
+    "cloze": {
+      "template": "Now {{cloze}} you're here, we can start the meeting.",
+      "answer": "now that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_028",
+    "lemma": "on condition that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "şartıyla"
+    ],
+    "synonyms": [
+      "provided that",
+      "if"
+    ],
+    "example": {
+      "text": "You may borrow the car on condition that you return it by midnight.",
+      "translation": "Gece yarısına kadar geri getirmek şartıyla arabayı ödünç alabilirsin."
+    },
+    "cloze": {
+      "template": "You may borrow the car {{cloze}} you return it by midnight.",
+      "answer": "on condition that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_029",
+    "lemma": "once",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "bir kez ... dığında"
+    ],
+    "synonyms": [
+      "as soon as",
+      "when"
+    ],
+    "example": {
+      "text": "Once you understand the concept, it becomes easy.",
+      "translation": "Kavramı bir kez anladığında, kolaylaşır."
+    },
+    "cloze": {
+      "template": "Once you understand the c{{cloze}}pt, it becomes easy.",
+      "answer": "once"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_030",
+    "lemma": "only if",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "sadece ... ise"
+    ],
+    "synonyms": [
+      "only when",
+      "on condition that"
+    ],
+    "example": {
+      "text": "I will help you only if you promise to study hard.",
+      "translation": "Sadece sıkı çalışacağına söz verirsen sana yardım edeceğim."
+    },
+    "cloze": {
+      "template": "I will help you {{cloze}} you promise to study hard.",
+      "answer": "only if"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_031",
+    "lemma": "or else",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "yoksa"
+    ],
+    "synonyms": [
+      "otherwise",
+      "or"
+    ],
+    "example": {
+      "text": "Hurry up, or else we'll be late.",
+      "translation": "Acele et, yoksa geç kalacağız."
+    },
+    "cloze": {
+      "template": "Hurry up, {{cloze}} we'll be late.",
+      "answer": "or else"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_032",
+    "lemma": "provided that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "şartıyla"
+    ],
+    "synonyms": [
+      "on condition that",
+      "if"
+    ],
+    "example": {
+      "text": "You can go provided that you finish your homework.",
+      "translation": "Ödevini bitirmek şartıyla gidebilirsin."
+    },
+    "cloze": {
+      "template": "You can go {{cloze}} you finish your homework.",
+      "answer": "provided that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_033",
+    "lemma": "seeing that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "dığı için"
+    ],
+    "synonyms": [
+      "considering that",
+      "since"
+    ],
+    "example": {
+      "text": "Seeing that it's late, we should go home.",
+      "translation": "Geç olduğu için eve gitmeliyiz."
+    },
+    "cloze": {
+      "template": "Seeing {{cloze}} it's late, we should go home.",
+      "answer": "seeing that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_034",
+    "lemma": "so that",
+    "pos": "conjunction",
+    "multiWord": true,
+    "meanings": [
+      "olsun diye"
+    ],
+    "synonyms": [
+      "in order that",
+      "in order to"
+    ],
+    "example": {
+      "text": "I studied hard so that I could pass the exam.",
+      "translation": "Sınavı geçebileyim diye çok çalıştım."
+    },
+    "cloze": {
+      "template": "I studied hard {{cloze}} I could pass the exam.",
+      "answer": "so that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_035",
+    "lemma": "supposing",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "farz edelim ki"
+    ],
+    "synonyms": [
+      "assuming that",
+      "if"
+    ],
+    "example": {
+      "text": "Supposing you lost your job, what would you do?",
+      "translation": "İşini kaybetseydin ne yapardın?"
+    },
+    "cloze": {
+      "template": "Supposing you lost your job, what would you do?",
+      "answer": "supposing"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_036",
+    "lemma": "than",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "den"
+    ],
+    "synonyms": [
+      "compared to"
+    ],
+    "example": {
+      "text": "She is taller than her brother.",
+      "translation": "O kardeşinden daha uzun."
+    },
+    "cloze": {
+      "template": "She is taller {{cloze}} her brother.",
+      "answer": "than"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_037",
+    "lemma": "that",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "ki"
+    ],
+    "synonyms": [
+      "which",
+      "who"
+    ],
+    "example": {
+      "text": "The book that I read was very interesting.",
+      "translation": "Okuduğum kitap çok ilginçti."
+    },
+    "cloze": {
+      "template": "The book {{cloze}} I read was very interesting.",
+      "answer": "that"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_038",
+    "lemma": "though",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "rağmen"
+    ],
+    "synonyms": [
+      "although",
+      "however"
+    ],
+    "example": {
+      "text": "Though he is young, he is very wise.",
+      "translation": "Genç olmasına rağmen çok bilge."
+    },
+    "cloze": {
+      "template": "Though he is young, he is very wise.",
+      "answer": "though"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_039",
+    "lemma": "till",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "kadar"
+    ],
+    "synonyms": [
+      "until"
+    ],
+    "example": {
+      "text": "Wait here till I come back.",
+      "translation": "Gelene kadar burada bekle."
+    },
+    "cloze": {
+      "template": "Wait here {{cloze}} I come back.",
+      "answer": "till"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_040",
+    "lemma": "unless",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "medikçe"
+    ],
+    "synonyms": [
+      "if not",
+      "except if"
+    ],
+    "example": {
+      "text": "You won't succeed unless you work hard.",
+      "translation": "Sıkı çalışmazsan başarılı olamazsın."
+    },
+    "cloze": {
+      "template": "You won't succeed {{cloze}} you work hard.",
+      "answer": "unless"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_041",
+    "lemma": "until",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "kadar"
+    ],
+    "synonyms": [
+      "till",
+      "up to the time"
+    ],
+    "example": {
+      "text": "Keep going until you reach the finish line.",
+      "translation": "Bitiş çizgisine kadar gitmeye devam et."
+    },
+    "cloze": {
+      "template": "Keep going {{cloze}} you reach the finish line.",
+      "answer": "until"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_042",
+    "lemma": "when",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "ken/dığında"
+    ],
+    "synonyms": [
+      "at the time that",
+      "while"
+    ],
+    "example": {
+      "text": "I was cooking when he arrived.",
+      "translation": "O geldiğinde yemek yapıyordum."
+    },
+    "cloze": {
+      "template": "I was cooking {{cloze}} he arrived.",
+      "answer": "when"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_043",
+    "lemma": "whenever",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "her zaman"
+    ],
+    "synonyms": [
+      "every time that",
+      "no matter when"
+    ],
+    "example": {
+      "text": "Whenever I visit, she bakes cookies.",
+      "translation": "Her ziyaret ettiğimde kurabiye yapar."
+    },
+    "cloze": {
+      "template": "Whenever I visit, she bakes cookies.",
+      "answer": "whenever"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_044",
+    "lemma": "where",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "nerede"
+    ],
+    "synonyms": [
+      "in which",
+      "at which"
+    ],
+    "example": {
+      "text": "This is the cafe where we first met.",
+      "translation": "Tanıştığımız kafe bu."
+    },
+    "cloze": {
+      "template": "This is the cafe {{cloze}} we first met.",
+      "answer": "where"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_045",
+    "lemma": "whereas",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "oysa, halbuki"
+    ],
+    "synonyms": [
+      "while",
+      "on the contrary"
+    ],
+    "example": {
+      "text": "He loves sports whereas his brother prefers reading.",
+      "translation": "O sporu sever, oysa kardeşi kitap okumayı tercih eder."
+    },
+    "cloze": {
+      "template": "He loves sports {{cloze}} his brother prefers reading.",
+      "answer": "whereas"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_046",
+    "lemma": "whether",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "olup olmadığı"
+    ],
+    "synonyms": [
+      "if",
+      "either"
+    ],
+    "example": {
+      "text": "I don't know whether he will come.",
+      "translation": "Onun gelip gelmeyeceğini bilmiyorum."
+    },
+    "cloze": {
+      "template": "I don't know {{cloze}} he will come.",
+      "answer": "whether"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "conj_047",
+    "lemma": "while",
+    "pos": "conjunction",
+    "multiWord": false,
+    "meanings": [
+      "iken"
+    ],
+    "synonyms": [
+      "whereas",
+      "during the time that"
+    ],
+    "example": {
+      "text": "While I was working, he was sleeping.",
+      "translation": "Ben çalışırken o uyuyordu."
+    },
+    "cloze": {
+      "template": "While I was working, he was sleeping.",
+      "answer": "while"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_001",
+    "lemma": "a bit",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "biraz"
+    ],
+    "synonyms": [
+      "a little",
+      "slightly"
+    ],
+    "example": {
+      "text": "I'm a bit tired today.",
+      "translation": "Bugün biraz yorgunum."
+    },
+    "cloze": {
+      "template": "I'm {{cloze}} tired today.",
+      "answer": "a bit"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_002",
+    "lemma": "a couple of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "birkaç"
+    ],
+    "synonyms": [
+      "a few",
+      "two or three"
+    ],
+    "example": {
+      "text": "I'll be there in a couple of minutes.",
+      "translation": "Birkaç dakika içinde orada olacağım."
+    },
+    "cloze": {
+      "template": "I'll be there in {{cloze}} minutes.",
+      "answer": "a couple of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_003",
+    "lemma": "a great deal of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "çok miktarda"
+    ],
+    "synonyms": [
+      "a lot of",
+      "much"
+    ],
+    "example": {
+      "text": "We have a great deal of work to do.",
+      "translation": "Yapacak çok işimiz var."
+    },
+    "cloze": {
+      "template": "We have {{cloze}} work to do.",
+      "answer": "a great deal of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_004",
+    "lemma": "a lot of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "çok"
+    ],
+    "synonyms": [
+      "many",
+      "much"
+    ],
+    "example": {
+      "text": "There are a lot of people waiting.",
+      "translation": "Bekleyen çok insan var."
+    },
+    "cloze": {
+      "template": "There are {{cloze}} people waiting.",
+      "answer": "a lot of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_005",
+    "lemma": "according to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "göre"
+    ],
+    "synonyms": [
+      "as stated by",
+      "in accordance with"
+    ],
+    "example": {
+      "text": "According to the news, it will rain tomorrow.",
+      "translation": "Haberlere göre yarın yağmur yağacak."
+    },
+    "cloze": {
+      "template": "According {{cloze}} the news, it will rain tomorrow.",
+      "answer": "according to"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_006",
+    "lemma": "ahead of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "önünde"
+    ],
+    "synonyms": [
+      "before",
+      "in front of"
+    ],
+    "example": {
+      "text": "He finished ahead of schedule.",
+      "translation": "Programdan önce bitirdi."
+    },
+    "cloze": {
+      "template": "He finished {{cloze}} schedule.",
+      "answer": "ahead of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_007",
+    "lemma": "all of a sudden",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "ani bir şekilde"
+    ],
+    "synonyms": [
+      "suddenly",
+      "unexpectedly"
+    ],
+    "example": {
+      "text": "All of a sudden, the lights went out.",
+      "translation": "Birdenbire ışıklar söndü."
+    },
+    "cloze": {
+      "template": "All {{cloze}} a sudden, the lights went out.",
+      "answer": "all of a sudden"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_008",
+    "lemma": "all right",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "tamam"
+    ],
+    "synonyms": [
+      "okay",
+      "alright"
+    ],
+    "example": {
+      "text": "Is everything all right?",
+      "translation": "Her şey tamam mı?"
+    },
+    "cloze": {
+      "template": "Is everything {{cloze}}?",
+      "answer": "all right"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_009",
+    "lemma": "as for",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "geldiginde"
+    ],
+    "synonyms": [
+      "regarding",
+      "concerning"
+    ],
+    "example": {
+      "text": "As for me, I'll stay here.",
+      "translation": "Ben gelince, burada kalacağım."
+    },
+    "cloze": {
+      "template": "As {{cloze}} me, I'll stay here.",
+      "answer": "as for"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_010",
+    "lemma": "as well",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "de, ayrıca"
+    ],
+    "synonyms": [
+      "also",
+      "too"
+    ],
+    "example": {
+      "text": "She speaks French and Spanish as well.",
+      "translation": "O Fransızca ve İspanyolca da konuşuyor."
+    },
+    "cloze": {
+      "template": "She speaks French and Spanish {{cloze}}.",
+      "answer": "as well"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_011",
+    "lemma": "as well as",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "hem ... hem de"
+    ],
+    "synonyms": [
+      "and also",
+      "in addition to"
+    ],
+    "example": {
+      "text": "She plays the piano as well as the guitar.",
+      "translation": "Hem piyano hem gitar çalıyor."
+    },
+    "cloze": {
+      "template": "She plays the piano {{cloze}} the guitar.",
+      "answer": "as well as"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_012",
+    "lemma": "at first",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "başlangıçta"
+    ],
+    "synonyms": [
+      "initially",
+      "in the beginning"
+    ],
+    "example": {
+      "text": "At first, I didn't like him.",
+      "translation": "Başlangıçta onu sevmedim."
+    },
+    "cloze": {
+      "template": "At {{cloze}}, I didn't like him.",
+      "answer": "at first"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_013",
+    "lemma": "at last",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "sonunda"
+    ],
+    "synonyms": [
+      "finally",
+      "eventually"
+    ],
+    "example": {
+      "text": "We arrived at last.",
+      "translation": "Sonunda vardık."
+    },
+    "cloze": {
+      "template": "We arrived {{cloze}}.",
+      "answer": "at last"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_014",
+    "lemma": "at least",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "en azından"
+    ],
+    "synonyms": [
+      "minimum",
+      "no less than"
+    ],
+    "example": {
+      "text": "It will take at least two hours.",
+      "translation": "En az iki saat sürecek."
+    },
+    "cloze": {
+      "template": "It will take {{cloze}} two hours.",
+      "answer": "at least"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_015",
+    "lemma": "at once",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "hemen"
+    ],
+    "synonyms": [
+      "immediately",
+      "right away"
+    ],
+    "example": {
+      "text": "Come here at once!",
+      "translation": "Buraya hemen gel!"
+    },
+    "cloze": {
+      "template": "Come here {{cloze}}!",
+      "answer": "at once"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_016",
+    "lemma": "at present",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "şu anda"
+    ],
+    "synonyms": [
+      "currently",
+      "now"
+    ],
+    "example": {
+      "text": "I'm busy at present.",
+      "translation": "Şu anda meşgulüm."
+    },
+    "cloze": {
+      "template": "I'm busy {{cloze}}.",
+      "answer": "at present"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_017",
+    "lemma": "at the moment",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "şu anda"
+    ],
+    "synonyms": [
+      "right now",
+      "currently"
+    ],
+    "example": {
+      "text": "I'm not at the moment.",
+      "translation": "Şu anda yokum."
+    },
+    "cloze": {
+      "template": "I'm not {{cloze}}.",
+      "answer": "at the moment"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_018",
+    "lemma": "back and forth",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "ileri geri"
+    ],
+    "synonyms": [
+      "to and fro"
+    ],
+    "example": {
+      "text": "The pendulum swings back and forth.",
+      "translation": "Sarkaç ileri geri sallanır."
+    },
+    "cloze": {
+      "template": "The pendulum swings {{cloze}}.",
+      "answer": "back and forth"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_019",
+    "lemma": "because of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "dığı için"
+    ],
+    "synonyms": [
+      "due to",
+      "owing to"
+    ],
+    "example": {
+      "text": "We cancelled because of the rain.",
+      "translation": "Yağmur nedeniyle iptal ettik."
+    },
+    "cloze": {
+      "template": "We cancelled {{cloze}} the rain.",
+      "answer": "because of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_020",
+    "lemma": "by far",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "büyük ölçüde"
+    ],
+    "synonyms": [
+      "by a great amount"
+    ],
+    "example": {
+      "text": "This is by far the best option.",
+      "translation": "Bu büyük ölçüde en iyi seçenek."
+    },
+    "cloze": {
+      "template": "This is {{cloze}} the best option.",
+      "answer": "by far"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_021",
+    "lemma": "by means of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "yoluyla"
+    ],
+    "synonyms": [
+      "through",
+      "using"
+    ],
+    "example": {
+      "text": "He achieved success by means of hard work.",
+      "translation": "Sıkı çalışma yoluyla başarıya ulaştı."
+    },
+    "cloze": {
+      "template": "He achieved success {{cloze}} hard work.",
+      "answer": "by means of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_022",
+    "lemma": "by no means",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "hiçbir şekilde"
+    ],
+    "synonyms": [
+      "not at all",
+      "certainly not"
+    ],
+    "example": {
+      "text": "This is by no means certain.",
+      "translation": "Bu hiçbir şekilde kesin değil."
+    },
+    "cloze": {
+      "template": "This is {{cloze}} certain.",
+      "answer": "by no means"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_023",
+    "lemma": "by the way",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "neyse"
+    ],
+    "synonyms": [
+      "incidentally",
+      "speaking of which"
+    ],
+    "example": {
+      "text": "By the way, did you lock the door?",
+      "translation": "Bu arada, kapıyı kilitledin mi?"
+    },
+    "cloze": {
+      "template": "By {{cloze}} way, did you lock the door?",
+      "answer": "by the way"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_024",
+    "lemma": "even so",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "böyle olsa bile"
+    ],
+    "synonyms": [
+      "nevertheless",
+      "even though"
+    ],
+    "example": {
+      "text": "It was raining; even so, we went out.",
+      "translation": "Yağmur yağıyordu; yine de dışarı çıktık."
+    },
+    "cloze": {
+      "template": "It was raining; {{cloze}}, we went out.",
+      "answer": "even so"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_025",
+    "lemma": "for good",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "sonsuza kadar"
+    ],
+    "synonyms": [
+      "permanently",
+      "forever"
+    ],
+    "example": {
+      "text": "He's leaving for good.",
+      "translation": "O sonsuza kadar gidiyor."
+    },
+    "cloze": {
+      "template": "He's leaving {{cloze}}.",
+      "answer": "for good"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_026",
+    "lemma": "from now on",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bundan sonra"
+    ],
+    "synonyms": [
+      "from this point forward"
+    ],
+    "example": {
+      "text": "From now on, I'll be more careful.",
+      "translation": "Bundan sonra daha dikkatli olacağım."
+    },
+    "cloze": {
+      "template": "From {{cloze}} on, I'll be more careful.",
+      "answer": "from now on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_027",
+    "lemma": "from time to time",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bazen"
+    ],
+    "synonyms": [
+      "occasionally",
+      "sometimes"
+    ],
+    "example": {
+      "text": "We meet from time to time.",
+      "translation": "Bazen buluşuyoruz."
+    },
+    "cloze": {
+      "template": "We meet {{cloze}}.",
+      "answer": "from time to time"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_028",
+    "lemma": "in addition",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "buna ek olarak"
+    ],
+    "synonyms": [
+      "additionally",
+      "also"
+    ],
+    "example": {
+      "text": "In addition, we need more supplies.",
+      "translation": "Buna ek olarak, daha fazla malzemeye ihtiyacımız var."
+    },
+    "cloze": {
+      "template": "In {{cloze}}, we need more supplies.",
+      "answer": "in addition"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_029",
+    "lemma": "in case of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "durumunda"
+    ],
+    "synonyms": [
+      "in the event of"
+    ],
+    "example": {
+      "text": "In case of emergency, call 112.",
+      "translation": "Acil durumunda 112'yi ara."
+    },
+    "cloze": {
+      "template": "In {{cloze}} of emergency, call 112.",
+      "answer": "in case of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_030",
+    "lemma": "in common",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "ortak"
+    ],
+    "synonyms": [
+      "shared",
+      "joint"
+    ],
+    "example": {
+      "text": "They have a lot in common.",
+      "translation": "Çok ortak noktaları var."
+    },
+    "cloze": {
+      "template": "They have a lot {{cloze}}.",
+      "answer": "in common"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_031",
+    "lemma": "in conclusion",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "sonuç olarak"
+    ],
+    "synonyms": [
+      "to sum up",
+      "finally"
+    ],
+    "example": {
+      "text": "In conclusion, I'd like to thank everyone.",
+      "translation": "Sonuç olarak, herkese teşekkür etmek istiyorum."
+    },
+    "cloze": {
+      "template": "In {{cloze}}, I'd like to thank everyone.",
+      "answer": "in conclusion"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_032",
+    "lemma": "in detail",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "detaylı olarak"
+    ],
+    "synonyms": [
+      "thoroughly",
+      "carefully"
+    ],
+    "example": {
+      "text": "Please explain this in detail.",
+      "translation": "Lütfen bunu detaylı açıkla."
+    },
+    "cloze": {
+      "template": "Please explain this {{cloze}}.",
+      "answer": "in detail"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_033",
+    "lemma": "in fact",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "aslında"
+    ],
+    "synonyms": [
+      "actually",
+      "really"
+    ],
+    "example": {
+      "text": "In fact, I knew about it.",
+      "translation": "Aslında bundan haberdardım."
+    },
+    "cloze": {
+      "template": "In {{cloze}}, I knew about it.",
+      "answer": "in fact"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_034",
+    "lemma": "in favor of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "lehinde"
+    ],
+    "synonyms": [
+      "supporting",
+      "in support of"
+    ],
+    "example": {
+      "text": "The committee voted in favor of the proposal.",
+      "translation": "Komite öneri lehinde oy kullandı."
+    },
+    "cloze": {
+      "template": "The committee voted {{cloze}} the proposal.",
+      "answer": "in favor of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_035",
+    "lemma": "in general",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "genel olarak"
+    ],
+    "synonyms": [
+      "generally",
+      "usually"
+    ],
+    "example": {
+      "text": "In general, people are kind.",
+      "translation": "Genel olarak insanlar naziktir."
+    },
+    "cloze": {
+      "template": "In general, people are k{{cloze}}d.",
+      "answer": "in general"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_036",
+    "lemma": "in my opinion",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "benim fikrime göre"
+    ],
+    "synonyms": [
+      "I think",
+      "in my view"
+    ],
+    "example": {
+      "text": "In my opinion, this is wrong.",
+      "translation": "Benim fikrime göre bu yanlış."
+    },
+    "cloze": {
+      "template": "In my op{{cloze}}ion, this is wrong.",
+      "answer": "in my opinion"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_037",
+    "lemma": "in order to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "mak için"
+    ],
+    "synonyms": [
+      "to",
+      "so as to"
+    ],
+    "example": {
+      "text": "We study in order to learn.",
+      "translation": "Öğrenmek için çalışırız."
+    },
+    "cloze": {
+      "template": "We study {{cloze}} learn.",
+      "answer": "in order to"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_038",
+    "lemma": "in other words",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "başka bir deyişle"
+    ],
+    "synonyms": [
+      "to put it differently"
+    ],
+    "example": {
+      "text": "In other words, we need more time.",
+      "translation": "Başka bir deyişle, daha fazla zamana ihtiyacımız var."
+    },
+    "cloze": {
+      "template": "In {{cloze}} words, we need more time.",
+      "answer": "in other words"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_039",
+    "lemma": "in particular",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "özellikle"
+    ],
+    "synonyms": [
+      "especially",
+      "specifically"
+    ],
+    "example": {
+      "text": "I enjoyed the last song in particular.",
+      "translation": "Son şarkıyı özellikle sevdim."
+    },
+    "cloze": {
+      "template": "I enjoyed the last song {{cloze}}.",
+      "answer": "in particular"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_040",
+    "lemma": "in reality",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "gerçekte"
+    ],
+    "synonyms": [
+      "in fact",
+      "actually"
+    ],
+    "example": {
+      "text": "In reality, things are different.",
+      "translation": "Gerçekte işler farklı."
+    },
+    "cloze": {
+      "template": "In reality, th{{cloze}}gs are different.",
+      "answer": "in reality"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_041",
+    "lemma": "in return",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "karşılığında"
+    ],
+    "synonyms": [
+      "in exchange"
+    ],
+    "example": {
+      "text": "I gave him a gift in return.",
+      "translation": "Buna karşılık ona bir hediye verdim."
+    },
+    "cloze": {
+      "template": "I gave him a gift {{cloze}}.",
+      "answer": "in return"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_042",
+    "lemma": "in short",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "kısacası"
+    ],
+    "synonyms": [
+      "briefly",
+      "to sum up"
+    ],
+    "example": {
+      "text": "In short, we need help.",
+      "translation": "Kısacası yardıma ihtiyacımız var."
+    },
+    "cloze": {
+      "template": "In {{cloze}}, we need help.",
+      "answer": "in short"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_043",
+    "lemma": "in spite of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "rağmen"
+    ],
+    "synonyms": [
+      "despite",
+      "notwithstanding"
+    ],
+    "example": {
+      "text": "In spite of the rain, we went out.",
+      "translation": "Yağmura rağmen dışarı çıktık."
+    },
+    "cloze": {
+      "template": "In spite of the ra{{cloze}}, we went out.",
+      "answer": "in spite of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_044",
+    "lemma": "in the end",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "sonunda"
+    ],
+    "synonyms": [
+      "finally",
+      "eventually"
+    ],
+    "example": {
+      "text": "In the end, everything worked out.",
+      "translation": "Sonunda her şey yoluna girdi."
+    },
+    "cloze": {
+      "template": "In the end, everyth{{cloze}}g worked out.",
+      "answer": "in the end"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_045",
+    "lemma": "in the meantime",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bu arada"
+    ],
+    "synonyms": [
+      "meanwhile",
+      "in the interim"
+    ],
+    "example": {
+      "text": "In the meantime, I'll prepare dinner.",
+      "translation": "Bu arada ben akşam yemeğini hazırlayacağım."
+    },
+    "cloze": {
+      "template": "In the meantime, I'll prepare d{{cloze}}ner.",
+      "answer": "in the meantime"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_046",
+    "lemma": "in touch",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "iletişimde"
+    ],
+    "synonyms": [
+      "in contact"
+    ],
+    "example": {
+      "text": "Let's keep in touch.",
+      "translation": "İletişimde kalmaya devam edelim."
+    },
+    "cloze": {
+      "template": "Let's keep {{cloze}}.",
+      "answer": "in touch"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_047",
+    "lemma": "instead of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "yerine"
+    ],
+    "synonyms": [
+      "rather than",
+      "in place of"
+    ],
+    "example": {
+      "text": "Let's walk instead of driving.",
+      "translation": "Yürüyelim de arabayla yerine."
+    },
+    "cloze": {
+      "template": "Let's walk {{cloze}} driving.",
+      "answer": "instead of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_048",
+    "lemma": "on behalf of",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "adına"
+    ],
+    "synonyms": [
+      "for",
+      "representing"
+    ],
+    "example": {
+      "text": "I accept this award on behalf of my team.",
+      "translation": "Bu ödülü ekibim adına kabul ediyorum."
+    },
+    "cloze": {
+      "template": "I accept this award {{cloze}} my team.",
+      "answer": "on behalf of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_049",
+    "lemma": "on purpose",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "kasten"
+    ],
+    "synonyms": [
+      "intentionally",
+      "deliberately"
+    ],
+    "example": {
+      "text": "He did it on purpose.",
+      "translation": "O bunu kasten yaptı."
+    },
+    "cloze": {
+      "template": "He did it {{cloze}}.",
+      "answer": "on purpose"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_050",
+    "lemma": "on the contrary",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "aksine"
+    ],
+    "synonyms": [
+      "on the other hand",
+      "conversely"
+    ],
+    "example": {
+      "text": "On the contrary, I agree with you.",
+      "translation": "Aksine, seninle aynı fikirdeyim."
+    },
+    "cloze": {
+      "template": "On the c{{cloze}}trary, I agree with you.",
+      "answer": "on the contrary"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_051",
+    "lemma": "on the other hand",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "diğer yandan"
+    ],
+    "synonyms": [
+      "however",
+      "alternatively"
+    ],
+    "example": {
+      "text": "On the other hand, it's expensive.",
+      "translation": "Diğer yandan, bu pahalı."
+    },
+    "cloze": {
+      "template": "On {{cloze}} other hand, it's expensive.",
+      "answer": "on the other hand"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_052",
+    "lemma": "out of order",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "arızalı"
+    ],
+    "synonyms": [
+      "not working",
+      "broken"
+    ],
+    "example": {
+      "text": "The machine is out of order.",
+      "translation": "Makine arızalı."
+    },
+    "cloze": {
+      "template": "The machine is {{cloze}}.",
+      "answer": "out of order"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_053",
+    "lemma": "out of stock",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "stokta yok"
+    ],
+    "synonyms": [
+      "unavailable",
+      "sold out"
+    ],
+    "example": {
+      "text": "Sorry, this item is out of stock.",
+      "translation": "Üzgünüm, bu ürün stokta yok."
+    },
+    "cloze": {
+      "template": "Sorry, this item is {{cloze}}.",
+      "answer": "out of stock"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_054",
+    "lemma": "right away",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "hemen"
+    ],
+    "synonyms": [
+      "immediately",
+      "at once"
+    ],
+    "example": {
+      "text": "I'll do it right away.",
+      "translation": "Bunu hemen yapacağım."
+    },
+    "cloze": {
+      "template": "I'll do it {{cloze}}.",
+      "answer": "right away"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_055",
+    "lemma": "so far",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "şimdiye kadar"
+    ],
+    "synonyms": [
+      "until now",
+      "thus far"
+    ],
+    "example": {
+      "text": "So far, so good.",
+      "translation": "Şimdiye kadar her şey iyi."
+    },
+    "cloze": {
+      "template": "So far, {{cloze}} good.",
+      "answer": "so far"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_056",
+    "lemma": "sooner or later",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "erken geç"
+    ],
+    "synonyms": [
+      "eventually",
+      "inevitably"
+    ],
+    "example": {
+      "text": "Sooner or later, you'll understand.",
+      "translation": "Erken geç, anlayacaksın."
+    },
+    "cloze": {
+      "template": "Sooner {{cloze}} later, you'll understand.",
+      "answer": "sooner or later"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_057",
+    "lemma": "to some extent",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "bir dereceye kadar"
+    ],
+    "synonyms": [
+      "partially",
+      "somewhat"
+    ],
+    "example": {
+      "text": "I agree to some extent.",
+      "translation": "Bir dereceye kadar katılıyorum."
+    },
+    "cloze": {
+      "template": "I agree {{cloze}}.",
+      "answer": "to some extent"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_058",
+    "lemma": "up to date",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "güncel"
+    ],
+    "synonyms": [
+      "current",
+      "modern"
+    ],
+    "example": {
+      "text": "Keep your software up to date.",
+      "translation": "Yazılımınızı güncel tutun."
+    },
+    "cloze": {
+      "template": "Keep your software {{cloze}}.",
+      "answer": "up to date"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_059",
+    "lemma": "with regard to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "göre"
+    ],
+    "synonyms": [
+      "regarding",
+      "concerning"
+    ],
+    "example": {
+      "text": "With regard to your request, we'll consider it.",
+      "translation": "İsteğinle ilgili olarak, bunu değerlendireceğiz."
+    },
+    "cloze": {
+      "template": "With {{cloze}} to your request, we'll consider it.",
+      "answer": "with regard to"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_060",
+    "lemma": "with respect to",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "göre"
+    ],
+    "synonyms": [
+      "regarding",
+      "in relation to"
+    ],
+    "example": {
+      "text": "With respect to quality, this product is excellent.",
+      "translation": "Kalite açısından, bu ürün mükemmel."
+    },
+    "cloze": {
+      "template": "With {{cloze}} to quality, this product is excellent.",
+      "answer": "with respect to"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_061",
+    "lemma": "without delay",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "gecikmeden"
+    ],
+    "synonyms": [
+      "immediately",
+      "without delay"
+    ],
+    "example": {
+      "text": "Please leave without delay.",
+      "translation": "Lütfen gecikmeden ayrılın."
+    },
+    "cloze": {
+      "template": "Please leave {{cloze}}.",
+      "answer": "without delay"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "phrase_062",
+    "lemma": "worth while",
+    "pos": "phrase",
+    "multiWord": true,
+    "meanings": [
+      "değer"
+    ],
+    "synonyms": [
+      "worthwhile",
+      "worth doing"
+    ],
+    "example": {
+      "text": "It's worth while visiting this museum.",
+      "translation": "Bu müzeyi ziyaret etmek değer."
+    },
+    "cloze": {
+      "template": "It's {{cloze}} visiting this museum.",
+      "answer": "worth while"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_001",
+    "lemma": "account for",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "oluşturmak, açıklamak"
+    ],
+    "synonyms": [
+      "explain",
+      "constitute"
+    ],
+    "example": {
+      "text": "Oil exports account for 80% of the country's revenue.",
+      "translation": "Petrol ihracatı ülke gelirinin %80'ini oluşturur."
+    },
+    "cloze": {
+      "template": "Oil exports {{cloze}} 80% of the country's revenue.",
+      "answer": "account for"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_002",
+    "lemma": "act on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "göre hareket etmek"
+    ],
+    "synonyms": [
+      "take action on",
+      "follow"
+    ],
+    "example": {
+      "text": "We must act on his advice immediately.",
+      "translation": "Onun tavsiyesine göre hemen hareket etmeliyiz."
+    },
+    "cloze": {
+      "template": "We must {{cloze}} his advice immediately.",
+      "answer": "act on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_003",
+    "lemma": "add up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "toplamak"
+    ],
+    "synonyms": [
+      "calculate",
+      "sum"
+    ],
+    "example": {
+      "text": "Add up these numbers for me.",
+      "translation": "Bu sayıları benim için topla."
+    },
+    "cloze": {
+      "template": "Add {{cloze}} these numbers for me.",
+      "answer": "add up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_004",
+    "lemma": "add up to",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "toplamı ... olmak"
+    ],
+    "synonyms": [
+      "total",
+      "amount to"
+    ],
+    "example": {
+      "text": "The expenses add up to more than expected.",
+      "translation": "Giderler beklenenden fazla toplamına ulaşıyor."
+    },
+    "cloze": {
+      "template": "The expenses {{cloze}} more than expected.",
+      "answer": "add up to"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_005",
+    "lemma": "answer for",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sorumlu tutulmak"
+    ],
+    "synonyms": [
+      "be responsible for"
+    ],
+    "example": {
+      "text": "You'll have to answer for your actions.",
+      "translation": "Eylemlerinden sorumlu tutulacaksın."
+    },
+    "cloze": {
+      "template": "You'll have to {{cloze}} your actions.",
+      "answer": "answer for"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_006",
+    "lemma": "ask around",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "etrafında sormak"
+    ],
+    "synonyms": [
+      "inquire",
+      "ask many people"
+    ],
+    "example": {
+      "text": "I'll ask around and see if anyone knows.",
+      "translation": "Etrafı sorup birinin bilip bilmediğine bakacağım."
+    },
+    "cloze": {
+      "template": "I'll {{cloze}} and see if anyone knows.",
+      "answer": "ask around"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_007",
+    "lemma": "back away",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "geri çekilmek"
+    ],
+    "synonyms": [
+      "retreat",
+      "withdraw"
+    ],
+    "example": {
+      "text": "The dog backed away when I approached.",
+      "translation": "Yaklaştığımda köpek geri çekildi."
+    },
+    "cloze": {
+      "template": "The dog {{cloze}}ed away when I approached.",
+      "answer": "back away"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_008",
+    "lemma": "back down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "vazgeçmek"
+    ],
+    "synonyms": [
+      "withdraw",
+      "retreat"
+    ],
+    "example": {
+      "text": "He refused to back down from his position.",
+      "translation": "Konumundan vazgeçmeyi reddetti."
+    },
+    "cloze": {
+      "template": "He refused to {{cloze}} from his position.",
+      "answer": "back down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_009",
+    "lemma": "back up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "desteklemek, yedeklemek"
+    ],
+    "synonyms": [
+      "support",
+      "reverse"
+    ],
+    "example": {
+      "text": "Can you back up your claims with evidence?",
+      "translation": "İddialarını kanıtlarla destekleyebilir misin?"
+    },
+    "cloze": {
+      "template": "Can you {{cloze}} your claims with evidence?",
+      "answer": "back up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_010",
+    "lemma": "bear out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "doğrulamak"
+    ],
+    "synonyms": [
+      "confirm",
+      "verify"
+    ],
+    "example": {
+      "text": "The evidence bears out his testimony.",
+      "translation": "Kanıtlar onun ifadesini doğruluyor."
+    },
+    "cloze": {
+      "template": "The evidence {{cloze}}s out his testimony.",
+      "answer": "bear out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_011",
+    "lemma": "blow up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "patlamak"
+    ],
+    "synonyms": [
+      "explode",
+      "erupt"
+    ],
+    "example": {
+      "text": "The balloon blew up suddenly.",
+      "translation": "Balon aniden patladı."
+    },
+    "cloze": {
+      "template": "The balloon blew {{cloze}} suddenly.",
+      "answer": "blow up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_012",
+    "lemma": "boil down to",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "indirgenmek"
+    ],
+    "synonyms": [
+      "reduce to",
+      "come down to"
+    ],
+    "example": {
+      "text": "The problem boils down to lack of communication.",
+      "translation": "Sorun iletişim eksikliğine indirgeniyor."
+    },
+    "cloze": {
+      "template": "The problem {{cloze}}s down to lack of communication.",
+      "answer": "boil down to"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_013",
+    "lemma": "break down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "bozulmak"
+    ],
+    "synonyms": [
+      "stop working",
+      "collapse"
+    ],
+    "example": {
+      "text": "My car broke down on the highway.",
+      "translation": "Arabam otoyolda bozuldu."
+    },
+    "cloze": {
+      "template": "My car broke {{cloze}} on the highway.",
+      "answer": "break down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_014",
+    "lemma": "break in",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "girmek, alıştırmak"
+    ],
+    "synonyms": [
+      "enter forcibly",
+      "train"
+    ],
+    "example": {
+      "text": "Someone broke in while we were away.",
+      "translation": "Biz yokken biri girmiş."
+    },
+    "cloze": {
+      "template": "Someone broke {{cloze}} while we were away.",
+      "answer": "break in"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_015",
+    "lemma": "break into",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "girmek"
+    ],
+    "synonyms": [
+      "enter forcibly",
+      "burst into"
+    ],
+    "example": {
+      "text": "Thieves broke into the store last night.",
+      "translation": "Hırsızlar geçen shopa girdiler."
+    },
+    "cloze": {
+      "template": "Thieves broke {{cloze}} the store last night.",
+      "answer": "break into"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_016",
+    "lemma": "break out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "patlak vermek"
+    ],
+    "synonyms": [
+      "escape",
+      "start suddenly"
+    ],
+    "example": {
+      "text": "Fire broke out in the building.",
+      "translation": "Binada yangın patlak verdi."
+    },
+    "cloze": {
+      "template": "Fire broke {{cloze}} in the building.",
+      "answer": "break out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_017",
+    "lemma": "break through",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kırmak, aşmak"
+    ],
+    "synonyms": [
+      "penetrate",
+      "overcome"
+    ],
+    "example": {
+      "text": "The sun finally broke through the clouds.",
+      "translation": "Güneş sonunda bulutları aştı."
+    },
+    "cloze": {
+      "template": "The sun finally broke {{cloze}} the clouds.",
+      "answer": "break through"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_018",
+    "lemma": "bring about",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "neden olmak"
+    ],
+    "synonyms": [
+      "cause",
+      "lead to"
+    ],
+    "example": {
+      "text": "The new policy brought about changes.",
+      "translation": "Yeni politika değişikliklere neden oldu."
+    },
+    "cloze": {
+      "template": "The new policy brought {{cloze}} changes.",
+      "answer": "bring about"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_019",
+    "lemma": "bring around",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ikna etmek"
+    ],
+    "synonyms": [
+      "persuade",
+      "convince"
+    ],
+    "example": {
+      "text": "I'll bring him around to our way of thinking.",
+      "translation": "Onu düşünce tarzımıza ikna edeceğim."
+    },
+    "cloze": {
+      "template": "I'll {{cloze}} him around to our way of thinking.",
+      "answer": "bring around"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_020",
+    "lemma": "bring back",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "getirmek"
+    ],
+    "synonyms": [
+      "return",
+      "restore"
+    ],
+    "example": {
+      "text": "This song brings back memories.",
+      "translation": "Bu şarkı anıları geri getiriyor."
+    },
+    "cloze": {
+      "template": "This song {{cloze}}s back memories.",
+      "answer": "bring back"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_021",
+    "lemma": "bring down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "düşürmek"
+    ],
+    "synonyms": [
+      "reduce",
+      "cause to fall"
+    ],
+    "example": {
+      "text": "We need to bring down costs.",
+      "translation": "Maliyetleri düşürmemiz gerekiyor."
+    },
+    "cloze": {
+      "template": "We need to {{cloze}} costs.",
+      "answer": "bring down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_022",
+    "lemma": "bring forward",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ileri almak"
+    ],
+    "synonyms": [
+      "postpone",
+      "move to earlier"
+    ],
+    "example": {
+      "text": "The meeting was brought forward to Monday.",
+      "translation": "Toplantı Pazartesi'ye alındı."
+    },
+    "cloze": {
+      "template": "The meeting was brought {{cloze}} to Monday.",
+      "answer": "bring forward"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_023",
+    "lemma": "bring up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "gündeme getirmek"
+    ],
+    "synonyms": [
+      "raise",
+      "mention"
+    ],
+    "example": {
+      "text": "She brought up an important point.",
+      "translation": "O önemli bir noktayı gündeme getirdi."
+    },
+    "cloze": {
+      "template": "She brought {{cloze}} an important point.",
+      "answer": "bring up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_024",
+    "lemma": "brush aside",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "önemsizmek"
+    ],
+    "synonyms": [
+      "dismiss",
+      "ignore"
+    ],
+    "example": {
+      "text": "He brushed aside my concerns.",
+      "translation": "Endişelerimi görmezden geldi."
+    },
+    "cloze": {
+      "template": "He {{cloze}}ed aside my concerns.",
+      "answer": "brush aside"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_025",
+    "lemma": "build up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "biriktirmek"
+    ],
+    "synonyms": [
+      "accumulate",
+      "develop"
+    ],
+    "example": {
+      "text": "Tension built up between them.",
+      "translation": "Aralarında gerilim birikti."
+    },
+    "cloze": {
+      "template": "Tension built {{cloze}} between them.",
+      "answer": "build up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_026",
+    "lemma": "burn down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yıkmak"
+    ],
+    "synonyms": [
+      "destroy by fire"
+    ],
+    "example": {
+      "text": "The factory burned down last night.",
+      "translation": "Fabrika gece yandı."
+    },
+    "cloze": {
+      "template": "The factory {{cloze}}ed down last night.",
+      "answer": "burn down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_027",
+    "lemma": "burn out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "tükenmek"
+    ],
+    "synonyms": [
+      "exhaust",
+      "stop working"
+    ],
+    "example": {
+      "text": "He burned out from overwork.",
+      "translation": "O çok çalışmaktan tükenmişti."
+    },
+    "cloze": {
+      "template": "He {{cloze}}ed out from overwork.",
+      "answer": "burn out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_028",
+    "lemma": "burst out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "patlamak"
+    ],
+    "synonyms": [
+      "break out",
+      "suddenly exclaim"
+    ],
+    "example": {
+      "text": "She burst out laughing.",
+      "translation": "O kahkaha patlattı."
+    },
+    "cloze": {
+      "template": "She {{cloze}} laughing.",
+      "answer": "burst out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_029",
+    "lemma": "buy out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "satın almak"
+    ],
+    "synonyms": [
+      "purchase",
+      "acquire"
+    ],
+    "example": {
+      "text": "The company bought out its competitor.",
+      "translation": "Şirket rakibini satın aldı."
+    },
+    "cloze": {
+      "template": "The company bought {{cloze}} its competitor.",
+      "answer": "buy out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_030",
+    "lemma": "call for",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "gerektirmek"
+    ],
+    "synonyms": [
+      "require",
+      "demand"
+    ],
+    "example": {
+      "text": "This situation calls for immediate action.",
+      "translation": "Bu durum acil eylem gerektiriyor."
+    },
+    "cloze": {
+      "template": "This situation {{cloze}}s for immediate action.",
+      "answer": "call for"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_031",
+    "lemma": "call off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "iptal etmek"
+    ],
+    "synonyms": [
+      "cancel",
+      "abort"
+    ],
+    "example": {
+      "text": "They called off the event.",
+      "translation": "Etkinliği iptal ettiler."
+    },
+    "cloze": {
+      "template": "They {{cloze}}ed off the event.",
+      "answer": "call off"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_032",
+    "lemma": "call on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ziyaret etmek"
+    ],
+    "synonyms": [
+      "visit",
+      "appeal to"
+    ],
+    "example": {
+      "text": "I'll call on you tomorrow.",
+      "translation": "Yarın seni ziyaret edeceğim."
+    },
+    "cloze": {
+      "template": "I'll {{cloze}} you tomorrow.",
+      "answer": "call on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_033",
+    "lemma": "calm down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sakinleşmek"
+    ],
+    "synonyms": [
+      "become calm",
+      "relax"
+    ],
+    "example": {
+      "text": "Please calm down and tell me what happened.",
+      "translation": "Lütfen sakinleş ve bana ne olduğunu anlat."
+    },
+    "cloze": {
+      "template": "Please {{cloze}} and tell me what happened.",
+      "answer": "calm down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_034",
+    "lemma": "carry on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "devam etmek"
+    ],
+    "synonyms": [
+      "continue",
+      "proceed"
+    ],
+    "example": {
+      "text": "Let's carry on with our work.",
+      "translation": "Çalışmamızla devam edelim."
+    },
+    "cloze": {
+      "template": "Let's {{cloze}} with our work.",
+      "answer": "carry on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_035",
+    "lemma": "carry out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "gerçekleştirmek"
+    ],
+    "synonyms": [
+      "execute",
+      "perform"
+    ],
+    "example": {
+      "text": "The plan was carried out successfully.",
+      "translation": "Plan başarıyla gerçekleştirildi."
+    },
+    "cloze": {
+      "template": "The plan was carried {{cloze}} successfully.",
+      "answer": "carry out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_036",
+    "lemma": "catch on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "popüler olmak"
+    ],
+    "synonyms": [
+      "become popular",
+      "understand"
+    ],
+    "example": {
+      "text": "The new song caught on quickly.",
+      "translation": "Yeni şarkı hızla popüler oldu."
+    },
+    "cloze": {
+      "template": "The new s{{cloze}}g caught on quickly.",
+      "answer": "catch on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_037",
+    "lemma": "check in",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "giriş yapmak"
+    ],
+    "synonyms": [
+      "register",
+      "arrive"
+    ],
+    "example": {
+      "text": "We need to check in at the hotel.",
+      "translation": "Otelde giriş yapmamız gerekiyor."
+    },
+    "cloze": {
+      "template": "We need to {{cloze}} at the hotel.",
+      "answer": "check in"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_038",
+    "lemma": "check out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "çıkış yapmak"
+    ],
+    "synonyms": [
+      "pay and leave",
+      "examine"
+    ],
+    "example": {
+      "text": "We have to check out by noon.",
+      "translation": "Öğleye kadar çıkış yapmamız gerekiyor."
+    },
+    "cloze": {
+      "template": "We have to {{cloze}} by noon.",
+      "answer": "check out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_039",
+    "lemma": "cheer up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "neşelenmek"
+    ],
+    "synonyms": [
+      "become happy",
+      "encourage"
+    ],
+    "example": {
+      "text": "Cheer up! It's not that bad.",
+      "translation": "Neşelen! O kadar da kötü değil."
+    },
+    "cloze": {
+      "template": "Cheer {{cloze}}! It's not that bad.",
+      "answer": "cheer up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_040",
+    "lemma": "clear up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "açıklığa kavuşturmak"
+    ],
+    "synonyms": [
+      "clarify",
+      "clean"
+    ],
+    "example": {
+      "text": "Let me clear up this misunderstanding.",
+      "translation": "Bu yanlış anlaşılmayı açıklığa kavuşturayım."
+    },
+    "cloze": {
+      "template": "Let me {{cloze}} this misunderstanding.",
+      "answer": "clear up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_041",
+    "lemma": "come across",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "rastlamak"
+    ],
+    "synonyms": [
+      "find",
+      "encounter"
+    ],
+    "example": {
+      "text": "I came across an old photo.",
+      "translation": "Eski bir fotoğrafa rastladım."
+    },
+    "cloze": {
+      "template": "I came {{cloze}} an old photo.",
+      "answer": "come across"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_042",
+    "lemma": "come down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "düşmek"
+    ],
+    "synonyms": [
+      "descend",
+      "fall"
+    ],
+    "example": {
+      "text": "The price came down significantly.",
+      "translation": "Fiyat önemli ölçüde düştü."
+    },
+    "cloze": {
+      "template": "The price came {{cloze}} significantly.",
+      "answer": "come down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_043",
+    "lemma": "come forward",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ön plana çıkmak"
+    ],
+    "synonyms": [
+      "volunteer",
+      "step forward"
+    ],
+    "example": {
+      "text": "No one came forward with information.",
+      "translation": "Kimse bilgiyle ön plana çıkmadı."
+    },
+    "cloze": {
+      "template": "No one came {{cloze}} with information.",
+      "answer": "come forward"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_044",
+    "lemma": "come up with",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "bulmak"
+    ],
+    "synonyms": [
+      "produce",
+      "suggest"
+    ],
+    "example": {
+      "text": "She came up with a great idea.",
+      "translation": "Harika bir fikir buldu."
+    },
+    "cloze": {
+      "template": "She came {{cloze}} with a great idea.",
+      "answer": "come up with"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_045",
+    "lemma": "cross out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "çizmek"
+    ],
+    "synonyms": [
+      "eliminate",
+      "remove"
+    ],
+    "example": {
+      "text": "Cross out the wrong answers.",
+      "translation": "Yanlış cevapları çiz."
+    },
+    "cloze": {
+      "template": "Cross {{cloze}} the wrong answers.",
+      "answer": "cross out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_046",
+    "lemma": "cut down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kısmak"
+    ],
+    "synonyms": [
+      "reduce",
+      "decrease"
+    ],
+    "example": {
+      "text": "You should cut down on sugar.",
+      "translation": "Şekerı azaltmalısın."
+    },
+    "cloze": {
+      "template": "You should {{cloze}} on sugar.",
+      "answer": "cut down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_047",
+    "lemma": "cut off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kesmek"
+    ],
+    "synonyms": [
+      "disconnect",
+      "sever"
+    ],
+    "example": {
+      "text": "The phone line was cut off.",
+      "translation": "Telefon hattı kesildi."
+    },
+    "cloze": {
+      "template": "The phone line was {{cloze}}.",
+      "answer": "cut off"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_048",
+    "lemma": "do away with",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kaldırmak"
+    ],
+    "synonyms": [
+      "abolish",
+      "eliminate"
+    ],
+    "example": {
+      "text": "We should do away with these rules.",
+      "translation": "Bu kuralları kaldırmalıyız."
+    },
+    "cloze": {
+      "template": "We should {{cloze}} these rules.",
+      "answer": "do away with"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_049",
+    "lemma": "do without",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "olmaksızın yapmak"
+    ],
+    "synonyms": [
+      "manage without"
+    ],
+    "example": {
+      "text": "We'll have to do without a car.",
+      "translation": "Arabasız yapmamız gerekecek."
+    },
+    "cloze": {
+      "template": "We'll have to {{cloze}} a car.",
+      "answer": "do without"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_050",
+    "lemma": "draw up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "hazırlamak"
+    ],
+    "synonyms": [
+      "prepare",
+      "draft"
+    ],
+    "example": {
+      "text": "Let's draw up a contract.",
+      "translation": "Sözleşme hazırlayalım."
+    },
+    "cloze": {
+      "template": "Let's {{cloze}} a contract.",
+      "answer": "draw up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_051",
+    "lemma": "drop off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "bırakmak"
+    ],
+    "synonyms": [
+      "deliver",
+      "fall asleep"
+    ],
+    "example": {
+      "text": "I can drop you off at the station.",
+      "translation": "Seni istasyona bırakabilirim."
+    },
+    "cloze": {
+      "template": "I can {{cloze}} you off at the station.",
+      "answer": "drop off"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_052",
+    "lemma": "end up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sonunda olmak"
+    ],
+    "synonyms": [
+      "finally become",
+      "result"
+    ],
+    "example": {
+      "text": "We ended up going home early.",
+      "translation": "Erken eve döndük."
+    },
+    "cloze": {
+      "template": "We {{cloze}}ed up going home early.",
+      "answer": "end up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_053",
+    "lemma": "face up to",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yüzleşmek"
+    ],
+    "synonyms": [
+      "confront",
+      "accept"
+    ],
+    "example": {
+      "text": "You must face up to reality.",
+      "translation": "Gerçekle yüzleşmelisin."
+    },
+    "cloze": {
+      "template": "You must {{cloze}} reality.",
+      "answer": "face up to"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_054",
+    "lemma": "fall apart",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "parçalanmak"
+    ],
+    "synonyms": [
+      "break",
+      "disintegrate"
+    ],
+    "example": {
+      "text": "The old book fell apart.",
+      "translation": "Eski kitap parçalandı."
+    },
+    "cloze": {
+      "template": "The old book fell {{cloze}}.",
+      "answer": "fall apart"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_055",
+    "lemma": "fall back on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "güvenmek"
+    ],
+    "synonyms": [
+      "rely on",
+      "turn to"
+    ],
+    "example": {
+      "text": "I have savings to fall back on.",
+      "translation": "Güvenebileceğim birikimlerim var."
+    },
+    "cloze": {
+      "template": "I have savings to {{cloze}}.",
+      "answer": "fall back on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_056",
+    "lemma": "fall behind",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "geride kalmak"
+    ],
+    "synonyms": [
+      "lag",
+      "fail to keep up"
+    ],
+    "example": {
+      "text": "Don't fall behind in your studies.",
+      "translation": "Çalışmalarında geride kalma."
+    },
+    "cloze": {
+      "template": "Don't {{cloze}} in your studies.",
+      "answer": "fall behind"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_057",
+    "lemma": "fall through",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "başarısız olmak"
+    ],
+    "synonyms": [
+      "fail",
+      "collapse"
+    ],
+    "example": {
+      "text": "The deal fell through.",
+      "translation": "Anlaşma başarısız oldu."
+    },
+    "cloze": {
+      "template": "The deal fell {{cloze}}.",
+      "answer": "fall through"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_058",
+    "lemma": "figure out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "çözmek"
+    ],
+    "synonyms": [
+      "solve",
+      "understand"
+    ],
+    "example": {
+      "text": "I can't figure out this problem.",
+      "translation": "Bu sorunu çözemiyorum."
+    },
+    "cloze": {
+      "template": "I can't {{cloze}} this problem.",
+      "answer": "figure out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_059",
+    "lemma": "fill in",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "doldurmak"
+    ],
+    "synonyms": [
+      "complete",
+      "inform"
+    ],
+    "example": {
+      "text": "Please fill in this form.",
+      "translation": "Lütfen bu formu doldurun."
+    },
+    "cloze": {
+      "template": "Please {{cloze}} this form.",
+      "answer": "fill in"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_060",
+    "lemma": "find out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "öğrenmek"
+    ],
+    "synonyms": [
+      "discover",
+      "learn"
+    ],
+    "example": {
+      "text": "I'll find out the truth.",
+      "translation": "Gerçeği öğreneceğim."
+    },
+    "cloze": {
+      "template": "I'll {{cloze}} the truth.",
+      "answer": "find out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_061",
+    "lemma": "fit in",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "uygun olmak"
+    ],
+    "synonyms": [
+      "be suitable",
+      "have time for"
+    ],
+    "example": {
+      "text": "I can fit in a meeting tomorrow.",
+      "translation": "Yarına bir toplantı sığdırabilirim."
+    },
+    "cloze": {
+      "template": "I can {{cloze}} a meeting tomorrow.",
+      "answer": "fit in"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_062",
+    "lemma": "focus on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "odaklanmak"
+    ],
+    "synonyms": [
+      "concentrate on"
+    ],
+    "example": {
+      "text": "Let's focus on the main issue.",
+      "translation": "Ana soruna odaklanalım."
+    },
+    "cloze": {
+      "template": "Let's {{cloze}} the main issue.",
+      "answer": "focus on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_063",
+    "lemma": "get along",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "iyi geçinmek"
+    ],
+    "synonyms": [
+      "have a good relationship"
+    ],
+    "example": {
+      "text": "We get along well with our neighbors.",
+      "translation": "Komşularımızla iyi geçiniyoruz."
+    },
+    "cloze": {
+      "template": "We {{cloze}} well with our neighbors.",
+      "answer": "get along"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_064",
+    "lemma": "get away",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kaçmak"
+    ],
+    "synonyms": [
+      "escape",
+      "leave"
+    ],
+    "example": {
+      "text": "We need to get away for the weekend.",
+      "translation": "Hafta sonu kaçmamız gerekiyor."
+    },
+    "cloze": {
+      "template": "We need to {{cloze}} for the weekend.",
+      "answer": "get away"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_065",
+    "lemma": "get by",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "idare etmek"
+    ],
+    "synonyms": [
+      "manage",
+      "survive"
+    ],
+    "example": {
+      "text": "We can get by with less money.",
+      "translation": "Daha az parayla idare edebiliriz."
+    },
+    "cloze": {
+      "template": "We can {{cloze}} with less money.",
+      "answer": "get by"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_066",
+    "lemma": "get over",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "üstesinden gelmek"
+    ],
+    "synonyms": [
+      "recover from",
+      "overcome"
+    ],
+    "example": {
+      "text": "She got over the illness quickly.",
+      "translation": "Hastalığın üstesinden hızla geldi."
+    },
+    "cloze": {
+      "template": "She got {{cloze}} the illness quickly.",
+      "answer": "get over"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_067",
+    "lemma": "get through",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "bitirmek"
+    ],
+    "synonyms": [
+      "complete",
+      "finish"
+    ],
+    "example": {
+      "text": "We got through the work early.",
+      "translation": "İşi erken bitirdik."
+    },
+    "cloze": {
+      "template": "We got {{cloze}} the work early.",
+      "answer": "get through"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_068",
+    "lemma": "give away",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "dağıtmak"
+    ],
+    "synonyms": [
+      "donate",
+      "reveal"
+    ],
+    "example": {
+      "text": "They gave away free samples.",
+      "translation": "Ücretsiz numuneler dağıttılar."
+    },
+    "cloze": {
+      "template": "They gave {{cloze}} free samples.",
+      "answer": "give away"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_069",
+    "lemma": "give up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "vazgeçmek"
+    ],
+    "synonyms": [
+      "quit",
+      "surrender"
+    ],
+    "example": {
+      "text": "Don't give up on your dreams.",
+      "translation": "Hayallerinden vazgeçme."
+    },
+    "cloze": {
+      "template": "Don't {{cloze}} on your dreams.",
+      "answer": "give up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_070",
+    "lemma": "go after",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "peşinden gitmek"
+    ],
+    "synonyms": [
+      "pursue",
+      "chase"
+    ],
+    "example": {
+      "text": "Go after your goals.",
+      "translation": "Hedeflerinin peşinden git."
+    },
+    "cloze": {
+      "template": "Go after your {{cloze}}als.",
+      "answer": "go after"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_071",
+    "lemma": "go against",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "karşı çıkmak"
+    ],
+    "synonyms": [
+      "oppose",
+      "be contrary to"
+    ],
+    "example": {
+      "text": "This goes against my principles.",
+      "translation": "Bu ilkelerime aykırı."
+    },
+    "cloze": {
+      "template": "This {{cloze}}es against my principles.",
+      "answer": "go against"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_072",
+    "lemma": "go ahead",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "devam et"
+    ],
+    "synonyms": [
+      "proceed",
+      "begin"
+    ],
+    "example": {
+      "text": "Go ahead with your plan.",
+      "translation": "Planınla devam et."
+    },
+    "cloze": {
+      "template": "Go {{cloze}} with your plan.",
+      "answer": "go ahead"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_073",
+    "lemma": "go back",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "geri dönmek"
+    ],
+    "synonyms": [
+      "return",
+      "go back to"
+    ],
+    "example": {
+      "text": "I need to go home.",
+      "translation": "Eve dönmem gerekiyor."
+    },
+    "cloze": {
+      "template": "I need to {{cloze}} home.",
+      "answer": "go back"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_074",
+    "lemma": "go on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "devam etmek"
+    ],
+    "synonyms": [
+      "continue",
+      "proceed"
+    ],
+    "example": {
+      "text": "Let's go on with the meeting.",
+      "translation": "Toplantıya devam edelim."
+    },
+    "cloze": {
+      "template": "Let's {{cloze}} with the meeting.",
+      "answer": "go on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_075",
+    "lemma": "go out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "çıkmak"
+    ],
+    "synonyms": [
+      "leave",
+      "extinguish"
+    ],
+    "example": {
+      "text": "The fire went out.",
+      "translation": "Yangın söndü."
+    },
+    "cloze": {
+      "template": "The fire went {{cloze}}.",
+      "answer": "go out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_076",
+    "lemma": "go through",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "denemek"
+    ],
+    "synonyms": [
+      "experience",
+      "examine"
+    ],
+    "example": {
+      "text": "We went through difficult times.",
+      "translation": "Zor zamanlardan geçtik."
+    },
+    "cloze": {
+      "template": "We went {{cloze}} difficult times.",
+      "answer": "go through"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_077",
+    "lemma": "go with",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "uygun olmak"
+    ],
+    "synonyms": [
+      "match",
+      "complement"
+    ],
+    "example": {
+      "text": "This tie goes well with your shirt.",
+      "translation": "Kravatın gömleğinle iyi gider."
+    },
+    "cloze": {
+      "template": "This tie {{cloze}}es well with your shirt.",
+      "answer": "go with"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_078",
+    "lemma": "grow up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "büyümek"
+    ],
+    "synonyms": [
+      "mature",
+      "become adult"
+    ],
+    "example": {
+      "text": "Kids grow up so fast.",
+      "translation": "Çocuklar çok hızlı büyüyor."
+    },
+    "cloze": {
+      "template": "Kids {{cloze}} so fast.",
+      "answer": "grow up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_079",
+    "lemma": "hand in",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "teslim etmek"
+    ],
+    "synonyms": [
+      "submit",
+      "give"
+    ],
+    "example": {
+      "text": "Hand in your homework tomorrow.",
+      "translation": "Ödevini yarın teslim et."
+    },
+    "cloze": {
+      "template": "Hand {{cloze}} your homework tomorrow.",
+      "answer": "hand in"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_080",
+    "lemma": "hang up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "asmak"
+    ],
+    "synonyms": [
+      "place on hook",
+      "end call"
+    ],
+    "example": {
+      "text": "Hang up your coat.",
+      "translation": "Paltonu as."
+    },
+    "cloze": {
+      "template": "Hang {{cloze}} your coat.",
+      "answer": "hang up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_081",
+    "lemma": "hold on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "beklemek"
+    ],
+    "synonyms": [
+      "wait",
+      "grip"
+    ],
+    "example": {
+      "text": "Hold on a moment.",
+      "translation": "Bir dakika bekle."
+    },
+    "cloze": {
+      "template": "Hold {{cloze}} a moment.",
+      "answer": "hold on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_082",
+    "lemma": "hold up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "geciktirmek"
+    ],
+    "synonyms": [
+      "delay",
+      "rob"
+    ],
+    "example": {
+      "text": "Traffic held us up.",
+      "translation": "Trafik bizi geciktirdi."
+    },
+    "cloze": {
+      "template": "Traffic held us {{cloze}}.",
+      "answer": "hold up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_083",
+    "lemma": "join in",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "katılmak"
+    ],
+    "synonyms": [
+      "participate",
+      "take part"
+    ],
+    "example": {
+      "text": "Feel free to join in the discussion.",
+      "translation": "Tartışmaya katılmaktan çekinmeyin."
+    },
+    "cloze": {
+      "template": "Feel free to {{cloze}} the discussion.",
+      "answer": "join in"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_084",
+    "lemma": "keep on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "devam etmek"
+    ],
+    "synonyms": [
+      "continue",
+      "persist"
+    ],
+    "example": {
+      "text": "Keep on trying!",
+      "translation": "Denemeye devam et!"
+    },
+    "cloze": {
+      "template": "Keep {{cloze}} trying!",
+      "answer": "keep on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_085",
+    "lemma": "keep up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ayakta kalmak"
+    ],
+    "synonyms": [
+      "maintain",
+      "continue"
+    ],
+    "example": {
+      "text": "Keep up the good work!",
+      "translation": "İyi çalışmaya devam et!"
+    },
+    "cloze": {
+      "template": "Keep {{cloze}} the good work!",
+      "answer": "keep up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_086",
+    "lemma": "let down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "hayal kırıklığına uğratmak"
+    ],
+    "synonyms": [
+      "disappoint",
+      "fail"
+    ],
+    "example": {
+      "text": "I won't let you down.",
+      "translation": "Seni hayal kırıklığına uğratmayacağım."
+    },
+    "cloze": {
+      "template": "I won't {{cloze}} you down.",
+      "answer": "let down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_087",
+    "lemma": "look after",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "bakmak"
+    ],
+    "synonyms": [
+      "take care of"
+    ],
+    "example": {
+      "text": "Can you look after my cat?",
+      "translation": "Kedime bakabilir misin?"
+    },
+    "cloze": {
+      "template": "Can you {{cloze}} my cat?",
+      "answer": "look after"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_088",
+    "lemma": "look for",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "aramak"
+    ],
+    "synonyms": [
+      "search for",
+      "seek"
+    ],
+    "example": {
+      "text": "I'm looking for my keys.",
+      "translation": "Anahtarlarımı arıyorum."
+    },
+    "cloze": {
+      "template": "I'm {{cloze}}ing for my keys.",
+      "answer": "look for"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_089",
+    "lemma": "look forward to",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "için beklemek"
+    ],
+    "synonyms": [
+      "anticipate",
+      "expect with pleasure"
+    ],
+    "example": {
+      "text": "I look forward to seeing you.",
+      "translation": "Seni görmek için bekliyorum."
+    },
+    "cloze": {
+      "template": "I {{cloze}} seeing you.",
+      "answer": "look forward to"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_090",
+    "lemma": "look into",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "incelemek"
+    ],
+    "synonyms": [
+      "investigate",
+      "examine"
+    ],
+    "example": {
+      "text": "We'll look into the matter.",
+      "translation": "Konuyu inceleyeceğiz."
+    },
+    "cloze": {
+      "template": "We'll {{cloze}} the matter.",
+      "answer": "look into"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_091",
+    "lemma": "look up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "bakmak"
+    ],
+    "synonyms": [
+      "search for",
+      "find"
+    ],
+    "example": {
+      "text": "Look up this word in the dictionary.",
+      "translation": "Bu kelimeyi sözlükte ara."
+    },
+    "cloze": {
+      "template": "Look {{cloze}} this word in the dictionary.",
+      "answer": "look up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_092",
+    "lemma": "make out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "görmek"
+    ],
+    "synonyms": [
+      "discern",
+      "understand"
+    ],
+    "example": {
+      "text": "I can't make out what he's saying.",
+      "translation": "Ne söylediğini anlayamıyorum."
+    },
+    "cloze": {
+      "template": "I can't {{cloze}} what he's saying.",
+      "answer": "make out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_093",
+    "lemma": "make up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yapmak"
+    ],
+    "synonyms": [
+      "invent",
+      "reconcile"
+    ],
+    "example": {
+      "text": "She made up a story.",
+      "translation": "O bir hikaye uydurdu."
+    },
+    "cloze": {
+      "template": "She made {{cloze}} a story.",
+      "answer": "make up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_094",
+    "lemma": "mix up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "karıştırmak"
+    ],
+    "synonyms": [
+      "confuse",
+      "mistake"
+    ],
+    "example": {
+      "text": "Don't mix up the papers.",
+      "translation": "Kağıtları karıştırma."
+    },
+    "cloze": {
+      "template": "Don't {{cloze}} the papers.",
+      "answer": "mix up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_095",
+    "lemma": "pass on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ilet"
+    ],
+    "synonyms": [
+      "transmit",
+      "give"
+    ],
+    "example": {
+      "text": "Please pass on this message.",
+      "translation": "Lütfen bu mesajı ilet."
+    },
+    "cloze": {
+      "template": "Please {{cloze}} this message.",
+      "answer": "pass on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_096",
+    "lemma": "pick out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "seçmek"
+    ],
+    "synonyms": [
+      "choose",
+      "select"
+    ],
+    "example": {
+      "text": "Pick out your favorite dress.",
+      "translation": "Favori elbiseni seç."
+    },
+    "cloze": {
+      "template": "Pick {{cloze}} your favorite dress.",
+      "answer": "pick out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_097",
+    "lemma": "point out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "göstermek"
+    ],
+    "synonyms": [
+      "indicate",
+      "draw attention to"
+    ],
+    "example": {
+      "text": "Let me point out the error.",
+      "translation": "Hatayı göstermeme izin ver."
+    },
+    "cloze": {
+      "template": "Let me {{cloze}} the error.",
+      "answer": "point out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_098",
+    "lemma": "pull through",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "atlatmak"
+    ],
+    "synonyms": [
+      "survive",
+      "recover"
+    ],
+    "example": {
+      "text": "She pulled through the crisis.",
+      "translation": "Krizin üstesinden geldi."
+    },
+    "cloze": {
+      "template": "She {{cloze}}ed through the crisis.",
+      "answer": "pull through"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_099",
+    "lemma": "put off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ertelemek"
+    ],
+    "synonyms": [
+      "postpone",
+      "delay"
+    ],
+    "example": {
+      "text": "Don't put off until tomorrow.",
+      "translation": "Yarına ertelemeyin."
+    },
+    "cloze": {
+      "template": "Don't {{cloze}} until tomorrow.",
+      "answer": "put off"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_100",
+    "lemma": "put on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "giymek"
+    ],
+    "synonyms": [
+      "dress in",
+      "activate"
+    ],
+    "example": {
+      "text": "Put on your coat.",
+      "translation": "Paltonu giy."
+    },
+    "cloze": {
+      "template": "Put {{cloze}} your coat.",
+      "answer": "put on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_101",
+    "lemma": "put out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "söndürmek"
+    ],
+    "synonyms": [
+      "extinguish",
+      "publish"
+    ],
+    "example": {
+      "text": "Put out the cigarette.",
+      "translation": "Sigarayı söndür."
+    },
+    "cloze": {
+      "template": "Put {{cloze}} the cigarette.",
+      "answer": "put out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_102",
+    "lemma": "put up with",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "katlanmak"
+    ],
+    "synonyms": [
+      "tolerate",
+      "endure"
+    ],
+    "example": {
+      "text": "I can't put up with this noise.",
+      "translation": "Bu gürültüye katlanamam."
+    },
+    "cloze": {
+      "template": "I can't {{cloze}} this noise.",
+      "answer": "put up with"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_103",
+    "lemma": "run into",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "rastlamak"
+    ],
+    "synonyms": [
+      "meet by chance",
+      "encounter"
+    ],
+    "example": {
+      "text": "I ran into an old friend.",
+      "translation": "Eski bir arkadaşıma rastladım."
+    },
+    "cloze": {
+      "template": "I ran {{cloze}} an old friend.",
+      "answer": "run into"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_104",
+    "lemma": "run out of",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "bitmek"
+    ],
+    "synonyms": [
+      "exhaust",
+      "use up"
+    ],
+    "example": {
+      "text": "We ran out of milk.",
+      "translation": "Sütümüz bitti."
+    },
+    "cloze": {
+      "template": "We ran {{cloze}} of milk.",
+      "answer": "run out of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_105",
+    "lemma": "set up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kurmak"
+    ],
+    "synonyms": [
+      "establish",
+      "arrange"
+    ],
+    "example": {
+      "text": "Let's set up a meeting.",
+      "translation": "Bir toplantı kuralım."
+    },
+    "cloze": {
+      "template": "Let's {{cloze}} a meeting.",
+      "answer": "set up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_106",
+    "lemma": "settle down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yerleşmek"
+    ],
+    "synonyms": [
+      "establish residence",
+      "calm down"
+    ],
+    "example": {
+      "text": "I want to settle down in a quiet place.",
+      "translation": "Sessiz bir yerde yerleşmek istiyorum."
+    },
+    "cloze": {
+      "template": "I want to {{cloze}} in a quiet place.",
+      "answer": "settle down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_107",
+    "lemma": "show off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "gösteriş yapmak"
+    ],
+    "synonyms": [
+      "display",
+      "boast"
+    ],
+    "example": {
+      "text": "He likes to show off his wealth.",
+      "translation": "Zenginliğini göstermeyi sever."
+    },
+    "cloze": {
+      "template": "He likes to {{cloze}} his wealth.",
+      "answer": "show off"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_108",
+    "lemma": "shut up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "susmak"
+    ],
+    "synonyms": [
+      "be quiet",
+      "close"
+    ],
+    "example": {
+      "text": "Shut up and listen!",
+      "translation": "Sus ve dinle!"
+    },
+    "cloze": {
+      "template": "Shut {{cloze}} and listen!",
+      "answer": "shut up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_109",
+    "lemma": "slow down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yavaşlamak"
+    ],
+    "synonyms": [
+      "decelerate",
+      "reduce speed"
+    ],
+    "example": {
+      "text": "Slow down, you're driving too fast!",
+      "translation": "Yavaşla, çok hızlı sürüyorsun!"
+    },
+    "cloze": {
+      "template": "Slow {{cloze}}, you're driving too fast!",
+      "answer": "slow down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_110",
+    "lemma": "stand for",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "temsil etmek"
+    ],
+    "synonyms": [
+      "represent",
+      "mean"
+    ],
+    "example": {
+      "text": "What does NATO stand for?",
+      "translation": "NATO neyi temsil eder?"
+    },
+    "cloze": {
+      "template": "What does NATO {{cloze}}?",
+      "answer": "stand for"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_111",
+    "lemma": "stand out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ön plana çıkmak"
+    ],
+    "synonyms": [
+      "be noticeable",
+      "excel"
+    ],
+    "example": {
+      "text": "Her red hair makes her stand out.",
+      "translation": "Kırmızı saçları onu öne çıkarıyor."
+    },
+    "cloze": {
+      "template": "Her red hair makes her {{cloze}}.",
+      "answer": "stand out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_112",
+    "lemma": "take after",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "benzemek"
+    ],
+    "synonyms": [
+      "resemble",
+      "look like"
+    ],
+    "example": {
+      "text": "She takes after her mother.",
+      "translation": "O annesine benziyor."
+    },
+    "cloze": {
+      "template": "She {{cloze}}s after her mother.",
+      "answer": "take after"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_113",
+    "lemma": "take back",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "geri almak"
+    ],
+    "synonyms": [
+      "return",
+      "retract"
+    ],
+    "example": {
+      "text": "I take back what I said.",
+      "translation": "Söylediklerimi geri alıyorum."
+    },
+    "cloze": {
+      "template": "I {{cloze}} what I said.",
+      "answer": "take back"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_114",
+    "lemma": "take down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "not etmek"
+    ],
+    "synonyms": [
+      "write down",
+      "demolish"
+    ],
+    "example": {
+      "text": "Let me take down your information.",
+      "translation": "Bilgilerini not edeyim."
+    },
+    "cloze": {
+      "template": "Let me {{cloze}} your information.",
+      "answer": "take down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_115",
+    "lemma": "take off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kalkmak"
+    ],
+    "synonyms": [
+      "depart",
+      "remove"
+    ],
+    "example": {
+      "text": "The plane took off on time.",
+      "translation": "Uçak zamanında kalktı."
+    },
+    "cloze": {
+      "template": "The plane took {{cloze}} on time.",
+      "answer": "take off"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_116",
+    "lemma": "take over",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "devralmak"
+    ],
+    "synonyms": [
+      "assume control",
+      "acquire"
+    ],
+    "example": {
+      "text": "The new manager took over yesterday.",
+      "translation": "Yeni müdür dün devraldı."
+    },
+    "cloze": {
+      "template": "The new manager took {{cloze}} yesterday.",
+      "answer": "take over"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_117",
+    "lemma": "talk into",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "ikna etmek"
+    ],
+    "synonyms": [
+      "persuade"
+    ],
+    "example": {
+      "text": "She talked me into joining the gym.",
+      "translation": "Beni spor salonuna katılmaya ikna etti."
+    },
+    "cloze": {
+      "template": "She {{cloze}}ed me into joining the gym.",
+      "answer": "talk into"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_118",
+    "lemma": "talk out of",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "vazgeçirmek"
+    ],
+    "synonyms": [
+      "dissuade"
+    ],
+    "example": {
+      "text": "He talked me out of buying that car.",
+      "translation": "Beni o arabayı almaktan vazgeçirdi."
+    },
+    "cloze": {
+      "template": "He {{cloze}}ed me out of buying that car.",
+      "answer": "talk out of"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_119",
+    "lemma": "tell off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "azarlamak"
+    ],
+    "synonyms": [
+      "scold",
+      "reprimand"
+    ],
+    "example": {
+      "text": "The teacher told him off for being late.",
+      "translation": "Öğretmen geç kaldığı için onu azarladı."
+    },
+    "cloze": {
+      "template": "The teacher told him {{cloze}} for being late.",
+      "answer": "tell off"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_120",
+    "lemma": "think over",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "düşünmek"
+    ],
+    "synonyms": [
+      "consider",
+      "contemplate"
+    ],
+    "example": {
+      "text": "I need time to think it over.",
+      "translation": "Bunu düşünmek için zamana ihtiyacım var."
+    },
+    "cloze": {
+      "template": "I need time to {{cloze}} it over.",
+      "answer": "think over"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_121",
+    "lemma": "throw away",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "atmak"
+    ],
+    "synonyms": [
+      "discard",
+      "dispose of"
+    ],
+    "example": {
+      "text": "Don't throw away that opportunity.",
+      "translation": "O fırsatı atma."
+    },
+    "cloze": {
+      "template": "Don't {{cloze}} that opportunity.",
+      "answer": "throw away"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_122",
+    "lemma": "try on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "denemek"
+    ],
+    "synonyms": [
+      "test clothing"
+    ],
+    "example": {
+      "text": "Can I try on this dress?",
+      "translation": "Bu elbiseyi deneyebilir miyim?"
+    },
+    "cloze": {
+      "template": "Can I {{cloze}} this dress?",
+      "answer": "try on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_123",
+    "lemma": "turn down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "reddetmek"
+    ],
+    "synonyms": [
+      "reject",
+      "refuse"
+    ],
+    "example": {
+      "text": "They turned down my offer.",
+      "translation": "Teklifimi reddettiler."
+    },
+    "cloze": {
+      "template": "They {{cloze}}ed down my offer.",
+      "answer": "turn down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_124",
+    "lemma": "turn into",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "dönüşmek"
+    ],
+    "synonyms": [
+      "become",
+      "transform"
+    ],
+    "example": {
+      "text": "The caterpillar turned into a butterfly.",
+      "translation": "Tırtıl kelebeğe dönüştü."
+    },
+    "cloze": {
+      "template": "The caterpillar {{cloze}}ed into a butterfly.",
+      "answer": "turn into"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_125",
+    "lemma": "turn off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "kapatmak"
+    ],
+    "synonyms": [
+      "switch off",
+      "stop"
+    ],
+    "example": {
+      "text": "Turn off the lights.",
+      "translation": "Işıkları kapat."
+    },
+    "cloze": {
+      "template": "Turn {{cloze}} the lights.",
+      "answer": "turn off"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_126",
+    "lemma": "turn on",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "açmak"
+    ],
+    "synonyms": [
+      "switch on",
+      "activate"
+    ],
+    "example": {
+      "text": "Turn on the TV.",
+      "translation": "Televizyonu aç."
+    },
+    "cloze": {
+      "template": "Turn {{cloze}} the TV.",
+      "answer": "turn on"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_127",
+    "lemma": "use up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "tüketmek"
+    ],
+    "synonyms": [
+      "consume completely",
+      "exhaust"
+    ],
+    "example": {
+      "text": "We used up all the supplies.",
+      "translation": "Tüm malzemeleri tükettik."
+    },
+    "cloze": {
+      "template": "We {{cloze}}d up all the supplies.",
+      "answer": "use up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_128",
+    "lemma": "watch out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "dikkat etmek"
+    ],
+    "synonyms": [
+      "be careful",
+      "look out"
+    ],
+    "example": {
+      "text": "Watch out for the dog!",
+      "translation": "Köpeğe dikkat et!"
+    },
+    "cloze": {
+      "template": "Watch {{cloze}} for the dog!",
+      "answer": "watch out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_129",
+    "lemma": "wear off",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "geçmek"
+    ],
+    "synonyms": [
+      "diminish",
+      "disappear"
+    ],
+    "example": {
+      "text": "The pain will wear off soon.",
+      "translation": "Ağrı yakında geçecek."
+    },
+    "cloze": {
+      "template": "The pain will {{cloze}} soon.",
+      "answer": "wear off"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_130",
+    "lemma": "wear out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yıpranmak"
+    ],
+    "synonyms": [
+      "become unusable",
+      "tire"
+    ],
+    "example": {
+      "text": "These shoes are worn out.",
+      "translation": "Bu ayakkabılar yıpranmış."
+    },
+    "cloze": {
+      "template": "These shoes are worn {{cloze}}.",
+      "answer": "wear out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_131",
+    "lemma": "wind up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "sonuçlanmak"
+    ],
+    "synonyms": [
+      "end",
+      "finish"
+    ],
+    "example": {
+      "text": "We wound up leaving early.",
+      "translation": "Erken ayrıldık."
+    },
+    "cloze": {
+      "template": "We wound {{cloze}} leaving early.",
+      "answer": "wind up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_132",
+    "lemma": "work out",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "çalışmak"
+    ],
+    "synonyms": [
+      "exercise",
+      "solve"
+    ],
+    "example": {
+      "text": "I work out at the gym.",
+      "translation": "Spor salonunda çalışıyorum."
+    },
+    "cloze": {
+      "template": "I {{cloze}} at the gym.",
+      "answer": "work out"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_133",
+    "lemma": "write down",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yazmak"
+    ],
+    "synonyms": [
+      "record",
+      "note"
+    ],
+    "example": {
+      "text": "Write down this address.",
+      "translation": "Bu adresi yaz."
+    },
+    "cloze": {
+      "template": "Write {{cloze}} this address.",
+      "answer": "write down"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
+  },
+  {
+    "id": "pv_134",
+    "lemma": "write up",
+    "pos": "phrasal_verb",
+    "multiWord": true,
+    "meanings": [
+      "yazmak"
+    ],
+    "synonyms": [
+      "prepare a report"
+    ],
+    "example": {
+      "text": "I need to write up the meeting notes.",
+      "translation": "Toplantı notlarını yazmam gerekiyor."
+    },
+    "cloze": {
+      "template": "I need to {{cloze}} the meeting notes.",
+      "answer": "write up"
+    },
+    "easeFactor": 2.5,
+    "intervalDays": 0,
+    "dueDate": "2026-02-16T00:00:00.000000",
+    "repetitions": 0,
+    "lastReviewed": null
   }
 ]

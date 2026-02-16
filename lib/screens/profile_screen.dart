@@ -5,6 +5,7 @@ import '../core/result.dart';
 import '../models/card.dart';
 import '../repositories/card_repository.dart';
 import '../services/streak_service.dart';
+import '../theme/app_theme.dart';
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({super.key});
@@ -62,6 +63,10 @@ class _ProfileScreenState extends State<ProfileScreen> {
           IconButton(
             icon: const Icon(Icons.refresh),
             onPressed: () => setState(() => _loadData()),
+            style: IconButton.styleFrom(
+              minimumSize: const Size(AppTheme.minInteractiveDimension, AppTheme.minInteractiveDimension),
+              padding: const EdgeInsets.all(12),
+            ),
           ),
         ],
       ),
@@ -361,12 +366,15 @@ class _ProfileScreenState extends State<ProfileScreen> {
       expanded: 30.0,
     );
     final labelFont = context.responsive(
-      compact: 11.0,
+      compact: 12.0, // Fixed: was 11.0, now minimum readable
       medium: 12.0,
       expanded: 14.0,
     );
 
     return Container(
+      constraints: const BoxConstraints(
+        minHeight: AppTheme.minInteractiveDimension,
+      ),
       padding: EdgeInsets.symmetric(
         vertical: context.responsive(
           compact: 12.0,
@@ -381,6 +389,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
         border: Border.all(color: color.withValues(alpha: 0.3)),
       ),
       child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Icon(icon, color: color, size: iconSize),
           const SizedBox(height: 8),
@@ -425,8 +434,8 @@ class _ProfileScreenState extends State<ProfileScreen> {
       expanded: 20.0,
     );
     final dayLabelFont = context.responsive(
-      compact: 10.0,
-      medium: 11.0,
+      compact: 12.0, // Fixed: was 10.0, now minimum readable
+      medium: 12.0, // Fixed: was 11.0, now minimum readable
       expanded: 13.0,
     );
 
