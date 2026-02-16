@@ -1,8 +1,11 @@
 import 'package:flutter_test/flutter_test.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'package:yds_vibe_app/models/card.dart';
 import 'package:yds_vibe_app/services/srs_service.dart';
 
 void main() {
+  // Initialize SharedPreferences mock
+  SharedPreferences.setMockInitialValues({});
   TestWidgetsFlutterBinding.ensureInitialized();
   // Mock SharedPreferences for StreakService
   try {
