@@ -16,7 +16,7 @@ class TtsService {
   Future<void> _ensureInitialized() async {
     if (_isInitialized) return;
     await _flutterTts.setLanguage("en-US");
-    await _flutterTts.setSpeechRate(0.5);
+    await _flutterTts.setSpeechRate(0.575); // 0.5 * 1.15 = 0.575 (15% faster)
     await _flutterTts.setVolume(1.0);
     await _flutterTts.setPitch(1.0);
     _isInitialized = true;
